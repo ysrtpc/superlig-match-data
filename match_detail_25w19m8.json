@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  11,
+                  "shotsAway":  13,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  5,
+                  "foulsHome":  10,
+                  "foulsAway":  10,
+                  "cornersHome":  5,
+                  "cornersAway":  6,
+                  "offsidesHome":  3,
+                  "offsidesAway":  1
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Livakovic",
+                                           "M. MÃ¼ldÃ¼r",
+                                           "A. Djiku",
+                                           "C. SÃ¶yÃ¼ncÃ¼",
+                                           "J. Oosterwolde",
+                                           "S. Amrabat",
+                                           "Fred",
+                                           "S. Szymanski",
+                                           "D. Tadic",
+                                           "A. Saint-Maximin",
+                                           "Y. En-Nesyri"
+                                       ],
+                        "substitutes":  [
+                                            "I. EÄŸribayat",
+                                            "R. Becao",
+                                            "S. AkaydÄ±n",
+                                            "B. Elmaz",
+                                            "M. YandaÅŸ",
+                                            "I. Kahveci",
+                                            "C. Ãœnder",
+                                            "C. Tosun",
+                                            "E. Dzeko"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. BaliÄ‡",
+                                           "T. KaÃ§e",
+                                           "B. Zec",
+                                           "P. KadeÅ™Ã¡bek",
+                                           "I. Fernandes",
+                                           "P. Kalulu",
+                                           "A. HaliloviÄ‡",
+                                           "I. Strandberg",
+                                           "O. Bulut",
+                                           "F. Ghisolfi",
+                                           "J. Lemos"
+                                       ],
+                        "substitutes":  [
+                                            "M. Germen",
+                                            "E. Sousa",
+                                            "A. KaÃ§e",
+                                            "O. TarÄ±",
+                                            "S. Sow",
+                                            "G. Pepe",
+                                            "E. ErdoÄŸan",
+                                            "B. Bal",
+                                            "C. BÄ±Ã§akcÄ±"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

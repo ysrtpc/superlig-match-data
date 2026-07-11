@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  11,
+                  "shotsAway":  12,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  5,
+                  "foulsHome":  9,
+                  "foulsAway":  14,
+                  "cornersHome":  8,
+                  "cornersAway":  6,
+                  "offsidesHome":  1,
+                  "offsidesAway":  3
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Livakovic",
+                                           "M. MÃ¼ldÃ¼r",
+                                           "A. Djiku",
+                                           "C. SÃ¶yÃ¼ncÃ¼",
+                                           "J. Oosterwolde",
+                                           "S. Amrabat",
+                                           "Fred",
+                                           "S. Szymanski",
+                                           "D. Tadic",
+                                           "A. Saint-Maximin",
+                                           "Y. En-Nesyri"
+                                       ],
+                        "substitutes":  [
+                                            "I. EÄŸribayat",
+                                            "R. Becao",
+                                            "S. AkaydÄ±n",
+                                            "B. Elmaz",
+                                            "M. YandaÅŸ",
+                                            "I. Kahveci",
+                                            "C. Ãœnder",
+                                            "C. Tosun",
+                                            "E. Dzeko"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "F. Muslera",
+                                           "E. Jelert",
+                                           "V. Nelsson",
+                                           "D. Sanchez",
+                                           "I. Jakobs",
+                                           "L. Torreira",
+                                           "G. Sara",
+                                           "D. Mertens",
+                                           "Y. AkgÃ¼n",
+                                           "B. YÄ±lmaz",
+                                           "V. Osimhen"
+                                       ],
+                        "substitutes":  [
+                                            "G. GÃ¼venÃ§",
+                                            "K. Ayhan",
+                                            "M. BaltacÄ±",
+                                            "B. Kutlu",
+                                            "K. Demirbay",
+                                            "M. Batshuayi",
+                                            "Y. Demir",
+                                            "R. Sallai",
+                                            "H. DerviÅŸoÄŸlu"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

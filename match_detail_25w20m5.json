@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  54,
+                  "possessionAway":  46,
+                  "shotsHome":  14,
+                  "shotsAway":  14,
+                  "shotsOnTargetHome":  6,
+                  "shotsOnTargetAway":  6,
+                  "foulsHome":  14,
+                  "foulsAway":  10,
+                  "cornersHome":  3,
+                  "cornersAway":  5,
+                  "offsidesHome":  3,
+                  "offsidesAway":  2
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "M. GÃ¼nok",
+                                           "J. Svensson",
+                                           "G. Paulista",
+                                           "F. Uduokhai",
+                                           "A. Masuaku",
+                                           "Al-Musrati",
+                                           "G. Fernandes",
+                                           "R. Silva",
+                                           "M. Rashica",
+                                           "E. MuÃ§i",
+                                           "C. Immobile"
+                                       ],
+                        "substitutes":  [
+                                            "E. DestanoÄŸlu",
+                                            "T. Talha",
+                                            "O. Bulut",
+                                            "C. Ndour",
+                                            "S. UÃ§an",
+                                            "J. MÃ¡rio",
+                                            "S. KÄ±lÄ±Ã§soy",
+                                            "C. KeleÅŸ",
+                                            "M. HekimoÄŸlu"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. UÄŸurcan",
+                                           "N. Matic",
+                                           "R. Ngoy",
+                                           "J. Mendes",
+                                           "A. Kutlu",
+                                           "I. Diouf",
+                                           "M. Ã–zbek",
+                                           "G. Akay",
+                                           "K. Lawal",
+                                           "H. Onyekuru",
+                                           "B. Mensah"
+                                       ],
+                        "substitutes":  [
+                                            "F. GÃ¼rer",
+                                            "E. Ã–zbek",
+                                            "M. Sefa",
+                                            "A. KÄ±lÄ±Ã§",
+                                            "E. SÃ¶nmez",
+                                            "D. Osei",
+                                            "O. Durosinmi",
+                                            "K. YÄ±ldÄ±z",
+                                            "L. Osei"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

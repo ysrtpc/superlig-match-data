@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  42,
+                  "possessionAway":  58,
+                  "shotsHome":  9,
+                  "shotsAway":  14,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  6,
+                  "foulsHome":  11,
+                  "foulsAway":  8,
+                  "cornersHome":  3,
+                  "cornersAway":  8,
+                  "offsidesHome":  1,
+                  "offsidesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Ã‡iÃ§ek",
+                                           "E. Sosa",
+                                           "V. Milosevic",
+                                           "J. Larsson",
+                                           "J. Grujic",
+                                           "M. Villalba",
+                                           "A. YÄ±ldÄ±z",
+                                           "J. Tavares",
+                                           "C. TrincÃ£o",
+                                           "K. Mahi",
+                                           "L. Djordjevic"
+                                       ],
+                        "substitutes":  [
+                                            "B. Uslu",
+                                            "M. Tosic",
+                                            "T. AydÄ±n",
+                                            "E. Demirci",
+                                            "M. YÄ±lmaz",
+                                            "C. Erkan",
+                                            "S. Ã‡alÄ±k",
+                                            "K. Ekici",
+                                            "O. Maloku"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Stankovic",
+                                           "A. Frimpong",
+                                           "E. Vural",
+                                           "D. Mitrovic",
+                                           "H. KÃ¶se",
+                                           "T. MalatyalÄ±",
+                                           "Y. YazÄ±cÄ±",
+                                           "B. YÄ±ldÄ±z",
+                                           "O. Sahiner",
+                                           "R. Boupendza",
+                                           "A. GÃ¼ler"
+                                       ],
+                        "substitutes":  [
+                                            "B. Tezcan",
+                                            "M. KoÃ§",
+                                            "F. GÃ¼neÅŸ",
+                                            "C. CoÅŸkun",
+                                            "M. ÃœstÃ¼ndaÄŸ",
+                                            "K. KÃ¼Ã§Ã¼k",
+                                            "E. Karadeniz",
+                                            "Y. Demirci",
+                                            "R. Ã‡elik"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
