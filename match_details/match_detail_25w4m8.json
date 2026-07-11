@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  10,
+                  "shotsAway":  11,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  4,
+                  "foulsHome":  12,
+                  "foulsAway":  13,
+                  "cornersHome":  8,
+                  "cornersAway":  7,
+                  "offsidesHome":  1,
+                  "offsidesAway":  3
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "U. Ã‡akÄ±r",
+                                           "P. Malheiro",
+                                           "S. Savic",
+                                           "S. Denswil",
+                                           "B. Barisic",
+                                           "B. Mendy",
+                                           "O. YokuÅŸlu",
+                                           "E. Visca",
+                                           "E. Cham",
+                                           "M. Orsic",
+                                           "S. Banza"
+                                       ],
+                        "substitutes":  [
+                                            "T. Tepe",
+                                            "R. Baniya",
+                                            "A. Batagov",
+                                            "J. Lundstram",
+                                            "O. Tufan",
+                                            "C. Ã‡anak",
+                                            "D. Dragus",
+                                            "U. Nayir",
+                                            "E. Destan"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Ã‡iÃ§ek",
+                                           "E. Sosa",
+                                           "V. Milosevic",
+                                           "J. Larsson",
+                                           "J. Grujic",
+                                           "M. Villalba",
+                                           "A. YÄ±ldÄ±z",
+                                           "J. Tavares",
+                                           "C. TrincÃ£o",
+                                           "K. Mahi",
+                                           "L. Djordjevic"
+                                       ],
+                        "substitutes":  [
+                                            "B. Uslu",
+                                            "M. Tosic",
+                                            "T. AydÄ±n",
+                                            "E. Demirci",
+                                            "M. YÄ±lmaz",
+                                            "C. Erkan",
+                                            "S. Ã‡alÄ±k",
+                                            "K. Ekici",
+                                            "O. Maloku"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

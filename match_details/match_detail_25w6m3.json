@@ -1,0 +1,67 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  12,
+                  "shotsAway":  12,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  5,
+                  "foulsHome":  16,
+                  "foulsAway":  10,
+                  "cornersHome":  8,
+                  "cornersAway":  2,
+                  "offsidesHome":  2,
+                  "offsidesAway":  1
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "K. Portero",
+                                           "B. Defans1",
+                                           "C. Defans2",
+                                           "D. Defans3",
+                                           "E. Defans4",
+                                           "F. Orta1",
+                                           "G. Orta2",
+                                           "H. Orta3",
+                                           "I. Kanat1",
+                                           "J. Kanat2",
+                                           "K. Forvet"
+                                       ],
+                        "substitutes":  [
+                                            "L. Yedek1",
+                                            "M. Yedek2",
+                                            "N. Yedek3",
+                                            "O. Yedek4",
+                                            "P. Yedek5",
+                                            "R. Yedek6",
+                                            "S. Yedek7"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "K. Portero",
+                                           "B. Defans1",
+                                           "C. Defans2",
+                                           "D. Defans3",
+                                           "E. Defans4",
+                                           "F. Orta1",
+                                           "G. Orta2",
+                                           "H. Orta3",
+                                           "I. Kanat1",
+                                           "J. Kanat2",
+                                           "K. Forvet"
+                                       ],
+                        "substitutes":  [
+                                            "L. Yedek1",
+                                            "M. Yedek2",
+                                            "N. Yedek3",
+                                            "O. Yedek4",
+                                            "P. Yedek5",
+                                            "R. Yedek6",
+                                            "S. Yedek7"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

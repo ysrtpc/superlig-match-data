@@ -1,0 +1,71 @@
+﻿{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  12,
+                  "shotsAway":  13,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  5,
+                  "foulsHome":  16,
+                  "foulsAway":  8,
+                  "cornersHome":  8,
+                  "cornersAway":  5,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "F. Muslera",
+                                           "E. Jelert",
+                                           "V. Nelsson",
+                                           "D. Sanchez",
+                                           "I. Jakobs",
+                                           "L. Torreira",
+                                           "G. Sara",
+                                           "D. Mertens",
+                                           "Y. AkgÃ¼n",
+                                           "B. YÄ±lmaz",
+                                           "V. Osimhen"
+                                       ],
+                        "substitutes":  [
+                                            "G. GÃ¼venÃ§",
+                                            "K. Ayhan",
+                                            "M. BaltacÄ±",
+                                            "B. Kutlu",
+                                            "K. Demirbay",
+                                            "M. Batshuayi",
+                                            "Y. Demir",
+                                            "R. Sallai",
+                                            "H. DerviÅŸoÄŸlu"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. GÃ¼nok",
+                                           "J. Svensson",
+                                           "G. Paulista",
+                                           "F. Uduokhai",
+                                           "A. Masuaku",
+                                           "Al-Musrati",
+                                           "G. Fernandes",
+                                           "R. Silva",
+                                           "M. Rashica",
+                                           "E. MuÃ§i",
+                                           "C. Immobile"
+                                       ],
+                        "substitutes":  [
+                                            "E. DestanoÄŸlu",
+                                            "T. Talha",
+                                            "O. Bulut",
+                                            "C. Ndour",
+                                            "S. UÃ§an",
+                                            "J. MÃ¡rio",
+                                            "S. KÄ±lÄ±Ã§soy",
+                                            "C. KeleÅŸ",
+                                            "M. HekimoÄŸlu"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
