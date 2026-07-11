@@ -1,0 +1,51 @@
+{
+  "topScorers": [
+    {"id": "25p1", "name": "E. Shomurodov", "teamId": "bsk", "goals": 22, "assists": 4, "matches": 31, "position": "Forvet"},
+    {"id": "25p2", "name": "P. Onuachu", "teamId": "ts", "goals": 22, "assists": 3, "matches": 30, "position": "Forvet"},
+    {"id": "25p3", "name": "A. Talisca", "teamId": "fb", "goals": 19, "assists": 5, "matches": 28, "position": "Orta Saha"},
+    {"id": "25p4", "name": "M. Bayo", "teamId": "gfk", "goals": 15, "assists": 2, "matches": 32, "position": "Forvet"},
+    {"id": "25p5", "name": "V. Osimhen", "teamId": "gs", "goals": 15, "assists": 4, "matches": 22, "position": "Forvet"},
+    {"id": "25p6", "name": "M. Icardi", "teamId": "gs", "goals": 14, "assists": 6, "matches": 29, "position": "Forvet"},
+    {"id": "25p7", "name": "F. Augusto", "teamId": "ts", "goals": 13, "assists": 2, "matches": 31, "position": "Forvet"},
+    {"id": "25p8", "name": "E. Muçi", "teamId": "ts", "goals": 11, "assists": 3, "matches": 28, "position": "Orta Saha"},
+    {"id": "25p9", "name": "Juan", "teamId": "goz", "goals": 11, "assists": 4, "matches": 30, "position": "Forvet"},
+    {"id": "25p10", "name": "M. Asensio", "teamId": "fb", "goals": 11, "assists": 8, "matches": 29, "position": "Kanat"},
+    {"id": "25p11", "name": "A. Benedyczak", "teamId": "kas", "goals": 10, "assists": 1, "matches": 32, "position": "Forvet"},
+    {"id": "25p12", "name": "D. Nene", "teamId": "fb", "goals": 10, "assists": 3, "matches": 27, "position": "Kanat"},
+    {"id": "25p13", "name": "D. Selke", "teamId": "bsk", "goals": 10, "assists": 2, "matches": 28, "position": "Forvet"},
+    {"id": "25p14", "name": "M. Mouandilmadji", "teamId": "sam", "goals": 10, "assists": 1, "matches": 30, "position": "Forvet"},
+    {"id": "25p15", "name": "Umut Nayir", "teamId": "ts", "goals": 9, "assists": 2, "matches": 29, "position": "Forvet"}
+  ],
+  "topAssists": [
+    {"id": "25a1", "name": "Marco Asensio", "teamId": "fb", "goals": 8, "assists": 12, "matches": 29, "position": "Kanat"},
+    {"id": "25a2", "name": "Barış Alper Yılmaz", "teamId": "gs", "goals": 7, "assists": 11, "matches": 32, "position": "Kanat"},
+    {"id": "25a3", "name": "Yunus Akgün", "teamId": "gs", "goals": 6, "assists": 9, "matches": 30, "position": "Kanat"},
+    {"id": "25a4", "name": "Qazim Laçi", "teamId": "rize", "goals": 5, "assists": 9, "matches": 33, "position": "Orta Saha"},
+    {"id": "25a5", "name": "Florent Hadergjonaj", "teamId": "ala", "goals": 2, "assists": 9, "matches": 34, "position": "Bek"},
+    {"id": "25a6", "name": "Orkun Kökcü", "teamId": "bjk", "goals": 4, "assists": 8, "matches": 31, "position": "Orta Saha"},
+    {"id": "25a7", "name": "Vaclav Cerny", "teamId": "bjk", "goals": 5, "assists": 8, "matches": 30, "position": "Kanat"},
+    {"id": "25a8", "name": "Alexandru Maxim", "teamId": "gfk", "goals": 3, "assists": 7, "matches": 32, "position": "Orta Saha"},
+    {"id": "25a9", "name": "Wagner Pina", "teamId": "ts", "goals": 2, "assists": 7, "matches": 29, "position": "Bek"},
+    {"id": "25a10", "name": "Oleksandr Zubkov", "teamId": "ts", "goals": 4, "assists": 7, "matches": 28, "position": "Kanat"}
+  ],
+  "teamStats": [
+    {"teamId": "gfk", "yellowCards": 94, "redCards": 5, "penaltiesWon": 5, "penaltiesTotal": 7, "goalsScored": 45, "goalsConceded": 48, "npxg": 39.5},
+    {"teamId": "kas", "yellowCards": 83, "redCards": 7, "penaltiesWon": 4, "penaltiesTotal": 5, "goalsScored": 48, "goalsConceded": 50, "npxg": 27.4},
+    {"teamId": "ant", "yellowCards": 82, "redCards": 2, "penaltiesWon": 0, "penaltiesTotal": 0, "goalsScored": 42, "goalsConceded": 44, "npxg": 27.6},
+    {"teamId": "fb", "yellowCards": 82, "redCards": 2, "penaltiesWon": 6, "penaltiesTotal": 9, "goalsScored": 77, "goalsConceded": 37, "npxg": 59.5},
+    {"teamId": "kys", "yellowCards": 82, "redCards": 3, "penaltiesWon": 0, "penaltiesTotal": 1, "goalsScored": 40, "goalsConceded": 45, "npxg": 37.1},
+    {"teamId": "kon", "yellowCards": 82, "redCards": 3, "penaltiesWon": 5, "penaltiesTotal": 5, "goalsScored": 38, "goalsConceded": 42, "npxg": 41.3},
+    {"teamId": "goz", "yellowCards": 81, "redCards": 5, "penaltiesWon": 3, "penaltiesTotal": 6, "goalsScored": 44, "goalsConceded": 46, "npxg": 44.4},
+    {"teamId": "ala", "yellowCards": 80, "redCards": 1, "penaltiesWon": 5, "penaltiesTotal": 5, "goalsScored": 41, "goalsConceded": 43, "npxg": 31.9},
+    {"teamId": "rize", "yellowCards": 78, "redCards": 3, "penaltiesWon": 3, "penaltiesTotal": 3, "goalsScored": 43, "goalsConceded": 47, "npxg": 45.6},
+    {"teamId": "koc", "yellowCards": 78, "redCards": 3, "penaltiesWon": 4, "penaltiesTotal": 4, "goalsScored": 39, "goalsConceded": 45, "npxg": 28.8},
+    {"teamId": "eyup", "yellowCards": 76, "redCards": 4, "penaltiesWon": 4, "penaltiesTotal": 4, "goalsScored": 46, "goalsConceded": 44, "npxg": 33.0},
+    {"teamId": "bjk", "yellowCards": 75, "redCards": 4, "penaltiesWon": 6, "penaltiesTotal": 8, "goalsScored": 59, "goalsConceded": 40, "npxg": 58.4},
+    {"teamId": "sam", "yellowCards": 75, "redCards": 2, "penaltiesWon": 2, "penaltiesTotal": 3, "goalsScored": 47, "goalsConceded": 43, "npxg": 42.5},
+    {"teamId": "bsk", "yellowCards": 68, "redCards": 4, "penaltiesWon": 6, "penaltiesTotal": 6, "goalsScored": 52, "goalsConceded": 42, "npxg": 50.8},
+    {"teamId": "gcl", "yellowCards": 66, "redCards": 6, "penaltiesWon": 4, "penaltiesTotal": 6, "goalsScored": 35, "goalsConceded": 48, "npxg": 31.7},
+    {"teamId": "gs", "yellowCards": 64, "redCards": 5, "penaltiesWon": 6, "penaltiesTotal": 6, "goalsScored": 77, "goalsConceded": 30, "npxg": 66.1},
+    {"teamId": "fkg", "yellowCards": 57, "redCards": 3, "penaltiesWon": 2, "penaltiesTotal": 3, "goalsScored": 38, "goalsConceded": 52, "npxg": 32.6},
+    {"teamId": "ts", "yellowCards": 54, "redCards": 4, "penaltiesWon": 8, "penaltiesTotal": 9, "goalsScored": 61, "goalsConceded": 39, "npxg": 44.2}
+  ]
+}

@@ -1,0 +1,3062 @@
+[
+    {
+        "id":  "25w1m1",
+        "week":  1,
+        "home":  "gfk",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "8 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w1m2",
+        "week":  1,
+        "home":  "sam",
+        "away":  "gcl",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "9 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w1m3",
+        "week":  1,
+        "home":  "ant",
+        "away":  "kas",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "9 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w1m4",
+        "week":  1,
+        "home":  "rize",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "10 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w1m5",
+        "week":  1,
+        "home":  "eyup",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  4,
+        "date":  "10 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w1m6",
+        "week":  1,
+        "home":  "ts",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "11 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w1m7",
+        "week":  1,
+        "home":  "fkg",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "17 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w1m8",
+        "week":  1,
+        "home":  "fb",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "17 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w1m9",
+        "week":  1,
+        "home":  "kys",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  4,
+        "date":  "24 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w2m1",
+        "week":  2,
+        "home":  "gs",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "15 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w2m2",
+        "week":  2,
+        "home":  "koc",
+        "away":  "sam",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "16 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w2m3",
+        "week":  2,
+        "home":  "ala",
+        "away":  "rize",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "16 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w2m4",
+        "week":  2,
+        "home":  "goz",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "16 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w2m5",
+        "week":  2,
+        "home":  "kon",
+        "away":  "gfk",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "17 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w2m6",
+        "week":  2,
+        "home":  "gcl",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "17 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w2m7",
+        "week":  2,
+        "home":  "bjk",
+        "away":  "eyup",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "17 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w2m8",
+        "week":  2,
+        "home":  "bsk",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "17 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w2m9",
+        "week":  2,
+        "home":  "kas",
+        "away":  "ts",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "18 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w3m1",
+        "week":  3,
+        "home":  "fkg",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "22 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w3m2",
+        "week":  3,
+        "home":  "gfk",
+        "away":  "gcl",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "23 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w3m3",
+        "week":  3,
+        "home":  "fb",
+        "away":  "koc",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "23 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w3m4",
+        "week":  3,
+        "home":  "ts",
+        "away":  "ant",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "24 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w3m5",
+        "week":  3,
+        "home":  "kys",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  4,
+        "date":  "24 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w3m6",
+        "week":  3,
+        "home":  "eyup",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "25 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w3m7",
+        "week":  3,
+        "home":  "sam",
+        "away":  "kas",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "17 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w3m8",
+        "week":  3,
+        "home":  "kon",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "22 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w3m9",
+        "week":  3,
+        "home":  "rize",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "22 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w4m1",
+        "week":  4,
+        "home":  "goz",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "29 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w4m2",
+        "week":  4,
+        "home":  "kas",
+        "away":  "gfk",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "30 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w4m3",
+        "week":  4,
+        "home":  "koc",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "30 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w4m4",
+        "week":  4,
+        "home":  "ant",
+        "away":  "fkg",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "30 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w4m5",
+        "week":  4,
+        "home":  "gs",
+        "away":  "rize",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "30 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w4m6",
+        "week":  4,
+        "home":  "bsk",
+        "away":  "eyup",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "31 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w4m7",
+        "week":  4,
+        "home":  "gcl",
+        "away":  "fb",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "31 AÄŸu 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w4m8",
+        "week":  4,
+        "home":  "ts",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "31 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w4m9",
+        "week":  4,
+        "home":  "ala",
+        "away":  "bjk",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "31 AÄŸu 2025",
+        "time":  "21:30"
+    },
+    {
+        "id":  "25w5m1",
+        "week":  5,
+        "home":  "eyup",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "13 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w5m2",
+        "week":  5,
+        "home":  "sam",
+        "away":  "ant",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "13 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w5m3",
+        "week":  5,
+        "home":  "fkg",
+        "away":  "kas",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "13 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w5m4",
+        "week":  5,
+        "home":  "kon",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "13 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w5m5",
+        "week":  5,
+        "home":  "bjk",
+        "away":  "bsk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "13 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w5m6",
+        "week":  5,
+        "home":  "kys",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "14 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w5m7",
+        "week":  5,
+        "home":  "gfk",
+        "away":  "koc",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "14 Eyl 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w5m8",
+        "week":  5,
+        "home":  "fb",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "14 Eyl 2025",
+        "time":  "19:00"
+    },
+    {
+        "id":  "25w5m9",
+        "week":  5,
+        "home":  "rize",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "15 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m1",
+        "week":  6,
+        "home":  "goz",
+        "away":  "bjk",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "19 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m2",
+        "week":  6,
+        "home":  "gcl",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "20 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w6m3",
+        "week":  6,
+        "home":  "ant",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "20 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m4",
+        "week":  6,
+        "home":  "ts",
+        "away":  "gfk",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "20 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m5",
+        "week":  6,
+        "home":  "bsk",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "21 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w6m6",
+        "week":  6,
+        "home":  "koc",
+        "away":  "rize",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "21 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w6m7",
+        "week":  6,
+        "home":  "kas",
+        "away":  "fb",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "21 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m8",
+        "week":  6,
+        "home":  "sam",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "21 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w6m9",
+        "week":  6,
+        "home":  "gs",
+        "away":  "kon",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "22 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w7m1",
+        "week":  7,
+        "home":  "ala",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "26 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w7m2",
+        "week":  7,
+        "home":  "eyup",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "27 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w7m3",
+        "week":  7,
+        "home":  "gfk",
+        "away":  "sam",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "27 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w7m4",
+        "week":  7,
+        "home":  "fkg",
+        "away":  "ts",
+        "homeScore":  3,
+        "awayScore":  4,
+        "date":  "27 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w7m5",
+        "week":  7,
+        "home":  "kon",
+        "away":  "bsk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "28 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w7m6",
+        "week":  7,
+        "home":  "rize",
+        "away":  "kas",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "28 Eyl 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w7m7",
+        "week":  7,
+        "home":  "fb",
+        "away":  "ant",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "28 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w7m8",
+        "week":  7,
+        "home":  "kys",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "28 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w7m9",
+        "week":  7,
+        "home":  "bjk",
+        "away":  "koc",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "29 Eyl 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w8m1",
+        "week":  8,
+        "home":  "ant",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  5,
+        "date":  "03 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w8m2",
+        "week":  8,
+        "home":  "ts",
+        "away":  "kys",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "03 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w8m3",
+        "week":  8,
+        "home":  "gcl",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "04 Eki 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w8m4",
+        "week":  8,
+        "home":  "koc",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "04 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w8m5",
+        "week":  8,
+        "home":  "gs",
+        "away":  "bjk",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "04 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w8m6",
+        "week":  8,
+        "home":  "kas",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "05 Eki 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w8m7",
+        "week":  8,
+        "home":  "fkg",
+        "away":  "gfk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "05 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w8m8",
+        "week":  8,
+        "home":  "sam",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "05 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w8m9",
+        "week":  8,
+        "home":  "goz",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "05 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w9m1",
+        "week":  9,
+        "home":  "kon",
+        "away":  "koc",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "18 Eki 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w9m2",
+        "week":  9,
+        "home":  "rize",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w9m3",
+        "week":  9,
+        "home":  "bjk",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Eki 2025",
+        "time":  "17:03"
+    },
+    {
+        "id":  "25w9m4",
+        "week":  9,
+        "home":  "bsk",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w9m5",
+        "week":  9,
+        "home":  "kys",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "19 Eki 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w9m6",
+        "week":  9,
+        "home":  "ala",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "19 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w9m7",
+        "week":  9,
+        "home":  "gfk",
+        "away":  "ant",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "19 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w9m8",
+        "week":  9,
+        "home":  "fb",
+        "away":  "fkg",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "19 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w9m9",
+        "week":  9,
+        "home":  "eyup",
+        "away":  "kas",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "20 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w10m1",
+        "week":  10,
+        "home":  "fkg",
+        "away":  "kys",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "24 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w10m2",
+        "week":  10,
+        "home":  "koc",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "25 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w10m3",
+        "week":  10,
+        "home":  "ts",
+        "away":  "eyup",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "25 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w10m4",
+        "week":  10,
+        "home":  "ant",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  4,
+        "date":  "26 Eki 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w10m5",
+        "week":  10,
+        "home":  "gs",
+        "away":  "goz",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "26 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w10m6",
+        "week":  10,
+        "home":  "gcl",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "26 Eki 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w10m7",
+        "week":  10,
+        "home":  "kas",
+        "away":  "bjk",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "26 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w10m8",
+        "week":  10,
+        "home":  "sam",
+        "away":  "rize",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "27 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w10m9",
+        "week":  10,
+        "home":  "gfk",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  4,
+        "date":  "27 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m1",
+        "week":  11,
+        "home":  "bsk",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "31 Eki 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m2",
+        "week":  11,
+        "home":  "goz",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "01 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w11m3",
+        "week":  11,
+        "home":  "gs",
+        "away":  "ts",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "01 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m4",
+        "week":  11,
+        "home":  "kon",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "02 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w11m5",
+        "week":  11,
+        "home":  "kys",
+        "away":  "kas",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "02 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w11m6",
+        "week":  11,
+        "home":  "bjk",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "02 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m7",
+        "week":  11,
+        "home":  "eyup",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "03 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m8",
+        "week":  11,
+        "home":  "ala",
+        "away":  "gfk",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "03 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w11m9",
+        "week":  11,
+        "home":  "rize",
+        "away":  "fkg",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "03 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w12m1",
+        "week":  12,
+        "home":  "gcl",
+        "away":  "bsk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "07 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w12m2",
+        "week":  12,
+        "home":  "gfk",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "08 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w12m3",
+        "week":  12,
+        "home":  "ts",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "08 Kas 2025",
+        "time":  "17:03"
+    },
+    {
+        "id":  "25w12m4",
+        "week":  12,
+        "home":  "kas",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "08 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w12m5",
+        "week":  12,
+        "home":  "ant",
+        "away":  "bjk",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "08 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w12m6",
+        "week":  12,
+        "home":  "fkg",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "09 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w12m7",
+        "week":  12,
+        "home":  "koc",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "09 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w12m8",
+        "week":  12,
+        "home":  "sam",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "09 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w12m9",
+        "week":  12,
+        "home":  "fb",
+        "away":  "kys",
+        "homeScore":  4,
+        "awayScore":  2,
+        "date":  "09 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w13m1",
+        "week":  13,
+        "home":  "kys",
+        "away":  "gfk",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "22 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w13m2",
+        "week":  13,
+        "home":  "eyup",
+        "away":  "fkg",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "22 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w13m3",
+        "week":  13,
+        "home":  "gs",
+        "away":  "gcl",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "22 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w13m4",
+        "week":  13,
+        "home":  "goz",
+        "away":  "koc",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "23 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w13m5",
+        "week":  13,
+        "home":  "bjk",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "23 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w13m6",
+        "week":  13,
+        "home":  "ala",
+        "away":  "kas",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "23 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w13m7",
+        "week":  13,
+        "home":  "rize",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  5,
+        "date":  "23 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w13m8",
+        "week":  13,
+        "home":  "kon",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "24 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w13m9",
+        "week":  13,
+        "home":  "bsk",
+        "away":  "ts",
+        "homeScore":  3,
+        "awayScore":  4,
+        "date":  "24 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m1",
+        "week":  14,
+        "home":  "koc",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "28 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m2",
+        "week":  14,
+        "home":  "rize",
+        "away":  "kys",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "29 Kas 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w14m3",
+        "week":  14,
+        "home":  "gfk",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "29 Kas 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w14m4",
+        "week":  14,
+        "home":  "kas",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "29 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m5",
+        "week":  14,
+        "home":  "ts",
+        "away":  "kon",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "29 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m6",
+        "week":  14,
+        "home":  "ant",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "30 Kas 2025",
+        "time":  "17:03"
+    },
+    {
+        "id":  "25w14m7",
+        "week":  14,
+        "home":  "fkg",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "30 Kas 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m8",
+        "week":  14,
+        "home":  "sam",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "01 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w14m9",
+        "week":  14,
+        "home":  "fb",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "01 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w15m1",
+        "week":  15,
+        "home":  "gs",
+        "away":  "sam",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "05 Ara 2025",
+        "time":  "20:03"
+    },
+    {
+        "id":  "25w15m2",
+        "week":  15,
+        "home":  "eyup",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "06 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w15m3",
+        "week":  15,
+        "home":  "kon",
+        "away":  "rize",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "06 Ara 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w15m4",
+        "week":  15,
+        "home":  "bsk",
+        "away":  "fb",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "06 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w15m5",
+        "week":  15,
+        "home":  "gcl",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "07 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w15m6",
+        "week":  15,
+        "home":  "koc",
+        "away":  "kas",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "07 Ara 2025",
+        "time":  "17:03"
+    },
+    {
+        "id":  "25w15m7",
+        "week":  15,
+        "home":  "goz",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "07 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w15m8",
+        "week":  15,
+        "home":  "bjk",
+        "away":  "gfk",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "08 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w15m9",
+        "week":  15,
+        "home":  "ala",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "08 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w16m1",
+        "week":  16,
+        "home":  "kas",
+        "away":  "gcl",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "12 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w16m2",
+        "week":  16,
+        "home":  "rize",
+        "away":  "eyup",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "13 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w16m3",
+        "week":  16,
+        "home":  "kys",
+        "away":  "ala",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "13 Ara 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w16m4",
+        "week":  16,
+        "home":  "ant",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  4,
+        "date":  "13 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w16m5",
+        "week":  16,
+        "home":  "gfk",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "14 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w16m6",
+        "week":  16,
+        "home":  "fkg",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "14 Ara 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w16m7",
+        "week":  16,
+        "home":  "ts",
+        "away":  "bjk",
+        "homeScore":  3,
+        "awayScore":  3,
+        "date":  "14 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w16m8",
+        "week":  16,
+        "home":  "sam",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "14 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w16m9",
+        "week":  16,
+        "home":  "fb",
+        "away":  "kon",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "15 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w17m1",
+        "week":  17,
+        "home":  "koc",
+        "away":  "ant",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "19 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w17m2",
+        "week":  17,
+        "home":  "kon",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "20 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w17m3",
+        "week":  17,
+        "home":  "eyup",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "20 Ara 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w17m4",
+        "week":  17,
+        "home":  "bjk",
+        "away":  "rize",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "20 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w17m5",
+        "week":  17,
+        "home":  "ala",
+        "away":  "fkg",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "21 Ara 2025",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w17m6",
+        "week":  17,
+        "home":  "goz",
+        "away":  "sam",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "21 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w17m7",
+        "week":  17,
+        "home":  "gs",
+        "away":  "kas",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "21 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w17m8",
+        "week":  17,
+        "home":  "bsk",
+        "away":  "gfk",
+        "homeScore":  5,
+        "awayScore":  1,
+        "date":  "22 Ara 2025",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w17m9",
+        "week":  17,
+        "home":  "gcl",
+        "away":  "ts",
+        "homeScore":  4,
+        "awayScore":  3,
+        "date":  "22 Ara 2025",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w18m1",
+        "week":  18,
+        "home":  "bsk",
+        "away":  "fkg",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "17 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w18m2",
+        "week":  18,
+        "home":  "gs",
+        "away":  "gfk",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "17 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w18m3",
+        "week":  18,
+        "home":  "kas",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "18 Oca 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w18m4",
+        "week":  18,
+        "home":  "koc",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w18m5",
+        "week":  18,
+        "home":  "gcl",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "18 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w18m6",
+        "week":  18,
+        "home":  "ala",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "18 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w18m7",
+        "week":  18,
+        "home":  "kon",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "19 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w18m8",
+        "week":  18,
+        "home":  "goz",
+        "away":  "rize",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "19 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w18m9",
+        "week":  18,
+        "home":  "bjk",
+        "away":  "kys",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "19 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w19m1",
+        "week":  19,
+        "home":  "ts",
+        "away":  "kas",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "23 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w19m2",
+        "week":  19,
+        "home":  "kys",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "24 Oca 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w19m3",
+        "week":  19,
+        "home":  "sam",
+        "away":  "koc",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "24 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w19m4",
+        "week":  19,
+        "home":  "fkg",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "24 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w19m5",
+        "week":  19,
+        "home":  "gfk",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "25 Oca 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w19m6",
+        "week":  19,
+        "home":  "rize",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "25 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w19m7",
+        "week":  19,
+        "home":  "ant",
+        "away":  "gcl",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "25 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w19m8",
+        "week":  19,
+        "home":  "fb",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "25 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w19m9",
+        "week":  19,
+        "home":  "eyup",
+        "away":  "bjk",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "26 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w20m1",
+        "week":  20,
+        "home":  "kas",
+        "away":  "sam",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "30 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w20m2",
+        "week":  20,
+        "home":  "ant",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "30 Oca 2026",
+        "time":  "20:02"
+    },
+    {
+        "id":  "25w20m3",
+        "week":  20,
+        "home":  "ala",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "31 Oca 2026",
+        "time":  "14:33"
+    },
+    {
+        "id":  "25w20m4",
+        "week":  20,
+        "home":  "bsk",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "31 Oca 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w20m5",
+        "week":  20,
+        "home":  "bjk",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "31 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w20m6",
+        "week":  20,
+        "home":  "goz",
+        "away":  "fkg",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "31 Oca 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w20m7",
+        "week":  20,
+        "home":  "gcl",
+        "away":  "gfk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "01 Åub 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w20m8",
+        "week":  20,
+        "home":  "gs",
+        "away":  "kys",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "01 Åub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w20m9",
+        "week":  20,
+        "home":  "koc",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "02 Åžub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w21m1",
+        "week":  21,
+        "home":  "fkg",
+        "away":  "ant",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "07 Şub 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w21m2",
+        "week":  21,
+        "home":  "sam",
+        "away":  "ts",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "07 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w21m3",
+        "week":  21,
+        "home":  "eyup",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "08 Şub 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w21m4",
+        "week":  21,
+        "home":  "kon",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "08 Şub 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w21m5",
+        "week":  21,
+        "home":  "rize",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "08 Şub 2026",
+        "time":  "17:02"
+    },
+    {
+        "id":  "25w21m6",
+        "week":  21,
+        "home":  "bjk",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "08 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w21m7",
+        "week":  21,
+        "home":  "kys",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "09 Şub 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w21m8",
+        "week":  21,
+        "home":  "fb",
+        "away":  "gcl",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "09 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w21m9",
+        "week":  21,
+        "home":  "gfk",
+        "away":  "kas",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "09 Şub 2026",
+        "time":  "20:02"
+    },
+    {
+        "id":  "25w22m1",
+        "week":  22,
+        "home":  "gs",
+        "away":  "eyup",
+        "homeScore":  5,
+        "awayScore":  1,
+        "date":  "13 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w22m2",
+        "week":  22,
+        "home":  "ant",
+        "away":  "sam",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "13 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w22m3",
+        "week":  22,
+        "home":  "gcl",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "14 Şub 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w22m4",
+        "week":  22,
+        "home":  "ala",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "14 Şub 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w22m5",
+        "week":  22,
+        "home":  "ts",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "14 Şub 2026",
+        "time":  "20:04"
+    },
+    {
+        "id":  "25w22m6",
+        "week":  22,
+        "home":  "koc",
+        "away":  "gfk",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "15 Şub 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w22m7",
+        "week":  22,
+        "home":  "goz",
+        "away":  "kys",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "15 Şub 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w22m8",
+        "week":  22,
+        "home":  "bsk",
+        "away":  "bjk",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "15 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w22m9",
+        "week":  22,
+        "home":  "kas",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "16 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w23m1",
+        "week":  23,
+        "home":  "rize",
+        "away":  "koc",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "20 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w23m2",
+        "week":  23,
+        "home":  "eyup",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "21 Şub 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w23m3",
+        "week":  23,
+        "home":  "ala",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "21 Şub 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w23m4",
+        "week":  23,
+        "home":  "kon",
+        "away":  "gs",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "21 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w23m5",
+        "week":  23,
+        "home":  "kys",
+        "away":  "ant",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "22 Şub 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w23m6",
+        "week":  23,
+        "home":  "gfk",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "22 Şub 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w23m7",
+        "week":  23,
+        "home":  "bjk",
+        "away":  "goz",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "22 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w23m8",
+        "week":  23,
+        "home":  "fkg",
+        "away":  "sam",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "22 Şub 2026",
+        "time":  "20:03"
+    },
+    {
+        "id":  "25w23m9",
+        "week":  23,
+        "home":  "fb",
+        "away":  "kas",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "23 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w24m1",
+        "week":  24,
+        "home":  "ts",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "27 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w24m2",
+        "week":  24,
+        "home":  "bsk",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "27 Şub 2026",
+        "time":  "20:02"
+    },
+    {
+        "id":  "25w24m3",
+        "week":  24,
+        "home":  "kas",
+        "away":  "rize",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "28 Şub 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w24m4",
+        "week":  24,
+        "home":  "koc",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "28 Şub 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w24m5",
+        "week":  24,
+        "home":  "goz",
+        "away":  "eyup",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "28 Şub 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w24m6",
+        "week":  24,
+        "home":  "gs",
+        "away":  "ala",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "28 Şub 2026",
+        "time":  "20:02"
+    },
+    {
+        "id":  "25w24m7",
+        "week":  24,
+        "home":  "gcl",
+        "away":  "kys",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "01 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w24m8",
+        "week":  24,
+        "home":  "sam",
+        "away":  "gfk",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "01 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w24m9",
+        "week":  24,
+        "home":  "ant",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "01 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w25m1",
+        "week":  25,
+        "home":  "bsk",
+        "away":  "goz",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "07 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w25m2",
+        "week":  25,
+        "home":  "bjk",
+        "away":  "gs",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "07 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w25m3",
+        "week":  25,
+        "home":  "rize",
+        "away":  "ant",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "08 Mar 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w25m4",
+        "week":  25,
+        "home":  "gfk",
+        "away":  "fkg",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "08 Mar 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w25m5",
+        "week":  25,
+        "home":  "kon",
+        "away":  "kas",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "08 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w25m6",
+        "week":  25,
+        "home":  "fb",
+        "away":  "sam",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "08 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w25m7",
+        "week":  25,
+        "home":  "eyup",
+        "away":  "koc",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "09 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w25m8",
+        "week":  25,
+        "home":  "kys",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "09 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w25m9",
+        "week":  25,
+        "home":  "ala",
+        "away":  "gcl",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "09 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m1",
+        "week":  26,
+        "home":  "ant",
+        "away":  "gfk",
+        "homeScore":  1,
+        "awayScore":  4,
+        "date":  "13 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m2",
+        "week":  26,
+        "home":  "fkg",
+        "away":  "fb",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "13 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m3",
+        "week":  26,
+        "home":  "koc",
+        "away":  "kon",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "14 Mar 2026",
+        "time":  "13:30"
+    },
+    {
+        "id":  "25w26m4",
+        "week":  26,
+        "home":  "goz",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "14 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m5",
+        "week":  26,
+        "home":  "gs",
+        "away":  "bsk",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "14 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m6",
+        "week":  26,
+        "home":  "ts",
+        "away":  "rize",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "14 Mar 2026",
+        "time":  "20:03"
+    },
+    {
+        "id":  "25w26m7",
+        "week":  26,
+        "home":  "kas",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "15 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w26m8",
+        "week":  26,
+        "home":  "gcl",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "15 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w26m9",
+        "week":  26,
+        "home":  "sam",
+        "away":  "kys",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "15 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m1",
+        "week":  27,
+        "home":  "fb",
+        "away":  "gfk",
+        "homeScore":  4,
+        "awayScore":  1,
+        "date":  "17 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m2",
+        "week":  27,
+        "home":  "ala",
+        "away":  "koc",
+        "homeScore":  5,
+        "awayScore":  0,
+        "date":  "18 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w27m3",
+        "week":  27,
+        "home":  "bsk",
+        "away":  "ant",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "18 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m4",
+        "week":  27,
+        "home":  "eyup",
+        "away":  "ts",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "18 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m5",
+        "week":  27,
+        "home":  "kys",
+        "away":  "fkg",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "19 Mar 2026",
+        "time":  "16:00"
+    },
+    {
+        "id":  "25w27m6",
+        "week":  27,
+        "home":  "bjk",
+        "away":  "kas",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "19 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m7",
+        "week":  27,
+        "home":  "kon",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "19 Mar 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m8",
+        "week":  27,
+        "home":  "goz",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  3,
+        "date":  "08 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w27m9",
+        "week":  27,
+        "home":  "rize",
+        "away":  "sam",
+        "homeScore":  4,
+        "awayScore":  1,
+        "date":  "09 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w28m1",
+        "week":  28,
+        "home":  "koc",
+        "away":  "bsk",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "06 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w28m2",
+        "week":  28,
+        "home":  "gcl",
+        "away":  "goz",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "04 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w28m3",
+        "week":  28,
+        "home":  "ts",
+        "away":  "gs",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "04 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w28m4",
+        "week":  28,
+        "home":  "sam",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "05 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w28m5",
+        "week":  28,
+        "home":  "kas",
+        "away":  "kys",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "04 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w28m6",
+        "week":  28,
+        "home":  "fb",
+        "away":  "bjk",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "05 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w28m7",
+        "week":  28,
+        "home":  "ant",
+        "away":  "eyup",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "05 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w28m8",
+        "week":  28,
+        "home":  "gfk",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "04 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w28m9",
+        "week":  28,
+        "home":  "fkg",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "05 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w29m1",
+        "week":  29,
+        "home":  "bsk",
+        "away":  "gcl",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "11 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w29m2",
+        "week":  29,
+        "home":  "rize",
+        "away":  "gfk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "13 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w29m3",
+        "week":  29,
+        "home":  "ala",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "11 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w29m4",
+        "week":  29,
+        "home":  "goz",
+        "away":  "kas",
+        "homeScore":  3,
+        "awayScore":  3,
+        "date":  "12 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w29m5",
+        "week":  29,
+        "home":  "bjk",
+        "away":  "ant",
+        "homeScore":  4,
+        "awayScore":  2,
+        "date":  "10 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w29m6",
+        "week":  29,
+        "home":  "kon",
+        "away":  "fkg",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "12 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w29m7",
+        "week":  29,
+        "home":  "gs",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "12 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w29m8",
+        "week":  29,
+        "home":  "eyup",
+        "away":  "sam",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "13 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w29m9",
+        "week":  29,
+        "home":  "kys",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  4,
+        "date":  "11 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w30m1",
+        "week":  30,
+        "home":  "gfk",
+        "away":  "kys",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "20 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w30m2",
+        "week":  30,
+        "home":  "fkg",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w30m3",
+        "week":  30,
+        "home":  "gcl",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "18 Nis 2026",
+        "time":  "20:03"
+    },
+    {
+        "id":  "25w30m4",
+        "week":  30,
+        "home":  "koc",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "18 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w30m5",
+        "week":  30,
+        "home":  "sam",
+        "away":  "bjk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "19 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w30m6",
+        "week":  30,
+        "home":  "kas",
+        "away":  "ala",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "19 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w30m7",
+        "week":  30,
+        "home":  "fb",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "17 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w30m8",
+        "week":  30,
+        "home":  "ant",
+        "away":  "kon",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "17 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w30m9",
+        "week":  30,
+        "home":  "ts",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "19 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w31m1",
+        "week":  31,
+        "home":  "gcl",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "26 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w31m2",
+        "week":  31,
+        "home":  "kys",
+        "away":  "rize",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "25 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w31m3",
+        "week":  31,
+        "home":  "eyup",
+        "away":  "gfk",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "25 Nis 2026",
+        "time":  "14:30"
+    },
+    {
+        "id":  "25w31m4",
+        "week":  31,
+        "home":  "bsk",
+        "away":  "kas",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "24 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w31m5",
+        "week":  31,
+        "home":  "kon",
+        "away":  "ts",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "27 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w31m6",
+        "week":  31,
+        "home":  "goz",
+        "away":  "ant",
+        "homeScore":  2,
+        "awayScore":  0,
+        "date":  "25 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w31m7",
+        "week":  31,
+        "home":  "bjk",
+        "away":  "fkg",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "27 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w31m8",
+        "week":  31,
+        "home":  "ala",
+        "away":  "sam",
+        "homeScore":  2,
+        "awayScore":  3,
+        "date":  "27 Nis 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w31m9",
+        "week":  31,
+        "home":  "gs",
+        "away":  "fb",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "26 Nis 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m1",
+        "week":  32,
+        "home":  "sam",
+        "away":  "gs",
+        "homeScore":  4,
+        "awayScore":  1,
+        "date":  "02 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m2",
+        "week":  32,
+        "home":  "kys",
+        "away":  "eyup",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "03 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m3",
+        "week":  32,
+        "home":  "rize",
+        "away":  "kon",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "01 May 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w32m4",
+        "week":  32,
+        "home":  "fb",
+        "away":  "bsk",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "02 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m5",
+        "week":  32,
+        "home":  "fkg",
+        "away":  "gcl",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "03 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m6",
+        "week":  32,
+        "home":  "kas",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "03 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m7",
+        "week":  32,
+        "home":  "ts",
+        "away":  "goz",
+        "homeScore":  1,
+        "awayScore":  1,
+        "date":  "02 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m8",
+        "week":  32,
+        "home":  "gfk",
+        "away":  "bjk",
+        "homeScore":  0,
+        "awayScore":  2,
+        "date":  "01 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w32m9",
+        "week":  32,
+        "home":  "ant",
+        "away":  "ala",
+        "homeScore":  0,
+        "awayScore":  0,
+        "date":  "03 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m1",
+        "week":  33,
+        "home":  "gcl",
+        "away":  "kas",
+        "homeScore":  3,
+        "awayScore":  2,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m2",
+        "week":  33,
+        "home":  "eyup",
+        "away":  "rize",
+        "homeScore":  4,
+        "awayScore":  0,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m3",
+        "week":  33,
+        "home":  "ala",
+        "away":  "kys",
+        "homeScore":  3,
+        "awayScore":  1,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m4",
+        "week":  33,
+        "home":  "gs",
+        "away":  "ant",
+        "homeScore":  4,
+        "awayScore":  2,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m5",
+        "week":  33,
+        "home":  "goz",
+        "away":  "gfk",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m6",
+        "week":  33,
+        "home":  "koc",
+        "away":  "fkg",
+        "homeScore":  0,
+        "awayScore":  1,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m7",
+        "week":  33,
+        "home":  "bjk",
+        "away":  "ts",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m8",
+        "week":  33,
+        "home":  "bsk",
+        "away":  "sam",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w33m9",
+        "week":  33,
+        "home":  "kon",
+        "away":  "fb",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "09 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m1",
+        "week":  34,
+        "home":  "ant",
+        "away":  "koc",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "17 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m2",
+        "week":  34,
+        "home":  "kys",
+        "away":  "kon",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "17 May 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w34m3",
+        "week":  34,
+        "home":  "fb",
+        "away":  "eyup",
+        "homeScore":  3,
+        "awayScore":  3,
+        "date":  "17 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m4",
+        "week":  34,
+        "home":  "rize",
+        "away":  "bjk",
+        "homeScore":  2,
+        "awayScore":  2,
+        "date":  "15 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m5",
+        "week":  34,
+        "home":  "fkg",
+        "away":  "ala",
+        "homeScore":  2,
+        "awayScore":  1,
+        "date":  "16 May 2026",
+        "time":  "17:00"
+    },
+    {
+        "id":  "25w34m6",
+        "week":  34,
+        "home":  "sam",
+        "away":  "goz",
+        "homeScore":  3,
+        "awayScore":  0,
+        "date":  "16 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m7",
+        "week":  34,
+        "home":  "kas",
+        "away":  "gs",
+        "homeScore":  1,
+        "awayScore":  0,
+        "date":  "17 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m8",
+        "week":  34,
+        "home":  "gfk",
+        "away":  "bsk",
+        "homeScore":  1,
+        "awayScore":  2,
+        "date":  "16 May 2026",
+        "time":  "20:00"
+    },
+    {
+        "id":  "25w34m9",
+        "week":  34,
+        "home":  "ts",
+        "away":  "gcl",
+        "homeScore":  0,
+        "awayScore":  3,
+        "date":  "17 May 2026",
+        "time":  "20:00"
+    }
+]
