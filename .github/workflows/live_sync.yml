@@ -1,0 +1,40 @@
+name: Süper Lig Canlı Maç Güncelleme
+
+on:
+  schedule:
+    # Maç saatlerinde çalışır (TSİ Cuma, Cumartesi, Pazar, Pazartesi 16:00 - 23:00)
+    # UTC ile 13:00 - 20:00 saatleri arasına denk gelir. Her 3 dakikada bir tetiklenir.
+    - cron: '*/3 13-20 * * 5,6,0,1'
+  workflow_dispatch: # Elle tetikleme butonu ekler
+
+jobs:
+  update-live-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları Yükle
+        run: |
+          pip install requests
+
+      - name: Canlı Maç Verilerini Çek ve Güncelle
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          python live_updater.py
+
+      - name: Değişiklikleri Kaydet ve GitHub'a Yükle
+        run: |
+          git config --global user.name "Süper Lig Canlı Bot"
+          git config --global user.email "bot@superligapp.com"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Canlı maç verisi otomatik güncellendi (Bot)"
+          git push origin main
