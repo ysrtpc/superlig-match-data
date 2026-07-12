@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "title": "Temmuz Ayı En İyi Reaksiyon Kanalı",
+  "endDate": "31 Temmuz",
+  "candidates": [
+    {
+      "id": "c1",
+      "name": "狮 GS Tepki Evi",
+      "teamId": "gs",
+      "description": "Galatasaray maçlarına heyecanlı reaksiyonlar sunan YouTube kanalı."
+    },
+    {
+      "id": "c2",
+      "name": "🦅 BJK Tribün Sesi",
+      "teamId": "bjk",
+      "description": "Beşiktaş maçlarının heyecanını tribün atmosferiyle aktaran reaksiyon kanalı."
+    },
+    {
+      "id": "c3",
+      "name": " Canary FB Reaksiyon",
+      "teamId": "fb",
+      "description": "Fenerbahçe maçlarındaki en samimi anlar ve gol tepkileri."
+    },
+    {
+      "id": "c4",
+      "name": "🌊 TS Fırtına Tepki",
+      "teamId": "ts",
+      "description": "Trabzonspor sevdalılarının maç esnasındaki coşkulu tepkileri."
+    }
+  ]
+}
