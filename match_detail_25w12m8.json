@@ -1,16 +1,16 @@
-﻿{
+{
     "stats":  {
                   "possessionHome":  54,
                   "possessionAway":  46,
-                  "shotsHome":  11,
-                  "shotsAway":  11,
-                  "shotsOnTargetHome":  4,
+                  "shotsHome":  14,
+                  "shotsAway":  9,
+                  "shotsOnTargetHome":  6,
                   "shotsOnTargetAway":  4,
-                  "foulsHome":  16,
-                  "foulsAway":  16,
-                  "cornersHome":  4,
-                  "cornersAway":  4,
-                  "offsidesHome":  3,
+                  "foulsHome":  9,
+                  "foulsAway":  10,
+                  "cornersHome":  7,
+                  "cornersAway":  3,
+                  "offsidesHome":  0,
                   "offsidesAway":  0
               },
     "homeLineups":  {
