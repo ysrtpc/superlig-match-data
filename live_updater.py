@@ -247,5 +247,137 @@ def main():
     else:
         print("\nSkorlarda herhangi bir değişiklik olmadı.")
 
+    # 3. İSTATİSTİKLERİ GÜNCELLE (Gol Krallığı, Asist Krallığı, Takım İstatistikleri)
+    print("\n📊 Lig istatistikleri API-Football'dan güncelleniyor...")
+    stats_data = {
+        "topScorers": [],
+        "topAssists": [],
+        "teamStats": []
+    }
+
+    # 3a. Gol Krallığı
+    print("⚽ Gol krallığı listesi çekiliyor...")
+    scorers_url = f"{BASE_URL}/players/topscorers?league={LEAGUE_ID}&season={SEASON}"
+    scorers_resp = requests.get(scorers_url, headers=HEADERS)
+    if scorers_resp.status_code == 200:
+        scorers_json = scorers_resp.json()
+        for idx, item in enumerate(scorers_json.get("response", [])[:15]):
+            player = item["player"]
+            statistics = item["statistics"][0]
+            team_api = statistics["team"]["name"]
+            team_id = get_our_team_id(team_api) or "gs"
+            
+            # Pozisyon belirleme
+            pos = player.get("position", "Forvet")
+            if pos == "Attacker": pos = "Forvet"
+            elif pos == "Midfielder": pos = "Orta Saha"
+            elif pos == "Defender": pos = "Defans"
+            elif pos == "Goalkeeper": pos = "Kaleci"
+
+            stats_data["topScorers"].append({
+                "id": f"26p{idx+1}",
+                "name": format_player_name(player["name"]),
+                "teamId": team_id,
+                "goals": statistics["goals"].get("total") or 0,
+                "assists": statistics["goals"].get("assists") or 0,
+                "matches": statistics["games"].get("appearences") or 0,
+                "position": pos
+            })
+
+    # 3b. Asist Krallığı
+    print("🅰️  Asist krallığı listesi çekiliyor...")
+    assists_url = f"{BASE_URL}/players/topassists?league={LEAGUE_ID}&season={SEASON}"
+    assists_resp = requests.get(assists_url, headers=HEADERS)
+    if assists_resp.status_code == 200:
+        assists_json = assists_resp.json()
+        for idx, item in enumerate(assists_json.get("response", [])[:15]):
+            player = item["player"]
+            statistics = item["statistics"][0]
+            team_api = statistics["team"]["name"]
+            team_id = get_our_team_id(team_api) or "gs"
+            
+            pos = player.get("position", "Orta Saha")
+            if pos == "Attacker": pos = "Forvet"
+            elif pos == "Midfielder": pos = "Orta Saha"
+            elif pos == "Defender": pos = "Defans"
+            elif pos == "Goalkeeper": pos = "Kaleci"
+
+            stats_data["topAssists"].append({
+                "id": f"26a{idx+1}",
+                "name": format_player_name(player["name"]),
+                "teamId": team_id,
+                "goals": statistics["goals"].get("total") or 0,
+                "assists": statistics["goals"].get("assists") or 0,
+                "matches": statistics["games"].get("appearences") or 0,
+                "position": pos
+            })
+
+    # 3c. Takım İstatistikleri (Sarı/Kırmızı Kartlar, Penaltılar vb.)
+    print("🟨 Takım istatistikleri çekiliyor...")
+    # API-Football'da ligdeki tüm takımların toplu kart/penaltı istatistikleri için her takımın detayına gitmek gerekir.
+    # Alternatif olarak fikstür veya diğer toplu endpoint'lerden veya lig takımlarından alabiliriz.
+    # En stabil yöntem ligdeki tüm takımları alıp her biri için istek atmaktır.
+    teams_url = f"{BASE_URL}/teams?league={LEAGUE_ID}&season={SEASON}"
+    teams_resp = requests.get(teams_url, headers=HEADERS)
+    if teams_resp.status_code == 200:
+        teams_json = teams_resp.json()
+        for item in teams_json.get("response", []):
+            team_info = item["team"]
+            team_api = team_info["name"]
+            team_id = get_our_team_id(team_api)
+            if not team_id: continue
+            
+            # API limitlerini aşmamak için her takımın detay istatistiğini çekerken 0.2 saniye bekleyelim
+            time.sleep(0.2)
+            team_stats_url = f"{BASE_URL}/teams/statistics?league={LEAGUE_ID}&season={SEASON}&team={team_info['id']}"
+            t_stats_resp = requests.get(team_stats_url, headers=HEADERS)
+            
+            yellow_cards = 0
+            red_cards = 0
+            penalties_won = 0
+            penalties_total = 0
+            goals_scored = 0
+            goals_conceded = 0
+            
+            if t_stats_resp.status_code == 200:
+                ts_json = t_stats_resp.json()
+                ts_res = ts_json.get("response", {})
+                
+                # Kartlar
+                cards = ts_res.get("cards", {})
+                yellow_section = cards.get("yellow", {})
+                for k, v in yellow_section.items():
+                    if v and v.get("total"): yellow_cards += v["total"]
+                    
+                red_section = cards.get("red", {})
+                for k, v in red_section.items():
+                    if v and v.get("total"): red_cards += v["total"]
+                
+                # Penaltılar
+                penalty = ts_res.get("penalty", {})
+                penalties_won = penalty.get("scored", {}).get("total") or 0
+                penalties_total = (penalty.get("scored", {}).get("total") or 0) + (penalty.get("missed", {}).get("total") or 0)
+                
+                # Goller
+                goals = ts_res.get("goals", {})
+                goals_scored = goals.get("for", {}).get("total", {}).get("home", 0) + goals.get("for", {}).get("total", {}).get("away", 0)
+                goals_conceded = goals.get("against", {}).get("total", {}).get("home", 0) + goals.get("against", {}).get("total", {}).get("away", 0)
+
+            stats_data["teamStats"].append({
+                "teamId": team_id,
+                "yellowCards": yellow_cards,
+                "redCards": red_cards,
+                "penaltiesWon": penalties_won,
+                "penaltiesTotal": penalties_total,
+                "goalsScored": goals_scored,
+                "goalsConceded": goals_conceded,
+                "npxg": round(float(goals_scored) * 0.9, 1) # Tahmini non-penalty xG
+            })
+
+    # Stats dosyasını kaydet
+    with open(STATS_PATH, "w", encoding="utf-8") as sf:
+        json.dump(stats_data, sf, ensure_ascii=False, indent=4)
+    print("✅ stats_2026_2027.json başarıyla güncellendi.")
+
 if __name__ == "__main__":
     main()
