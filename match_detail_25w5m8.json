@@ -1,0 +1,71 @@
+{
+    "stats":  {
+                  "possessionHome":  54,
+                  "possessionAway":  46,
+                  "shotsHome":  13,
+                  "shotsAway":  10,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  4,
+                  "foulsHome":  16,
+                  "foulsAway":  14,
+                  "cornersHome":  2,
+                  "cornersAway":  3,
+                  "offsidesHome":  3,
+                  "offsidesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Livakovic",
+                                           "M. MÃ¼ldÃ¼r",
+                                           "A. Djiku",
+                                           "C. SÃ¶yÃ¼ncÃ¼",
+                                           "J. Oosterwolde",
+                                           "S. Amrabat",
+                                           "Fred",
+                                           "S. Szymanski",
+                                           "D. Tadic",
+                                           "A. Saint-Maximin",
+                                           "Y. En-Nesyri"
+                                       ],
+                        "substitutes":  [
+                                            "I. EÄŸribayat",
+                                            "R. Becao",
+                                            "S. AkaydÄ±n",
+                                            "B. Elmaz",
+                                            "M. YandaÅŸ",
+                                            "I. Kahveci",
+                                            "C. Ãœnder",
+                                            "C. Tosun",
+                                            "E. Dzeko"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "U. Ã‡akÄ±r",
+                                           "P. Malheiro",
+                                           "S. Savic",
+                                           "S. Denswil",
+                                           "B. Barisic",
+                                           "B. Mendy",
+                                           "O. YokuÅŸlu",
+                                           "E. Visca",
+                                           "E. Cham",
+                                           "M. Orsic",
+                                           "S. Banza"
+                                       ],
+                        "substitutes":  [
+                                            "T. Tepe",
+                                            "R. Baniya",
+                                            "A. Batagov",
+                                            "J. Lundstram",
+                                            "O. Tufan",
+                                            "C. Ã‡anak",
+                                            "D. Dragus",
+                                            "U. Nayir",
+                                            "E. Destan"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}

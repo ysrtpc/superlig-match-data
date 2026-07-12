@@ -1,0 +1,69 @@
+{
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  12,
+                  "shotsAway":  10,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  4,
+                  "foulsHome":  9,
+                  "foulsAway":  12,
+                  "cornersHome":  7,
+                  "cornersAway":  5,
+                  "offsidesHome":  2,
+                  "offsidesAway":  2
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "K. Portero",
+                                           "B. Defans1",
+                                           "C. Defans2",
+                                           "D. Defans3",
+                                           "E. Defans4",
+                                           "F. Orta1",
+                                           "G. Orta2",
+                                           "H. Orta3",
+                                           "I. Kanat1",
+                                           "J. Kanat2",
+                                           "K. Forvet"
+                                       ],
+                        "substitutes":  [
+                                            "L. Yedek1",
+                                            "M. Yedek2",
+                                            "N. Yedek3",
+                                            "O. Yedek4",
+                                            "P. Yedek5",
+                                            "R. Yedek6",
+                                            "S. Yedek7"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Stankovic",
+                                           "A. Frimpong",
+                                           "E. Vural",
+                                           "D. Mitrovic",
+                                           "H. KÃ¶se",
+                                           "T. MalatyalÄ±",
+                                           "Y. YazÄ±cÄ±",
+                                           "B. YÄ±ldÄ±z",
+                                           "O. Sahiner",
+                                           "R. Boupendza",
+                                           "A. GÃ¼ler"
+                                       ],
+                        "substitutes":  [
+                                            "B. Tezcan",
+                                            "M. KoÃ§",
+                                            "F. GÃ¼neÅŸ",
+                                            "C. CoÅŸkun",
+                                            "M. ÃœstÃ¼ndaÄŸ",
+                                            "K. KÃ¼Ã§Ã¼k",
+                                            "E. Karadeniz",
+                                            "Y. Demirci",
+                                            "R. Ã‡elik"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
