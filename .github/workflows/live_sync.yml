@@ -10,11 +10,11 @@ on:
 jobs:
   update-live-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Repoyu Klonla
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_PAT }}
 
       - name: Python Kurulumu
         uses: actions/setup-python@v5
