@@ -73,7 +73,7 @@ def main():
         print(f"HATA: {FIXTURE_PATH} dosyası bulunamadı!")
         sys.exit(1)
         
-    with open(FIXTURE_PATH, "r", encoding="utf-8") as f:
+    with open(FIXTURE_PATH, "r", encoding="utf-8-sig") as f:
         local_fixtures = json.load(f)
     print(f"Yerel fikstür yüklendi: {len(local_fixtures)} maç.")
 
