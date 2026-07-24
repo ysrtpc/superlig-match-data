@@ -8,8 +8,9 @@ import requests
 # API Ayarları
 API_KEY = os.environ.get("API_FOOTBALL_KEY")
 if not API_KEY or API_KEY == "BURAYA_API_FOOTBALL_ANAHTARINIZI_YAZIN":
-    print("HATA: API_FOOTBALL_KEY ortam değişkeni tanımlı değil!")
-    sys.exit(1)
+    print("UYARI: API_FOOTBALL_KEY ortam degiskeni (GitHub Repository Secrets) tanimli degil!")
+    print("Lutfen GitHub Ayarlari -> Secrets and variables -> Actions altinda 'API_FOOTBALL_KEY' adinda bir sir tanımlayin.")
+    sys.exit(0)
 
 LEAGUE_ID = 203  # Trendyol Süper Lig
 SEASON = "2026"  # 2026-2027 sezonu için
@@ -84,12 +85,16 @@ def main():
     # O gün oynanacak ve bitmiş maçları da görmek için league ve season filtresini kullanıyoruz
     response = requests.get(url, headers=HEADERS)
     if response.status_code != 200:
-        print(f"API HATA: HTTP {response.status_code}")
-        sys.exit(1)
+        print(f"UYARI: API baglantisi basarisiz (HTTP {response.status_code}). Muhtemelen kota asildi veya ag hatasi var.")
+        sys.exit(0)
         
     data = response.json()
+    if "errors" in data and data["errors"]:
+        print(f"UYARI: API hata detayi: {data['errors']}")
+        sys.exit(0)
+        
     if "response" not in data or len(data["response"]) == 0:
-        print("API'dan Süper Lig verisi alınamadı!")
+        print("API'dan Süper Lig verisi alınamadı (Boş yanıt)!")
         sys.exit(0)
         
     print(f"API'dan {len(data['response'])} maç verisi alındı.")
