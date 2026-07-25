@@ -65,6 +65,98 @@ def convert_event_type(api_type, detail):
     if api_type == "subst": return "SUBSTITUTION"
     return None
 
+def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers):
+    # 1. OLAYLAR (GOL, KART)
+    events_url = f"{BASE_URL}/fixtures/events?fixture={api_fixture_id}"
+    evt_resp = requests.get(events_url, headers=headers)
+    events_list = []
+    if evt_resp.status_code == 200:
+        evt_data = evt_resp.json()
+        for e in evt_data.get("response", []):
+            e_type = convert_event_type(e["type"], e.get("detail"))
+            if not e_type: continue
+            
+            is_home = (e["team"]["id"] == match["teams"]["home"]["id"])
+            player = format_player_name(e["player"]["name"])
+            detail = format_player_name(e["assist"]["name"]) if e.get("assist") else ""
+            
+            events_list.append({
+                "minute": e["time"]["elapsed"],
+                "type": e_type,
+                "isHomeTeam": is_home,
+                "playerName": player,
+                "detail": detail
+            })
+            
+    # 2. KADROLAR
+    lineups_url = f"{BASE_URL}/fixtures/lineups?fixture={api_fixture_id}"
+    lin_resp = requests.get(lineups_url, headers=headers)
+    home_lineup = {"starting11": [], "substitutes": []}
+    away_lineup = {"starting11": [], "substitutes": []}
+    
+    if lin_resp.status_code == 200:
+        lin_data = lin_resp.json()
+        for team_lin in lin_data.get("response", []):
+            is_home_team = (team_lin["team"]["id"] == match["teams"]["home"]["id"])
+            starters = [format_player_name(p["player"]["name"]) for p in team_lin.get("startXI", [])]
+            subs = [format_player_name(p["player"]["name"]) for p in team_lin.get("substitutes", [])]
+            
+            if is_home_team:
+                home_lineup["starting11"] = starters
+                home_lineup["substitutes"] = subs
+            else:
+                away_lineup["starting11"] = starters
+                away_lineup["substitutes"] = subs
+                
+    # 3. İSTATİSTİKLER
+    stats_url = f"{BASE_URL}/fixtures/statistics?fixture={api_fixture_id}"
+    stat_resp = requests.get(stats_url, headers=headers)
+    stats_dict = {
+        "possessionHome": 50, "possessionAway": 50,
+        "shotsHome": 0, "shotsAway": 0,
+        "shotsOnTargetHome": 0, "shotsOnTargetAway": 0,
+        "foulsHome": 0, "foulsAway": 0,
+        "cornersHome": 0, "cornersAway": 0,
+        "offsidesHome": 0, "offsidesAway": 0
+    }
+    
+    if stat_resp.status_code == 200:
+        stat_data = stat_resp.json()
+        responses = stat_data.get("response", [])
+        
+        def get_stat_val(stats_array, stat_type):
+            stat = next((item for item in stats_array if item["type"] == stat_type), None)
+            if not stat or stat["value"] is None: return 0
+            val = str(stat["value"])
+            if "%" in val: return int(val.replace("%", ""))
+            return int(val)
+            
+        if len(responses) >= 2:
+            stats_dict["possessionHome"] = get_stat_val(responses[0]["statistics"], "Ball Possession")
+            stats_dict["possessionAway"] = get_stat_val(responses[1]["statistics"], "Ball Possession")
+            stats_dict["shotsHome"] = get_stat_val(responses[0]["statistics"], "Total Shots")
+            stats_dict["shotsAway"] = get_stat_val(responses[1]["statistics"], "Total Shots")
+            stats_dict["shotsOnTargetHome"] = get_stat_val(responses[0]["statistics"], "Shots on Goal")
+            stats_dict["shotsOnTargetAway"] = get_stat_val(responses[1]["statistics"], "Shots on Goal")
+            stats_dict["foulsHome"] = get_stat_val(responses[0]["statistics"], "Fouls")
+            stats_dict["foulsAway"] = get_stat_val(responses[1]["statistics"], "Fouls")
+            stats_dict["cornersHome"] = get_stat_val(responses[0]["statistics"], "Corner Kicks")
+            stats_dict["cornersAway"] = get_stat_val(responses[1]["statistics"], "Corner Kicks")
+            stats_dict["offsidesHome"] = get_stat_val(responses[0]["statistics"], "Offsides")
+            stats_dict["offsidesAway"] = get_stat_val(responses[1]["statistics"], "Offsides")
+            
+    detail_data = {
+        "stats": stats_dict,
+        "homeLineups": home_lineup,
+        "awayLineups": away_lineup,
+        "events": events_list
+    }
+    
+    detail_filename = f"match_detail_{our_fixture_id}.json"
+    with open(detail_filename, "w", encoding="utf-8") as df:
+        json.dump(detail_data, df, ensure_ascii=False, indent=4)
+    print(f"   -> {detail_filename} detaylari başarıyla güncellendi.")
+
 def main():
     print("Süper Lig Canlı Veri Güncelleme Botu Çalışıyor...")
     
@@ -148,98 +240,7 @@ def main():
                 print(f" Skor güncellendi: {home_id} {home_score} - {away_score} {away_id}")
                 
         # API verisinde canlı maç veya yeni bitmiş maç ise detayları (olay/kadro/istatistik) çekelim
-        # 1. OLAYLAR
-        events_url = f"{BASE_URL}/fixtures/events?fixture={api_fixture_id}"
-        evt_resp = requests.get(events_url, headers=HEADERS)
-        events_list = []
-        if evt_resp.status_code == 200:
-            evt_data = evt_resp.json()
-            for e in evt_data.get("response", []):
-                e_type = convert_event_type(e["type"], e.get("detail"))
-                if not e_type: continue
-                
-                is_home = (e["team"]["id"] == match["teams"]["home"]["id"])
-                player = format_player_name(e["player"]["name"])
-                detail = format_player_name(e["assist"]["name"]) if e.get("assist") else ""
-                
-                events_list.append({
-                    "minute": e["time"]["elapsed"],
-                    "type": e_type,
-                    "isHomeTeam": is_home,
-                    "playerName": player,
-                    "detail": detail
-                })
-        
-        # 2. KADROLAR
-        lineups_url = f"{BASE_URL}/fixtures/lineups?fixture={api_fixture_id}"
-        lin_resp = requests.get(lineups_url, headers=HEADERS)
-        home_lineup = {"starting11": [], "substitutes": []}
-        away_lineup = {"starting11": [], "substitutes": []}
-        
-        if lin_resp.status_code == 200:
-            lin_data = lin_resp.json()
-            for team_lin in lin_data.get("response", []):
-                is_home_team = (team_lin["team"]["id"] == match["teams"]["home"]["id"])
-                starters = [format_player_name(p["player"]["name"]) for p in team_lin.get("startXI", [])]
-                subs = [format_player_name(p["player"]["name"]) for p in team_lin.get("substitutes", [])]
-                
-                if is_home_team:
-                    home_lineup["starting11"] = starters
-                    home_lineup["substitutes"] = subs
-                else:
-                    away_lineup["starting11"] = starters
-                    away_lineup["substitutes"] = subs
-                    
-        # 3. İSTATİSTİKLER
-        stats_url = f"{BASE_URL}/fixtures/statistics?fixture={api_fixture_id}"
-        stat_resp = requests.get(stats_url, headers=HEADERS)
-        stats_dict = {
-            "possessionHome": 50, "possessionAway": 50,
-            "shotsHome": 0, "shotsAway": 0,
-            "shotsOnTargetHome": 0, "shotsOnTargetAway": 0,
-            "foulsHome": 0, "foulsAway": 0,
-            "cornersHome": 0, "cornersAway": 0,
-            "offsidesHome": 0, "offsidesAway": 0
-        }
-        
-        if stat_resp.status_code == 200:
-            stat_data = stat_resp.json()
-            responses = stat_data.get("response", [])
-            
-            def get_stat_val(stats_array, stat_type):
-                stat = next((item for item in stats_array if item["type"] == stat_type), None)
-                if not stat or stat["value"] is None: return 0
-                val = str(stat["value"])
-                if "%" in val: return int(val.replace("%", ""))
-                return int(val)
-                
-            if len(responses) >= 2:
-                stats_dict["possessionHome"] = get_stat_val(responses[0]["statistics"], "Ball Possession")
-                stats_dict["possessionAway"] = get_stat_val(responses[1]["statistics"], "Ball Possession")
-                stats_dict["shotsHome"] = get_stat_val(responses[0]["statistics"], "Total Shots")
-                stats_dict["shotsAway"] = get_stat_val(responses[1]["statistics"], "Total Shots")
-                stats_dict["shotsOnTargetHome"] = get_stat_val(responses[0]["statistics"], "Shots on Goal")
-                stats_dict["shotsOnTargetAway"] = get_stat_val(responses[1]["statistics"], "Shots on Goal")
-                stats_dict["foulsHome"] = get_stat_val(responses[0]["statistics"], "Fouls")
-                stats_dict["foulsAway"] = get_stat_val(responses[1]["statistics"], "Fouls")
-                stats_dict["cornersHome"] = get_stat_val(responses[0]["statistics"], "Corner Kicks")
-                stats_dict["cornersAway"] = get_stat_val(responses[1]["statistics"], "Corner Kicks")
-                stats_dict["offsidesHome"] = get_stat_val(responses[0]["statistics"], "Offsides")
-                stats_dict["offsidesAway"] = get_stat_val(responses[1]["statistics"], "Offsides")
-                
-        # Detay JSON dosyasını oluştur
-        detail_data = {
-            "stats": stats_dict,
-            "homeLineups": home_lineup,
-            "awayLineups": away_lineup,
-            "events": events_list
-        }
-        
-        # Dosyayı kaydet
-        detail_filename = f"match_detail_{our_fixture_id}.json"
-        with open(detail_filename, "w", encoding="utf-8") as df:
-            json.dump(detail_data, df, ensure_ascii=False, indent=4)
-        print(f"   -> {detail_filename} başarıyla güncellendi.")
+        fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, HEADERS)
         
         # API limitlerini korumak için kısa bekleme süresi
         time.sleep(0.5)
@@ -383,6 +384,144 @@ def main():
     with open(STATS_PATH, "w", encoding="utf-8") as sf:
         json.dump(stats_data, sf, ensure_ascii=False, indent=4)
     print("✅ stats_2026_2027.json başarıyla güncellendi.")
+
+    # 4. Avrupa Kupalarını Güncelle
+    update_europe_fixtures(API_KEY)
+
+def update_europe_fixtures(api_key):
+    print("\n🏆 UEFA Avrupa Kupaları maçları güncelleniyor...")
+    EUROPE_PATH = "fixtures_europe.json"
+    if not os.path.exists(EUROPE_PATH):
+        with open(EUROPE_PATH, "w", encoding="utf-8") as f:
+            json.dump([], f)
+
+    with open(EUROPE_PATH, "r", encoding="utf-8-sig") as f:
+        europe_fixtures = json.load(f)
+
+    # 5 temsilcimizin API-Football üzerindeki ID'leri
+    turkish_teams = {
+        "gs": 610,
+        "fb": 611,
+        "bjk": 549,
+        "ts": 558,
+        "bsk": 1005
+    }
+    
+    headers = {
+        "x-apisports-key": api_key,
+        "Accept": "application/json"
+    }
+
+    changed = False
+    
+    for team_code, api_team_id in turkish_teams.items():
+        print(f"   -> {team_code.upper()} için Avrupa maçları sorgulanıyor...")
+        url = f"https://v3.football.api-sports.io/fixtures?team={api_team_id}&season=2026"
+        resp = requests.get(url, headers=headers)
+        if resp.status_code != 200:
+            print(f"      UYARI: HTTP {resp.status_code} hatası.")
+            continue
+        
+        data = resp.json()
+        if "errors" in data and data["errors"]:
+            print(f"      UYARI: API hatası: {data['errors']}")
+            continue
+            
+        for match in data.get("response", []):
+            league_id = match["league"]["id"]
+            league_name = match["league"]["name"]
+            
+            # UEFA Champions League (2), UEFA Europa League (3), UEFA Conference League (848)
+            is_cl = (league_id == 2)
+            is_el = (league_id == 3)
+            is_ecl = (league_id == 848 or "conference" in league_name.lower())
+            
+            if not (is_cl or is_el or is_ecl):
+                continue
+                
+            comp_name = "Şampiyonlar Ligi" if is_cl else ("Avrupa Ligi" if is_el else "Konferans Ligi")
+            
+            home_api_name = match["teams"]["home"]["name"]
+            away_api_name = match["teams"]["away"]["name"]
+            
+            home_our_id = get_our_team_id(home_api_name)
+            away_our_id = get_our_team_id(away_api_name)
+            
+            if home_our_id:
+                h_id = home_our_id
+                h_name = match["teams"]["home"]["name"]
+                h_color = "0xFFFFD700"
+            else:
+                h_id = home_api_name.lower().replace(" ", "").replace(".", "")[:8]
+                h_name = home_api_name
+                h_color = "0xFFFFFFFF"
+                
+            if away_our_id:
+                a_id = away_our_id
+                a_name = match["teams"]["away"]["name"]
+                a_color = "0xFFFFD700"
+            else:
+                a_id = away_api_name.lower().replace(" ", "").replace(".", "")[:8]
+                a_name = away_api_name
+                a_color = "0xFFFFFFFF"
+                
+            raw_date = match["fixture"]["date"]
+            try:
+                date_part = raw_date.split("T")[0]
+                time_part = raw_date.split("T")[1][:5]
+            except:
+                date_part = "2026-09-16"
+                time_part = "22:00"
+
+            home_score = match["goals"]["home"]
+            away_score = match["goals"]["away"]
+            
+            status_short = match["fixture"]["status"]["short"]
+            is_played = status_short in ["FT", "AET", "PEN"]
+            is_live = status_short in ["1H", "2H", "HT", "ET", "P"]
+            
+            our_fixture_id = f"eu_{match['fixture']['id']}"
+            
+            found = False
+            for idx, local in enumerate(europe_fixtures):
+                if local["id"] == our_fixture_id:
+                    # Güncellemeleri yansıt
+                    if local.get("homeScore") != home_score or local.get("awayScore") != away_score or local.get("status") != status_short:
+                        europe_fixtures[idx]["homeScore"] = home_score if (is_played or is_live) else -1
+                        europe_fixtures[idx]["awayScore"] = away_score if (is_played or is_live) else -1
+                        changed = True
+                    found = True
+                    break
+                    
+            if not found:
+                europe_fixtures.append({
+                    "id": our_fixture_id,
+                    "week": 1,
+                    "home": h_id,
+                    "homeName": h_name,
+                    "homeColor": h_color,
+                    "away": a_id,
+                    "awayName": a_name,
+                    "awayColor": a_color,
+                    "homeScore": home_score if (is_played or is_live) else -1,
+                    "awayScore": away_score if (is_played or is_live) else -1,
+                    "date": date_part,
+                    "time": time_part,
+                    "competition": comp_name
+                })
+                changed = True
+                print(f"      + Yeni Avrupa Maçı Eklendi: {h_name} vs {a_name} ({comp_name})")
+
+            # Detaylı veriler (kadro, istatistik vb.)
+            if is_live or is_played:
+                fetch_and_write_match_details(match["fixture"]["id"], our_fixture_id, match, headers)
+        
+        time.sleep(1)
+
+    if changed:
+        with open(EUROPE_PATH, "w", encoding="utf-8") as f:
+            json.dump(europe_fixtures, f, ensure_ascii=False, indent=4)
+        print("🏆 Avrupa Fikstür dosyası başarıyla güncellendi.")
 
 if __name__ == "__main__":
     main()
