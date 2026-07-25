@@ -1,0 +1,93 @@
+{
+    "stats": {
+        "possessionHome": 58,
+        "possessionAway": 42,
+        "shotsHome": 14,
+        "shotsAway": 6,
+        "shotsOnTargetHome": 5,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 10,
+        "foulsAway": 12,
+        "cornersHome": 6,
+        "cornersAway": 2,
+        "offsidesHome": 2,
+        "offsidesAway": 1
+    },
+    "homeLineups": {
+        "starting11": [
+            "D. Livaković",
+            "B. Osayi-Samuel",
+            "A. Djiku",
+            "Ç. Söyüncü",
+            "Ferdi Kadıoğlu",
+            "İ. Yüksek",
+            "Fred",
+            "S. Szymański",
+            "İ. Kahveci",
+            "D. Tadić",
+            "E. Džeko"
+        ],
+        "substitutes": [
+            "İ. Eğribayat",
+            "M. Müldür",
+            "R. Rodrigo",
+            "B. Elmaz",
+            "C. Ünder",
+            "Y. En-Nesyri",
+            "C. Tosun"
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            "F. Szromnik",
+            "M. Sanchez",
+            "R. Janicki",
+            "K. Szala",
+            "E. Janža",
+            "D. Rasak",
+            "F. Nascimento",
+            "K. Tobolik",
+            "L. Podolski",
+            "K. Buksa",
+            "A. Krawczyk"
+        ],
+        "substitutes": [
+            "M. Neugebauer",
+            "D. Szala",
+            "P. Olkowski",
+            "N. Wojtuszek",
+            "S. Czyz",
+            "Y. Musiolik"
+        ]
+    },
+    "events": [
+        {
+            "minute": 42,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "D. Tadić",
+            "detail": "E. Džeko"
+        },
+        {
+            "minute": 60,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "D. Rasak",
+            "detail": ""
+        },
+        {
+            "minute": 75,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Y. En-Nesyri",
+            "detail": "E. Džeko"
+        },
+        {
+            "minute": 82,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "İ. Yüksek",
+            "detail": ""
+        }
+    ]
+}

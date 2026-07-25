@@ -1,0 +1,91 @@
+{
+    "stats": {
+        "possessionHome": 54,
+        "possessionAway": 46,
+        "shotsHome": 11,
+        "shotsAway": 8,
+        "shotsOnTargetHome": 4,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 11,
+        "foulsAway": 14,
+        "cornersHome": 5,
+        "cornersAway": 4,
+        "offsidesHome": 3,
+        "offsidesAway": 2
+    },
+    "homeLineups": {
+        "starting11": [
+            "M. Günok",
+            "J. Svensson",
+            "Gabriel Paulista",
+            "F. Uduokhai",
+            "A. Masuaku",
+            "Milot Rashica",
+            "Gedson Fernandes",
+            "Al-Musrati",
+            "Rafa Silva",
+            "Semih Kılıçsoy",
+            "Ciro Immobile"
+        ],
+        "substitutes": [
+            "E. Destanoğlu",
+            "Onur Bulut",
+            "E. Topçu",
+            "Jean Onana",
+            "Cher Ndour",
+            "E. Hekimoğlu",
+            "Muçi"
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            "J. Lössl",
+            "J. Andersson",
+            "M. Diao",
+            "M. Sørensen",
+            "Paulinho",
+            "E. Martínez",
+            "Oliver Sørensen",
+            "Aral Şimşir",
+            "O. Brynhildsen",
+            "F. Franculino",
+            "Cho Gue-sung"
+        ],
+        "substitutes": [
+            "O. Olafsson",
+            "K. Bak Jensen",
+            "V. Bech",
+            "E. Chilufya"
+        ]
+    },
+    "events": [
+        {
+            "minute": 30,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "E. Martínez",
+            "detail": ""
+        },
+        {
+            "minute": 55,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "A. Masuaku",
+            "detail": ""
+        },
+        {
+            "minute": 78,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "Ciro Immobile",
+            "detail": "Rafa Silva"
+        },
+        {
+            "minute": 82,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Muçi",
+            "detail": "Semih Kılıçsoy"
+        }
+    ]
+}

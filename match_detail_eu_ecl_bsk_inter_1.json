@@ -1,0 +1,89 @@
+{
+    "stats": {
+        "possessionHome": 62,
+        "possessionAway": 38,
+        "shotsHome": 16,
+        "shotsAway": 5,
+        "shotsOnTargetHome": 7,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 9,
+        "foulsAway": 15,
+        "cornersHome": 8,
+        "cornersAway": 1,
+        "offsidesHome": 1,
+        "offsidesAway": 3
+    },
+    "homeLineups": {
+        "starting11": [
+            "M. Şengezer",
+            "L. Duarte",
+            "O. Ba",
+            "J. Opoku",
+            "Ö. Sahiner",
+            "B. Özcan",
+            "Onur Ergün",
+            "D. Pelkas",
+            "Deniz Türüç",
+            "Davidson",
+            "K. Piątek"
+        ],
+        "substitutes": [
+            "V. Babacan",
+            "Hamza Güreler",
+            "Serdar Gürler",
+            "P. Keny",
+            "João Figueiredo"
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            "E. Huuhtanen",
+            "A. Niska",
+            "J. Hämäläinen",
+            "D. Legbo",
+            "B. Kouame",
+            "M. Ampofo",
+            "F. Krebs",
+            "T. Järvinen",
+            "J. Smith",
+            "D. Rökman",
+            "T. Stavitski"
+        ],
+        "substitutes": [
+            "T. Riikonen",
+            "V. Kuittinen",
+            "J. Heinonen",
+            "I. Nzoko"
+        ]
+    },
+    "events": [
+        {
+            "minute": 24,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "K. Piątek",
+            "detail": "Deniz Türüç"
+        },
+        {
+            "minute": 44,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "F. Krebs",
+            "detail": ""
+        },
+        {
+            "minute": 65,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "T. Järvinen",
+            "detail": "T. Stavitski"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "João Figueiredo",
+            "detail": "Davidson"
+        }
+    ]
+}
