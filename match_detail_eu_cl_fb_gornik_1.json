@@ -15,26 +15,29 @@
     },
     "homeLineups": {
         "starting11": [
-            "D. Livaković",
-            "B. Osayi-Samuel",
-            "A. Djiku",
-            "Ç. Söyüncü",
-            "Ferdi Kadıoğlu",
-            "İ. Yüksek",
+            "Dominik Livaković",
+            "Mert Müldür",
+            "Alexander Djiku",
+            "Çağlar Söyüncü",
+            "Jayden Oosterwolde",
+            "İsmail Yüksek",
             "Fred",
-            "S. Szymański",
-            "İ. Kahveci",
-            "D. Tadić",
-            "E. Džeko"
+            "Sebastian Szymański",
+            "Dušan Tadić",
+            "Allan Saint-Maximin",
+            "Youssef En-Nesyri"
         ],
         "substitutes": [
-            "İ. Eğribayat",
-            "M. Müldür",
-            "R. Rodrigo",
-            "B. Elmaz",
-            "C. Ünder",
-            "Y. En-Nesyri",
-            "C. Tosun"
+            "İrfan Can Eğribayat",
+            "Rodrigo Becão",
+            "Bright Osayi-Samuel",
+            "Bartuğ Elmaz",
+            "Mert Hakan Yandaş",
+            "İrfan Can Kahveci",
+            "Cengiz Ünder",
+            "Oğuz Aydın",
+            "Edin Džeko",
+            "Cenk Tosun"
         ]
     },
     "awayLineups": {
@@ -62,11 +65,11 @@
     },
     "events": [
         {
-            "minute": 42,
+            "minute": 37,
             "type": "GOAL",
             "isHomeTeam": true,
-            "playerName": "D. Tadić",
-            "detail": "E. Džeko"
+            "playerName": "Youssef En-Nesyri",
+            "detail": "Dušan Tadić"
         },
         {
             "minute": 60,
@@ -79,14 +82,14 @@
             "minute": 75,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "Y. En-Nesyri",
-            "detail": "E. Džeko"
+            "playerName": "Edin Džeko",
+            "detail": "Youssef En-Nesyri"
         },
         {
             "minute": 82,
             "type": "YELLOW_CARD",
             "isHomeTeam": true,
-            "playerName": "İ. Yüksek",
+            "playerName": "İsmail Yüksek",
             "detail": ""
         }
     ]

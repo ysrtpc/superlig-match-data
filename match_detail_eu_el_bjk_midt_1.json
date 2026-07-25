@@ -22,7 +22,7 @@
             "A. Masuaku",
             "Milot Rashica",
             "Gedson Fernandes",
-            "Al-Musrati",
+            "Orkun Kökçü",
             "Rafa Silva",
             "Semih Kılıçsoy",
             "Ciro Immobile"
@@ -31,6 +31,7 @@
             "E. Destanoğlu",
             "Onur Bulut",
             "E. Topçu",
+            "Al-Musrati",
             "Jean Onana",
             "Cher Ndour",
             "E. Hekimoğlu",
@@ -48,7 +49,7 @@
             "Oliver Sørensen",
             "Aral Şimşir",
             "O. Brynhildsen",
-            "F. Franculino",
+            "Etim",
             "Cho Gue-sung"
         ],
         "substitutes": [
@@ -59,6 +60,20 @@
         ]
     },
     "events": [
+        {
+            "minute": 15,
+            "type": "RED_CARD",
+            "isHomeTeam": false,
+            "playerName": "Etim",
+            "detail": "Kırmızı Kart"
+        },
+        {
+            "minute": 26,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "Orkun Kökçü",
+            "detail": "Rafa Silva"
+        },
         {
             "minute": 30,
             "type": "YELLOW_CARD",
@@ -72,13 +87,6 @@
             "isHomeTeam": true,
             "playerName": "A. Masuaku",
             "detail": ""
-        },
-        {
-            "minute": 78,
-            "type": "GOAL",
-            "isHomeTeam": true,
-            "playerName": "Ciro Immobile",
-            "detail": "Rafa Silva"
         },
         {
             "minute": 82,

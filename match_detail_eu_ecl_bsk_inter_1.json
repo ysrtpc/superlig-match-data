@@ -29,6 +29,7 @@
         ],
         "substitutes": [
             "V. Babacan",
+            "Emin Bayram",
             "Hamza Güreler",
             "Serdar Gürler",
             "P. Keny",
@@ -47,9 +48,10 @@
             "T. Järvinen",
             "J. Smith",
             "D. Rökman",
-            "T. Stavitski"
+            "Clinton Jephta"
         ],
         "substitutes": [
+            "T. Stavitski",
             "T. Riikonen",
             "V. Kuittinen",
             "J. Heinonen",
@@ -58,11 +60,11 @@
     },
     "events": [
         {
-            "minute": 24,
+            "minute": 16,
             "type": "GOAL",
-            "isHomeTeam": true,
-            "playerName": "K. Piątek",
-            "detail": "Deniz Türüç"
+            "isHomeTeam": false,
+            "playerName": "Clinton Jephta",
+            "detail": ""
         },
         {
             "minute": 44,
@@ -72,11 +74,18 @@
             "detail": ""
         },
         {
-            "minute": 65,
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Emin Bayram",
+            "detail": "O. Ba"
+        },
+        {
+            "minute": 54,
             "type": "GOAL",
-            "isHomeTeam": false,
-            "playerName": "T. Järvinen",
-            "detail": "T. Stavitski"
+            "isHomeTeam": true,
+            "playerName": "Emin Bayram",
+            "detail": "Deniz Türüç"
         },
         {
             "minute": 70,
