@@ -11,7 +11,13 @@
     "cornersHome": 9,
     "cornersAway": 2,
     "offsidesHome": 1,
-    "offsidesAway": 0
+    "offsidesAway": 0,
+    "xgHome": 1.61,
+    "xgAway": 0.06,
+    "bigChancesHome": 3,
+    "bigChancesAway": 0,
+    "passesHome": "92% (703/765)",
+    "passesAway": "73% (147/202)"
   },
   "homeLineups": {
     "starting11": [
