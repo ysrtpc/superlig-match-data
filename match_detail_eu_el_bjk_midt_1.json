@@ -1,4 +1,4 @@
-﻿{
+{
     "stats": {
         "possessionHome": 54,
         "possessionAway": 46,
@@ -15,14 +15,14 @@
     },
     "homeLineups": {
         "starting11": [
-            "M. Günok",
-            "J. Svensson",
+            "Mert Günok",
+            "Jonas Svensson",
             "Gabriel Paulista",
-            "F. Uduokhai",
-            "A. Masuaku",
-            "Milot Rashica",
+            "Felix Uduokhai",
+            "Arthur Masuaku",
             "Gedson Fernandes",
-            "Orkun Kökçü",
+            "Al-Musrati",
+            "Milot Rashica",
             "Rafa Silva",
             "Semih Kılıçsoy",
             "Ciro Immobile"
@@ -31,7 +31,7 @@
             "E. Destanoğlu",
             "Onur Bulut",
             "E. Topçu",
-            "Al-Musrati",
+            "Orkun Kökçü",
             "Jean Onana",
             "Cher Ndour",
             "E. Hekimoğlu",
@@ -71,7 +71,7 @@
             "minute": 26,
             "type": "GOAL",
             "isHomeTeam": true,
-            "playerName": "Orkun Kökçü",
+            "playerName": "Ciro Immobile",
             "detail": "Rafa Silva"
         },
         {

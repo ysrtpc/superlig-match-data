@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id": "eu_cl_fb_gornik_1",
         "week": 1,
@@ -190,8 +190,8 @@
         "awayColor": "0xFFCCCCCC",
         "homeScore": -1,
         "awayScore": -1,
-        "date": "20 Ağu 2026",
-        "time": "21:00",
+        "date": "",
+        "time": "",
         "competition": "Avrupa Ligi"
     },
     {
@@ -205,8 +205,8 @@
         "awayColor": "0xFF8B0000",
         "homeScore": -1,
         "awayScore": -1,
-        "date": "27 Ağu 2026",
-        "time": "21:00",
+        "date": "",
+        "time": "",
         "competition": "Avrupa Ligi"
     },
     {
@@ -220,8 +220,8 @@
         "awayColor": "0xFFCCCCCC",
         "homeScore": -1,
         "awayScore": -1,
-        "date": "15 Eyl 2026",
-        "time": "22:00",
+        "date": "",
+        "time": "",
         "competition": "Şampiyonlar Ligi"
     }
 ]

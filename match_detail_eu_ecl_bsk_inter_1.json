@@ -1,4 +1,4 @@
-﻿{
+{
     "stats": {
         "possessionHome": 62,
         "possessionAway": 38,
@@ -15,23 +15,24 @@
     },
     "homeLineups": {
         "starting11": [
-            "M. Şengezer",
-            "L. Duarte",
-            "O. Ba",
-            "J. Opoku",
-            "Ö. Sahiner",
-            "B. Özcan",
-            "Onur Ergün",
-            "D. Pelkas",
+            "Muhammed Şengezer",
+            "Léo Duarte",
+            "Ousseynou Ba",
+            "Jerome Opoku",
+            "Ömer Ali Şahiner",
+            "Berkay Özcan",
+            "Berat Özdemir",
+            "Dimitris Pelkas",
             "Deniz Türüç",
             "Davidson",
-            "K. Piątek"
+            "Krzysztof Piątek"
         ],
         "substitutes": [
             "V. Babacan",
             "Emin Bayram",
             "Hamza Güreler",
             "Serdar Gürler",
+            "Onur Ergün",
             "P. Keny",
             "João Figueiredo"
         ]
@@ -78,7 +79,7 @@
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "Emin Bayram",
-            "detail": "O. Ba"
+            "detail": "Ousseynou Ba"
         },
         {
             "minute": 54,

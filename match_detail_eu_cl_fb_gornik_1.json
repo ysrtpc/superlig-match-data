@@ -1,96 +1,142 @@
-﻿{
-    "stats": {
-        "possessionHome": 58,
-        "possessionAway": 42,
-        "shotsHome": 14,
-        "shotsAway": 6,
-        "shotsOnTargetHome": 5,
-        "shotsOnTargetAway": 1,
-        "foulsHome": 10,
-        "foulsAway": 12,
-        "cornersHome": 6,
-        "cornersAway": 2,
-        "offsidesHome": 2,
-        "offsidesAway": 1
-    },
-    "homeLineups": {
-        "starting11": [
-            "Dominik Livaković",
-            "Mert Müldür",
-            "Alexander Djiku",
-            "Çağlar Söyüncü",
-            "Jayden Oosterwolde",
-            "İsmail Yüksek",
-            "Fred",
-            "Sebastian Szymański",
-            "Dušan Tadić",
-            "Allan Saint-Maximin",
-            "Youssef En-Nesyri"
-        ],
-        "substitutes": [
-            "İrfan Can Eğribayat",
-            "Rodrigo Becão",
-            "Bright Osayi-Samuel",
-            "Bartuğ Elmaz",
-            "Mert Hakan Yandaş",
-            "İrfan Can Kahveci",
-            "Cengiz Ünder",
-            "Oğuz Aydın",
-            "Edin Džeko",
-            "Cenk Tosun"
-        ]
-    },
-    "awayLineups": {
-        "starting11": [
-            "F. Szromnik",
-            "M. Sanchez",
-            "R. Janicki",
-            "K. Szala",
-            "E. Janža",
-            "D. Rasak",
-            "F. Nascimento",
-            "K. Tobolik",
-            "L. Podolski",
-            "K. Buksa",
-            "A. Krawczyk"
-        ],
-        "substitutes": [
-            "M. Neugebauer",
-            "D. Szala",
-            "P. Olkowski",
-            "N. Wojtuszek",
-            "S. Czyz",
-            "Y. Musiolik"
-        ]
-    },
-    "events": [
-        {
-            "minute": 37,
-            "type": "GOAL",
-            "isHomeTeam": true,
-            "playerName": "Youssef En-Nesyri",
-            "detail": "Dušan Tadić"
-        },
-        {
-            "minute": 60,
-            "type": "YELLOW_CARD",
-            "isHomeTeam": false,
-            "playerName": "D. Rasak",
-            "detail": ""
-        },
-        {
-            "minute": 75,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "Edin Džeko",
-            "detail": "Youssef En-Nesyri"
-        },
-        {
-            "minute": 82,
-            "type": "YELLOW_CARD",
-            "isHomeTeam": true,
-            "playerName": "İsmail Yüksek",
-            "detail": ""
-        }
+{
+  "stats": {
+    "possessionHome": 79,
+    "possessionAway": 21,
+    "shotsHome": 15,
+    "shotsAway": 2,
+    "shotsOnTargetHome": 6,
+    "shotsOnTargetAway": 1,
+    "foulsHome": 8,
+    "foulsAway": 10,
+    "cornersHome": 9,
+    "cornersAway": 2,
+    "offsidesHome": 1,
+    "offsidesAway": 0
+  },
+  "homeLineups": {
+    "starting11": [
+      "Mert Günok",
+      "Nelson Semedo",
+      "Milan Skriniar",
+      "Nathan Aké",
+      "Jayden Oosterwolde",
+      "Matteo Guendouzi",
+      "Fred",
+      "Bartuğ Elmaz",
+      "İrfan Can Kahveci",
+      "Kerem Aktürkoğlu",
+      "Anderson Talisca"
+    ],
+    "substitutes": [
+      "Tarık Çetin",
+      "Ederson",
+      "Çağlar Söyüncü",
+      "Mert Müldür",
+      "Levent Mercan",
+      "İsmail Yüksek",
+      "Marco Asensio",
+      "Oğuz Aydın",
+      "Archie Brown",
+      "Sidiki Chérif",
+      "Mason Greenwood",
+      "Anthony Musaba"
     ]
+  },
+  "awayLineups": {
+    "starting11": [
+      "P. Schulze",
+      "M. Sacek",
+      "R. Janicki",
+      "Josema",
+      "E. Janza",
+      "L. Sadilek",
+      "M. Dietz",
+      "K. Urbanski",
+      "Y. Ikia Dimi",
+      "M. Khlan",
+      "E. Prekop"
+    ],
+    "substitutes": [
+      "W. Kania",
+      "P. Bochniewicz",
+      "P. Warczak",
+      "O. Zmrzly",
+      "S. Liseth",
+      "B. Donio",
+      "B. Durdov",
+      "Peter Federico"
+    ]
+  },
+  "events": [
+    {
+      "minute": 37,
+      "type": "GOAL",
+      "isHomeTeam": true,
+      "playerName": "Anderson Talisca",
+      "detail": "Gol"
+    },
+    {
+      "minute": 46,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": true,
+      "playerName": "Levent Mercan",
+      "detail": "Nathan Aké"
+    },
+    {
+      "minute": 69,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": true,
+      "playerName": "Oğuz Aydın",
+      "detail": "Kerem Aktürkoğlu"
+    },
+    {
+      "minute": 69,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": true,
+      "playerName": "Marco Asensio",
+      "detail": "Bartuğ Elmaz"
+    },
+    {
+      "minute": 72,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": false,
+      "playerName": "S. Liseth",
+      "detail": "K. Urbanski"
+    },
+    {
+      "minute": 72,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": false,
+      "playerName": "O. Zmrzly",
+      "detail": "Y. Ikia Dimi"
+    },
+    {
+      "minute": 76,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": false,
+      "playerName": "B. Donio",
+      "detail": "M. Dietz"
+    },
+    {
+      "minute": 83,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": true,
+      "playerName": "Mason Greenwood",
+      "detail": "İrfan Can Kahveci"
+    },
+    {
+      "minute": 87,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": true,
+      "playerName": "Sidiki Chérif",
+      "detail": "Anderson Talisca"
+    },
+    {
+      "minute": 90,
+      "type": "SUBSTITUTION",
+      "isHomeTeam": false,
+      "playerName": "P. Warczak",
+      "detail": "M. Khlan"
+    }
+  ]
 }
