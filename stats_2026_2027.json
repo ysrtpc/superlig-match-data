@@ -1,5 +1,186 @@
 {
-  "topScorers": [],
-  "topAssists": [],
-  "teamStats": []
+    "topScorers": [],
+    "topAssists": [],
+    "teamStats": [
+        {
+            "teamId": "bjk",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "bsk",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "kon",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "fb",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "gs",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "goz",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "ala",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "gcl",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "ts",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "kas",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "rize",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "erz",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "gfk",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "ame",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "eyup",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "sam",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "cor",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        },
+        {
+            "teamId": "koc",
+            "yellowCards": 0,
+            "redCards": 0,
+            "penaltiesWon": 0,
+            "penaltiesTotal": 0,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0
+        }
+    ]
 }
