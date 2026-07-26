@@ -90,36 +90,6 @@
         "competition": "Avrupa Ligi"
     },
     {
-        "id": "eu_1556502",
-        "week": 1,
-        "home": "fb",
-        "homeName": "Fenerbahçe",
-        "homeColor": "0xFFFFD700",
-        "away": "gornikza",
-        "awayName": "Gornik Zabrze",
-        "awayColor": "0xFFFFFFFF",
-        "homeScore": 1,
-        "awayScore": 0,
-        "date": "2026-07-21",
-        "time": "18:00",
-        "competition": "Şampiyonlar Ligi"
-    },
-    {
-        "id": "eu_1556506",
-        "week": 1,
-        "home": "gornikza",
-        "homeName": "Gornik Zabrze",
-        "homeColor": "0xFFFFFFFF",
-        "away": "fb",
-        "awayName": "Fenerbahçe",
-        "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "2026-07-29",
-        "time": "18:00",
-        "competition": "Şampiyonlar Ligi"
-    },
-    {
         "id": "eu_1556543",
         "week": 1,
         "home": "bjk",
