@@ -1,0 +1,148 @@
+{
+    "stats": {
+        "possessionHome": 79,
+        "possessionAway": 21,
+        "shotsHome": 15,
+        "shotsAway": 2,
+        "shotsOnTargetHome": 6,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 15,
+        "foulsAway": 11,
+        "cornersHome": 9,
+        "cornersAway": 2,
+        "offsidesHome": 0,
+        "offsidesAway": 0,
+        "xgHome": 0.0,
+        "xgAway": 0.0,
+        "bigChancesHome": 1,
+        "bigChancesAway": 0,
+        "passesHome": "92% (703/765)",
+        "passesAway": "73% (147/202)"
+    },
+    "homeLineups": {
+        "starting11": [
+            "M. Gunok",
+            "N. Semedo",
+            "M. Skriniar",
+            "N. Ake",
+            "J. Oosterwolde",
+            "M. Guendouzi",
+            "B. Elmaz",
+            "I. Kahveci",
+            "Fred",
+            "K. Akturkoglu",
+            "Talisca"
+        ],
+        "substitutes": [
+            "Ederson",
+            "T. Cetin",
+            "M. Asensio",
+            "M. Muldur",
+            "M. Greenwood",
+            "I. Yuksek",
+            "A. Musaba",
+            "A. Brown",
+            "S. Cherif",
+            "C. Soyuncu",
+            "O. Aydin",
+            "L. Mercan"
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            "P. Schulze",
+            "M. Sacek",
+            "R. Janicki",
+            "Josema",
+            "E. Janza",
+            "L. Sadilek",
+            "M. Dietz",
+            "K. Urbanski",
+            "Y. Dimi",
+            "E. Prekop",
+            "M. Khlan"
+        ],
+        "substitutes": [
+            "W. Kania",
+            "P. Bochniewicz",
+            "S. Liseth",
+            "O. Zmrzly",
+            "B. Durdov",
+            "B. Donio",
+            "P. Warczak",
+            "P. Federico"
+        ]
+    },
+    "events": [
+        {
+            "minute": 37,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "Talisca",
+            "detail": ""
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "N. Ake",
+            "detail": "L. Mercan"
+        },
+        {
+            "minute": 69,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "B. Elmaz",
+            "detail": "M. Asensio"
+        },
+        {
+            "minute": 69,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "K. Akturkoglu",
+            "detail": "O. Aydin"
+        },
+        {
+            "minute": 72,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "K. Urbanski",
+            "detail": "S. Liseth"
+        },
+        {
+            "minute": 72,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "Y. Dimi",
+            "detail": "O. Zmrzly"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Dietz",
+            "detail": "B. Donio"
+        },
+        {
+            "minute": 83,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "I. Kahveci",
+            "detail": "M. Greenwood"
+        },
+        {
+            "minute": 87,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Talisca",
+            "detail": "S. Cherif"
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Khlan",
+            "detail": "P. Warczak"
+        }
+    ]
+}
