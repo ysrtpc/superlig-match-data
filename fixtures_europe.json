@@ -178,50 +178,5 @@
         "date": "13 Ağu 2026",
         "time": "20:00",
         "competition": "Konferans Ligi"
-    },
-    {
-        "id": "eu_el_ts_playoff_1",
-        "week": 3,
-        "home": "ts",
-        "homeName": "Trabzonspor",
-        "homeColor": "0xFF8B0000",
-        "away": "rakip",
-        "awayName": "Rakip Bekleniyor",
-        "awayColor": "0xFFCCCCCC",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "",
-        "time": "",
-        "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_el_ts_playoff_2",
-        "week": 3,
-        "home": "rakip",
-        "homeName": "Rakip Bekleniyor",
-        "homeColor": "0xFFCCCCCC",
-        "away": "ts",
-        "awayName": "Trabzonspor",
-        "awayColor": "0xFF8B0000",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "",
-        "time": "",
-        "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_cl_gs_league_1",
-        "week": 4,
-        "home": "gs",
-        "homeName": "Galatasaray",
-        "homeColor": "0xFFFFD700",
-        "away": "rakip",
-        "awayName": "Rakip Bekleniyor",
-        "awayColor": "0xFFCCCCCC",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "",
-        "time": "",
-        "competition": "Şampiyonlar Ligi"
     }
 ]
