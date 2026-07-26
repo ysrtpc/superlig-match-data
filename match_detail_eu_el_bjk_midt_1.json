@@ -1,68 +1,80 @@
 {
     "stats": {
-        "possessionHome": 54,
-        "possessionAway": 46,
-        "shotsHome": 11,
-        "shotsAway": 8,
-        "shotsOnTargetHome": 4,
-        "shotsOnTargetAway": 2,
-        "foulsHome": 11,
-        "foulsAway": 14,
-        "cornersHome": 5,
-        "cornersAway": 4,
-        "offsidesHome": 3,
-        "offsidesAway": 2,
-        "xgHome": 1.45,
-        "xgAway": 0.62,
-        "bigChancesHome": 2,
-        "bigChancesAway": 1,
-        "passesHome": "85% (512/602)",
-        "passesAway": "81% (445/549)"
+        "possessionHome": 0,
+        "possessionAway": 0,
+        "shotsHome": 0,
+        "shotsAway": 0,
+        "shotsOnTargetHome": 0,
+        "shotsOnTargetAway": 0,
+        "foulsHome": 0,
+        "foulsAway": 0,
+        "cornersHome": 0,
+        "cornersAway": 0,
+        "offsidesHome": 0,
+        "offsidesAway": 0,
+        "xgHome": 0.0,
+        "xgAway": 0.0,
+        "bigChancesHome": 1,
+        "bigChancesAway": 0,
+        "passesHome": "",
+        "passesAway": ""
     },
     "homeLineups": {
         "starting11": [
-            "Mert Günok",
-            "Jonas Svensson",
-            "Gabriel Paulista",
-            "Felix Uduokhai",
-            "Arthur Masuaku",
-            "Gedson Fernandes",
-            "Al-Musrati",
-            "Milot Rashica",
-            "Rafa Silva",
-            "Semih Kılıçsoy",
-            "Ciro Immobile"
+            "A. Nubel",
+            "M. Murillo",
+            "T. Djalo",
+            "E. Topcu",
+            "R. Yilmaz",
+            "S. Ozcan",
+            "V. Cerny",
+            "J. Olaitan",
+            "O. Kokcu",
+            "I. Fakili",
+            "O. Hyeon-Gyu"
         ],
         "substitutes": [
-            "E. Destanoğlu",
-            "Onur Bulut",
-            "E. Topçu",
-            "Orkun Kökçü",
-            "Jean Onana",
-            "Cher Ndour",
-            "E. Hekimoğlu",
-            "Muçi"
+            "D. Alemdar",
+            "M. Rashica",
+            "E. Agbadou",
+            "T. Bulut",
+            "A. Bircan",
+            "C. Gursel",
+            "A. Hadziahmetovic",
+            "K. Yilmaz",
+            "S. Kilicsoy",
+            "K. Ouattara",
+            "M. Hekimoglu",
+            "D. Sahin"
         ]
     },
     "awayLineups": {
         "starting11": [
-            "J. Lössl",
-            "J. Andersson",
-            "M. Diao",
-            "M. Sørensen",
-            "Paulinho",
-            "E. Martínez",
-            "Oliver Sørensen",
-            "Aral Şimşir",
-            "O. Brynhildsen",
-            "Etim",
-            "Cho Gue-sung"
+            "E. Olafsson",
+            "R. Kristensen",
+            "L. Han-Beom",
+            "M. Sorensen",
+            "V. Bak",
+            "P. Billing",
+            "P. Bravo",
+            "V. Byskov",
+            "D. Osorio",
+            "F. Etim",
+            "Franculino"
         ],
         "substitutes": [
-            "O. Olafsson",
-            "K. Bak Jensen",
-            "V. Bech",
-            "E. Chilufya"
+            "N. Bakker",
+            "L. Selin",
+            "M. Erlic",
+            "C. Gue-Sung",
+            "K. Watjen",
+            "S. Johannesen",
+            "S. Iheanacho",
+            "A. Gabriel",
+            "D. Castillo",
+            "D. Beni",
+            "J. Emefile",
+            "A. Ndiaye"
         ]
     },
     "events": [
@@ -70,36 +82,78 @@
             "minute": 15,
             "type": "RED_CARD",
             "isHomeTeam": false,
-            "playerName": "Etim",
-            "detail": "Kırmızı Kart"
+            "playerName": "F. Etim",
+            "detail": ""
+        },
+        {
+            "minute": 18,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "V. Byskov",
+            "detail": "D. Castillo"
         },
         {
             "minute": 26,
             "type": "GOAL",
             "isHomeTeam": true,
-            "playerName": "Ciro Immobile",
-            "detail": "Rafa Silva"
+            "playerName": "O. Kokcu",
+            "detail": "V. Cerny"
         },
         {
-            "minute": 30,
-            "type": "YELLOW_CARD",
+            "minute": 46,
+            "type": "SUBSTITUTION",
             "isHomeTeam": false,
-            "playerName": "E. Martínez",
-            "detail": ""
+            "playerName": "Franculino",
+            "detail": "M. Erlic"
         },
         {
-            "minute": 55,
-            "type": "YELLOW_CARD",
-            "isHomeTeam": true,
-            "playerName": "A. Masuaku",
-            "detail": ""
+            "minute": 62,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "D. Osorio",
+            "detail": "C. Gue-Sung"
         },
         {
-            "minute": 82,
+            "minute": 63,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "Muçi",
-            "detail": "Semih Kılıçsoy"
+            "playerName": "I. Fakili",
+            "detail": "M. Rashica"
+        },
+        {
+            "minute": 63,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "O. Hyeon-Gyu",
+            "detail": "S. Kilicsoy"
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "S. Ozcan",
+            "detail": "K. Yilmaz"
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "R. Yilmaz",
+            "detail": "K. Ouattara"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "T. Djalo",
+            "detail": "E. Agbadou"
+        },
+        {
+            "minute": 83,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "",
+            "detail": "K. Watjen"
         }
     ]
 }
