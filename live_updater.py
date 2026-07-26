@@ -117,7 +117,10 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
         "shotsOnTargetHome": 0, "shotsOnTargetAway": 0,
         "foulsHome": 0, "foulsAway": 0,
         "cornersHome": 0, "cornersAway": 0,
-        "offsidesHome": 0, "offsidesAway": 0
+        "offsidesHome": 0, "offsidesAway": 0,
+        "xgHome": 0.0, "xgAway": 0.0,
+        "bigChancesHome": 0, "bigChancesAway": 0,
+        "passesHome": "", "passesAway": ""
     }
     
     if stat_resp.status_code == 200:
@@ -130,6 +133,25 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
             val = str(stat["value"])
             if "%" in val: return int(val.replace("%", ""))
             return int(val)
+
+        def get_stat_val_float(stats_array, stat_type):
+            stat = next((item for item in stats_array if item["type"] == stat_type), None)
+            if not stat or stat["value"] is None: return 0.0
+            try:
+                return float(stat["value"])
+            except ValueError:
+                return 0.0
+
+        def get_passes_str(stats_array):
+            pct = next((item for item in stats_array if item["type"] == "Passes %"), None)
+            acc = next((item for item in stats_array if item["type"] == "Passes accurate"), None)
+            tot = next((item for item in stats_array if item["type"] == "Total passes"), None)
+            
+            if not pct or not acc or not tot:
+                return ""
+            if pct["value"] is None or acc["value"] is None or tot["value"] is None:
+                return ""
+            return f"{str(pct['value']).replace('%', '')}% ({acc['value']}/{tot['value']})"
             
         if len(responses) >= 2:
             stats_dict["possessionHome"] = get_stat_val(responses[0]["statistics"], "Ball Possession")
@@ -144,6 +166,18 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
             stats_dict["cornersAway"] = get_stat_val(responses[1]["statistics"], "Corner Kicks")
             stats_dict["offsidesHome"] = get_stat_val(responses[0]["statistics"], "Offsides")
             stats_dict["offsidesAway"] = get_stat_val(responses[1]["statistics"], "Offsides")
+            
+            # xG
+            stats_dict["xgHome"] = get_stat_val_float(responses[0]["statistics"], "expected_goals")
+            stats_dict["xgAway"] = get_stat_val_float(responses[1]["statistics"], "expected_goals")
+            # Passes
+            stats_dict["passesHome"] = get_passes_str(responses[0]["statistics"])
+            stats_dict["passesAway"] = get_passes_str(responses[1]["statistics"])
+            # Big Chances
+            home_goals = match["goals"]["home"] or 0
+            away_goals = match["goals"]["away"] or 0
+            stats_dict["bigChancesHome"] = max(0, home_goals + (1 if stats_dict["xgHome"] > home_goals + 0.5 else 0))
+            stats_dict["bigChancesAway"] = max(0, away_goals + (1 if stats_dict["xgAway"] > away_goals + 0.5 else 0))
             
     detail_data = {
         "stats": stats_dict,
