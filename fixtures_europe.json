@@ -88,35 +88,5 @@
         "date": "30 Tem 2026",
         "time": "21:00",
         "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_1556543",
-        "week": 1,
-        "home": "bjk",
-        "homeName": "Beşiktaş",
-        "homeColor": "0xFFFFD700",
-        "away": "midtjylland",
-        "awayName": "Midtjylland",
-        "awayColor": "0xFFFFFFFF",
-        "homeScore": 1,
-        "awayScore": 0,
-        "date": "2026-07-23",
-        "time": "18:00",
-        "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_1556549",
-        "week": 1,
-        "home": "midtjylland",
-        "homeName": "Midtjylland",
-        "homeColor": "0xFFFFFFFF",
-        "away": "bjk",
-        "awayName": "Beşiktaş",
-        "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "2026-07-30",
-        "time": "17:00",
-        "competition": "Avrupa Ligi"
     }
 ]
