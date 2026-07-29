@@ -1,6 +1,6 @@
 [
     {
-        "id": "eu_cl_fb_gornik_1",
+        "id": "eu_1556502",
         "week": 1,
         "home": "fb",
         "homeName": "Fenerbahçe",
@@ -15,7 +15,7 @@
         "competition": "Şampiyonlar Ligi"
     },
     {
-        "id": "eu_cl_fb_gornik_2",
+        "id": "eu_1556506",
         "week": 1,
         "home": "gornik",
         "homeName": "Górnik Zabrze",
@@ -30,7 +30,7 @@
         "competition": "Şampiyonlar Ligi"
     },
     {
-        "id": "eu_ecl_bsk_inter_1",
+        "id": "eu_1593477",
         "week": 1,
         "home": "bsk",
         "homeName": "Başakşehir",
@@ -45,7 +45,7 @@
         "competition": "Konferans Ligi"
     },
     {
-        "id": "eu_ecl_bsk_inter_2",
+        "id": "eu_1593507",
         "week": 1,
         "home": "interturku",
         "homeName": "Inter Turku",
@@ -60,7 +60,7 @@
         "competition": "Konferans Ligi"
     },
     {
-        "id": "eu_el_bjk_midt_1",
+        "id": "eu_1556543",
         "week": 1,
         "home": "bjk",
         "homeName": "Beşiktaş",
@@ -75,7 +75,7 @@
         "competition": "Avrupa Ligi"
     },
     {
-        "id": "eu_el_bjk_midt_2",
+        "id": "eu_1556549",
         "week": 1,
         "home": "midtjylland",
         "homeName": "Midtjylland",
@@ -86,67 +86,7 @@
         "homeScore": -1,
         "awayScore": -1,
         "date": "30 Tem 2026",
-        "time": "20:00",
-        "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_1556502",
-        "week": 1,
-        "home": "fb",
-        "homeName": "Fenerbahçe",
-        "homeColor": "0xFFFFD700",
-        "away": "gornikza",
-        "awayName": "Gornik Zabrze",
-        "awayColor": "0xFFFFFFFF",
-        "homeScore": 1,
-        "awayScore": 0,
-        "date": "2026-07-21",
-        "time": "18:00",
-        "competition": "Şampiyonlar Ligi"
-    },
-    {
-        "id": "eu_1556506",
-        "week": 1,
-        "home": "gornikza",
-        "homeName": "Gornik Zabrze",
-        "homeColor": "0xFFFFFFFF",
-        "away": "fb",
-        "awayName": "Fenerbahçe",
-        "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "2026-07-29",
-        "time": "18:00",
-        "competition": "Şampiyonlar Ligi"
-    },
-    {
-        "id": "eu_1556543",
-        "week": 1,
-        "home": "bjk",
-        "homeName": "Beşiktaş",
-        "homeColor": "0xFFFFD700",
-        "away": "fcmidtjy",
-        "awayName": "FC Midtjylland",
-        "awayColor": "0xFFFFFFFF",
-        "homeScore": 1,
-        "awayScore": 0,
-        "date": "2026-07-23",
-        "time": "18:00",
-        "competition": "Avrupa Ligi"
-    },
-    {
-        "id": "eu_1556549",
-        "week": 1,
-        "home": "fcmidtjy",
-        "homeName": "FC Midtjylland",
-        "homeColor": "0xFFFFFFFF",
-        "away": "bjk",
-        "awayName": "Beşiktaş",
-        "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "2026-07-30",
-        "time": "17:00",
+        "time": "21:00",
         "competition": "Avrupa Ligi"
     }
 ]
