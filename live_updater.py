@@ -7,7 +7,7 @@ import requests
 
 # API Ayarları
 API_KEY = os.environ.get("API_FOOTBALL_KEY")
-if not API_KEY or API_KEY == "BURAYA_API_FOOTBALL_ANAHTARINIZI_YAZIN":
+if not API_KEY or API_KEY == "ecf30a557d07eaf691f5d527159d1882":
     print("UYARI: API_FOOTBALL_KEY ortam degiskeni (GitHub Repository Secrets) tanimli degil!")
     print("Lutfen GitHub Ayarlari -> Secrets and variables -> Actions altinda 'API_FOOTBALL_KEY' adinda bir sir tanımlayin.")
     sys.exit(0)
