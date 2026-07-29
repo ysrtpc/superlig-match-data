@@ -48,6 +48,9 @@ def get_our_team_id(api_name):
     if "çorum" in n or "corum" in n: return "cor"
     if "amed" in n: return "ame"
     if "erzurum" in n or "erzurumspor" in n: return "erz"
+    if "górnik" in n or "gornik" in n: return "gornik"
+    if "midtjylland" in n: return "midtjylland"
+    if "inter turku" in n or "interturku" in n: return "interturku"
     return None
 
 def format_player_name(full_name):
@@ -120,7 +123,8 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
         "offsidesHome": 0, "offsidesAway": 0,
         "xgHome": 0.0, "xgAway": 0.0,
         "bigChancesHome": 0, "bigChancesAway": 0,
-        "passesHome": "", "passesAway": ""
+        "passesHome": "", "passesAway": "",
+        "savesHome": 0, "savesAway": 0
     }
     
     if stat_resp.status_code == 200:
@@ -173,6 +177,9 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
             # Passes
             stats_dict["passesHome"] = get_passes_str(responses[0]["statistics"])
             stats_dict["passesAway"] = get_passes_str(responses[1]["statistics"])
+            # Saves
+            stats_dict["savesHome"] = get_stat_val(responses[0]["statistics"], "Goalkeeper Saves")
+            stats_dict["savesAway"] = get_stat_val(responses[1]["statistics"], "Goalkeeper Saves")
             # Big Chances
             home_goals = match["goals"]["home"] or 0
             away_goals = match["goals"]["away"] or 0
@@ -266,12 +273,22 @@ def main():
         away_score = match["goals"]["away"]
         
         # Eğer maç başladıysa skorları güncelle
+        is_live = status_short in ["1H", "2H", "HT", "ET", "BT", "P", "LIVE"]
+        is_played = status_short in ["FT", "AET", "PEN"]
+        status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
+        
         if home_score is not None and away_score is not None:
-            if local_match["homeScore"] != home_score or local_match["awayScore"] != away_score:
+            if (local_match.get("homeScore") != home_score or 
+                local_match.get("awayScore") != away_score or 
+                local_match.get("isLive") != is_live or 
+                local_match.get("status") != status_val):
+                
                 local_match["homeScore"] = home_score
                 local_match["awayScore"] = away_score
+                local_match["isLive"] = is_live
+                local_match["status"] = status_val
                 changed = True
-                print(f" Skor güncellendi: {home_id} {home_score} - {away_score} {away_id}")
+                print(f" Skor güncellendi: {home_id} {home_score} - {away_score} {away_id} (Status: {status_val})")
                 
         # API verisinde canlı maç veya yeni bitmiş maç ise detayları (olay/kadro/istatistik) çekelim
         fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, HEADERS)
@@ -403,6 +420,56 @@ def main():
                 goals_scored = goals.get("for", {}).get("total", {}).get("home", 0) + goals.get("for", {}).get("total", {}).get("away", 0)
                 goals_conceded = goals.get("against", {}).get("total", {}).get("home", 0) + goals.get("against", {}).get("total", {}).get("away", 0)
 
+            # 4 yeni istatistiğin yerel verilerden hesaplanması
+            clean_sheets = 0
+            played_details = []
+            for f in local_fixtures:
+                h_score = f.get("homeScore")
+                a_score = f.get("awayScore")
+                if h_score is not None and a_score is not None and h_score != -1 and a_score != -1:
+                    # Clean Sheets
+                    if f["home"] == team_id and a_score == 0:
+                        clean_sheets += 1
+                    elif f["away"] == team_id and h_score == 0:
+                        clean_sheets += 1
+                    
+                    # Match detail verileri
+                    if f["home"] == team_id or f["away"] == team_id:
+                        detail_file = f"match_detail_{f['id']}.json"
+                        # assets klasöründe veya root klasöründe olabilir
+                        possible_paths = [
+                            detail_file,
+                            os.path.join("superlig-app", "app", "src", "main", "assets", "match_details", detail_file)
+                        ]
+                        for path in possible_paths:
+                            if os.path.exists(path):
+                                try:
+                                    with open(path, "r", encoding="utf-8") as df:
+                                        det = json.load(df)
+                                        played_details.append((f["home"] == team_id, det))
+                                    break
+                                except Exception:
+                                    pass
+
+            pos_sum = 0
+            sot_sum = 0
+            saves_sum = 0
+            games_count = len(played_details)
+            for is_home, det in played_details:
+                stats = det.get("stats", {})
+                if is_home:
+                    pos_sum += stats.get("possessionHome", 50)
+                    sot_sum += stats.get("shotsOnTargetHome", 0)
+                    saves_sum += stats.get("savesHome", 0)
+                else:
+                    pos_sum += stats.get("possessionAway", 50)
+                    sot_sum += stats.get("shotsOnTargetAway", 0)
+                    saves_sum += stats.get("savesAway", 0)
+
+            pos_avg = round(pos_sum / games_count, 1) if games_count > 0 else 50.0
+            sot_avg = round(sot_sum / games_count, 1) if games_count > 0 else 0.0
+            total_saves = saves_sum
+
             stats_data["teamStats"].append({
                 "teamId": team_id,
                 "yellowCards": yellow_cards,
@@ -411,7 +478,11 @@ def main():
                 "penaltiesTotal": penalties_total,
                 "goalsScored": goals_scored,
                 "goalsConceded": goals_conceded,
-                "npxg": round(float(goals_scored) * 0.9, 1) # Tahmini non-penalty xG
+                "npxg": round(float(goals_scored) * 0.9, 1), # Tahmini non-penalty xG
+                "cleanSheets": clean_sheets,
+                "possessionAvg": pos_avg,
+                "shotsOnTargetAvg": sot_avg,
+                "saves": total_saves
             })
 
     # Stats dosyasını kaydet
@@ -421,6 +492,19 @@ def main():
 
     # 4. Avrupa Kupalarını Güncelle
     update_europe_fixtures(API_KEY)
+
+def format_to_turkish_date(date_str):
+    try:
+        parts = date_str.split("-")
+        if len(parts) == 3:
+            year = parts[0]
+            month = int(parts[1])
+            day = int(parts[2])
+            months = ["", "Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
+            return f"{day} {months[month]} {year}"
+    except:
+        pass
+    return date_str
 
 def update_europe_fixtures(api_key):
     print("\n🏆 UEFA Avrupa Kupaları maçları güncelleniyor...")
@@ -438,7 +522,7 @@ def update_europe_fixtures(api_key):
         "fb": 611,
         "bjk": 549,
         "ts": 558,
-        "bsk": 1005
+        "bsk": 564
     }
     
     headers = {
@@ -507,6 +591,8 @@ def update_europe_fixtures(api_key):
                 date_part = "2026-09-16"
                 time_part = "22:00"
 
+            turkish_date = format_to_turkish_date(date_part)
+
             home_score = match["goals"]["home"]
             away_score = match["goals"]["away"]
             
@@ -518,16 +604,39 @@ def update_europe_fixtures(api_key):
             
             found = False
             for idx, local in enumerate(europe_fixtures):
-                if local["id"] == our_fixture_id:
-                    # Güncellemeleri yansıt
-                    if local.get("homeScore") != home_score or local.get("awayScore") != away_score or local.get("status") != status_short:
-                        europe_fixtures[idx]["homeScore"] = home_score if (is_played or is_live) else -1
-                        europe_fixtures[idx]["awayScore"] = away_score if (is_played or is_live) else -1
+                if local["id"] == our_fixture_id or (local["home"] == h_id and local["away"] == a_id):
+                    # Keep / update fields
+                    if local["id"] != our_fixture_id:
+                        europe_fixtures[idx]["id"] = our_fixture_id
                         changed = True
+                    
+                    if "-" in local.get("date", ""):
+                        europe_fixtures[idx]["date"] = turkish_date
+                        changed = True
+                    elif local.get("date") != turkish_date and turkish_date:
+                        europe_fixtures[idx]["date"] = turkish_date
+                        changed = True
+                        
+                    home_score_val = home_score if (is_played or is_live) else -1
+                    away_score_val = away_score if (is_played or is_live) else -1
+                    
+                    status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
+                    if (local.get("homeScore") != home_score_val or 
+                        local.get("awayScore") != away_score_val or 
+                        local.get("isLive") != is_live or 
+                        local.get("status") != status_val):
+                        
+                        europe_fixtures[idx]["homeScore"] = home_score_val
+                        europe_fixtures[idx]["awayScore"] = away_score_val
+                        europe_fixtures[idx]["isLive"] = is_live
+                        europe_fixtures[idx]["status"] = status_val
+                        changed = True
+                        
                     found = True
                     break
                     
             if not found:
+                status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
                 europe_fixtures.append({
                     "id": our_fixture_id,
                     "week": 1,
@@ -539,9 +648,11 @@ def update_europe_fixtures(api_key):
                     "awayColor": a_color,
                     "homeScore": home_score if (is_played or is_live) else -1,
                     "awayScore": away_score if (is_played or is_live) else -1,
-                    "date": date_part,
+                    "date": turkish_date,
                     "time": time_part,
-                    "competition": comp_name
+                    "competition": comp_name,
+                    "isLive": is_live,
+                    "status": status_val
                 })
                 changed = True
                 print(f"      + Yeni Avrupa Maçı Eklendi: {h_name} vs {a_name} ({comp_name})")
