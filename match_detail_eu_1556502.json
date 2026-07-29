@@ -17,7 +17,9 @@
         "bigChancesHome": 1,
         "bigChancesAway": 0,
         "passesHome": "92% (703/765)",
-        "passesAway": "73% (147/202)"
+        "passesAway": "73% (147/202)",
+        "savesHome": 1,
+        "savesAway": 5
     },
     "homeLineups": {
         "starting11": [

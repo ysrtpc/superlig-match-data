@@ -1,0 +1,116 @@
+{
+    "stats": {
+        "possessionHome": 50,
+        "possessionAway": 50,
+        "shotsHome": 9,
+        "shotsAway": 6,
+        "shotsOnTargetHome": 4,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 4,
+        "foulsAway": 7,
+        "cornersHome": 5,
+        "cornersAway": 3,
+        "offsidesHome": 0,
+        "offsidesAway": 2,
+        "xgHome": 0.0,
+        "xgAway": 0.0,
+        "bigChancesHome": 1,
+        "bigChancesAway": 1,
+        "passesHome": "82% (171/209)",
+        "passesAway": "89% (194/217)",
+        "savesHome": 0,
+        "savesAway": 3
+    },
+    "homeLineups": {
+        "starting11": [
+            "P. Schulze",
+            "M. Sáček",
+            "R. Janicki",
+            "Josema",
+            "E. Janža",
+            "L. Sadílek",
+            "M. Dietz",
+            "K. Urbański",
+            "Y. Dimi",
+            "E. Prekop",
+            "T. Ismaheel"
+        ],
+        "substitutes": [
+            "W. Kania",
+            "P. Warczak",
+            "P. Bochniewicz",
+            "P. González",
+            "O. Zmrzlý",
+            "B. Donio",
+            "M. Khlan",
+            "B. Durdov",
+            "M. Rakoczy",
+            "S. Liseth"
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            "M. Günok",
+            "N. Semedo",
+            "M. Škriniar",
+            "N. Aké",
+            "J. Oosterwolde",
+            "M. Guendouzi",
+            "Fred",
+            "İ. Kahveci",
+            "M. Asensio",
+            "K. Aktürkoğlu",
+            "Talisca"
+        ],
+        "substitutes": [
+            "T. Çetin",
+            "Ederson",
+            "A. Brown",
+            "Ç. Söyüncü",
+            "M. Müldür",
+            "L. Mercan",
+            "İ. Yüksek",
+            "A. Musaba",
+            "B. Elmaz",
+            "O. Aydın",
+            "M. Greenwood"
+        ]
+    },
+    "events": [
+        {
+            "minute": 11,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "L. Sadilek",
+            "detail": ""
+        },
+        {
+            "minute": 12,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "Talisca",
+            "detail": ""
+        },
+        {
+            "minute": 29,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "E. Janza",
+            "detail": ""
+        },
+        {
+            "minute": 41,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "J. Oosterwolde",
+            "detail": ""
+        },
+        {
+            "minute": 45,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Sacek",
+            "detail": "E. Prekop"
+        }
+    ]
+}

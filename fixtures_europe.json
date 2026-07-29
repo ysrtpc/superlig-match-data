@@ -12,7 +12,9 @@
         "awayScore": 0,
         "date": "21 Tem 2026",
         "time": "21:00",
-        "competition": "Şampiyonlar Ligi"
+        "competition": "Şampiyonlar Ligi",
+        "isLive": false,
+        "status": "PLAYED"
     },
     {
         "id": "eu_1556506",
@@ -23,11 +25,13 @@
         "away": "fb",
         "awayName": "Fenerbahçe",
         "awayColor": "0xFF003DA5",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 1,
+        "awayScore": 1,
         "date": "29 Tem 2026",
         "time": "21:00",
-        "competition": "Şampiyonlar Ligi"
+        "competition": "Şampiyonlar Ligi",
+        "isLive": true,
+        "status": "LIVE"
     },
     {
         "id": "eu_1593477",
@@ -42,7 +46,9 @@
         "awayScore": 1,
         "date": "22 Tem 2026",
         "time": "20:00",
-        "competition": "Konferans Ligi"
+        "competition": "Konferans Ligi",
+        "isLive": false,
+        "status": "PLAYED"
     },
     {
         "id": "eu_1593507",
@@ -57,7 +63,9 @@
         "awayScore": -1,
         "date": "30 Tem 2026",
         "time": "19:00",
-        "competition": "Konferans Ligi"
+        "competition": "Konferans Ligi",
+        "isLive": false,
+        "status": "NOT_PLAYED"
     },
     {
         "id": "eu_1556543",
@@ -72,7 +80,9 @@
         "awayScore": 0,
         "date": "23 Tem 2026",
         "time": "21:00",
-        "competition": "Avrupa Ligi"
+        "competition": "Avrupa Ligi",
+        "isLive": false,
+        "status": "PLAYED"
     },
     {
         "id": "eu_1556549",
@@ -87,6 +97,8 @@
         "awayScore": -1,
         "date": "30 Tem 2026",
         "time": "21:00",
-        "competition": "Avrupa Ligi"
+        "competition": "Avrupa Ligi",
+        "isLive": false,
+        "status": "NOT_PLAYED"
     }
 ]

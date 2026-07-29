@@ -17,7 +17,9 @@
         "bigChancesHome": 1,
         "bigChancesAway": 0,
         "passesHome": "",
-        "passesAway": ""
+        "passesAway": "",
+        "savesHome": 0,
+        "savesAway": 0
     },
     "homeLineups": {
         "starting11": [
