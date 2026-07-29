@@ -30,10 +30,8 @@
   "date": "29 Tem 2026",
   "time": "21:00",
   "competition": "Şampiyonlar Ligi",
-  "isLive": true,
-  "status": "LIVE",
-  "minute": 68,
-  "minuteText": "68'"
+  "isLive": false,
+  "status": "PLAYED"
 },
 {
     "id": "eu_1593477",
