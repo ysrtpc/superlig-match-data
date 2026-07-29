@@ -1,25 +1,25 @@
 {
     "stats": {
-        "possessionHome": 50,
-        "possessionAway": 50,
-        "shotsHome": 9,
-        "shotsAway": 6,
-        "shotsOnTargetHome": 4,
-        "shotsOnTargetAway": 1,
-        "foulsHome": 4,
-        "foulsAway": 7,
-        "cornersHome": 5,
-        "cornersAway": 3,
-        "offsidesHome": 0,
+        "possessionHome": 48,
+        "possessionAway": 52,
+        "shotsHome": 15,
+        "shotsAway": 13,
+        "shotsOnTargetHome": 6,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 8,
+        "foulsAway": 15,
+        "cornersHome": 9,
+        "cornersAway": 7,
+        "offsidesHome": 1,
         "offsidesAway": 2,
         "xgHome": 0.0,
         "xgAway": 0.0,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "82% (171/209)",
-        "passesAway": "89% (194/217)",
-        "savesHome": 0,
-        "savesAway": 3
+        "passesHome": "78% (294/375)",
+        "passesAway": "86% (372/431)",
+        "savesHome": 1,
+        "savesAway": 5
     },
     "homeLineups": {
         "starting11": [
@@ -28,24 +28,24 @@
             "R. Janicki",
             "Josema",
             "E. Janža",
-            "L. Sadílek",
             "M. Dietz",
-            "K. Urbański",
             "Y. Dimi",
-            "E. Prekop",
-            "T. Ismaheel"
+            "L. Sadílek",
+            "K. Urbański",
+            "T. Ismaheel",
+            "E. Prekop"
         ],
         "substitutes": [
+            "M. Khlan",
+            "S. Liseth",
             "W. Kania",
             "P. Warczak",
             "P. Bochniewicz",
             "P. González",
             "O. Zmrzlý",
             "B. Donio",
-            "M. Khlan",
             "B. Durdov",
-            "M. Rakoczy",
-            "S. Liseth"
+            "M. Rakoczy"
         ]
     },
     "awayLineups": {
@@ -63,17 +63,17 @@
             "Talisca"
         ],
         "substitutes": [
+            "İ. Yüksek",
+            "M. Greenwood",
             "T. Çetin",
             "Ederson",
             "A. Brown",
             "Ç. Söyüncü",
             "M. Müldür",
             "L. Mercan",
-            "İ. Yüksek",
             "A. Musaba",
             "B. Elmaz",
-            "O. Aydın",
-            "M. Greenwood"
+            "O. Aydın"
         ]
     },
     "events": [
@@ -92,7 +92,7 @@
             "detail": ""
         },
         {
-            "minute": 29,
+            "minute": 28,
             "type": "YELLOW_CARD",
             "isHomeTeam": true,
             "playerName": "E. Janza",
@@ -111,6 +111,111 @@
             "isHomeTeam": true,
             "playerName": "M. Sacek",
             "detail": "E. Prekop"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Asensio",
+            "detail": "I. Yuksek"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "I. Kahveci",
+            "detail": "M. Greenwood"
+        },
+        {
+            "minute": 63,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Dietz",
+            "detail": "M. Khlan"
+        },
+        {
+            "minute": 63,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Prekop",
+            "detail": "S. Liseth"
+        },
+        {
+            "minute": 66,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "R. Janicki",
+            "detail": ""
+        },
+        {
+            "minute": 70,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "Josema",
+            "detail": ""
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "K. Akturkoglu",
+            "detail": "A. Musaba"
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Y. Dimi",
+            "detail": "P. Federico"
+        },
+        {
+            "minute": 80,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "Talisca",
+            "detail": "O. Aydin"
+        },
+        {
+            "minute": 82,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "L. Sadilek",
+            "detail": "B. Durdov"
+        },
+        {
+            "minute": 86,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "N. Semedo",
+            "detail": ""
+        },
+        {
+            "minute": 87,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "N. Semedo",
+            "detail": "M. Muldur"
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "M. Greenwood",
+            "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "Fred",
+            "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "M. Guendouzi",
+            "detail": ""
         }
     ]
 }
