@@ -1,0 +1,110 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "V. Sarkauskas",
+                                           "D. Šešplaukis",
+                                           "D. Lupano",
+                                           "P. Bosančić",
+                                           "D. Franke",
+                                           "I. Lytvynenko",
+                                           "Y. Kendysh",
+                                           "P. Golubickas",
+                                           "S. Bilenkyi",
+                                           "B. Teixeira",
+                                           "N. Petković"
+                                       ],
+                        "substitutes":  [
+                                            "C. Olses",
+                                            "G. Turda",
+                                            "K. Upstas",
+                                            "M. Setkus",
+                                            "S. Mamatsashvili",
+                                            "M. Capan",
+                                            "N. Mihajlović",
+                                            "G. Jarusevicius",
+                                            "O. Verbickas",
+                                            "M. Vareika",
+                                            "K. Bička",
+                                            "L. Antal"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "G. Loria",
+                                           "P. Psaltis",
+                                           "N. Kurdić",
+                                           "A. Kalandadze",
+                                           "L. Santos",
+                                           "B. Osei",
+                                           "N. Ninua",
+                                           "K. Kakashvili",
+                                           "M. Couto",
+                                           "A. Bah",
+                                           "T. Kvaratskhelia"
+                                       ],
+                        "substitutes":  [
+                                            "M. Makatsaria",
+                                            "M. Gagvishvili",
+                                            "N. Tkalia",
+                                            "G. Gogua",
+                                            "L. Tsikolia",
+                                            "L. Houri",
+                                            "M. Vatsadze",
+                                            "D. Kvartskhava",
+                                            "R. Aleksidze",
+                                            "R. Danelia",
+                                            "M. Gbomadu"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  8,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Kalandadze",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  10,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Petkovic",
+                       "detail":  "N. Petkovic"
+                   },
+                   {
+                       "minute":  22,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Psaltis",
+                       "detail":  "L. Houri"
+                   },
+                   {
+                       "minute":  25,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Bilenkyi",
+                       "detail":  "P. Golubickas"
+                   }
+               ]
+}
