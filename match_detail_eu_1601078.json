@@ -1,5 +1,5 @@
 {
-    "elapsed":  77,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -57,6 +57,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "D. Ouattara",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
