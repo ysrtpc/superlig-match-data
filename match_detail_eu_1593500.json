@@ -1,6 +1,6 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  52,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -120,6 +120,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Stefanescu",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Stefanescu",
+                       "detail":  "D. Nistor"
                    }
                ]
 }
