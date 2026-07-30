@@ -1,5 +1,5 @@
 {
-    "elapsed":  75,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -35,6 +35,7 @@
                                            "L. Jawo"
                                        ],
                         "substitutes":  [
+                                            "A. Růsek",
                                             "K. Mihelak",
                                             "D. Souček",
                                             "F. Novák",
@@ -42,7 +43,6 @@
                                             "E. Sobol",
                                             "M. Malenšek",
                                             "S. Nebyla",
-                                            "A. Růsek",
                                             "J. Chramosta",
                                             "F. Vecheta"
                                         ]
@@ -62,15 +62,15 @@
                                            "A. Latković"
                                        ],
                         "substitutes":  [
+                                            "G. Sikošek",
+                                            "M. Marina",
+                                            "I. Mamut",
                                             "O. Zelenika",
                                             "M. Mladenovski",
                                             "N. Tepšić",
-                                            "G. Sikošek",
                                             "L. Posinković",
                                             "I. Posavec",
-                                            "M. Marina",
-                                            "S. Jurić",
-                                            "I. Mamut"
+                                            "S. Jurić"
                                         ]
                     },
     "events":  [
@@ -122,6 +122,62 @@
                        "isHomeTeam":  true,
                        "playerName":  "J. Slama",
                        "detail":  "A. Rusek"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Rusek",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Jawo",
+                       "detail":  "F. Vecheta"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "F. Zorvan",
+                       "detail":  "S. Nebyla"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Kozel",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Skaricic",
+                       "detail":  "M. Mladenovski"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Tavares",
+                       "detail":  "S. Juric"
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Sedlacek",
+                       "detail":  "D. Soucek"
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Chanturishvili",
+                       "detail":  "H. Ahl"
                    }
                ]
 }
