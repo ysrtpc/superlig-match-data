@@ -1,5 +1,5 @@
 {
-    "elapsed":  52,
+    "elapsed":  72,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -102,6 +102,34 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
                        "playerName":  "B. Lyons-Foster",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Olayinka",
+                       "detail":  "D. Burns"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Lyons-Foster",
+                       "detail":  "B. Cotter"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Majstorovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Dummigan",
                        "detail":  ""
                    }
                ]
