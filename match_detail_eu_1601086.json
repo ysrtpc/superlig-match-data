@@ -1,5 +1,5 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -43,6 +43,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "P. Okoth",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
