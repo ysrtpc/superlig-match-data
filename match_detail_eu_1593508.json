@@ -1,5 +1,5 @@
 {
-    "elapsed":  75,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -35,16 +35,16 @@
                                            "E. Esono"
                                        ],
                         "substitutes":  [
+                                            "D. Sotsugov",
+                                            "N. Ivanov",
+                                            "I. Jabir",
                                             "M. Pavlov",
                                             "M. Tambedou",
                                             "F. Jekimov",
-                                            "D. Sotsugov",
                                             "U. Korre",
                                             "A. Nikolajev",
                                             "D. Tarassenkov",
-                                            "N. Ivanov",
-                                            "Idalécio",
-                                            "I. Jabir"
+                                            "Idalécio"
                                         ]
                     },
     "awayLineups":  {
@@ -62,16 +62,16 @@
                                            "S. Moore"
                                        ],
                         "substitutes":  [
+                                            "O. Casey",
+                                            "W. Jarvis",
+                                            "D. Ring",
+                                            "J. Lunney",
                                             "F. Moylan",
                                             "M. Johnson",
-                                            "O. Casey",
                                             "S. Bone",
                                             "S. Gannon",
                                             "J. Roche",
-                                            "J. Lunney",
-                                            "W. Jarvis",
-                                            "J. Wuna",
-                                            "D. Ring"
+                                            "J. Wuna"
                                         ]
                     },
     "events":  [
@@ -181,7 +181,21 @@
                        "detail":  "N. Ivanov"
                    },
                    {
-                       "minute":  76,
+                       "minute":  77,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Lunney",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Tambedou",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  90,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  null,
