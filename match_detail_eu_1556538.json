@@ -1,25 +1,25 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  54,
-                  "possessionAway":  46,
-                  "shotsHome":  12,
-                  "shotsAway":  9,
-                  "shotsOnTargetHome":  5,
+                  "possessionHome":  57,
+                  "possessionAway":  43,
+                  "shotsHome":  18,
+                  "shotsAway":  10,
+                  "shotsOnTargetHome":  8,
                   "shotsOnTargetAway":  2,
                   "foulsHome":  11,
-                  "foulsAway":  4,
-                  "cornersHome":  1,
+                  "foulsAway":  5,
+                  "cornersHome":  2,
                   "cornersAway":  0,
-                  "offsidesHome":  1,
+                  "offsidesHome":  2,
                   "offsidesAway":  4,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  2,
-                  "savesAway":  3
+                  "savesAway":  4
               },
     "homeLineups":  {
                         "starting11":  [
@@ -120,6 +120,90 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Andersson",
                        "detail":  "S. Jorgensen"
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Norheim",
+                       "detail":  "N. Rojkjaer"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Amoako",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Salter",
+                       "detail":  "N. Vasic"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Pettersson",
+                       "detail":  "R. Niklasson"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Amoako",
+                       "detail":  "I. Adel"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Salquist",
+                       "detail":  "S. Acquah"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Norheim",
+                       "detail":  "V. Gustafsen"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Janssen",
+                       "detail":  "M. Heyde"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Ankersen",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Brienne",
+                       "detail":  "R. Thomasson"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Thorkelsson",
+                       "detail":  "H. Sletsjoe"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ]
 }
