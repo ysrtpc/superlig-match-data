@@ -1,5 +1,5 @@
 {
-    "elapsed":  59,
+    "elapsed":  78,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -112,6 +112,48 @@
                        "isHomeTeam":  false,
                        "playerName":  "R. Charles-Cook",
                        "detail":  "E. Longelo"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Soylu",
+                       "detail":  "M. Ebiye"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Johannesen",
+                       "detail":  "H. Hansen"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Jonsson",
+                       "detail":  "E. Mouritsen"
+                   },
+                   {
+                       "minute":  71,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Thomsen",
+                       "detail":  "S. Pettersen"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Fadinger",
+                       "detail":  "O. Whyte"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Booth",
+                       "detail":  "T. Maswanhise"
                    }
                ]
 }
