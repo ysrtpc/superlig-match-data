@@ -1,5 +1,5 @@
 {
-    "elapsed":  54,
+    "elapsed":  73,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  71,
@@ -7,10 +7,10 @@
                   "shotsHome":  0,
                   "shotsAway":  0,
                   "shotsOnTargetHome":  2,
-                  "shotsOnTargetAway":  0,
-                  "foulsHome":  8,
-                  "foulsAway":  7,
-                  "cornersHome":  3,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  10,
+                  "foulsAway":  11,
+                  "cornersHome":  5,
                   "cornersAway":  1,
                   "offsidesHome":  1,
                   "offsidesAway":  2,
@@ -121,6 +121,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Guram",
                        "detail":  "A. Sanyang"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Hrgovic",
+                       "detail":  "M. Livaja"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Acapandie",
+                       "detail":  "N. Sigur"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Sunjic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  71,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Quina",
+                       "detail":  "J. Correia"
+                   },
+                   {
+                       "minute":  71,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Guga",
+                       "detail":  "Pepe"
                    }
                ]
 }
