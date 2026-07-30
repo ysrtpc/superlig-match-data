@@ -1,5 +1,5 @@
 {
-    "elapsed":  10,
+    "elapsed":  30,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -79,6 +79,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  19,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Hranica",
+                       "detail":  ""
+                   }
                ]
 }
