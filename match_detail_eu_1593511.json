@@ -1,0 +1,153 @@
+{
+    "elapsed":  78,
+    "stats":  {
+                  "possessionHome":  44,
+                  "possessionAway":  56,
+                  "shotsHome":  7,
+                  "shotsAway":  13,
+                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  8,
+                  "foulsAway":  7,
+                  "cornersHome":  4,
+                  "cornersAway":  7,
+                  "offsidesHome":  2,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  3,
+                  "savesAway":  3
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "H. Avagyan",
+                                           "M. Kovalenko",
+                                           "E. Simonyan",
+                                           "S. Vakulenko",
+                                           "N. Kenourgios",
+                                           "James",
+                                           "H. Harutyunyan",
+                                           "K. Hovhannisyan",
+                                           "S. Islamović",
+                                           "D. Kulikov",
+                                           "I. Pikis"
+                                       ],
+                        "substitutes":  [
+                                            "S. Buchnev",
+                                            "F. Almeida",
+                                            "R. Darbinyan",
+                                            "A. Aharonyan",
+                                            "H. Tatosyan",
+                                            "I. Griffith",
+                                            "E. Malakyan",
+                                            "V. Afyan",
+                                            "G. Tarakhchyan",
+                                            "Witi",
+                                            "M. Yansane",
+                                            "S. Metoyan"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "P. Andreev",
+                                           "E. Kusnyír",
+                                           "J. Mejías",
+                                           "Á. Lang",
+                                           "A. Guerrero",
+                                           "B. Bošković",
+                                           "B. Dzsudzsák",
+                                           "D. Patai",
+                                           "D. Kocsis",
+                                           "S. Baldoni",
+                                           "F. Cibla"
+                                       ],
+                        "substitutes":  [
+                                            "B. Erdélyi",
+                                            "B. Tuska",
+                                            "M. Szécsi",
+                                            "G. Tercza",
+                                            "R. Keller",
+                                            "D. Hermann",
+                                            "B. Batik",
+                                            "M. Macsó",
+                                            "B. Sain",
+                                            "L. Myrtaj",
+                                            "Á. Szendrei",
+                                            "S. Kaye"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  56,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Patai",
+                       "detail":  "B. Batik"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Harutyunyan",
+                       "detail":  "Witi"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Pikis",
+                       "detail":  "I. Griffith"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Kulikov",
+                       "detail":  "M. Yansane"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Lang",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Cibla",
+                       "detail":  "M. Szecsi"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Baldoni",
+                       "detail":  "A. Szendrei"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "Witi",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Simonyan",
+                       "detail":  "S. Metoyan"
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Kovalenko",
+                       "detail":  "R. Darbinyan"
+                   }
+               ]
+}
