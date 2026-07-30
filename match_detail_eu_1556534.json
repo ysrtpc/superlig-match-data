@@ -1,5 +1,6 @@
 {
-    "elapsed":  45,
+    "elapsed":  46,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -85,7 +86,7 @@
                        "detail":  ""
                    },
                    {
-                       "minute":  37,
+                       "minute":  36,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "R. Charles-Cook",
