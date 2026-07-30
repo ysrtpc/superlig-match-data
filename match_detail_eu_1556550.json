@@ -1,0 +1,104 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  45,
+                  "possessionAway":  55,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  3,
+                  "foulsAway":  3,
+                  "cornersHome":  0,
+                  "cornersAway":  1,
+                  "offsidesHome":  1,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Zadražil",
+                                           "J. Uhrinčať",
+                                           "F. Čihák",
+                                           "F. Čech",
+                                           "J. Kucera",
+                                           "V. Darida",
+                                           "S. Dancák",
+                                           "D. Horák",
+                                           "M. Buren",
+                                           "T. Slončík",
+                                           "O. Mihálik"
+                                       ],
+                        "substitutes":  [
+                                            "P. Vízek",
+                                            "M. Vagner",
+                                            "D. Ludvicek",
+                                            "T. Petrášek",
+                                            "E. Neto",
+                                            "S. Ponikelsky",
+                                            "D. Trubač",
+                                            "L. Kubr",
+                                            "J. Hodek",
+                                            "M. Regža",
+                                            "A. Umar",
+                                            "A. Vlkanova"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "J. Haugaard",
+                                           "A. Warneryd",
+                                           "V. Skjaervik",
+                                           "T. Guddal",
+                                           "I. Vadebu",
+                                           "S. Innvær",
+                                           "J. Hjertø-Dahl",
+                                           "D. Edvardsson",
+                                           "R. Jenssen",
+                                           "I. Camões",
+                                           "H. Larsen"
+                                       ],
+                        "substitutes":  [
+                                            "O. Lauvli",
+                                            "A. Sarr",
+                                            "M. Tonnessen",
+                                            "C. Öyvann",
+                                            "M. Mikkelsen",
+                                            "J. Grundt",
+                                            "T. Nyhammer",
+                                            "B. Myrvold",
+                                            "I. Dahlqvist",
+                                            "L. Larsen",
+                                            "D. Braut",
+                                            "A. Elvebu"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  14,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Uhrincat",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  25,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Larsen",
+                       "detail":  "S. Innvaer"
+                   },
+                   {
+                       "minute":  30,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Buren",
+                       "detail":  "J. Kucera"
+                   }
+               ]
+}
