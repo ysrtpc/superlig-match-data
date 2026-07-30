@@ -1,15 +1,15 @@
 {
-    "elapsed":  77,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  52,
-                  "possessionAway":  48,
+                  "possessionHome":  50,
+                  "possessionAway":  50,
                   "shotsHome":  0,
                   "shotsAway":  0,
                   "shotsOnTargetHome":  3,
-                  "shotsOnTargetAway":  3,
-                  "foulsHome":  14,
-                  "foulsAway":  14,
+                  "shotsOnTargetAway":  4,
+                  "foulsHome":  15,
+                  "foulsAway":  15,
                   "cornersHome":  3,
                   "cornersAway":  1,
                   "offsidesHome":  1,
@@ -19,7 +19,11 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  0
+                  "savesAway":  0,
+                  "yellowCardsHome":  3,
+                  "yellowCardsAway":  1,
+                  "redCardsHome":  1,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -169,6 +173,34 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "O. Kokcu",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Osorio",
+                       "detail":  "S. Johannesen"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Olaitan",
+                       "detail":  "A. Hadziahmetovic"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Hyeon-Gyu",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Italiano",
                        "detail":  ""
                    }
                ]
