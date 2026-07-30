@@ -1,5 +1,5 @@
 {
-    "elapsed":  34,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -104,6 +104,20 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
                        "playerName":  "N. Castro",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "U. Mathisen",
+                       "detail":  "N. Castro"
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Stefanescu",
                        "detail":  ""
                    }
                ]
