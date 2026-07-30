@@ -1,0 +1,85 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Roef",
+                                           "M. Ngom",
+                                           "C. Burgess",
+                                           "S. Heyden",
+                                           "T. Araújo",
+                                           "L. Lopes",
+                                           "L. Bénes",
+                                           "M. Delorge",
+                                           "H. Goore",
+                                           "J. Vergara",
+                                           "M. Dean"
+                                       ],
+                        "substitutes":  [
+                                            "K. Peersman",
+                                            "M. Paskotsi",
+                                            "M. Diallo",
+                                            "M. Volckaert",
+                                            "A. Omgba",
+                                            "T. Vlieger",
+                                            "M. Âdfaoui",
+                                            "A. Kadri",
+                                            "E. Seck",
+                                            "A. Abdullahi",
+                                            "M. Sonko",
+                                            "I. Cisse"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "O. Palamarchuk",
+                                           "G. Pasich",
+                                           "O. Gorin",
+                                           "N. Muravskyi",
+                                           "O. Drambaev",
+                                           "A. Yakubu",
+                                           "R. Didyk",
+                                           "A. Ryabov",
+                                           "M. Assinor",
+                                           "K. Adedoyin",
+                                           "D. Kuzyk"
+                                       ],
+                        "substitutes":  [
+                                            "D. Ledvii",
+                                            "K. Samoilenko",
+                                            "N. Smotrytskyi",
+                                            "A. Dajko",
+                                            "A. Kitela",
+                                            "A. Mykytyshyn",
+                                            "Y. Tverdokhlib",
+                                            "Y. Pastukh",
+                                            "T. Brener",
+                                            "M. Donyk",
+                                            "T. Cara",
+                                            "D. Kravchuk"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
