@@ -1,5 +1,5 @@
 {
-    "elapsed":  10,
+    "elapsed":  30,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -76,6 +76,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  11,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Bilbija",
+                       "detail":  ""
+                   }
                ]
 }
