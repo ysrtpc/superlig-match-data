@@ -1,6 +1,6 @@
 {
-    "elapsed":  39,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -121,6 +121,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "K. Duah",
                        "detail":  "K. Duah"
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "X. Silva",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Leidner",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Turiel",
+                       "detail":  ""
                    }
                ]
 }
