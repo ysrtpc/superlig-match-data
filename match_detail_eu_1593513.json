@@ -1,16 +1,16 @@
 {
-    "elapsed":  25,
+    "elapsed":  45,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  58,
-                  "possessionAway":  42,
-                  "shotsHome":  3,
-                  "shotsAway":  1,
-                  "shotsOnTargetHome":  1,
+                  "possessionHome":  57,
+                  "possessionAway":  43,
+                  "shotsHome":  6,
+                  "shotsAway":  2,
+                  "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  0,
-                  "foulsHome":  2,
+                  "foulsHome":  9,
                   "foulsAway":  2,
-                  "cornersHome":  1,
+                  "cornersHome":  3,
                   "cornersAway":  0,
                   "offsidesHome":  1,
                   "offsidesAway":  0,
@@ -95,6 +95,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "N. Neskoromnyi",
                        "detail":  "P. Dubovskiy"
+                   },
+                   {
+                       "minute":  38,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Nivokazi",
+                       "detail":  "I. Chouaref"
                    }
                ]
 }
