@@ -1,0 +1,110 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  58,
+                  "possessionAway":  42,
+                  "shotsHome":  7,
+                  "shotsAway":  5,
+                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  5,
+                  "foulsAway":  3,
+                  "cornersHome":  1,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  1,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  1,
+                  "savesAway":  2
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Hansen",
+                                           "P. Ankersen",
+                                           "T. Salquist",
+                                           "C. Yirenkyi",
+                                           "R. Norheim",
+                                           "J. Janssen",
+                                           "N. Røjkjær",
+                                           "J. Lähteenmäki",
+                                           "H. Rasmussen",
+                                           "V. Berthelsen",
+                                           "P. Junior"
+                                       ],
+                        "substitutes":  [
+                                            "A. Søndenbroe",
+                                            "C. Kristoffersen",
+                                            "V. Gustafsen",
+                                            "M. Walker",
+                                            "S. Acquah",
+                                            "M. Heyde",
+                                            "I. Adel",
+                                            "M. Brink",
+                                            "D. Jóhannesson",
+                                            "L. Nene",
+                                            "L. Sadio",
+                                            "O. Solbakken"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. Krasniqi",
+                                           "A. Wängberg",
+                                           "A. Cardaklija",
+                                           "O. Ågren",
+                                           "M. Brienne",
+                                           "W. Milovanovic",
+                                           "J. Fagerjord",
+                                           "R. Thorkelsson",
+                                           "M. Andersson",
+                                           "S. Salter",
+                                           "O. Pettersson"
+                                       ],
+                        "substitutes":  [
+                                            "K. Sims",
+                                            "A. Tihic",
+                                            "R. Frej",
+                                            "F. Beckman",
+                                            "R. Thomasson",
+                                            "D. Collander",
+                                            "S. Jørgensen",
+                                            "H. Sletsjoe",
+                                            "N. Vasic",
+                                            "R. Niklasson",
+                                            "L. Hedlund"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  4,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Agren",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  9,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Yirenkyi",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  11,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Norheim",
+                       "detail":  "V. Berthelsen"
+                   },
+                   {
+                       "minute":  14,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Agren",
+                       "detail":  ""
+                   }
+               ]
+}
