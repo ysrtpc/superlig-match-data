@@ -1,5 +1,5 @@
 {
-    "elapsed":  45,
+    "elapsed":  46,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -86,11 +86,32 @@
                        "detail":  ""
                    },
                    {
-                       "minute":  42,
+                       "minute":  41,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
                        "playerName":  "A. Cohen",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Atzili",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Kalu",
+                       "detail":  "E. Ansah"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Layouni",
+                       "detail":  "G. Ekpolo"
                    }
                ]
 }
