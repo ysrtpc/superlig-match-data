@@ -1,0 +1,81 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "K. Ozcan",
+                                           "G. Gueye",
+                                           "M. Touré",
+                                           "T. Hall",
+                                           "K. Delorge",
+                                           "O. Natami",
+                                           "E. Rastoder",
+                                           "V. Steinmetz",
+                                           "D. Myre",
+                                           "N. Perez",
+                                           "A. Zenadji"
+                                       ],
+                        "substitutes":  [
+                                            "D. Garrido",
+                                            "I. Marques",
+                                            "A. Sacras",
+                                            "A. Agovic",
+                                            "J. Goncalves",
+                                            "J. Teixeira",
+                                            "D. Dadashev",
+                                            "Matheus"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. Krunić",
+                                           "V. Đurđević",
+                                           "N. Simic",
+                                           "S. Mitrović",
+                                           "S. Petrović",
+                                           "A. Zeković",
+                                           "S. Nwulu",
+                                           "B. Kostić",
+                                           "D. Seck",
+                                           "E. Kojzek",
+                                           "C. Traorè"
+                                       ],
+                        "substitutes":  [
+                                            "M. Milošević",
+                                            "M. Roganović",
+                                            "S. Milić",
+                                            "V. Marinković",
+                                            "M. Aleksić",
+                                            "N. Trifunović",
+                                            "O. Ugrešić",
+                                            "I. Zubairu",
+                                            "D. Makević",
+                                            "Z. Alilović",
+                                            "M. Ninić",
+                                            "M. Lekić"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
