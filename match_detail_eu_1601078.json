@@ -1,5 +1,6 @@
 {
     "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -38,14 +39,14 @@
                     },
     "events":  [
                    {
-                       "minute":  16,
+                       "minute":  20,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "M. Traore",
                        "detail":  ""
                    },
                    {
-                       "minute":  35,
+                       "minute":  38,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "G. Mulongo",
