@@ -1,0 +1,81 @@
+{
+    "elapsed":  2,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Amzai",
+                                           "A. Trumci",
+                                           "D. Islami",
+                                           "A. Meljichi",
+                                           "B. Dimoski",
+                                           "A. Zejnullai",
+                                           "R. Freitas",
+                                           "F. Tamba",
+                                           "S. Spahiu",
+                                           "A. Kryeziu",
+                                           "F. Ndzengue"
+                                       ],
+                        "substitutes":  [
+                                            "F. Ramani",
+                                            "N. Ceka",
+                                            "M. Murati",
+                                            "J. Manev",
+                                            "E. Krasniqi",
+                                            "A. Isa",
+                                            "L. Djeladini",
+                                            "F. Ramadani",
+                                            "B. Ibraimi",
+                                            "V. Krstevski",
+                                            "M. Gjorgjievski"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. Rozman",
+                                           "M. Nzuzi",
+                                           "I. Halilou",
+                                           "J. Brunnhofer",
+                                           "D. Omoregie",
+                                           "M. Simonic",
+                                           "S. Nuhanović",
+                                           "G. Jovan",
+                                           "J. Arinze",
+                                           "R. Kopatin",
+                                           "J. Stanković"
+                                       ],
+                        "substitutes":  [
+                                            "B. Matičič",
+                                            "L. Dakić",
+                                            "A. Celik",
+                                            "M. Fogec",
+                                            "O. Mazie",
+                                            "L. Štravs",
+                                            "V. Bozic",
+                                            "A. Jakupovic",
+                                            "A. Pecar"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
