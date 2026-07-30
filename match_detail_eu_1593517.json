@@ -1,5 +1,5 @@
 {
-    "elapsed":  78,
+    "elapsed":  83,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -197,6 +197,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Bah",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Bilenkyi",
+                       "detail":  "N. Petkovic"
                    }
                ]
 }
