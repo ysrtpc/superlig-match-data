@@ -1,5 +1,5 @@
 {
-    "elapsed":  80,
+    "elapsed":  86,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -108,7 +108,7 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "A. Bergmark-Wiberg",
-                       "detail":  ""
+                       "detail":  "N. Tolf"
                    },
                    {
                        "minute":  63,
@@ -144,6 +144,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Alioum",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Heintz",
+                       "detail":  "T. Coimbra"
                    }
                ]
 }
