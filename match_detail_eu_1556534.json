@@ -1,5 +1,5 @@
 {
-    "elapsed":  53,
+    "elapsed":  59,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -98,6 +98,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "D. Williams",
                        "detail":  "I. Said"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "W. Vogt",
+                       "detail":  "L. Ross"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Charles-Cook",
+                       "detail":  "E. Longelo"
                    }
                ]
 }
