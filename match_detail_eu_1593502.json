@@ -1,0 +1,80 @@
+{
+    "elapsed":  5,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "B. Maher",
+                                           "B. Lyons-Foster",
+                                           "C. Dummigan",
+                                           "P. McClean",
+                                           "B. Fleming",
+                                           "J. Olayinka",
+                                           "N. Twisk",
+                                           "A. O\u0027Reilly",
+                                           "E. Chapman",
+                                           "M. Duffy",
+                                           "L. Boyce"
+                                       ],
+                        "substitutes":  [
+                                            "T. Norcott",
+                                            "J. Stott",
+                                            "R. Slevin",
+                                            "C. Barr",
+                                            "B. Cotter",
+                                            "D. Burns",
+                                            "J. Clarke",
+                                            "T. Doherty"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Todorović",
+                                           "M. Devetak",
+                                           "A. Majstorović",
+                                           "T. Fruk",
+                                           "A. Oreč",
+                                           "T. Dantas",
+                                           "A. Barco",
+                                           "D. Adu-Adjei",
+                                           "A. Gojak",
+                                           "B. Pavić",
+                                           "N. Janković"
+                                       ],
+                        "substitutes":  [
+                                            "D. Nwolokor",
+                                            "V. Kovač",
+                                            "M. Živković",
+                                            "J. Lasickas",
+                                            "N. Bodetić",
+                                            "A. Husić",
+                                            "V. Vešligaj",
+                                            "I. Ćubelić",
+                                            "G. Rukavina",
+                                            "S. Vignato",
+                                            "G. Grulović",
+                                            "C. Saho"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
