@@ -1,5 +1,5 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -83,6 +83,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "L. Fadinger",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  37,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Charles-Cook",
+                       "detail":  "D. Williams"
                    }
                ]
 }
