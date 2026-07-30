@@ -1,0 +1,90 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  0,
+                  "possessionAway":  0,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  5,
+                  "foulsAway":  2,
+                  "cornersHome":  1,
+                  "cornersAway":  0,
+                  "offsidesHome":  1,
+                  "offsidesAway":  1,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "R. Majecki",
+                                           "Bruno",
+                                           "D. Goldar",
+                                           "D. Luiz",
+                                           "N. Ioannou",
+                                           "D. Quina",
+                                           "I. Šunjić",
+                                           "G. Rodrigues",
+                                           "Biel",
+                                           "Lelê",
+                                           "Jajá"
+                                       ],
+                        "substitutes":  [
+                                            "M. Papastylianou",
+                                            "P. Petrou",
+                                            "S. Mmaee",
+                                            "K. Ioannou",
+                                            "V. Dragomir",
+                                            "G. Michael",
+                                            "A. Brito",
+                                            "C. Efzona",
+                                            "J. Correia",
+                                            "Pêpê",
+                                            "K. Sema",
+                                            "M. Mammadov"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "T. Silić",
+                                           "M. Acapandié",
+                                           "D. Marešić",
+                                           "A. Hoorenbeeck",
+                                           "Š. Hrgović",
+                                           "R. Pukštas",
+                                           "A. Pajaziti",
+                                           "A. Huram",
+                                           "D. Almeida",
+                                           "D. Melnjak",
+                                           "M. Šego"
+                                       ],
+                        "substitutes":  [
+                                            "I. Ivušić",
+                                            "D. Stipica",
+                                            "N. Sigur",
+                                            "R. Raçi",
+                                            "M. Skelin",
+                                            "L. Hodak",
+                                            "A. Bamba",
+                                            "A. Šutalo",
+                                            "E. Brruti",
+                                            "A. Moral",
+                                            "N. Skoko",
+                                            "M. Livaja"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  12,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Goldar",
+                       "detail":  ""
+                   }
+               ]
+}
