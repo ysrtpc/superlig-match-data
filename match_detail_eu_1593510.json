@@ -1,5 +1,5 @@
 {
-    "elapsed":  45,
+    "elapsed":  60,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -101,6 +101,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "T. Heintz",
                        "detail":  "T. Heintz"
+                   },
+                   {
+                       "minute":  57,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Bergmark-Wiberg",
+                       "detail":  ""
                    }
                ]
 }
