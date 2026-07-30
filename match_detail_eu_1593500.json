@@ -1,0 +1,110 @@
+{
+    "elapsed":  34,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "M. Dyngeland",
+                                           "D. Roeve",
+                                           "F. Knudsen",
+                                           "T. Pedersen",
+                                           "J. Soltvedt",
+                                           "N. Wassberg",
+                                           "J. Sørensen",
+                                           "F. Myhre",
+                                           "U. Mathisen",
+                                           "N. Holm",
+                                           "N. Castro"
+                                       ],
+                        "substitutes":  [
+                                            "S. Nilsen",
+                                            "H. Hellesøy",
+                                            "C. Diop",
+                                            "V. Dragsnes",
+                                            "K. Ingason",
+                                            "K. Eriksen",
+                                            "E. Guðmundsson",
+                                            "M. Haaland",
+                                            "B. Haugen",
+                                            "B. Finne",
+                                            "S. Magnússon"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "N. Michail",
+                                           "D. Mikanović",
+                                           "I. Cristea",
+                                           "D. Codrea",
+                                           "A. Chipciu",
+                                           "M. Drammeh",
+                                           "O. Bic",
+                                           "I. Macalou",
+                                           "M. Ștefănescu",
+                                           "J. Stanojev",
+                                           "J. Lukić"
+                                       ],
+                        "substitutes":  [
+                                            "T. Coșa",
+                                            "A. Chinteș",
+                                            "A. Friday",
+                                            "F. Poulolo",
+                                            "A. Techereș",
+                                            "D. Nistor",
+                                            "P. Pinho",
+                                            "G. Simion",
+                                            "A. Trică",
+                                            "I. Chukwu",
+                                            "A. Aliev",
+                                            "O. Mendy"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  8,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Castro",
+                       "detail":  "D. Roeve"
+                   },
+                   {
+                       "minute":  14,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Mikanovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  26,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Lukic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  32,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Castro",
+                       "detail":  ""
+                   }
+               ]
+}
