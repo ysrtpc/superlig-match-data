@@ -1,5 +1,5 @@
 {
-    "elapsed":  47,
+    "elapsed":  54,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -91,6 +91,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "P. Popescu",
                        "detail":  "S. Platica"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Savic",
+                       "detail":  "A. Hiros"
+                   },
+                   {
+                       "minute":  52,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Rotaru",
+                       "detail":  "P. Popescu"
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ]
 }
