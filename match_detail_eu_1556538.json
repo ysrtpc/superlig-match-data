@@ -1,17 +1,17 @@
 {
-    "elapsed":  77,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  57,
-                  "possessionAway":  43,
+                  "possessionHome":  56,
+                  "possessionAway":  44,
                   "shotsHome":  18,
                   "shotsAway":  10,
                   "shotsOnTargetHome":  8,
                   "shotsOnTargetAway":  2,
-                  "foulsHome":  11,
-                  "foulsAway":  5,
+                  "foulsHome":  12,
+                  "foulsAway":  9,
                   "cornersHome":  2,
-                  "cornersAway":  0,
+                  "cornersAway":  1,
                   "offsidesHome":  2,
                   "offsidesAway":  4,
                   "xgHome":  0,
@@ -19,7 +19,11 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  2,
-                  "savesAway":  4
+                  "savesAway":  4,
+                  "yellowCardsHome":  2,
+                  "yellowCardsAway":  2,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -202,7 +206,28 @@
                        "minute":  77,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
-                       "playerName":  null,
+                       "playerName":  "A. Wangberg",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Berthelsen",
+                       "detail":  "M. Brink"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Rojkjaer",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Acquah",
                        "detail":  ""
                    }
                ]
