@@ -1,5 +1,5 @@
 {
-    "elapsed":  34,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -79,6 +79,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Ramadan",
                        "detail":  "U. Kabic"
+                   },
+                   {
+                       "minute":  37,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Babic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  38,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Ramadan",
+                       "detail":  "S. Juklerod"
                    }
                ]
 }
