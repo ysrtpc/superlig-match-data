@@ -1,0 +1,82 @@
+{
+    "elapsed":  16,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "L. Webb",
+                                           "L. Kane",
+                                           "D. Jarvis",
+                                           "B. Doherty",
+                                           "W. Patching",
+                                           "D. Boyle",
+                                           "R. McDonald",
+                                           "B. Wylie",
+                                           "J. Cooper",
+                                           "M. Shevlin",
+                                           "S. Devine"
+                                       ],
+                        "substitutes":  [
+                                            "Z. Robinson",
+                                            "K. Foster",
+                                            "L. Ives",
+                                            "C. Hunt",
+                                            "C. Murray",
+                                            "L. McGregor",
+                                            "J. Henderson",
+                                            "C. McMenamin"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "J. Öst",
+                                           "M. Ylitolva",
+                                           "V. Tikkanen",
+                                           "T. Cissokho",
+                                           "K. Simojoki",
+                                           "M. Kirilov",
+                                           "M. Gueye",
+                                           "L. Lingman",
+                                           "A. Cicale",
+                                           "T. Pukki",
+                                           "T. Mero"
+                                       ],
+                        "substitutes":  [
+                                            "M. Marković",
+                                            "L. Montano",
+                                            "E. Levealahti",
+                                            "A. Ring",
+                                            "J. Kallinen",
+                                            "L. Möller",
+                                            "S. Haarala"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  12,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Mero",
+                       "detail":  "A. Cicale"
+                   }
+               ]
+}
