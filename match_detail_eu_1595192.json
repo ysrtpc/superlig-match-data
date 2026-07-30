@@ -1,5 +1,5 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -99,6 +99,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Gravillon",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Tupta",
+                       "detail":  "B. Sambou"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Vardanyan",
+                       "detail":  "L. Gweth"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Sokolovskiy",
+                       "detail":  "A. Zhechko"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Mathew",
+                       "detail":  "S. D\u0027Almeida"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Almeida",
+                       "detail":  "E. Safarov"
                    }
                ]
 }
