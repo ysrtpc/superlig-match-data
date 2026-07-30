@@ -1,29 +1,31 @@
 {
-    "elapsed":  96,
+    "elapsed":  98,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  62,
-                  "possessionAway":  38,
-                  "shotsHome":  0,
-                  "shotsAway":  0,
-                  "shotsOnTargetHome":  3,
+                  "possessionHome":  71,
+                  "possessionAway":  29,
+                  "shotsHome":  19,
+                  "shotsAway":  4,
+                  "shotsOnTargetHome":  4,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  15,
-                  "foulsAway":  12,
+                  "foulsAway":  13,
                   "cornersHome":  9,
                   "cornersAway":  2,
                   "offsidesHome":  1,
                   "offsidesAway":  3,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "",
-                  "passesAway":  "",
+                  "passesHome":  "0",
+                  "passesAway":  "0",
                   "savesHome":  0,
                   "savesAway":  0,
-                  "yellowCardsHome":  3,
-                  "yellowCardsAway":  1,
-                  "redCardsHome":  0,
-                  "redCardsAway":  0
+                  "shotsOffTargetHome":  13,
+                  "shotsOffTargetAway":  2,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -188,6 +190,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "D. Goldar",
                        "detail":  "V. Dragomir"
+                   },
+                   {
+                       "minute":  93,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "Biel",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  96,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Pukstas",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  98,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Almeida",
+                       "detail":  "A. Sutalo"
                    }
                ]
 }
