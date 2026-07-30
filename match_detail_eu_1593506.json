@@ -1,5 +1,5 @@
 {
-    "elapsed":  97,
+    "elapsed":  105,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -163,6 +163,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "B. Ingason",
                        "detail":  "A. Hauksson"
+                   },
+                   {
+                       "minute":  98,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Hytonen",
+                       "detail":  "E. Tamminen"
                    }
                ]
 }
