@@ -1,0 +1,81 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "Z. Šubarić",
+                                           "V. Grbić",
+                                           "S. Jakovljević",
+                                           "H. Barišić",
+                                           "K. Stapić",
+                                           "M. Čuić",
+                                           "A. Ivančić",
+                                           "A. Ilić",
+                                           "M. Ćavar",
+                                           "M. Ćuže",
+                                           "N. Bilbija"
+                                       ],
+                        "substitutes":  [
+                                            "A. Đaković",
+                                            "M. Bogdan",
+                                            "P. Mamić",
+                                            "M. Vranjković",
+                                            "D. Morris",
+                                            "D. Lagumdzija",
+                                            "I. Vidović",
+                                            "A. Nalić",
+                                            "M. Šakota",
+                                            "K. Abramović",
+                                            "T. Jurić"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "F. Schram",
+                                           "B. Heimisson",
+                                           "M. Nakkim",
+                                           "H. Eyjólfsson",
+                                           "M. Veldman",
+                                           "J. Jónsson",
+                                           "S. Friðjónsson",
+                                           "A. Skoglund",
+                                           "T. Haraldsson",
+                                           "L. Heimisson",
+                                           "P. Pedersen"
+                                       ],
+                        "substitutes":  [
+                                            "T. Blöndal-Petersson",
+                                            "S. Agustsson",
+                                            "I. Stole",
+                                            "J. Pálsson",
+                                            "K. Arnarsson",
+                                            "B. Duffield",
+                                            "E. Sigurbjornsson",
+                                            "S. Veseli",
+                                            "D. Gardarson"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
