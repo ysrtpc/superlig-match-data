@@ -1,14 +1,14 @@
 {
-    "elapsed":  35,
+    "elapsed":  40,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  70,
-                  "possessionAway":  30,
+                  "possessionHome":  71,
+                  "possessionAway":  29,
                   "shotsHome":  7,
                   "shotsAway":  1,
                   "shotsOnTargetHome":  3,
                   "shotsOnTargetAway":  0,
-                  "foulsHome":  5,
+                  "foulsHome":  6,
                   "foulsAway":  5,
                   "cornersHome":  3,
                   "cornersAway":  0,
@@ -19,7 +19,11 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  3
+                  "savesAway":  3,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -80,6 +84,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  40,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Crnomarkovic",
+                       "detail":  ""
+                   }
                ]
 }
