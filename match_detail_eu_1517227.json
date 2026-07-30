@@ -1,5 +1,5 @@
 {
-    "elapsed":  76,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -101,6 +101,13 @@
                        "detail":  "V. Lahtela"
                    },
                    {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Paasisalo",
+                       "detail":  "D. Huttunen"
+                   },
+                   {
                        "minute":  73,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
@@ -113,6 +120,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Baseme",
                        "detail":  "A. Tahkola"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Nuorela",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  86,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Petrishin",
+                       "detail":  "J. Marttila"
                    }
                ]
 }
