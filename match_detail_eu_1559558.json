@@ -1,5 +1,5 @@
 {
-    "elapsed":  50,
+    "elapsed":  56,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -50,6 +50,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "S. Kutuzov",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  53,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Lysov",
                        "detail":  ""
                    }
                ]
