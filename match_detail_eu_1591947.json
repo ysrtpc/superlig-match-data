@@ -1,19 +1,19 @@
 {
-    "elapsed":  57,
+    "elapsed":  76,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  59,
-                  "possessionAway":  41,
-                  "shotsHome":  4,
-                  "shotsAway":  7,
+                  "possessionHome":  55,
+                  "possessionAway":  45,
+                  "shotsHome":  9,
+                  "shotsAway":  10,
                   "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  3,
-                  "foulsHome":  8,
-                  "foulsAway":  5,
-                  "cornersHome":  0,
-                  "cornersAway":  2,
+                  "foulsHome":  10,
+                  "foulsAway":  6,
+                  "cornersHome":  2,
+                  "cornersAway":  3,
                   "offsidesHome":  0,
-                  "offsidesAway":  1,
+                  "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
@@ -130,6 +130,34 @@
                        "isHomeTeam":  true,
                        "playerName":  "V. Djukanovic",
                        "detail":  "V. Djukanovic"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Schon",
+                       "detail":  "B. Selyem"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Bumba",
+                       "detail":  "M. Mass"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Krpic",
+                       "detail":  ""
                    }
                ]
 }
