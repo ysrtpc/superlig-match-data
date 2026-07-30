@@ -1,5 +1,5 @@
 {
-    "elapsed":  10,
+    "elapsed":  16,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -73,6 +73,19 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  12,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Hafthorsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  16,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
                ]
 }
