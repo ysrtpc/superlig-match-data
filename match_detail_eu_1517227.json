@@ -1,0 +1,118 @@
+{
+    "elapsed":  76,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  14,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Ume",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  16,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Tahkola",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  24,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Lemio",
+                       "detail":  "A. Luhtanen"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Vare",
+                       "detail":  "F. Lamminen"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Tuominen",
+                       "detail":  "J. Pulla"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Nuorela",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Pulla",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Lakkamaki",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Tahkola",
+                       "detail":  "V. Lahtela"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Luhtanen",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Baseme",
+                       "detail":  "A. Tahkola"
+                   }
+               ]
+}
