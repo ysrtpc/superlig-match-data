@@ -1,5 +1,5 @@
 {
-    "elapsed":  10,
+    "elapsed":  30,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -83,6 +83,20 @@
                        "isHomeTeam":  true,
                        "playerName":  "K. Muhar",
                        "detail":  "S. Drazic"
+                   },
+                   {
+                       "minute":  12,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "Cezar",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  15,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Sabobo",
+                       "detail":  "I. Nduka"
                    }
                ]
 }
