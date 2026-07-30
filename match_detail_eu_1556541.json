@@ -1,5 +1,5 @@
 {
-    "elapsed":  52,
+    "elapsed":  72,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -111,6 +111,90 @@
                        "isHomeTeam":  true,
                        "playerName":  "Thaylor",
                        "detail":  "A. Zammit"
+                   },
+                   {
+                       "minute":  53,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Sekulovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  54,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Molnar",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Tanque",
+                       "detail":  "B. Gomes"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Prsa",
+                       "detail":  "K. Ewurum"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Silva",
+                       "detail":  "J. Jendryka"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Molnar",
+                       "detail":  "O. Kwiatkowski"
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Sekulovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Sekulovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Morello",
+                       "detail":  "M. Ellul"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Repka",
+                       "detail":  "O. Abraham"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Pienko",
+                       "detail":  "M. Emreli"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Ameyaw",
+                       "detail":  "E. Otieno"
                    }
                ]
 }
