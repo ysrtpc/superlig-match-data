@@ -1,5 +1,6 @@
 {
-    "elapsed":  90,
+    "elapsed":  97,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -148,6 +149,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "T. Thorisson",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  91,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Thorisson",
+                       "detail":  "B. Hauksson"
+                   },
+                   {
+                       "minute":  91,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Ingason",
+                       "detail":  "A. Hauksson"
                    }
                ]
 }
