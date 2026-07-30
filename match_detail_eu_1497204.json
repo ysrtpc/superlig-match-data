@@ -1,5 +1,5 @@
 {
-    "elapsed":  33,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -42,6 +42,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "O. Skalebo",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  33,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Dyrkoren",
                        "detail":  ""
                    }
                ]
