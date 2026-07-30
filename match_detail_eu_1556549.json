@@ -1,0 +1,90 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  68,
+                  "possessionAway":  32,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  5,
+                  "foulsAway":  10,
+                  "cornersHome":  1,
+                  "cornersAway":  0,
+                  "offsidesHome":  1,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "E. Ólafsson",
+                                           "R. Kristensen",
+                                           "M. Erlić",
+                                           "M. Sørensen",
+                                           "D. Castillo",
+                                           "P. Billing",
+                                           "P. Bravo",
+                                           "V. Byskov",
+                                           "D. Osorio",
+                                           "G. Cho",
+                                           "F. Djú"
+                                       ],
+                        "substitutes":  [
+                                            "N. Bakker",
+                                            "L. Selin",
+                                            "H. Lee",
+                                            "A. Gabriel",
+                                            "B. Junior",
+                                            "A. Ndiaye",
+                                            "S. Iheanacho",
+                                            "S. Johannesen",
+                                            "K. Wätjen",
+                                            "E. Chilufya",
+                                            "M. Uhre",
+                                            "J. Emefile"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Nübel",
+                                           "A. Murillo",
+                                           "T. Djaló",
+                                           "E. Topçu",
+                                           "R. Yılmaz",
+                                           "S. Özcan",
+                                           "V. Černý",
+                                           "J. Olaitan",
+                                           "O. Kökçü",
+                                           "İ. Fakili",
+                                           "H. Oh"
+                                       ],
+                        "substitutes":  [
+                                            "D. Alemdar",
+                                            "K. Ouattara",
+                                            "E. Agbadou",
+                                            "T. Bulut",
+                                            "Y. Özcan",
+                                            "C. Gürsel",
+                                            "A. Hadžiahmetović",
+                                            "M. Rashica",
+                                            "K. Yılmaz",
+                                            "M. Hekimoğlu",
+                                            "A. Bircan",
+                                            "S. Kılıçsoy"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  35,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Sorensen",
+                       "detail":  ""
+                   }
+               ]
+}
