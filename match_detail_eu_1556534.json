@@ -1,5 +1,5 @@
 {
-    "elapsed":  46,
+    "elapsed":  53,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -91,6 +91,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "R. Charles-Cook",
                        "detail":  "D. Williams"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Williams",
+                       "detail":  "I. Said"
                    }
                ]
 }
