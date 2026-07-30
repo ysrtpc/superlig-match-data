@@ -1,0 +1,127 @@
+{
+    "elapsed":  75,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "J. Hanuš",
+                                           "M. Cedidla",
+                                           "N. Tekijaški",
+                                           "D. Pavlović",
+                                           "J. Sláma",
+                                           "N. Okeke",
+                                           "R. Sedláček",
+                                           "V. Chanturishvili",
+                                           "F. Zorvan",
+                                           "M. Polidar",
+                                           "L. Jawo"
+                                       ],
+                        "substitutes":  [
+                                            "K. Mihelak",
+                                            "D. Souček",
+                                            "F. Novák",
+                                            "H. Ahl",
+                                            "E. Sobol",
+                                            "M. Malenšek",
+                                            "S. Nebyla",
+                                            "A. Růsek",
+                                            "J. Chramosta",
+                                            "F. Vecheta"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "J. Silić",
+                                           "F. Maglica",
+                                           "R. Punčec",
+                                           "S. Lesjak",
+                                           "L. Škaričić",
+                                           "T. Duvnjak",
+                                           "I. Canjuga",
+                                           "M. Vuk",
+                                           "L. Mamić",
+                                           "I. Tavares",
+                                           "A. Latković"
+                                       ],
+                        "substitutes":  [
+                                            "O. Zelenika",
+                                            "M. Mladenovski",
+                                            "N. Tepšić",
+                                            "G. Sikošek",
+                                            "L. Posinković",
+                                            "I. Posavec",
+                                            "M. Marina",
+                                            "S. Jurić",
+                                            "I. Mamut"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  29,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Puncec",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Vuk",
+                       "detail":  "G. Sikosek"
+                   },
+                   {
+                       "minute":  54,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Pavlovic",
+                       "detail":  "J. Slama"
+                   },
+                   {
+                       "minute":  54,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Duvnjak",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Lesjak",
+                       "detail":  "M. Marina"
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Duvnjak",
+                       "detail":  "I. Mamut"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Slama",
+                       "detail":  "A. Rusek"
+                   }
+               ]
+}
