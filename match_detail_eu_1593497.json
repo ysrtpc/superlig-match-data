@@ -1,17 +1,17 @@
 {
-    "elapsed":  40,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
-                  "possessionHome":  71,
-                  "possessionAway":  29,
-                  "shotsHome":  7,
-                  "shotsAway":  1,
+                  "possessionHome":  72,
+                  "possessionAway":  28,
+                  "shotsHome":  10,
+                  "shotsAway":  2,
                   "shotsOnTargetHome":  3,
-                  "shotsOnTargetAway":  0,
+                  "shotsOnTargetAway":  1,
                   "foulsHome":  6,
-                  "foulsAway":  5,
-                  "cornersHome":  3,
-                  "cornersAway":  0,
+                  "foulsAway":  7,
+                  "cornersHome":  4,
+                  "cornersAway":  1,
                   "offsidesHome":  0,
                   "offsidesAway":  0,
                   "xgHome":  0,
@@ -89,7 +89,14 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "D. Crnomarkovic",
-                       "detail":  ""
+                       "detail":  "N. Petrovic"
+                   },
+                   {
+                       "minute":  44,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Klaassen",
+                       "detail":  "Y. Regeer"
                    }
                ]
 }
