@@ -1,0 +1,103 @@
+{
+    "elapsed":  36,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "I. Shimakovich",
+                                           "G. Gurban",
+                                           "A. Ivanov",
+                                           "V. Kalinin",
+                                           "A. Toure",
+                                           "A. Selyava",
+                                           "A. Sokolovskiy",
+                                           "F. Abdullahi",
+                                           "M. Djimet",
+                                           "K. Vardanyan",
+                                           "Y. Malashevich"
+                                       ],
+                        "substitutes":  [
+                                            "D. Radkevich",
+                                            "R. Begunov",
+                                            "M. Aleksandrov",
+                                            "M. Shvetsov",
+                                            "A. Vakulich",
+                                            "D. Dushevskiy",
+                                            "R. Guibero",
+                                            "V. Poloz",
+                                            "A. Zhechko",
+                                            "G. Alykulov",
+                                            "L. Gweth",
+                                            "A. Lutskovich"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "E. Balayev",
+                                           "F. Sacko",
+                                           "A. Gravillon",
+                                           "M. Khachayev",
+                                           "R. Abbasov",
+                                           "G. Klismahn",
+                                           "I. Mathew",
+                                           "E. Mahmudov",
+                                           "B. Almeida",
+                                           "L. Tupta",
+                                           "I. Faraj"
+                                       ],
+                        "substitutes":  [
+                                            "R. Cəfərov",
+                                            "K. Pirić",
+                                            "M. Mammadli",
+                                            "E. Badalov",
+                                            "M. Seck",
+                                            "Igor",
+                                            "S. D\u0027Almeida",
+                                            "E. Safarov",
+                                            "E. Camalov",
+                                            "A. Salyanskiy",
+                                            "B. Sambou"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  12,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Almeida",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  24,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Sokolovskiy",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  30,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Gravillon",
+                       "detail":  ""
+                   }
+               ]
+}
