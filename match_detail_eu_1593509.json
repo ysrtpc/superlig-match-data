@@ -1,0 +1,79 @@
+{
+    "elapsed":  15,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "L. Baš",
+                                           "Á. Roncal",
+                                           "F. Damjanović",
+                                           "F. Bačkulja",
+                                           "F. Hartherz",
+                                           "L. Rimac",
+                                           "D. Bangaly",
+                                           "F. Tomek",
+                                           "I. Matondo",
+                                           "B. Irabor",
+                                           "A. Ruedl"
+                                       ],
+                        "substitutes":  [
+                                            "L. Jovanović",
+                                            "L. Guček",
+                                            "G. Agyemang",
+                                            "J. Strcaj",
+                                            "S. Surdanović",
+                                            "B. N\u0027Diaye",
+                                            "J. Longonda",
+                                            "K. Manseri",
+                                            "B. Adrović",
+                                            "A. Šutalo",
+                                            "L. Štulac",
+                                            "J. Iličić"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "T. Amos",
+                                           "M. Lindh",
+                                           "D. Obbekjær",
+                                           "S. Skytte",
+                                           "V. Davidsen",
+                                           "M. Olsen",
+                                           "P. Knudsen",
+                                           "F. Drinic",
+                                           "M. Przybylski",
+                                           "J. Benjaminsen",
+                                           "B. Nolsøe"
+                                       ],
+                        "substitutes":  [
+                                            "D. Danielsen",
+                                            "K. Joensen",
+                                            "A. Elísson",
+                                            "J. Tróndargjógv",
+                                            "M. Danielsen",
+                                            "K. Olsen"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
