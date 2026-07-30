@@ -1,5 +1,5 @@
 {
-    "elapsed":  34,
+    "elapsed":  39,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  0,
@@ -8,8 +8,8 @@
                   "shotsAway":  0,
                   "shotsOnTargetHome":  1,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  6,
-                  "foulsAway":  2,
+                  "foulsHome":  9,
+                  "foulsAway":  3,
                   "cornersHome":  2,
                   "cornersAway":  4,
                   "offsidesHome":  1,
@@ -19,7 +19,11 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  0
+                  "savesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
