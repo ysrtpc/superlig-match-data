@@ -1,5 +1,5 @@
 {
-    "elapsed":  34,
+    "elapsed":  39,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -114,6 +114,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "I. Nachmias",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  39,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Duah",
+                       "detail":  "K. Duah"
                    }
                ]
 }
