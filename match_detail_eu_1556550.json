@@ -1,5 +1,5 @@
 {
-    "elapsed":  74,
+    "elapsed":  79,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  47,
@@ -12,14 +12,18 @@
                   "foulsAway":  9,
                   "cornersHome":  3,
                   "cornersAway":  4,
-                  "offsidesHome":  2,
+                  "offsidesHome":  3,
                   "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  0
+                  "savesAway":  0,
+                  "yellowCardsHome":  2,
+                  "yellowCardsAway":  1,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
