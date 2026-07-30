@@ -1,5 +1,5 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  45,
                   "possessionAway":  55,
@@ -7,12 +7,12 @@
                   "shotsAway":  0,
                   "shotsOnTargetHome":  1,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  3,
+                  "foulsHome":  6,
                   "foulsAway":  3,
-                  "cornersHome":  0,
+                  "cornersHome":  3,
                   "cornersAway":  1,
                   "offsidesHome":  1,
-                  "offsidesAway":  0,
+                  "offsidesAway":  1,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
