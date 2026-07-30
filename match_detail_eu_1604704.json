@@ -1,0 +1,181 @@
+{
+    "elapsed":  78,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  35,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Firmino",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  40,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Salman",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  43,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Savic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Sheeb",
+                       "detail":  "M. Barsham"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Bouchouari",
+                       "detail":  "R. Malinovskyi"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Onana",
+                       "detail":  "A. Yildirim"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Jabol-Folcarelli",
+                       "detail":  "M. Kabasakal"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Nwaiwu",
+                       "detail":  "C. Ozkacar"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Savic",
+                       "detail":  "S. Akaydin"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Saviolo",
+                       "detail":  "O. Tufan"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Simsir",
+                       "detail":  "M. Eskihellac"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Muci",
+                       "detail":  "K. Akcay"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Onuachu",
+                       "detail":  "U. Nayir"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "W. Pina",
+                       "detail":  "B. Mendy"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Cabral",
+                       "detail":  "M. Mimaroglu"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Akaydin",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Guilherme",
+                       "detail":  "M. Camara"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Ali",
+                       "detail":  "Cristo"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Salman",
+                       "detail":  "P. Miguel"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Mujica",
+                       "detail":  "A. Afif"
+                   }
+               ]
+}
