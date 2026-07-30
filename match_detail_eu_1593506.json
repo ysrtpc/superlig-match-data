@@ -1,5 +1,5 @@
 {
-    "elapsed":  78,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -35,13 +35,13 @@
                                            "T. Hytönen"
                                        ],
                         "substitutes":  [
+                                            "B. Goudouss",
+                                            "S. Baranov",
                                             "O. Virtanen",
                                             "R. Leislahti",
                                             "S. Suvanne",
                                             "V. Kumpu",
-                                            "B. Goudouss",
                                             "F. Kouakou",
-                                            "S. Baranov",
                                             "O. Tiitinen",
                                             "L. Ala-Myllymäki",
                                             "E. Tamminen",
@@ -56,9 +56,9 @@
                                            "G. Kristjánsson",
                                            "G. Kjeldsen",
                                            "Ö. Örvarsson",
+                                           "G. Nokkvason",
                                            "J. Gunnarsson",
                                            "B. Warén",
-                                           "G. Nokkvason",
                                            "Ö. Eggertsson",
                                            "E. Atlason",
                                            "B. Ingason"
@@ -127,6 +127,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "J. Kilo",
                        "detail":  "R. Riski"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Pettersson",
+                       "detail":  "L. Ala-Myllymaki"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Nokkvason",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Thorisson",
+                       "detail":  ""
                    }
                ]
 }
