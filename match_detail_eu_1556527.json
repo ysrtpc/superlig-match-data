@@ -1,5 +1,5 @@
 {
-    "elapsed":  5,
+    "elapsed":  20,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -24,11 +24,11 @@
                         "starting11":  [
                                            "M. Silva",
                                            "N. Antwi",
-                                           "Y. Cohen",
-                                           "N. Muche",
                                            "B. Carabalí",
-                                           "B. Enow",
                                            "G. Cohen",
+                                           "Y. Cohen",
+                                           "B. Enow",
+                                           "N. Muche",
                                            "D. Worko",
                                            "S. Weissman",
                                            "O. Atzili",
