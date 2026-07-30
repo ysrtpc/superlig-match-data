@@ -1,18 +1,18 @@
 {
-    "elapsed":  29,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  0,
                   "possessionAway":  0,
                   "shotsHome":  0,
                   "shotsAway":  0,
-                  "shotsOnTargetHome":  1,
-                  "shotsOnTargetAway":  0,
-                  "foulsHome":  1,
-                  "foulsAway":  5,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  4,
+                  "foulsAway":  6,
                   "cornersHome":  1,
                   "cornersAway":  2,
-                  "offsidesHome":  1,
+                  "offsidesHome":  2,
                   "offsidesAway":  1,
                   "xgHome":  0,
                   "xgAway":  0,
@@ -80,6 +80,19 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  35,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Hatzidiakos",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "G. Konstantelias",
+                       "detail":  "Jogo"
+                   }
                ]
 }
