@@ -1,5 +1,5 @@
 {
-    "elapsed":  76,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -60,6 +60,13 @@
                    },
                    {
                        "minute":  57,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Pecka",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  86,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "T. Pecka",
