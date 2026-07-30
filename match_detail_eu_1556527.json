@@ -1,5 +1,5 @@
 {
-    "elapsed":  51,
+    "elapsed":  71,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -31,8 +31,8 @@
                                            "B. Enow",
                                            "N. Muche",
                                            "D. Worko",
-                                           "S. Weissman",
                                            "O. Atzili",
+                                           "S. Weissman",
                                            "J. Kalu"
                                        ],
                         "substitutes":  [
@@ -53,15 +53,15 @@
     "awayLineups":  {
                         "starting11":  [
                                            "A. Paraskevas",
-                                           "Y. Garfinkel",
-                                           "E. Saborit",
-                                           "H. Miličević",
                                            "J. Miramón",
-                                           "G. Ledes",
+                                           "H. Miličević",
+                                           "E. Saborit",
+                                           "Y. Garfinkel",
                                            "I. Pankov",
-                                           "Y. Amyn",
-                                           "J. Repas",
+                                           "G. Ledes",
                                            "A. Layouni",
+                                           "J. Repas",
+                                           "Y. Amyn",
                                            "R. Bajić"
                                        ],
                         "substitutes":  [
@@ -126,6 +126,48 @@
                        "isHomeTeam":  true,
                        "playerName":  "B. Carabali",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  52,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Milicevic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Weissman",
+                       "detail":  "T. Muzie"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "Y. Cohen",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Worko",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Y. Gurfinkel",
+                       "detail":  "K. Pileas"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Miramon",
+                       "detail":  "W. Rubio"
                    }
                ]
 }
