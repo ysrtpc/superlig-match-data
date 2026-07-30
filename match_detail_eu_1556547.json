@@ -1,0 +1,91 @@
+{
+    "elapsed":  4,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  0,
+                  "possessionAway":  0,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "C. Coosemans",
+                                           "A. Maamar",
+                                           "L. Pétrot",
+                                           "G. Biancone",
+                                           "L. Augustinsson",
+                                           "J. Kana",
+                                           "M. Kana",
+                                           "E. Llansana",
+                                           "L. Ambros",
+                                           "J. Seke",
+                                           "D. Sikan"
+                                       ],
+                        "substitutes":  [
+                                            "J. Heekeren",
+                                            "K. Barry",
+                                            "Z. Keita",
+                                            "M. Ndiaye",
+                                            "B. Vroninks",
+                                            "C. Huerta",
+                                            "M. Stroeykens",
+                                            "N. Kalonji",
+                                            "T. Degreef",
+                                            "M. Cvetković",
+                                            "N. Cobiella",
+                                            "A. Bertaccini"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "W. Hahn",
+                                           "H. Skoglund",
+                                           "V. Eriksson",
+                                           "F. Winther",
+                                           "N. Persson",
+                                           "T. Tekie",
+                                           "M. Karlsson",
+                                           "M. Madjed",
+                                           "O. Schellhas",
+                                           "V. Lind",
+                                           "P. Abraham"
+                                       ],
+                        "substitutes":  [
+                                            "E. Opancar",
+                                            "F. Jakobsson",
+                                            "I. Fofana",
+                                            "W. Renecke",
+                                            "O. Brånby",
+                                            "A. Boudri",
+                                            "N. Besara",
+                                            "W. Uhrstrom",
+                                            "F. Adjei",
+                                            "O. Hagen",
+                                            "M. Kaboré",
+                                            "S. Kebbeh"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  2,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Abraham",
+                       "detail":  ""
+                   }
+               ]
+}
