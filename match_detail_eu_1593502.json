@@ -1,5 +1,5 @@
 {
-    "elapsed":  5,
+    "elapsed":  20,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -48,15 +48,15 @@
     "awayLineups":  {
                         "starting11":  [
                                            "A. Todorović",
-                                           "M. Devetak",
-                                           "A. Majstorović",
-                                           "T. Fruk",
                                            "A. Oreč",
-                                           "T. Dantas",
+                                           "A. Majstorović",
                                            "A. Barco",
-                                           "D. Adu-Adjei",
-                                           "A. Gojak",
+                                           "M. Devetak",
                                            "B. Pavić",
+                                           "T. Dantas",
+                                           "T. Fruk",
+                                           "A. Gojak",
+                                           "D. Adu-Adjei",
                                            "N. Janković"
                                        ],
                         "substitutes":  [
@@ -75,6 +75,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  14,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Adjei",
+                       "detail":  ""
+                   }
                ]
 }
