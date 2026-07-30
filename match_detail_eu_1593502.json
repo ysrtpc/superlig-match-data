@@ -1,5 +1,6 @@
 {
-    "elapsed":  20,
+    "elapsed":  32,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -80,6 +81,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "D. Adjei",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  30,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Twisk",
                        "detail":  ""
                    }
                ]
