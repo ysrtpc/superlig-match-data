@@ -1,19 +1,19 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  49,
+    "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  45,
-                  "possessionAway":  55,
+                  "possessionHome":  46,
+                  "possessionAway":  54,
                   "shotsHome":  0,
                   "shotsAway":  0,
-                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  6,
+                  "foulsHome":  7,
                   "foulsAway":  3,
                   "cornersHome":  3,
-                  "cornersAway":  1,
+                  "cornersAway":  3,
                   "offsidesHome":  1,
-                  "offsidesAway":  1,
+                  "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
@@ -100,6 +100,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "M. Buren",
                        "detail":  "J. Kucera"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Warneryd",
+                       "detail":  "I. Dahlqvist"
+                   },
+                   {
+                       "minute":  48,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Sloncik",
+                       "detail":  "M. Buren"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Sloncik",
+                       "detail":  ""
                    }
                ]
 }
