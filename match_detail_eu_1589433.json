@@ -1,5 +1,5 @@
 {
-    "elapsed":  40,
+    "elapsed":  45,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -92,6 +92,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Tovstik",
                        "detail":  "I. Antonov"
+                   },
+                   {
+                       "minute":  41,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Antonov",
+                       "detail":  ""
                    }
                ]
 }
