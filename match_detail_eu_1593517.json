@@ -1,5 +1,5 @@
 {
-    "elapsed":  59,
+    "elapsed":  78,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -133,6 +133,69 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "N. Petkovic",
+                       "detail":  "D. Franke"
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Kvaratskhelia",
+                       "detail":  "N. Tkalia"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Teixeira",
+                       "detail":  "N. Petkovic"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Bosancic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Couto",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Kakashvili",
+                       "detail":  "M. Vatsadze"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Vatsadze",
+                       "detail":  "N. Kurdic"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Petkovic",
+                       "detail":  "D. Sesplaukis"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Loria",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Bah",
                        "detail":  ""
                    }
                ]
