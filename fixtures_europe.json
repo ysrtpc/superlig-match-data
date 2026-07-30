@@ -98,8 +98,8 @@
         "date":  "30 Tem 2026",
         "time":  "21:00",
         "competition":  "Avrupa Ligi",
-        "isLive":  true,
-        "status":  "LIVE",
-        "elapsed":  82
+        "isLive":  false,
+        "status":  "PLAYED",
+        "elapsed":  90
     }
 ]
