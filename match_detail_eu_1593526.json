@@ -1,0 +1,144 @@
+{
+    "elapsed":  77,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  6,
+                  "foulsAway":  10,
+                  "cornersHome":  8,
+                  "cornersAway":  6,
+                  "offsidesHome":  3,
+                  "offsidesAway":  2,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "O. Melika",
+                                           "N. Harosh",
+                                           "M. Camara",
+                                           "R. Shlomo",
+                                           "R. Revivo",
+                                           "D. Peretz",
+                                           "I. Sissokho",
+                                           "I. Shahar",
+                                           "S. Jehezkel",
+                                           "S. Farchi",
+                                           "H. Varela"
+                                       ],
+                        "substitutes":  [
+                                            "I. Trau",
+                                            "S. Saadia",
+                                            "N. Schwartz",
+                                            "S. Rosen",
+                                            "I. Hamo",
+                                            "K. Andrade",
+                                            "D. Glazer",
+                                            "I. Noy",
+                                            "L. Asres",
+                                            "I. Simon",
+                                            "O. Davida",
+                                            "O. Azo"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "E. Tîmbur",
+                                           "M. Ouedraogo",
+                                           "B. Ciss",
+                                           "F. Bourama",
+                                           "R. Lopes",
+                                           "M. Mota",
+                                           "D. Klas",
+                                           "A. Pergjoni",
+                                           "K. Loukou",
+                                           "S. Koné",
+                                           "D. Forov"
+                                       ],
+                        "substitutes":  [
+                                            "I. Dyulgerov",
+                                            "N. Cebotari",
+                                            "N. Swen",
+                                            "S. Magassouba",
+                                            "J. Modelo",
+                                            "Sapata",
+                                            "V. Nihaev",
+                                            "V. Cozma",
+                                            "M. Corotcov",
+                                            "E. Ivanov"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  29,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Kone",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  57,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Mota",
+                       "detail":  "Sapata"
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Kone",
+                       "detail":  "V. Nihaev"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Jehezkel",
+                       "detail":  "O. Davida"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Shahar",
+                       "detail":  "I. Simon"
+                   },
+                   {
+                       "minute":  71,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Nihaev",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Forov",
+                       "detail":  "J. Modelo"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Pergjoni",
+                       "detail":  "N. Swen"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Jaures-Ulrich",
+                       "detail":  "V. Cozma"
+                   }
+               ]
+}
