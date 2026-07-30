@@ -1,6 +1,6 @@
 {
-    "elapsed":  40,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -98,6 +98,13 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "D. Power",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  40,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Karoglan",
                        "detail":  ""
                    }
                ]
