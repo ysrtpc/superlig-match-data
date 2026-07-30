@@ -1,5 +1,6 @@
 {
-    "elapsed":  20,
+    "elapsed":  33,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -77,6 +78,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  26,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Milicevic",
+                       "detail":  ""
+                   }
                ]
 }
