@@ -1,5 +1,5 @@
 {
-    "elapsed":  10,
+    "elapsed":  16,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -83,8 +83,8 @@
                        "minute":  10,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
-                       "playerName":  null,
-                       "detail":  ""
+                       "playerName":  "V. Serebe",
+                       "detail":  "E. Ajazaj"
                    }
                ]
 }
