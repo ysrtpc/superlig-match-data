@@ -1,29 +1,31 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  52,
+    "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  72,
-                  "possessionAway":  28,
-                  "shotsHome":  10,
+                  "possessionHome":  73,
+                  "possessionAway":  27,
+                  "shotsHome":  14,
                   "shotsAway":  2,
-                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetHome":  5,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  6,
-                  "foulsAway":  7,
-                  "cornersHome":  4,
+                  "foulsAway":  8,
+                  "cornersHome":  6,
                   "cornersAway":  1,
                   "offsidesHome":  0,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "",
-                  "passesAway":  "",
+                  "passesHome":  "369 (91%)",
+                  "passesAway":  "134 (78%)",
                   "savesHome":  0,
-                  "savesAway":  3,
-                  "yellowCardsHome":  0,
-                  "yellowCardsAway":  0,
-                  "redCardsHome":  0,
-                  "redCardsAway":  0
+                  "savesAway":  4,
+                  "shotsOffTargetHome":  4,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  10,
+                  "shotsInsideBoxAway":  1,
+                  "shotsOutsideBoxHome":  4,
+                  "shotsOutsideBoxAway":  1
               },
     "homeLineups":  {
                         "starting11":  [
@@ -97,6 +99,20 @@
                        "isHomeTeam":  true,
                        "playerName":  "D. Klaassen",
                        "detail":  "Y. Regeer"
+                   },
+                   {
+                       "minute":  51,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Vukanovic",
+                       "detail":  "N. Mulahusejnovic"
+                   },
+                   {
+                       "minute":  52,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Sukacev",
+                       "detail":  "S. Mitrovic"
                    }
                ]
 }
