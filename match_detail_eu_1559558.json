@@ -1,5 +1,5 @@
 {
-    "elapsed":  75,
+    "elapsed":  80,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -63,7 +63,7 @@
                        "minute":  67,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
-                       "playerName":  "Balashov.A",
+                       "playerName":  "A. Balashov",
                        "detail":  ""
                    },
                    {
