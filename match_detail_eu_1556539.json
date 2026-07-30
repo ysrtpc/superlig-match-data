@@ -1,0 +1,85 @@
+{
+    "elapsed":  6,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  89,
+                  "possessionAway":  11,
+                  "shotsHome":  1,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "I. Peña",
+                                           "T. Tsapras",
+                                           "S. Vrij",
+                                           "A. Touba",
+                                           "G. Kyriakopoulos",
+                                           "A. Jagušić",
+                                           "E. Camara",
+                                           "A. Čerin",
+                                           "A. Zaroury",
+                                           "A. Tetteh",
+                                           "S. Andino"
+                                       ],
+                        "substitutes":  [
+                                            "K. Kotsaris",
+                                            "L. Cháves",
+                                            "G. Katris",
+                                            "R. Drongelen",
+                                            "V. Lavdas",
+                                            "P. Chirivella",
+                                            "P. Pantelidis",
+                                            "S. Kontouris",
+                                            "V. Taborda",
+                                            "F. Pellistri",
+                                            "P. Biniaris",
+                                            "E. Rastoder"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "Á. Kovácsik",
+                                           "G. Vas",
+                                           "J. Szabó",
+                                           "M. Zeke",
+                                           "M. Győrfi",
+                                           "J. Windecker",
+                                           "K. Papp",
+                                           "A. Lapu",
+                                           "K. Horváth",
+                                           "M. Pető",
+                                           "J. Szalai"
+                                       ],
+                        "substitutes":  [
+                                            "M. Gyetván",
+                                            "G. Rácz",
+                                            "B. Vécsei",
+                                            "H. Kuzma",
+                                            "B. Lenzsér",
+                                            "M. Szekszárdi",
+                                            "B. Balogh",
+                                            "G. Gyurkits",
+                                            "J. Hahn",
+                                            "Z. Haraszti",
+                                            "D. Böde",
+                                            "B. Tóth"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
