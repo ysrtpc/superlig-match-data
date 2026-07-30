@@ -1,5 +1,5 @@
 {
-    "elapsed":  77,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -7,11 +7,11 @@
                   "shotsAway":  0,
                   "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  0,
-                  "foulsHome":  6,
-                  "foulsAway":  10,
-                  "cornersHome":  8,
-                  "cornersAway":  6,
-                  "offsidesHome":  3,
+                  "foulsHome":  9,
+                  "foulsAway":  11,
+                  "cornersHome":  11,
+                  "cornersAway":  7,
+                  "offsidesHome":  4,
                   "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
@@ -35,6 +35,8 @@
                                            "H. Varela"
                                        ],
                         "substitutes":  [
+                                            "I. Simon",
+                                            "O. Davida",
                                             "I. Trau",
                                             "S. Saadia",
                                             "N. Schwartz",
@@ -44,8 +46,6 @@
                                             "D. Glazer",
                                             "I. Noy",
                                             "L. Asres",
-                                            "I. Simon",
-                                            "O. Davida",
                                             "O. Azo"
                                         ]
                     },
@@ -64,13 +64,13 @@
                                            "D. Forov"
                                        ],
                         "substitutes":  [
+                                            "Sapata",
+                                            "V. Nihaev",
                                             "I. Dyulgerov",
                                             "N. Cebotari",
                                             "N. Swen",
                                             "S. Magassouba",
                                             "J. Modelo",
-                                            "Sapata",
-                                            "V. Nihaev",
                                             "V. Cozma",
                                             "M. Corotcov",
                                             "E. Ivanov"
@@ -139,6 +139,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "L. Jaures-Ulrich",
                        "detail":  "V. Cozma"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Harush",
+                       "detail":  "I. Hamo"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Varela",
+                       "detail":  "I. Noy"
                    }
                ]
 }
