@@ -1,24 +1,24 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
-                  "possessionHome":  58,
-                  "possessionAway":  42,
-                  "shotsHome":  7,
-                  "shotsAway":  5,
-                  "shotsOnTargetHome":  3,
-                  "shotsOnTargetAway":  1,
+                  "possessionHome":  59,
+                  "possessionAway":  41,
+                  "shotsHome":  11,
+                  "shotsAway":  8,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  2,
                   "foulsHome":  5,
                   "foulsAway":  3,
                   "cornersHome":  1,
                   "cornersAway":  0,
                   "offsidesHome":  0,
-                  "offsidesAway":  1,
+                  "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
-                  "savesHome":  1,
-                  "savesAway":  2
+                  "savesHome":  2,
+                  "savesAway":  3
               },
     "homeLineups":  {
                         "starting11":  [
@@ -104,6 +104,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "O. Agren",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  36,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Rasmussen",
                        "detail":  ""
                    }
                ]
