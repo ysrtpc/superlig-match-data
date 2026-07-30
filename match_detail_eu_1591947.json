@@ -1,15 +1,15 @@
 {
-    "elapsed":  51,
+    "elapsed":  57,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  57,
-                  "possessionAway":  43,
-                  "shotsHome":  3,
+                  "possessionHome":  59,
+                  "possessionAway":  41,
+                  "shotsHome":  4,
                   "shotsAway":  7,
-                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  3,
                   "foulsHome":  8,
-                  "foulsAway":  4,
+                  "foulsAway":  5,
                   "cornersHome":  0,
                   "cornersAway":  2,
                   "offsidesHome":  0,
@@ -19,7 +19,7 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  2,
-                  "savesAway":  1
+                  "savesAway":  2
               },
     "homeLineups":  {
                         "starting11":  [
