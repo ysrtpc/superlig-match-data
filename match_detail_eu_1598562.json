@@ -1,5 +1,5 @@
 {
-    "elapsed":  31,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -42,6 +42,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "S. Bergwijn",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  33,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Ilenikhena",
                        "detail":  ""
                    }
                ]
