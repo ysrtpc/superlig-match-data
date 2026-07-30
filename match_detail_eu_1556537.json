@@ -1,5 +1,5 @@
 {
-    "elapsed":  79,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -28,21 +28,21 @@
                                            "S. Mambo",
                                            "D. Sualehe",
                                            "T. Oshima",
-                                           "G. Manvelyan",
-                                           "G. Sangaré",
                                            "H. Ferreira",
-                                           "M. González",
-                                           "M. Jakoliš"
+                                           "G. Sangaré",
+                                           "G. Manvelyan",
+                                           "M. Jakoliš",
+                                           "M. González"
                                        ],
                         "substitutes":  [
+                                            "E. Boakye",
+                                            "A. Khamoyan",
                                             "A. Coneglian",
                                             "D. Davtyan",
                                             "S. Muradyan",
                                             "M. Avetisyan",
-                                            "E. Boakye",
                                             "M. Pavlović",
                                             "V. Costache",
-                                            "A. Khamoyan",
                                             "B. Oddei",
                                             "M. Lazetić",
                                             "M. Doumbia",
@@ -64,16 +64,16 @@
                                            "C. Dantas"
                                        ],
                         "substitutes":  [
+                                            "R. Rosario",
+                                            "T. Butucel",
+                                            "Jonathas",
                                             "I. Dokić",
                                             "C. Sîrghi",
                                             "S. Ungureanu",
                                             "E. Cociuc",
-                                            "Jonathas",
-                                            "T. Butucel",
                                             "V. Raileanu",
                                             "A. Bonnah",
                                             "S. Cojocari",
-                                            "R. Rosario",
                                             "A. Betivu"
                                         ]
                     },
@@ -152,8 +152,8 @@
                        "minute":  76,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
-                       "playerName":  "A. Gutium",
-                       "detail":  ""
+                       "playerName":  "Jonathas",
+                       "detail":  "S. Bitca"
                    },
                    {
                        "minute":  76,
@@ -168,6 +168,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "M. Gonzalez",
                        "detail":  "M. Lazetic"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Gutium",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "C. Dantas",
+                       "detail":  "V. Raileanu"
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Ferreira",
+                       "detail":  "B. Oddei"
                    }
                ]
 }
