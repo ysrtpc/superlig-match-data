@@ -1,0 +1,85 @@
+{
+    "elapsed":  2,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "M. Paes",
+                                           "L. Rosa",
+                                           "A. Bouwman",
+                                           "D. Blind",
+                                           "O. Wijndal",
+                                           "D. Klaassen",
+                                           "Y. Regeer",
+                                           "O. Gloukh",
+                                           "S. Berghuis",
+                                           "K. Dolberg",
+                                           "M. Godts"
+                                       ],
+                        "substitutes":  [
+                                            "P. Reverson",
+                                            "J. Heerkens",
+                                            "C. Henrique",
+                                            "Y. Baas",
+                                            "A. Gaaei",
+                                            "M. Abdalla",
+                                            "M. Carrizo",
+                                            "J. Mokio",
+                                            "A. Ouazane",
+                                            "O. Edvardsen",
+                                            "D. Konadu",
+                                            "M. Leonardo"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Rosić",
+                                           "L. Barros",
+                                           "Đ. Crnomarković",
+                                           "K. Szűcs",
+                                           "L. Nikolić",
+                                           "I. Đakovac",
+                                           "N. Petrović",
+                                           "D. Zukić",
+                                           "P. Sukačev",
+                                           "A. Vukanović",
+                                           "L. Ranđelović"
+                                       ],
+                        "substitutes":  [
+                                            "B. Bogdanović",
+                                            "M. Gočmanac",
+                                            "M. Butean",
+                                            "D. Kokanović",
+                                            "M. Mladenović",
+                                            "M. Poletanović",
+                                            "M. Vidosavljević",
+                                            "M. Kolarević",
+                                            "S. Mitrović",
+                                            "V. Boškan",
+                                            "L. Peranović",
+                                            "N. Mulahusejnović"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
