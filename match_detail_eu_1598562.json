@@ -1,5 +1,5 @@
 {
-    "elapsed":  74,
+    "elapsed":  79,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -64,6 +64,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "J. Munoz",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
