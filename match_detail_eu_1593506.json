@@ -1,0 +1,132 @@
+{
+    "elapsed":  78,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "F. Krkalić",
+                                           "T. Miettunen",
+                                           "S. Väisänen",
+                                           "M. Rale",
+                                           "O. Pettersson",
+                                           "O. Multala",
+                                           "A. Popovitch",
+                                           "K. Wallius",
+                                           "J. Kanga",
+                                           "J. Kilo",
+                                           "T. Hytönen"
+                                       ],
+                        "substitutes":  [
+                                            "O. Virtanen",
+                                            "R. Leislahti",
+                                            "S. Suvanne",
+                                            "V. Kumpu",
+                                            "B. Goudouss",
+                                            "F. Kouakou",
+                                            "S. Baranov",
+                                            "O. Tiitinen",
+                                            "L. Ala-Myllymäki",
+                                            "E. Tamminen",
+                                            "R. Riski",
+                                            "H. Coulibaly"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "Á. Ólafsson",
+                                           "Þ. Þórisson",
+                                           "G. Kristjánsson",
+                                           "G. Kjeldsen",
+                                           "Ö. Örvarsson",
+                                           "J. Gunnarsson",
+                                           "B. Warén",
+                                           "G. Nokkvason",
+                                           "Ö. Eggertsson",
+                                           "E. Atlason",
+                                           "B. Ingason"
+                                       ],
+                        "substitutes":  [
+                                            "D. Beic",
+                                            "D. Gylfason",
+                                            "A. Leifsson",
+                                            "B. Hauksson",
+                                            "S. Ingimarsson",
+                                            "S. Jónsson",
+                                            "A. Hauksson",
+                                            "C. Alexandersson",
+                                            "B. Sæmundsson",
+                                            "D. Matthíasson",
+                                            "Á. Vilhjálmsson",
+                                            "A. Bjarnason"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  24,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Multala",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  39,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Gunnarsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Wallius",
+                       "detail":  "G. Bamba"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Multala",
+                       "detail":  "S. Baranov"
+                   },
+                   {
+                       "minute":  52,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Kilo",
+                       "detail":  "J. Kanga"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Waren",
+                       "detail":  "D. Matthiasson"
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Kilo",
+                       "detail":  "R. Riski"
+                   }
+               ]
+}
