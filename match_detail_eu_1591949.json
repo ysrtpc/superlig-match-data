@@ -1,0 +1,95 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "S. Șmalenea",
+                                           "S. Plătică",
+                                           "P. Vlad",
+                                           "J. Djou",
+                                           "C. Cucos",
+                                           "I. Jardan",
+                                           "M. Iosipoi",
+                                           "O. David",
+                                           "D. Pușcaș",
+                                           "R. Nicolae",
+                                           "P. Popescu"
+                                       ],
+                        "substitutes":  [
+                                            "C. Avram",
+                                            "V. Dodon",
+                                            "D. Demian",
+                                            "B. Musteata",
+                                            "I. Botnari",
+                                            "P. Nazari",
+                                            "M. Platica",
+                                            "M. Cojocaru",
+                                            "M. Lupan",
+                                            "M. Sava"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. Jurkas",
+                                           "V. Rogan",
+                                           "N. Jakšić",
+                                           "J. Carolina",
+                                           "S. Herrera",
+                                           "S. Ogrinec",
+                                           "A. Hiroš",
+                                           "M. Jojić",
+                                           "D. Hrelja",
+                                           "L. Juričić",
+                                           "S. Savić"
+                                       ],
+                        "substitutes":  [
+                                            "D. Siskovski",
+                                            "N. Ćetković",
+                                            "S. Saničanin",
+                                            "B. Meijers",
+                                            "E. Riđan",
+                                            "D. Vuković",
+                                            "A. Roguljić",
+                                            "S. Vranješ",
+                                            "A. Milak",
+                                            "P. Đajić",
+                                            "M. Deket",
+                                            "D. Romera"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  13,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Rotaru",
+                       "detail":  "I. Jardan"
+                   },
+                   {
+                       "minute":  19,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Popescu",
+                       "detail":  "S. Platica"
+                   }
+               ]
+}
