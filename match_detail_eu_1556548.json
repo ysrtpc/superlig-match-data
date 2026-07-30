@@ -1,0 +1,87 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Trubin",
+                                           "A. Bah",
+                                           "A. Silva",
+                                           "C. Lenglet",
+                                           "S. Dahl",
+                                           "G. Sudakov",
+                                           "R. Silva",
+                                           "J. Kamiński",
+                                           "L. Barreiro",
+                                           "E. Barrenechea",
+                                           "V. Pavlidis"
+                                       ],
+                        "substitutes":  [
+                                            "S. Soares",
+                                            "A. Dedić",
+                                            "T. Araújo",
+                                            "J. Neto",
+                                            "D. Lukebakio",
+                                            "M. Silva",
+                                            "R. Ríos",
+                                            "A. Schjelderup",
+                                            "M. Figueiredo",
+                                            "F. Ivanović",
+                                            "J. Durán",
+                                            "A. Cabral"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "L. Watkowiak",
+                                           "T. Gaal",
+                                           "J. Stanić",
+                                           "C. Okoroji",
+                                           "H. Vandermersch",
+                                           "L. Görtler",
+                                           "L. Daschner",
+                                           "C. Boukhalfa",
+                                           "M. Stevanović",
+                                           "C. Witzig",
+                                           "A. Balde"
+                                       ],
+                        "substitutes":  [
+                                            "B. Dumrath",
+                                            "Y. Bujard",
+                                            "M. Heydari",
+                                            "J. Ruiz",
+                                            "L. Frokaj",
+                                            "B. Fazliji",
+                                            "C. Konietzke",
+                                            "A. Hunziker",
+                                            "D. Besio",
+                                            "E. Owusu"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
