@@ -1,14 +1,14 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
-                  "possessionHome":  52,
-                  "possessionAway":  48,
-                  "shotsHome":  2,
-                  "shotsAway":  4,
+                  "possessionHome":  56,
+                  "possessionAway":  44,
+                  "shotsHome":  3,
+                  "shotsAway":  7,
                   "shotsOnTargetHome":  1,
-                  "shotsOnTargetAway":  1,
-                  "foulsHome":  5,
-                  "foulsAway":  2,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  6,
+                  "foulsAway":  4,
                   "cornersHome":  0,
                   "cornersAway":  2,
                   "offsidesHome":  0,
@@ -17,7 +17,7 @@
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
-                  "savesHome":  0,
+                  "savesHome":  2,
                   "savesAway":  1
               },
     "homeLineups":  {
@@ -79,7 +79,7 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "R. Ferber",
-                       "detail":  ""
+                       "detail":  "T. Zeghdane"
                    },
                    {
                        "minute":  31,
@@ -92,8 +92,15 @@
                        "minute":  35,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
-                       "playerName":  null,
+                       "playerName":  "N. Njie",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Correia",
+                       "detail":  "L. Marasi"
                    }
                ]
 }
