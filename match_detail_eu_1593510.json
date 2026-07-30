@@ -1,5 +1,5 @@
 {
-    "elapsed":  86,
+    "elapsed":  93,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -151,6 +151,62 @@
                        "isHomeTeam":  false,
                        "playerName":  "T. Heintz",
                        "detail":  "T. Coimbra"
+                   },
+                   {
+                       "minute":  88,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Larsson",
+                       "detail":  "S. Larsson"
+                   },
+                   {
+                       "minute":  89,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Roosnupp",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Roosnupp",
+                       "detail":  "E. Otoo"
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Wendell",
+                       "detail":  "M. Skvortsov"
+                   },
+                   {
+                       "minute":  91,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "N. Tolf",
+                       "detail":  "I. Seidu"
+                   },
+                   {
+                       "minute":  93,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Bergmark-Wiberg",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  94,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Bergmark-Wiberg",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  95,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Coimbra",
+                       "detail":  ""
                    }
                ]
 }
