@@ -1,17 +1,17 @@
 {
-    "elapsed":  39,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
-                  "possessionHome":  0,
-                  "possessionAway":  0,
+                  "possessionHome":  50,
+                  "possessionAway":  50,
                   "shotsHome":  0,
                   "shotsAway":  0,
                   "shotsOnTargetHome":  1,
-                  "shotsOnTargetAway":  1,
+                  "shotsOnTargetAway":  2,
                   "foulsHome":  9,
-                  "foulsAway":  3,
+                  "foulsAway":  4,
                   "cornersHome":  2,
-                  "cornersAway":  4,
+                  "cornersAway":  5,
                   "offsidesHome":  1,
                   "offsidesAway":  0,
                   "xgHome":  0,
@@ -20,7 +20,7 @@
                   "passesAway":  "",
                   "savesHome":  0,
                   "savesAway":  0,
-                  "yellowCardsHome":  0,
+                  "yellowCardsHome":  1,
                   "yellowCardsAway":  0,
                   "redCardsHome":  0,
                   "redCardsAway":  0
@@ -83,6 +83,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  39,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Jordao",
+                       "detail":  ""
+                   }
                ]
 }
