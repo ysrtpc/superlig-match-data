@@ -1,0 +1,81 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "R. Sallinger",
+                                           "W. O\u0027Hora",
+                                           "J. Kerr",
+                                           "J. Obita",
+                                           "F. Passlack",
+                                           "J. Mulligan",
+                                           "M. Chaiwa",
+                                           "A. Mayor",
+                                           "M. Boyle",
+                                           "O. Elding",
+                                           "N. Lowe"
+                                       ],
+                        "substitutes":  [
+                                            "J. Smith",
+                                            "F. Owens",
+                                            "G. Hanley",
+                                            "J. Mcgrath",
+                                            "J. Newell",
+                                            "C. Cadden",
+                                            "R. Molotnikov",
+                                            "K. Megwa",
+                                            "J. MacIntyre",
+                                            "J. Campbell",
+                                            "A. Abdulai",
+                                            "T. Klidjé"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "I. Avdyli",
+                                           "K. Shani",
+                                           "D. Kryeziu",
+                                           "A. Skovgaard",
+                                           "A. Veliu",
+                                           "B. Ferati",
+                                           "L. Xhylani",
+                                           "D. Vitija",
+                                           "V. İsgändärli",
+                                           "D. Ibishi",
+                                           "K. Uka"
+                                       ],
+                        "substitutes":  [
+                                            "A. Kanurić",
+                                            "O. Bajraktari",
+                                            "A. Pira",
+                                            "R. Murati",
+                                            "M. Bushaj",
+                                            "K. Luma",
+                                            "V. Nafiu",
+                                            "K. Dulaj"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
