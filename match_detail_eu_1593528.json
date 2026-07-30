@@ -1,5 +1,5 @@
 {
-    "elapsed":  23,
+    "elapsed":  29,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  0,
@@ -9,7 +9,7 @@
                   "shotsOnTargetHome":  1,
                   "shotsOnTargetAway":  0,
                   "foulsHome":  1,
-                  "foulsAway":  4,
+                  "foulsAway":  5,
                   "cornersHome":  1,
                   "cornersAway":  2,
                   "offsidesHome":  1,
