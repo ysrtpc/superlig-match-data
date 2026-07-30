@@ -1,5 +1,6 @@
 {
-    "elapsed":  20,
+    "elapsed":  32,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -84,6 +85,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "J. Williams",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  20,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Tovstik",
+                       "detail":  "I. Antonov"
                    }
                ]
 }
