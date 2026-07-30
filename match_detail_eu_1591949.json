@@ -1,5 +1,5 @@
 {
-    "elapsed":  54,
+    "elapsed":  60,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -110,8 +110,22 @@
                        "minute":  55,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
-                       "playerName":  null,
+                       "playerName":  "M. Iosipoi",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  56,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Hiros",
+                       "detail":  "M. Jojic"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Iosipoi",
+                       "detail":  "B. Musteata"
                    }
                ]
 }
