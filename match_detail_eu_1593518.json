@@ -1,5 +1,5 @@
 {
-    "elapsed":  77,
+    "elapsed":  90,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -70,7 +70,7 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "H. Anier",
-                       "detail":  ""
+                       "detail":  "H. Ojamaa"
                    },
                    {
                        "minute":  72,
@@ -99,6 +99,34 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Luts",
                        "detail":  "P. Cham"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Aydin",
+                       "detail":  "M. Junior"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Vieirinha",
+                       "detail":  "I. Ibrahimli"
+                   },
+                   {
+                       "minute":  83,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Junior",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  89,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Konate",
+                       "detail":  "A. Seydiyev"
                    }
                ]
 }
