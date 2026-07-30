@@ -1,5 +1,5 @@
 {
-    "elapsed":  78,
+    "elapsed":  null,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  71,
@@ -8,12 +8,12 @@
                   "shotsAway":  0,
                   "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  10,
+                  "foulsHome":  15,
                   "foulsAway":  12,
-                  "cornersHome":  6,
-                  "cornersAway":  1,
+                  "cornersHome":  8,
+                  "cornersAway":  2,
                   "offsidesHome":  1,
-                  "offsidesAway":  2,
+                  "offsidesAway":  3,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
@@ -34,17 +34,17 @@
                                            "N. Ioannou",
                                            "D. Quina",
                                            "I. Šunjić",
-                                           "G. Rodrigues",
+                                           "Guga",
                                            "Biel",
                                            "Lelê",
                                            "Jajá"
                                        ],
                         "substitutes":  [
+                                            "V. Dragomir",
                                             "M. Papastylianou",
                                             "P. Petrou",
                                             "S. Mmaee",
                                             "K. Ioannou",
-                                            "V. Dragomir",
                                             "G. Michael",
                                             "A. Brito",
                                             "C. Efzona",
@@ -69,18 +69,18 @@
                                            "M. Šego"
                                        ],
                         "substitutes":  [
+                                            "A. Bamba",
+                                            "N. Sigur",
+                                            "M. Livaja",
                                             "I. Ivušić",
                                             "D. Stipica",
-                                            "N. Sigur",
                                             "R. Raçi",
                                             "M. Skelin",
                                             "L. Hodak",
-                                            "A. Bamba",
                                             "A. Šutalo",
                                             "E. Brruti",
                                             "A. Moral",
-                                            "N. Skoko",
-                                            "M. Livaja"
+                                            "N. Skoko"
                                         ]
                     },
     "events":  [
@@ -160,6 +160,34 @@
                        "isHomeTeam":  true,
                        "playerName":  "Guga",
                        "detail":  "Pepe"
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Sunjic",
+                       "detail":  "M. Mammadov"
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Ioannou",
+                       "detail":  "K. Sema"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Pajaziti",
+                       "detail":  "A. Moral"
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Goldar",
+                       "detail":  "V. Dragomir"
                    }
                ]
 }
