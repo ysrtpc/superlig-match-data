@@ -1,5 +1,5 @@
 {
-    "elapsed":  105,
+    "elapsed":  108,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -170,6 +170,20 @@
                        "isHomeTeam":  true,
                        "playerName":  "T. Hytonen",
                        "detail":  "E. Tamminen"
+                   },
+                   {
+                       "minute":  107,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  108,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Hauksson",
+                       "detail":  ""
                    }
                ]
 }
