@@ -1,17 +1,17 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  59,
-                  "possessionAway":  41,
+                  "possessionHome":  52,
+                  "possessionAway":  48,
                   "shotsHome":  0,
                   "shotsAway":  0,
                   "shotsOnTargetHome":  3,
-                  "shotsOnTargetAway":  2,
-                  "foulsHome":  10,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  14,
                   "foulsAway":  14,
                   "cornersHome":  3,
-                  "cornersAway":  0,
+                  "cornersAway":  1,
                   "offsidesHome":  1,
                   "offsidesAway":  1,
                   "xgHome":  0,
@@ -135,6 +135,41 @@
                        "isHomeTeam":  true,
                        "playerName":  "Franculino",
                        "detail":  "L. Han-Beom"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Cerny",
+                       "detail":  "M. Rashica"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Castillo",
+                       "detail":  "S. Iheanacho"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Rashica",
+                       "detail":  "J. Olaitan"
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Kristensen",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Kokcu",
+                       "detail":  ""
                    }
                ]
 }
