@@ -1,5 +1,5 @@
 {
-    "elapsed":  49,
+    "elapsed":  55,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -50,6 +50,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "G. Ilenikhena",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  54,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Nino",
                        "detail":  ""
                    }
                ]
