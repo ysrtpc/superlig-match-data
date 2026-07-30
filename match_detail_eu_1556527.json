@@ -1,0 +1,82 @@
+{
+    "elapsed":  5,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "M. Silva",
+                                           "N. Antwi",
+                                           "Y. Cohen",
+                                           "N. Muche",
+                                           "B. Carabalí",
+                                           "B. Enow",
+                                           "G. Cohen",
+                                           "D. Worko",
+                                           "S. Weissman",
+                                           "O. Atzili",
+                                           "J. Kalu"
+                                       ],
+                        "substitutes":  [
+                                            "Y. Ozer",
+                                            "D. Nir",
+                                            "R. Elimelech",
+                                            "L. Gadrani",
+                                            "O. Dahan",
+                                            "L. Deri",
+                                            "T. Muzie",
+                                            "Z. Shimol",
+                                            "N. Markovitch",
+                                            "T. Yosefi",
+                                            "E. Ansah",
+                                            "Y. Shua"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Paraskevas",
+                                           "Y. Garfinkel",
+                                           "E. Saborit",
+                                           "H. Miličević",
+                                           "J. Miramón",
+                                           "G. Ledes",
+                                           "I. Pankov",
+                                           "Y. Amyn",
+                                           "J. Repas",
+                                           "A. Layouni",
+                                           "R. Bajić"
+                                       ],
+                        "substitutes":  [
+                                            "V. Muftić",
+                                            "D. Dimitriou",
+                                            "Z. Adoni",
+                                            "G. Ekpolo",
+                                            "K. Pileas",
+                                            "C. Kyriakou",
+                                            "G. Naoum",
+                                            "W. Marín",
+                                            "Đ. Ivanović",
+                                            "D. Gerasimou"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
