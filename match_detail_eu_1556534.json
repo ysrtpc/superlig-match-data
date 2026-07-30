@@ -1,0 +1,88 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "B. Mørk",
+                                           "H. Mohr",
+                                           "Á. Johannesen",
+                                           "P. Steiring",
+                                           "Á. Dam",
+                                           "H. Sørensen",
+                                           "N. Mneney",
+                                           "D. Soylu",
+                                           "M. Voss",
+                                           "J. Thomsen",
+                                           "Á. Jónsson"
+                                       ],
+                        "substitutes":  [
+                                            "T. Sjúrdarson",
+                                            "T. Gestsson",
+                                            "J. Lon",
+                                            "S. Joensen",
+                                            "A. Diop",
+                                            "E. Mouritsen",
+                                            "H. Hansen",
+                                            "J. Skala",
+                                            "S. Radosavljević",
+                                            "E. Falkenberg",
+                                            "M. Ebiye",
+                                            "S. Pettersen"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Paulsen",
+                                           "T. Sparrow",
+                                           "J. Girdwood-Reich",
+                                           "M. Moormann",
+                                           "D. Williams",
+                                           "M. Booth",
+                                           "L. Fadinger",
+                                           "O. Priestman",
+                                           "W. Vogt",
+                                           "R. Charles-Cook",
+                                           "I. Said"
+                                       ],
+                        "substitutes":  [
+                                            "J. McConnell",
+                                            "M. Connelly",
+                                            "E. Longelo",
+                                            "E. Wilson",
+                                            "Z. McAllister",
+                                            "A. Thomson",
+                                            "O. Whyte",
+                                            "L. Ross",
+                                            "L. Weir",
+                                            "T. Maswanhise"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  25,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Fadinger",
+                       "detail":  ""
+                   }
+               ]
+}
