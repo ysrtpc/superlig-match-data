@@ -1,13 +1,13 @@
 {
-    "elapsed":  5,
+    "elapsed":  10,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  67,
-                  "possessionAway":  33,
+                  "possessionHome":  41,
+                  "possessionAway":  59,
                   "shotsHome":  0,
-                  "shotsAway":  0,
+                  "shotsAway":  1,
                   "shotsOnTargetHome":  0,
-                  "shotsOnTargetAway":  0,
+                  "shotsOnTargetAway":  1,
                   "foulsHome":  0,
                   "foulsAway":  0,
                   "cornersHome":  0,
@@ -18,8 +18,12 @@
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
-                  "savesHome":  0,
-                  "savesAway":  0
+                  "savesHome":  1,
+                  "savesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -82,6 +86,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "A. Haidara",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  8,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Martins",
                        "detail":  ""
                    }
                ]
