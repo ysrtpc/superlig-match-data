@@ -1,5 +1,5 @@
 {
-    "elapsed":  47,
+    "elapsed":  52,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -104,6 +104,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "S. Radic",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Thaylor",
+                       "detail":  "A. Zammit"
                    }
                ]
 }
