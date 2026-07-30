@@ -1,5 +1,5 @@
 {
-    "elapsed":  45,
+    "elapsed":  47,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -89,13 +89,20 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "T. Pienko",
-                       "detail":  "A. Molnar"
+                       "detail":  ""
                    },
                    {
                        "minute":  39,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
                        "playerName":  "Thaylor",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Radic",
                        "detail":  ""
                    }
                ]
