@@ -1,0 +1,83 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Racioppi",
+                                           "N. Lavanchy",
+                                           "N. Sow",
+                                           "J. Kronig",
+                                           "N. Hefti",
+                                           "A. Kabacalman",
+                                           "Baltazar",
+                                           "Y. Chouaref",
+                                           "W. Mokango",
+                                           "F. Surdez",
+                                           "R. Nivokazi"
+                                       ],
+                        "substitutes":  [
+                                            "S. Caillet",
+                                            "F. Ruberto",
+                                            "M. Cipriano",
+                                            "D. Möschinger",
+                                            "D. Rrudhani",
+                                            "R. Kessler",
+                                            "F. Sylla",
+                                            "J. Lukembila",
+                                            "L. Chipperfield",
+                                            "T. Berdayes",
+                                            "A. Llukes"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Sokol",
+                                           "Y. Kovalev",
+                                           "I. Mikhnyuk",
+                                           "A. Rakhmanov",
+                                           "M. Sakuta",
+                                           "N. Neskoromnyi",
+                                           "E. Kress",
+                                           "K. Kaplenko",
+                                           "V. Angban",
+                                           "L. Đorđević",
+                                           "V. Varaksa"
+                                       ],
+                        "substitutes":  [
+                                            "A. Skopets",
+                                            "A. Zhurin",
+                                            "P. Dubovskiy",
+                                            "P. Kolosovskiy",
+                                            "E. Rusakov",
+                                            "M. Titov",
+                                            "Y. Khramtsevich",
+                                            "A. Sakhonchik",
+                                            "V. Yatskevich",
+                                            "K. Apanasevich",
+                                            "E. Puerto"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
