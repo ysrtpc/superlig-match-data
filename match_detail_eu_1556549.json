@@ -1,16 +1,16 @@
 {
-    "elapsed":  82,
-    "status":  "LIVE",
+    "elapsed":  90,
+    "status":  "PLAYED",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
                   "shotsHome":  0,
                   "shotsAway":  0,
-                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetHome":  4,
                   "shotsOnTargetAway":  4,
                   "foulsHome":  15,
-                  "foulsAway":  15,
-                  "cornersHome":  3,
+                  "foulsAway":  18,
+                  "cornersHome":  5,
                   "cornersAway":  1,
                   "offsidesHome":  1,
                   "offsidesAway":  1,
@@ -21,7 +21,7 @@
                   "savesHome":  0,
                   "savesAway":  0,
                   "yellowCardsHome":  3,
-                  "yellowCardsAway":  1,
+                  "yellowCardsAway":  3,
                   "redCardsHome":  1,
                   "redCardsAway":  0
               },
@@ -40,18 +40,18 @@
                                            "F. Djú"
                                        ],
                         "substitutes":  [
+                                            "H. Lee",
+                                            "K. Wätjen",
+                                            "J. Emefile",
+                                            "S. Iheanacho",
                                             "N. Bakker",
                                             "L. Selin",
-                                            "H. Lee",
                                             "A. Gabriel",
                                             "B. Junior",
                                             "A. Ndiaye",
-                                            "S. Iheanacho",
                                             "S. Johannesen",
-                                            "K. Wätjen",
                                             "E. Chilufya",
-                                            "M. Uhre",
-                                            "J. Emefile"
+                                            "M. Uhre"
                                         ]
                     },
     "awayLineups":  {
@@ -69,6 +69,7 @@
                                            "H. Oh"
                                        ],
                         "substitutes":  [
+                                            "M. Rashica",
                                             "D. Alemdar",
                                             "K. Ouattara",
                                             "E. Agbadou",
@@ -76,7 +77,6 @@
                                             "Y. Özcan",
                                             "C. Gürsel",
                                             "A. Hadžiahmetović",
-                                            "M. Rashica",
                                             "K. Yılmaz",
                                             "M. Hekimoğlu",
                                             "A. Bircan",
@@ -113,7 +113,7 @@
                        "detail":  ""
                    },
                    {
-                       "minute":  57,
+                       "minute":  56,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "V. Cerny",
@@ -197,10 +197,38 @@
                        "detail":  ""
                    },
                    {
-                       "minute":  82,
+                       "minute":  81,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "V. Italiano",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Fakili",
+                       "detail":  "Y. Ozcan"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Hyeon-Gyu",
+                       "detail":  "M. Hekimoglu"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Murillo",
+                       "detail":  "T. Bulut"
+                   },
+                   {
+                       "minute":  86,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "Y. Ozcan",
                        "detail":  ""
                    }
                ]
