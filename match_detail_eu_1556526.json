@@ -1,5 +1,5 @@
 {
-    "elapsed":  74,
+    "elapsed":  89,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -35,14 +35,14 @@
                                            "B. Diedhiou"
                                        ],
                         "substitutes":  [
+                                            "S. Aranda",
+                                            "A. Appiah",
                                             "R. Sturins",
                                             "N. Aleksandrovs",
                                             "R. Kragliks",
-                                            "S. Aranda",
                                             "J. Gerold",
                                             "J. Minins",
                                             "H. Ibrahim",
-                                            "A. Appiah",
                                             "M. Fofana",
                                             "H. Lusweki"
                                         ]
@@ -62,6 +62,8 @@
                                            "O. Popescu"
                                        ],
                         "substitutes":  [
+                                            "J. Paulo",
+                                            "A. Stoian",
                                             "M. Popa",
                                             "M. Udrea",
                                             "L. Stancu",
@@ -69,10 +71,8 @@
                                             "D. Batubinsika",
                                             "E. Gnahoré",
                                             "M. Toma",
-                                            "J. Paulo",
                                             "D. Politic",
-                                            "D. Popa",
-                                            "A. Stoian"
+                                            "D. Popa"
                                         ]
                     },
     "events":  [
@@ -152,6 +152,41 @@
                        "isHomeTeam":  true,
                        "playerName":  "B. Diedhiou",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Tanase",
+                       "detail":  "E. Gnahore"
+                   },
+                   {
+                       "minute":  82,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Bongemba",
+                       "detail":  "M. Fofana"
+                   },
+                   {
+                       "minute":  83,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "Y. Traore",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Kone",
+                       "detail":  "A. Appiah"
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Diedhiou",
+                       "detail":  "R. Kragliks"
                    }
                ]
 }
