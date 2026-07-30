@@ -1,5 +1,5 @@
 {
-    "elapsed":  73,
+    "elapsed":  80,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -19,7 +19,13 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  0
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -195,6 +201,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Ameyaw",
                        "detail":  "E. Otieno"
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Radic",
+                       "detail":  "N. Micallef"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Makuch",
+                       "detail":  ""
                    }
                ]
 }
