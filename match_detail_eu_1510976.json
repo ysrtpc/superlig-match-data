@@ -1,5 +1,5 @@
 {
-    "elapsed":  46,
+    "elapsed":  54,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -43,6 +43,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "H. Holgersson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
