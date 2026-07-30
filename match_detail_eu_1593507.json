@@ -1,16 +1,16 @@
 {
-    "elapsed":  75,
+    "elapsed":  90,
     "stats":  {
-                  "possessionHome":  44,
-                  "possessionAway":  56,
-                  "shotsHome":  8,
-                  "shotsAway":  9,
-                  "shotsOnTargetHome":  5,
+                  "possessionHome":  41,
+                  "possessionAway":  59,
+                  "shotsHome":  9,
+                  "shotsAway":  10,
+                  "shotsOnTargetHome":  6,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  6,
-                  "foulsAway":  6,
-                  "cornersHome":  0,
-                  "cornersAway":  7,
+                  "foulsAway":  9,
+                  "cornersHome":  1,
+                  "cornersAway":  8,
                   "offsidesHome":  2,
                   "offsidesAway":  0,
                   "xgHome":  0,
@@ -18,7 +18,7 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  1,
-                  "savesAway":  3
+                  "savesAway":  4
               },
     "homeLineups":  {
                         "starting11":  [
@@ -35,9 +35,10 @@
                                            "A. Conteh"
                                        ],
                         "substitutes":  [
+                                            "J. Tauriainen",
+                                            "P. Ahiabu",
                                             "V. Seppä",
                                             "E. Vuorjoki",
-                                            "J. Tauriainen",
                                             "A. Sandler",
                                             "Y. Amankwah",
                                             "V. Huovila",
@@ -45,7 +46,6 @@
                                             "I. Järvinen",
                                             "H. Salomaa",
                                             "E. Kiiskila",
-                                            "P. Ahiabu",
                                             "J. Botué"
                                         ]
                     },
@@ -64,17 +64,17 @@
                                            "D. Selke"
                                        ],
                         "substitutes":  [
+                                            "A. Fayzullaev",
+                                            "B. Yıldırım",
+                                            "B. Özcan",
                                             "V. Babacan",
                                             "D. Dilmen",
                                             "M. Karbownik",
                                             "J. Opoku",
                                             "H. Güreler",
                                             "Ö. Şahiner",
-                                            "B. Özcan",
-                                            "A. Fayzullaev",
                                             "O. Ergün",
-                                            "N. Costa",
-                                            "B. Yıldırım"
+                                            "N. Costa"
                                         ]
                     },
     "events":  [
@@ -154,6 +154,55 @@
                        "isHomeTeam":  true,
                        "playerName":  "A. Conteh",
                        "detail":  "J. Botue"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Shomurodov",
+                       "detail":  "N. Costa"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Y. Sari",
+                       "detail":  "O. Sahiner"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Bulut",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Ampofo",
+                       "detail":  "I. Jarvinen"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Kangasniemi",
+                       "detail":  "Y. Amankwah"
+                   },
+                   {
+                       "minute":  88,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Laine",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  88,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Laine",
+                       "detail":  ""
                    }
                ]
 }
