@@ -1,5 +1,5 @@
 {
-    "elapsed":  32,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -42,6 +42,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "M. Traore",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  35,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Mulongo",
                        "detail":  ""
                    }
                ]
