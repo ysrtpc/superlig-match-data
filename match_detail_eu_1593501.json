@@ -1,0 +1,88 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "O. Vâlceanu",
+                                           "C. Braun",
+                                           "R. Pantalon",
+                                           "A. Abeid",
+                                           "S. Rocha",
+                                           "K. Muhar",
+                                           "D. Đoković",
+                                           "A. Fică",
+                                           "A. Cordea",
+                                           "S. Dražić",
+                                           "M. Korenica"
+                                       ],
+                        "substitutes":  [
+                                            "R. Gal",
+                                            "M. Filip",
+                                            "M. Camora",
+                                            "O. Perianu",
+                                            "A. Păun",
+                                            "R. Gligor",
+                                            "C. Matei",
+                                            "M. Miclăuș",
+                                            "L. Biliboc",
+                                            "A. Șfaiț",
+                                            "N. Sula"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Beglaryan",
+                                           "D. Terteryan",
+                                           "Y. Matyukhin",
+                                           "C. Henrique",
+                                           "H. Hakobyan",
+                                           "E. Piloyan",
+                                           "K. Nalbandyan",
+                                           "R. Ferreira",
+                                           "O. Farayola",
+                                           "M. Touré",
+                                           "J. Sabobo"
+                                       ],
+                        "substitutes":  [
+                                            "A. Sadoyan",
+                                            "R. Hakobyan",
+                                            "S. Gigolyan",
+                                            "H. Adebayo",
+                                            "D. Massoumou",
+                                            "I. Ndouka",
+                                            "D. Togola",
+                                            "J. Granado",
+                                            "I. Sesay",
+                                            "P. Ejike"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  3,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Muhar",
+                       "detail":  "S. Drazic"
+                   }
+               ]
+}
