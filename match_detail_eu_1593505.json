@@ -1,0 +1,84 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "G. Kobylak",
+                                           "A. Czerwiński",
+                                           "A. Jędrych",
+                                           "L. Klemenz",
+                                           "E. Jirka",
+                                           "K. Łukasiak",
+                                           "B. Wolski",
+                                           "B. Galán",
+                                           "E. Marković",
+                                           "A. Zreľák",
+                                           "B. Nowak"
+                                       ],
+                        "substitutes":  [
+                                            "M. Kikolski",
+                                            "M. Olsen",
+                                            "P. Resta",
+                                            "M. Wedrychowski",
+                                            "M. Wdowiak",
+                                            "M. Wasielewski",
+                                            "S. Milewski",
+                                            "S. Bartlewicz",
+                                            "J. Bosch",
+                                            "I. Shkurin",
+                                            "J. Kokosinski"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "J. Badžgoń",
+                                           "T. Pališčák",
+                                           "J. Minárik",
+                                           "A. Narimanidze",
+                                           "T. Hranica",
+                                           "F. Bzdyl",
+                                           "M. Káčer",
+                                           "K. Bari",
+                                           "F. Kóša",
+                                           "M. Roginić",
+                                           "P. Iľko"
+                                       ],
+                        "substitutes":  [
+                                            "D. Sípoš",
+                                            "T. Tarcsi",
+                                            "F. Kaša",
+                                            "M. Svoboda",
+                                            "M. Okal",
+                                            "P. Baleja",
+                                            "S. Ďatko",
+                                            "X. Adang",
+                                            "A. Florea",
+                                            "L. Prokop",
+                                            "D. Homet",
+                                            "M. Faško"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
