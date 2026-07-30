@@ -1,0 +1,85 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  58,
+                  "possessionAway":  42,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  1,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Dibusz",
+                                           "A. Osváth",
+                                           "M. Gómez",
+                                           "T. Raemaekers",
+                                           "Cadu",
+                                           "P. Rommens",
+                                           "G. Kanichowsky",
+                                           "M. Corbu",
+                                           "K. Zachariassen",
+                                           "L. Joseph",
+                                           "C. O\u0027Dowda"
+                                       ],
+                        "substitutes":  [
+                                            "Á. Varga",
+                                            "N. Zohoré",
+                                            "E. Botka",
+                                            "O. Nagy",
+                                            "E. Acolatse",
+                                            "J. Levi",
+                                            "D. Arzani",
+                                            "E. Sevikyan",
+                                            "Á. Bagi",
+                                            "Y. Bamidele",
+                                            "Z. Gruber",
+                                            "K. Lisztes"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "L. Unnerstall",
+                                           "B. Rooij",
+                                           "S. Lemkin",
+                                           "R. Nijstad",
+                                           "A. Adelgaard",
+                                           "R. Zerrouki",
+                                           "K. Hlynsson",
+                                           "T. Belt",
+                                           "D. Rots",
+                                           "W. Weghorst",
+                                           "S. Ørjasæter"
+                                       ],
+                        "substitutes":  [
+                                            "R. Pasveer",
+                                            "Y. Gerritsen",
+                                            "R. Pröpper",
+                                            "G. Peixoto",
+                                            "K. Kurowski",
+                                            "M. Bruns",
+                                            "M. Kjølø",
+                                            "Y. Taha",
+                                            "D. Weidmann",
+                                            "M. Pjaca",
+                                            "S. Lammers",
+                                            "L. Hesselink"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
