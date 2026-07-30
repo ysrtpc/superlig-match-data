@@ -1,25 +1,29 @@
 {
-    "elapsed":  20,
+    "elapsed":  25,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  55,
-                  "possessionAway":  45,
-                  "shotsHome":  1,
+                  "possessionHome":  58,
+                  "possessionAway":  42,
+                  "shotsHome":  3,
                   "shotsAway":  1,
                   "shotsOnTargetHome":  1,
                   "shotsOnTargetAway":  0,
                   "foulsHome":  2,
-                  "foulsAway":  0,
-                  "cornersHome":  0,
+                  "foulsAway":  2,
+                  "cornersHome":  1,
                   "cornersAway":  0,
-                  "offsidesHome":  0,
+                  "offsidesHome":  1,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  0,
-                  "savesAway":  0
+                  "savesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
@@ -64,9 +68,9 @@
                                            "V. Varaksa"
                                        ],
                         "substitutes":  [
+                                            "P. Dubovskiy",
                                             "A. Skopets",
                                             "A. Zhurin",
-                                            "P. Dubovskiy",
                                             "P. Kolosovskiy",
                                             "E. Rusakov",
                                             "M. Titov",
