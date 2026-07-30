@@ -1,0 +1,83 @@
+{
+    "elapsed":  5,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "N. Shepperd",
+                                           "D. Davies",
+                                           "D. Simeu",
+                                           "J. Bodenham",
+                                           "D. Redmond",
+                                           "E. Farrell",
+                                           "D. Williams",
+                                           "L. Smith",
+                                           "R. Holden",
+                                           "J. Williams",
+                                           "R. Hughes"
+                                       ],
+                        "substitutes":  [
+                                            "J. Edwards",
+                                            "H. Godsmark-Ford",
+                                            "Z. Nolan",
+                                            "B. Woollam",
+                                            "J. Lock",
+                                            "B. Clark",
+                                            "R. Brobbel",
+                                            "D. Corness",
+                                            "I. Jefferies",
+                                            "B. Wilson",
+                                            "L. Phillips",
+                                            "D. Barton"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "E. Grünvald",
+                                           "S. Tovstik",
+                                           "M. Kolobov",
+                                           "A. Kollo",
+                                           "D. Kuraksin",
+                                           "T. Varjund",
+                                           "V. Kreida",
+                                           "R. Valdmets",
+                                           "S. Zenjov",
+                                           "R. Sappinen",
+                                           "S. Alamaa"
+                                       ],
+                        "substitutes":  [
+                                            "A. Tatrik",
+                                            "K. Kivila",
+                                            "R. Veering",
+                                            "R. Sammul",
+                                            "O. Pihela",
+                                            "T. Teeväli",
+                                            "I. Antonov",
+                                            "M. Kukkonen",
+                                            "M. Kalimullin",
+                                            "R. Alliku",
+                                            "T. Usta"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
