@@ -1,0 +1,88 @@
+{
+    "elapsed":  7,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "B. Fontes",
+                                           "V. Gómez",
+                                           "S. Barcia",
+                                           "V. Carvalho",
+                                           "B. Arrey-Mbi",
+                                           "J. Moutinho",
+                                           "J. Gorby",
+                                           "D. Huseinbašić",
+                                           "G. Silva",
+                                           "R. Horta",
+                                           "P. Víctor"
+                                       ],
+                        "substitutes":  [
+                                            "T. Sá",
+                                            "J. Carvalho",
+                                            "A. Barišić",
+                                            "A. Bajrami",
+                                            "G. Lagerbielke",
+                                            "D. Travassos",
+                                            "D. Rodrigues",
+                                            "L. Lelo",
+                                            "G. Martínez",
+                                            "D. Tıknaz",
+                                            "M. Dorgeles",
+                                            "F. Navarro"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "Z. Popović",
+                                           "N. Đuričić",
+                                           "M. Milikić",
+                                           "N. Vidojević",
+                                           "U. Tegeltija",
+                                           "J. Jevremović",
+                                           "M. Sabo",
+                                           "K. Šekularac",
+                                           "S. Pedro",
+                                           "D. Ankeye",
+                                           "N. Jovanović"
+                                       ],
+                        "substitutes":  [
+                                            "J. Miladinović",
+                                            "C. Tchouante",
+                                            "Y. Sbai",
+                                            "A. Sawadogo",
+                                            "A. Yusif",
+                                            "A. Kuljanin",
+                                            "C. Lhernault",
+                                            "D. Tošić",
+                                            "S. Wasiu"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
