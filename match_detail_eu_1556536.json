@@ -1,0 +1,85 @@
+{
+    "elapsed":  2,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "H. Bonmann",
+                                           "Son",
+                                           "A. Nedyalkov",
+                                           "E. Kurtulus",
+                                           "V. Nogueira",
+                                           "F. Kaloč",
+                                           "P. Stanić",
+                                           "I. Chochev",
+                                           "B. Tekpetey",
+                                           "K. Duah",
+                                           "A. Salido"
+                                       ],
+                        "substitutes":  [
+                                            "S. Padt",
+                                            "J. Andersson",
+                                            "O. Verdon",
+                                            "S. Shishkov",
+                                            "I. Nachmias",
+                                            "A. Camara",
+                                            "A. Marinov",
+                                            "I. Yordanov",
+                                            "S. Ivanov",
+                                            "E. Rodríguez",
+                                            "R. Cruz",
+                                            "Y. Bile"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Tzur",
+                                           "M. Coco",
+                                           "F. Mayembo",
+                                           "Chico",
+                                           "D. Leidner",
+                                           "Falcão",
+                                           "A. Kraev",
+                                           "S. Torial",
+                                           "O. Altman",
+                                           "X. Silva",
+                                           "E. Boateng"
+                                       ],
+                        "substitutes":  [
+                                            "D. Benyamini",
+                                            "Y. Bazdog",
+                                            "T. Archel",
+                                            "S. Piven",
+                                            "O. Israelov",
+                                            "O. Gelbard",
+                                            "E. Kancepolsky",
+                                            "Y. Ferber",
+                                            "R. Alkokin",
+                                            "A. Lemkin",
+                                            "D. Dappa",
+                                            "M. Buskila"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
