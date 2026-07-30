@@ -1,5 +1,5 @@
 {
-    "elapsed":  71,
+    "elapsed":  85,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -49,6 +49,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "U. Racic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
