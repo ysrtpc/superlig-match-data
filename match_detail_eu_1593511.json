@@ -1,16 +1,16 @@
 {
-    "elapsed":  78,
+    "elapsed":  90,
     "stats":  {
-                  "possessionHome":  44,
-                  "possessionAway":  56,
-                  "shotsHome":  7,
+                  "possessionHome":  49,
+                  "possessionAway":  51,
+                  "shotsHome":  15,
                   "shotsAway":  13,
-                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetHome":  4,
                   "shotsOnTargetAway":  3,
                   "foulsHome":  8,
-                  "foulsAway":  7,
-                  "cornersHome":  4,
-                  "cornersAway":  7,
+                  "foulsAway":  9,
+                  "cornersHome":  6,
+                  "cornersAway":  9,
                   "offsidesHome":  2,
                   "offsidesAway":  0,
                   "xgHome":  0,
@@ -18,7 +18,7 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  3,
-                  "savesAway":  3
+                  "savesAway":  4
               },
     "homeLineups":  {
                         "starting11":  [
@@ -35,17 +35,17 @@
                                            "I. Pikis"
                                        ],
                         "substitutes":  [
+                                            "I. Griffith",
+                                            "Witi",
+                                            "M. Yansane",
                                             "S. Buchnev",
                                             "F. Almeida",
                                             "R. Darbinyan",
                                             "A. Aharonyan",
                                             "H. Tatosyan",
-                                            "I. Griffith",
                                             "E. Malakyan",
                                             "V. Afyan",
                                             "G. Tarakhchyan",
-                                            "Witi",
-                                            "M. Yansane",
                                             "S. Metoyan"
                                         ]
                     },
@@ -64,17 +64,17 @@
                                            "F. Cibla"
                                        ],
                         "substitutes":  [
+                                            "B. Batik",
+                                            "M. Szécsi",
+                                            "Á. Szendrei",
                                             "B. Erdélyi",
                                             "B. Tuska",
-                                            "M. Szécsi",
                                             "G. Tercza",
                                             "R. Keller",
                                             "D. Hermann",
-                                            "B. Batik",
                                             "M. Macsó",
                                             "B. Sain",
                                             "L. Myrtaj",
-                                            "Á. Szendrei",
                                             "S. Kaye"
                                         ]
                     },
@@ -148,6 +148,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "M. Kovalenko",
                        "detail":  "R. Darbinyan"
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Mejias",
+                       "detail":  "C. Balasz"
                    }
                ]
 }
