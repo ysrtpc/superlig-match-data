@@ -1,5 +1,5 @@
 {
-    "elapsed":  77,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -162,6 +162,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "D. Codrea",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Wassberg",
+                       "detail":  "K. Eriksen"
                    }
                ]
 }
