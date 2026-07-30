@@ -1,5 +1,6 @@
 {
-    "elapsed":  45,
+    "elapsed":  78,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -49,6 +50,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "B. Dyrkoren",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Haugen",
                        "detail":  ""
                    }
                ]
