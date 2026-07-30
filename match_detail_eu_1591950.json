@@ -1,0 +1,82 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "V. Giljen",
+                                           "M. Vracar",
+                                           "B. Kopitović",
+                                           "A. Babić",
+                                           "A. Ražnatović",
+                                           "D. Hočko",
+                                           "A. Šćekić",
+                                           "M. Simun",
+                                           "V. Cavor",
+                                           "S. Babić",
+                                           "A. Boljević"
+                                       ],
+                        "substitutes":  [
+                                            "R. Dubljevic",
+                                            "T. Durovic",
+                                            "A. Golubovic",
+                                            "M. Đukanović",
+                                            "R. Dedic",
+                                            "M. Camara",
+                                            "I. Pajović",
+                                            "J. Čađenović",
+                                            "P. Anicic",
+                                            "D. Cetkovic",
+                                            "A. Kecojević",
+                                            "B. Tošković"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "P. Pavlyuchenko",
+                                           "Y. Skibskiy",
+                                           "Z. Volkov",
+                                           "K. Gomanov",
+                                           "I. Moskalenchik",
+                                           "V. Gromyko",
+                                           "V. Bocherov",
+                                           "A. Mesarović",
+                                           "D. Cleonise",
+                                           "A. Kontsevoy",
+                                           "R. Bosić"
+                                       ],
+                        "substitutes":  [
+                                            "P. Shcherbachenya",
+                                            "N. Baranok",
+                                            "M. Mohammadi",
+                                            "S. Gnaka",
+                                            "V. Zhuk",
+                                            "S. Balanovich",
+                                            "T. Ivanov",
+                                            "B. Diabaté",
+                                            "M. Bulanov"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
