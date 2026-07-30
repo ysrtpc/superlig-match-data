@@ -1,0 +1,84 @@
+{
+    "elapsed":  34,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "F. Ribić",
+                                           "A. Hrkać",
+                                           "A. Omerović",
+                                           "S. Duranović",
+                                           "A. Nukić",
+                                           "A. Babić",
+                                           "Đ. Salčin",
+                                           "R. Abdullah",
+                                           "A. Mešić",
+                                           "N. Stojanović",
+                                           "A. Spahic"
+                                       ],
+                        "substitutes":  [
+                                            "E. Mataradžić",
+                                            "A. Bajrić",
+                                            "A. Shhade",
+                                            "K. Ðuliman",
+                                            "D. Puce",
+                                            "M. Bešić",
+                                            "A. Pajević"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Ivačič",
+                                           "T. Kapanadze",
+                                           "F. Blažek",
+                                           "K. Nemanič",
+                                           "S. Juklerød",
+                                           "U. Kabić",
+                                           "S. Ouro",
+                                           "J. Bationo",
+                                           "A. Ramadan",
+                                           "A. Gueye",
+                                           "G. Gagua"
+                                       ],
+                        "substitutes":  [
+                                            "A. Németh",
+                                            "L. Filipe",
+                                            "T. Kacharaba",
+                                            "J. Majer",
+                                            "N. Udvaros",
+                                            "M. Jenčuš",
+                                            "F. Diongue",
+                                            "A. Sylla",
+                                            "M. Trusa",
+                                            "P. Corr",
+                                            "B. Csóka"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  22,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Ramadan",
+                       "detail":  "U. Kabic"
+                   }
+               ]
+}
