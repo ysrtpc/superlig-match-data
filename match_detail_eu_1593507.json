@@ -1,0 +1,159 @@
+{
+    "elapsed":  75,
+    "stats":  {
+                  "possessionHome":  44,
+                  "possessionAway":  56,
+                  "shotsHome":  8,
+                  "shotsAway":  9,
+                  "shotsOnTargetHome":  5,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  6,
+                  "foulsAway":  6,
+                  "cornersHome":  0,
+                  "cornersAway":  7,
+                  "offsidesHome":  2,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  1,
+                  "savesAway":  3
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "E. Huuhtanen",
+                                           "S. Saarinen",
+                                           "L. Kuittinen",
+                                           "I. Kangasniemi",
+                                           "J. Niska",
+                                           "J. Laine",
+                                           "B. Ampofo",
+                                           "A. Essomba",
+                                           "J. Tuominen",
+                                           "C. Jephta",
+                                           "A. Conteh"
+                                       ],
+                        "substitutes":  [
+                                            "V. Seppä",
+                                            "E. Vuorjoki",
+                                            "J. Tauriainen",
+                                            "A. Sandler",
+                                            "Y. Amankwah",
+                                            "V. Huovila",
+                                            "V. Ulundu",
+                                            "I. Järvinen",
+                                            "H. Salomaa",
+                                            "E. Kiiskila",
+                                            "P. Ahiabu",
+                                            "J. Botué"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "M. Şengezer",
+                                           "O. Bulut",
+                                           "E. Bayram",
+                                           "O. Ba",
+                                           "C. Operi",
+                                           "B. Özdemir",
+                                           "U. Güneş",
+                                           "Y. Sarı",
+                                           "E. Shomurodov",
+                                           "I. Brnić",
+                                           "D. Selke"
+                                       ],
+                        "substitutes":  [
+                                            "V. Babacan",
+                                            "D. Dilmen",
+                                            "M. Karbownik",
+                                            "J. Opoku",
+                                            "H. Güreler",
+                                            "Ö. Şahiner",
+                                            "B. Özcan",
+                                            "A. Fayzullaev",
+                                            "O. Ergün",
+                                            "N. Costa",
+                                            "B. Yıldırım"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  10,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Ba",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  18,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Tuominen",
+                       "detail":  "J. Laine"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Brnic",
+                       "detail":  "A. Fayzullaev"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Ozdemir",
+                       "detail":  "B. Yildirim"
+                   },
+                   {
+                       "minute":  47,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Jephta",
+                       "detail":  "L. Essomba"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Laine",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Tuominen",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  57,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "U. Gunes",
+                       "detail":  "B. Ozcan"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Essomba",
+                       "detail":  "J. Tauriainen"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Tuominen",
+                       "detail":  "P. Ahiabu"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Conteh",
+                       "detail":  "J. Botue"
+                   }
+               ]
+}
