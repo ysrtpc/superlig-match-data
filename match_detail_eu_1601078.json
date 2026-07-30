@@ -1,5 +1,5 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -50,6 +50,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "G. Mulongo",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Ouattara",
                        "detail":  ""
                    }
                ]
