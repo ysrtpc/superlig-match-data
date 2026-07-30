@@ -1,0 +1,191 @@
+{
+    "elapsed":  75,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "H. Perk",
+                                           "D. Mashchenko",
+                                           "M. Podholjuzin",
+                                           "R. Vukušić",
+                                           "A. Boronilštšikov",
+                                           "R. Siht",
+                                           "O. Musolitin",
+                                           "B. Vastsuk",
+                                           "T. Baptista",
+                                           "M. Orlov",
+                                           "E. Esono"
+                                       ],
+                        "substitutes":  [
+                                            "M. Pavlov",
+                                            "M. Tambedou",
+                                            "F. Jekimov",
+                                            "D. Sotsugov",
+                                            "U. Korre",
+                                            "A. Nikolajev",
+                                            "D. Tarassenkov",
+                                            "N. Ivanov",
+                                            "Idalécio",
+                                            "I. Jabir"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "E. Beach",
+                                           "M. Mbeng",
+                                           "K. Ledwidge",
+                                           "P. Barrett",
+                                           "J. Norris",
+                                           "D. Kelly",
+                                           "K. McInroy",
+                                           "A. Coote",
+                                           "E. Caffrey",
+                                           "R. Freitas",
+                                           "S. Moore"
+                                       ],
+                        "substitutes":  [
+                                            "F. Moylan",
+                                            "M. Johnson",
+                                            "O. Casey",
+                                            "S. Bone",
+                                            "S. Gannon",
+                                            "J. Roche",
+                                            "J. Lunney",
+                                            "W. Jarvis",
+                                            "J. Wuna",
+                                            "D. Ring"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  14,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Kelly",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  31,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Musolitin",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Kelly",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Mashchenko",
+                       "detail":  "D. Sotsugov"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Kelly",
+                       "detail":  "W. Jarvis"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Barrett",
+                       "detail":  "O. Casey"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Freitas",
+                       "detail":  "D. Ring"
+                   },
+                   {
+                       "minute":  49,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Eyang",
+                       "detail":  "H. Perk"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Orlov",
+                       "detail":  "I. Jabir"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Baptista",
+                       "detail":  "N. Ivanov"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. McInroy",
+                       "detail":  "J. Lunney"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Borolinstsikov",
+                       "detail":  "A. Nikolajev"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Norris",
+                       "detail":  "S. Gannon"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Vastsuk",
+                       "detail":  "M. Tambedou"
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Jabir",
+                       "detail":  "N. Ivanov"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ]
+}
