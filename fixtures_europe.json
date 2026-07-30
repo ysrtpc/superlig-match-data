@@ -76,14 +76,13 @@
         "away":  "midtjylland",
         "awayName":  "Midtjylland",
         "awayColor":  "0xFF990000",
-        "homeScore":  0,
+        "homeScore":  1,
         "awayScore":  0,
         "date":  "23 Tem 2026",
         "time":  "21:00",
         "competition":  "Avrupa Ligi",
-        "isLive":  true,
-        "status":  "HALF_TIME",
-        "elapsed":  45
+        "isLive":  false,
+        "status":  "PLAYED"
     },
     {
         "id":  "eu_1556549",
@@ -100,7 +99,7 @@
         "time":  "21:00",
         "competition":  "Avrupa Ligi",
         "isLive":  true,
-        "status":  "HALF_TIME",
-        "elapsed":  45
+        "status":  "LIVE",
+        "elapsed":  52
     }
 ]
