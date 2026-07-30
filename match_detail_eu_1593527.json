@@ -1,18 +1,18 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
-                  "possessionHome":  0,
-                  "possessionAway":  0,
+                  "possessionHome":  69,
+                  "possessionAway":  31,
                   "shotsHome":  0,
                   "shotsAway":  0,
-                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  0,
-                  "foulsHome":  5,
-                  "foulsAway":  2,
-                  "cornersHome":  1,
-                  "cornersAway":  0,
+                  "foulsHome":  7,
+                  "foulsAway":  6,
+                  "cornersHome":  2,
+                  "cornersAway":  1,
                   "offsidesHome":  1,
-                  "offsidesAway":  1,
+                  "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
@@ -84,6 +84,27 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
                        "playerName":  "D. Goldar",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  40,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "Guga",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Jaja",
+                       "detail":  "V. Dragomir"
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "Guga",
                        "detail":  ""
                    }
                ]
