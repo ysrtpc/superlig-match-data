@@ -1,5 +1,5 @@
 {
-    "elapsed":  52,
+    "elapsed":  72,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -30,10 +30,10 @@
                                            "D. Redmond",
                                            "E. Farrell",
                                            "D. Williams",
-                                           "L. Smith",
                                            "R. Holden",
-                                           "J. Williams",
-                                           "R. Hughes"
+                                           "L. Smith",
+                                           "R. Hughes",
+                                           "J. Williams"
                                        ],
                         "substitutes":  [
                                             "J. Edwards",
@@ -57,21 +57,21 @@
                                            "A. Kollo",
                                            "M. Kolobov",
                                            "S. Tovstik",
-                                           "R. Valdmets",
-                                           "V. Kreida",
+                                           "S. Zenjov",
                                            "T. Varjund",
+                                           "V. Kreida",
                                            "S. Alamaa",
                                            "R. Sappinen",
-                                           "S. Zenjov"
+                                           "R. Valdmets"
                                        ],
                         "substitutes":  [
+                                            "I. Antonov",
                                             "A. Tatrik",
                                             "K. Kivila",
                                             "R. Veering",
                                             "R. Sammul",
                                             "O. Pihela",
                                             "T. Teeväli",
-                                            "I. Antonov",
                                             "M. Kukkonen",
                                             "M. Kalimullin",
                                             "R. Alliku",
@@ -99,6 +99,34 @@
                        "isHomeTeam":  false,
                        "playerName":  "I. Antonov",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Hughes",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Holden",
+                       "detail":  "R. Brobbel"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Smith",
+                       "detail":  "I. Jefferies"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Alamaa",
+                       "detail":  "R. Alliku"
                    }
                ]
 }
