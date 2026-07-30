@@ -1,19 +1,19 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  52,
+    "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  59,
-                  "possessionAway":  41,
-                  "shotsHome":  11,
+                  "possessionHome":  56,
+                  "possessionAway":  44,
+                  "shotsHome":  12,
                   "shotsAway":  8,
                   "shotsOnTargetHome":  5,
                   "shotsOnTargetAway":  2,
-                  "foulsHome":  5,
+                  "foulsHome":  8,
                   "foulsAway":  3,
                   "cornersHome":  1,
                   "cornersAway":  0,
                   "offsidesHome":  0,
-                  "offsidesAway":  2,
+                  "offsidesAway":  3,
                   "xgHome":  0,
                   "xgAway":  0,
                   "passesHome":  "",
@@ -113,6 +113,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "H. Rasmussen",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Andersson",
+                       "detail":  "S. Jorgensen"
                    }
                ]
 }
