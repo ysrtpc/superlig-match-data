@@ -1,15 +1,15 @@
 {
-    "elapsed":  76,
+    "elapsed":  81,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  55,
-                  "possessionAway":  45,
-                  "shotsHome":  9,
-                  "shotsAway":  10,
-                  "shotsOnTargetHome":  2,
+                  "possessionHome":  54,
+                  "possessionAway":  46,
+                  "shotsHome":  10,
+                  "shotsAway":  11,
+                  "shotsOnTargetHome":  3,
                   "shotsOnTargetAway":  3,
-                  "foulsHome":  10,
-                  "foulsAway":  6,
+                  "foulsHome":  12,
+                  "foulsAway":  7,
                   "cornersHome":  2,
                   "cornersAway":  3,
                   "offsidesHome":  0,
@@ -19,7 +19,11 @@
                   "passesHome":  "",
                   "passesAway":  "",
                   "savesHome":  2,
-                  "savesAway":  2
+                  "savesAway":  2,
+                  "yellowCardsHome":  1,
+                  "yellowCardsAway":  1,
+                  "redCardsHome":  0,
+                  "redCardsAway":  1
               },
     "homeLineups":  {
                         "starting11":  [
@@ -146,6 +150,27 @@
                        "detail":  "M. Mass"
                    },
                    {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Djukanovic",
+                       "detail":  "K. Banati"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Correia",
+                       "detail":  "J. Cruz"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Abi",
+                       "detail":  "R. Fernandes"
+                   },
+                   {
                        "minute":  76,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
@@ -157,6 +182,27 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "M. Krpic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Ferber",
+                       "detail":  "M. Djalo"
+                   },
+                   {
+                       "minute":  80,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Veiga",
+                       "detail":  "K. Cabral"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
                        "detail":  ""
                    }
                ]
