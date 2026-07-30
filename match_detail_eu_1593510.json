@@ -1,0 +1,106 @@
+{
+    "elapsed":  45,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "K. Vallner",
+                                           "F. Liivak",
+                                           "A. Nwankwo",
+                                           "V. Iboro",
+                                           "J. Saliste",
+                                           "R. Peetson",
+                                           "M. Roosnupp",
+                                           "M. Ainsalu",
+                                           "J. Pedro",
+                                           "W. Gabriel",
+                                           "B. Tambedou"
+                                       ],
+                        "substitutes":  [
+                                            "O. Ani",
+                                            "T. Tammik",
+                                            "H. Liiv",
+                                            "K. Davi",
+                                            "M. Skvortsov",
+                                            "E. Otoo",
+                                            "G. Lehtmets",
+                                            "M. Sambe",
+                                            "R. Kirss"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "V. Andersson",
+                                           "F. Eriksson",
+                                           "R. Yeboah",
+                                           "H. Hermannsson",
+                                           "N. Tolf",
+                                           "O. Mansson",
+                                           "D. Kruse",
+                                           "K. Thordarson",
+                                           "S. Clemmensen",
+                                           "A. Wiberg",
+                                           "T. Heintz"
+                                       ],
+                        "substitutes":  [
+                                            "J. Rasheed",
+                                            "E. Bishesari",
+                                            "J. Bager",
+                                            "I. Seidu",
+                                            "A. Jallow",
+                                            "S. Larsson",
+                                            "F. Ottosson",
+                                            "S. Moubarak",
+                                            "M. Fenger",
+                                            "T. Coimbra"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  37,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Eriksson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Nwankwo",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Zahovaiko",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Heintz",
+                       "detail":  "T. Heintz"
+                   }
+               ]
+}
