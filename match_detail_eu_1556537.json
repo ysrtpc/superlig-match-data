@@ -1,0 +1,173 @@
+{
+    "elapsed":  79,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Figueira",
+                                           "H. Hambardzumyan",
+                                           "N. Saintini",
+                                           "S. Mambo",
+                                           "D. Sualehe",
+                                           "T. Oshima",
+                                           "G. Manvelyan",
+                                           "G. Sangaré",
+                                           "H. Ferreira",
+                                           "M. González",
+                                           "M. Jakoliš"
+                                       ],
+                        "substitutes":  [
+                                            "A. Coneglian",
+                                            "D. Davtyan",
+                                            "S. Muradyan",
+                                            "M. Avetisyan",
+                                            "E. Boakye",
+                                            "M. Pavlović",
+                                            "V. Costache",
+                                            "A. Khamoyan",
+                                            "B. Oddei",
+                                            "M. Lazetić",
+                                            "M. Doumbia",
+                                            "Z. Khudaverdyan"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "A. Odintsov",
+                                           "A. Gutium",
+                                           "C. Gonta",
+                                           "K. Berkeley",
+                                           "N. Zolotov",
+                                           "Marcello",
+                                           "M. Amoroso",
+                                           "T. Ceijas",
+                                           "V. Stina",
+                                           "Ș. Bîtca",
+                                           "C. Dantas"
+                                       ],
+                        "substitutes":  [
+                                            "I. Dokić",
+                                            "C. Sîrghi",
+                                            "S. Ungureanu",
+                                            "E. Cociuc",
+                                            "Jonathas",
+                                            "T. Butucel",
+                                            "V. Raileanu",
+                                            "A. Bonnah",
+                                            "S. Cojocari",
+                                            "R. Rosario",
+                                            "A. Betivu"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  29,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Oshima",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  31,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "G. Manvelyan",
+                       "detail":  "M. Jakolis"
+                   },
+                   {
+                       "minute":  47,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "G. Sangare",
+                       "detail":  "M. Gonzalez"
+                   },
+                   {
+                       "minute":  51,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Amoroso",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  52,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Stina",
+                       "detail":  "R. Rosario"
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Ceijas",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Berkeley",
+                       "detail":  "Jonathas"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Ceijas",
+                       "detail":  "T. Butucel"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Hambardzumyan",
+                       "detail":  "E. Boakye"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Oshima",
+                       "detail":  "A. Khamoyan"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Gutium",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "G. Manvelyan",
+                       "detail":  "V. Costache"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Gonzalez",
+                       "detail":  "M. Lazetic"
+                   }
+               ]
+}
