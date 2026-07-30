@@ -1,5 +1,5 @@
 {
-    "elapsed":  53,
+    "elapsed":  59,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -119,6 +119,20 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "L. Santos",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  56,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Lupano",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Petkovic",
                        "detail":  ""
                    }
                ]
