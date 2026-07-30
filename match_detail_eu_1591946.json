@@ -1,0 +1,88 @@
+{
+    "elapsed":  5,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  67,
+                  "possessionAway":  33,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "S. Sahin-Radlinger",
+                                           "R. Ranftl",
+                                           "L. Kang-hee",
+                                           "B. Ibrahim",
+                                           "J. Feddersen",
+                                           "F. Wustinger",
+                                           "P. Maybach",
+                                           "M. Schablas",
+                                           "V. Markovic",
+                                           "K. Boateng",
+                                           "J. Hettwer"
+                                       ],
+                        "substitutes":  [
+                                            "M. Kos",
+                                            "L. Wedl",
+                                            "J. Handl",
+                                            "D. Nnodim",
+                                            "V. Toifl",
+                                            "M. Fischer",
+                                            "H. Deshishku",
+                                            "L. Tae-seok",
+                                            "M. Wels",
+                                            "S. Saljic",
+                                            "A. Kante",
+                                            "J. Eggestein"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "D. Petković",
+                                           "V. Sorokins",
+                                           "V. Isajevs",
+                                           "M. Martins",
+                                           "B. Straalman",
+                                           "R. Ekou",
+                                           "L. Strumia",
+                                           "A. Ogunniyi",
+                                           "D. Patijcuks",
+                                           "A. Haïdara",
+                                           "J. Ede"
+                                       ],
+                        "substitutes":  [
+                                            "D. Oss",
+                                            "I. Korotkovs",
+                                            "K. Iljins",
+                                            "D. Gueye",
+                                            "R. Untulis",
+                                            "A. Korobenko",
+                                            "L. Lakutis",
+                                            "A. Leite",
+                                            "K. Leidsman"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  4,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Haidara",
+                       "detail":  ""
+                   }
+               ]
+}
