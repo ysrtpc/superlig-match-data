@@ -1,5 +1,5 @@
 {
-    "elapsed":  79,
+    "elapsed":  84,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -161,6 +161,34 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Roguljic",
                        "detail":  "S. Savic"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Hiros",
+                       "detail":  "M. Deket"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Savic",
+                       "detail":  "D. Vukovic"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Popescu",
+                       "detail":  "D. Demian"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Rotaru",
+                       "detail":  "M. Lupan"
                    }
                ]
 }
