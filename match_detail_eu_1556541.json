@@ -1,5 +1,6 @@
 {
-    "elapsed":  20,
+    "elapsed":  32,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -76,6 +77,19 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  22,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Ameyaw",
+                       "detail":  "A. Molnar"
+                   },
+                   {
+                       "minute":  31,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Pienko",
+                       "detail":  ""
+                   }
                ]
 }
