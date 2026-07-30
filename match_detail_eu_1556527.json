@@ -1,5 +1,5 @@
 {
-    "elapsed":  46,
+    "elapsed":  51,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -112,6 +112,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Layouni",
                        "detail":  "G. Ekpolo"
+                   },
+                   {
+                       "minute":  49,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Muche",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  51,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Carabali",
+                       "detail":  ""
                    }
                ]
 }
