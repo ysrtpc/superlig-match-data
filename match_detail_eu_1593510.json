@@ -1,5 +1,6 @@
 {
-    "elapsed":  60,
+    "elapsed":  73,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -107,6 +108,41 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "A. Bergmark-Wiberg",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Clemmensen",
+                       "detail":  "S. Alioum"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Eriksson",
+                       "detail":  "A. Jallow"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Thordarson",
+                       "detail":  "S. Larsson"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Peetson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Alioum",
                        "detail":  ""
                    }
                ]
