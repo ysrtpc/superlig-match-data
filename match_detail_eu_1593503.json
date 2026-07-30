@@ -1,0 +1,84 @@
+{
+    "elapsed":  1,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Teqja",
+                                           "Y. Ismaili",
+                                           "B. Dita",
+                                           "N. Aliji",
+                                           "F. Perndreca",
+                                           "M. Ayodeji",
+                                           "I. Manellari",
+                                           "E. Qardaku",
+                                           "L. Vila",
+                                           "K. Qefalija",
+                                           "H. Berisha"
+                                       ],
+                        "substitutes":  [
+                                            "E. Sali",
+                                            "T. Kiri",
+                                            "E. Hoxhallari",
+                                            "Lorran",
+                                            "N. Bleta",
+                                            "F. Ruci",
+                                            "D. Fadairo",
+                                            "R. Silva-Richards",
+                                            "F. Ferruku",
+                                            "D. Metaj",
+                                            "B. James"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "F. Raduha",
+                                           "R. Schaubach",
+                                           "M. Boben",
+                                           "V. Težak",
+                                           "H. Sørensen",
+                                           "M. Vrbanec",
+                                           "T. Jagić",
+                                           "E. Taylor",
+                                           "V. Koderman",
+                                           "B. Susso",
+                                           "P. Petriško"
+                                       ],
+                        "substitutes":  [
+                                            "A. Mrežar",
+                                            "L. Tomažič",
+                                            "D. Šimunić",
+                                            "D. Zajšek",
+                                            "L. Drevenšek",
+                                            "S. Rogina",
+                                            "B. Osuji",
+                                            "E. Kramberger",
+                                            "M. Blažič",
+                                            "A. Bloudek",
+                                            "M. Bajraj",
+                                            "T. Modric"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
