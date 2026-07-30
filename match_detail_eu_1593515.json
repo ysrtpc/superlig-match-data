@@ -1,5 +1,5 @@
 {
-    "elapsed":  57,
+    "elapsed":  76,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -122,6 +122,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Juklerod",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Bationo",
+                       "detail":  "F. Diongue"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Gagua",
+                       "detail":  "N. Udvaros"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Ramadan",
+                       "detail":  "A. Sylla"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "U. Kabic",
+                       "detail":  "M. Trusa"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Nukic",
+                       "detail":  "A. Pajevic"
                    }
                ]
 }
