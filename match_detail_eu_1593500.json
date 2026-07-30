@@ -1,5 +1,5 @@
 {
-    "elapsed":  58,
+    "elapsed":  77,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -127,6 +127,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Stefanescu",
                        "detail":  "D. Nistor"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Mikanovic",
+                       "detail":  "O. Mendy"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "U. Mathisen",
+                       "detail":  "E. Gudmundsson"
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Castro",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Lukic",
+                       "detail":  "A. Aliev"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Codrea",
+                       "detail":  ""
                    }
                ]
 }
