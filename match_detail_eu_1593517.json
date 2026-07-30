@@ -1,5 +1,5 @@
 {
-    "elapsed":  35,
+    "elapsed":  45,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -64,12 +64,12 @@
                                            "T. Kvaratskhelia"
                                        ],
                         "substitutes":  [
+                                            "L. Houri",
                                             "M. Makatsaria",
                                             "M. Gagvishvili",
                                             "N. Tkalia",
                                             "G. Gogua",
                                             "L. Tsikolia",
-                                            "L. Houri",
                                             "M. Vatsadze",
                                             "D. Kvartskhava",
                                             "R. Aleksidze",
@@ -105,6 +105,20 @@
                        "isHomeTeam":  true,
                        "playerName":  "S. Bilenkyi",
                        "detail":  "P. Golubickas"
+                   },
+                   {
+                       "minute":  40,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Santos",
+                       "detail":  "T. Kvaratskhelia"
+                   },
+                   {
+                       "minute":  41,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Santos",
+                       "detail":  ""
                    }
                ]
 }
