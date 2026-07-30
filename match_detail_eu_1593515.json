@@ -1,5 +1,5 @@
 {
-    "elapsed":  76,
+    "elapsed":  81,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -36,12 +36,12 @@
                                            "A. Spahic"
                                        ],
                         "substitutes":  [
-                                            "E. Mataradžić",
                                             "A. Bajrić",
                                             "A. Shhade",
+                                            "M. Bešić",
+                                            "E. Mataradžić",
                                             "K. Ðuliman",
                                             "D. Puce",
-                                            "M. Bešić",
                                             "A. Pajević"
                                         ]
                     },
@@ -60,15 +60,15 @@
                                            "G. Gagua"
                                        ],
                         "substitutes":  [
+                                            "N. Udvaros",
+                                            "F. Diongue",
+                                            "A. Sylla",
+                                            "M. Trusa",
                                             "A. Németh",
                                             "L. Filipe",
                                             "T. Kacharaba",
                                             "J. Majer",
-                                            "N. Udvaros",
                                             "M. Jenčuš",
-                                            "F. Diongue",
-                                            "A. Sylla",
-                                            "M. Trusa",
                                             "P. Corr",
                                             "B. Csóka"
                                         ]
@@ -157,6 +157,20 @@
                        "isHomeTeam":  true,
                        "playerName":  "A. Nukic",
                        "detail":  "A. Pajevic"
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Duranovic",
+                       "detail":  "K. Djuliman"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Juklerod",
+                       "detail":  "B. Csoka"
                    }
                ]
 }
