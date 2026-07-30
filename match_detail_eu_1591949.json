@@ -1,5 +1,5 @@
 {
-    "elapsed":  60,
+    "elapsed":  79,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -126,6 +126,41 @@
                        "isHomeTeam":  true,
                        "playerName":  "M. Iosipoi",
                        "detail":  "B. Musteata"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Hrelja",
+                       "detail":  "A. Roguljic"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. David",
+                       "detail":  "M. Platica"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Platica",
+                       "detail":  "I. Botnari"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Platica",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Roguljic",
+                       "detail":  "S. Savic"
                    }
                ]
 }
