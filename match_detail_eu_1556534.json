@@ -1,5 +1,5 @@
 {
-    "elapsed":  78,
+    "elapsed":  83,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -154,6 +154,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Booth",
                        "detail":  "T. Maswanhise"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "H. Mohr",
+                       "detail":  "J. Lon"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Moormann",
+                       "detail":  "E. Wilson"
                    }
                ]
 }
