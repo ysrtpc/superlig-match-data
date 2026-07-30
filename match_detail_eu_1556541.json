@@ -1,0 +1,81 @@
+{
+    "elapsed":  5,
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Maringá",
+                                           "S. Radić",
+                                           "E. Mbende",
+                                           "E. Bičakčić",
+                                           "M. Morello",
+                                           "P. Sekulović",
+                                           "B. Paiber",
+                                           "R. Prša",
+                                           "D. Tavares",
+                                           "Thaylor",
+                                           "A. Gomes"
+                                       ],
+                        "substitutes":  [
+                                            "J. Archibald",
+                                            "L. Frendo",
+                                            "M. Ellul",
+                                            "N. Micallef",
+                                            "J. Azzopardi",
+                                            "K. Ewurum",
+                                            "Z. Formosa",
+                                            "S. Chetcuti",
+                                            "A. Zammit",
+                                            "B. Gomes",
+                                            "M. Grech"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "K. Trelowski",
+                                           "F. Tudor",
+                                           "D. Gaucho",
+                                           "J. Napieraj",
+                                           "J. Silva",
+                                           "W. Kocherhin",
+                                           "O. Repka",
+                                           "M. Ameyaw",
+                                           "Á. Molnár",
+                                           "P. Makuch",
+                                           "T. Pieńko"
+                                       ],
+                        "substitutes":  [
+                                            "T. Karić",
+                                            "W. Zolneczko",
+                                            "B. Racovițan",
+                                            "M. Bulat",
+                                            "O. Kwiatkowski",
+                                            "J. Jendryka",
+                                            "A. Ojo",
+                                            "E. Otieno",
+                                            "M. Emreli",
+                                            "A. Basse"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
