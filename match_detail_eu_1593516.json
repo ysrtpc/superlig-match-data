@@ -93,6 +93,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Panic",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Kigurs",
+                       "detail":  "D. Lemajic"
                    }
                ]
 }
