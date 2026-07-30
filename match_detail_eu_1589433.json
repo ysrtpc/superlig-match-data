@@ -1,5 +1,5 @@
 {
-    "elapsed":  5,
+    "elapsed":  20,
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -52,16 +52,16 @@
     "awayLineups":  {
                         "starting11":  [
                                            "E. Grünvald",
-                                           "S. Tovstik",
-                                           "M. Kolobov",
-                                           "A. Kollo",
                                            "D. Kuraksin",
-                                           "T. Varjund",
-                                           "V. Kreida",
+                                           "A. Kollo",
+                                           "M. Kolobov",
+                                           "S. Tovstik",
                                            "R. Valdmets",
-                                           "S. Zenjov",
+                                           "V. Kreida",
+                                           "T. Varjund",
+                                           "S. Alamaa",
                                            "R. Sappinen",
-                                           "S. Alamaa"
+                                           "S. Zenjov"
                                        ],
                         "substitutes":  [
                                             "A. Tatrik",
@@ -78,6 +78,12 @@
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  16,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Williams",
+                       "detail":  ""
+                   }
                ]
 }
