@@ -1,5 +1,5 @@
 {
-    "elapsed":  4,
+    "elapsed":  10,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -38,6 +38,12 @@
                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  4,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Albornoz",
+                       "detail":  ""
+                   }
                ]
 }
