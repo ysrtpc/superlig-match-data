@@ -1,18 +1,18 @@
 {
-    "elapsed":  55,
+    "elapsed":  74,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  47,
                   "possessionAway":  53,
                   "shotsHome":  0,
                   "shotsAway":  0,
-                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetHome":  3,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  8,
-                  "foulsAway":  5,
+                  "foulsAway":  9,
                   "cornersHome":  3,
-                  "cornersAway":  3,
-                  "offsidesHome":  1,
+                  "cornersAway":  4,
+                  "offsidesHome":  2,
                   "offsidesAway":  2,
                   "xgHome":  0,
                   "xgAway":  0,
@@ -128,6 +128,55 @@
                        "isHomeTeam":  true,
                        "playerName":  "O. Mihalik",
                        "detail":  "D. Horak"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Buren",
+                       "detail":  "A. Vlkanova"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Camoes",
+                       "detail":  "T. Nyhammer"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Edvardsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Mihalik",
+                       "detail":  "M. Regza"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Hjerto-Dahl",
+                       "detail":  "L. Larsen"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Larsen",
+                       "detail":  "D. Braut"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Vadebu",
+                       "detail":  "M. Tonnessen"
                    }
                ]
 }
