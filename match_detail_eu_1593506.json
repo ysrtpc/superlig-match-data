@@ -1,5 +1,5 @@
 {
-    "elapsed":  108,
+    "elapsed":  null,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -172,17 +172,52 @@
                        "detail":  "E. Tamminen"
                    },
                    {
-                       "minute":  107,
+                       "minute":  106,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
-                       "playerName":  null,
+                       "playerName":  "A. Popovitch",
                        "detail":  ""
                    },
                    {
-                       "minute":  108,
+                       "minute":  107,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
-                       "playerName":  "B. Hauksson",
+                       "playerName":  "F. Krkalic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  111,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "O. Eggertsson",
+                       "detail":  "A. Bjarnason"
+                   },
+                   {
+                       "minute":  111,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Atlason",
+                       "detail":  "A. Vilhjalmsson"
+                   },
+                   {
+                       "minute":  113,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Miettunen",
+                       "detail":  "M. Rale"
+                   },
+                   {
+                       "minute":  117,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Hauksson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  120,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Suvanne",
                        "detail":  ""
                    }
                ]
