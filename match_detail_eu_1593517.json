@@ -1,5 +1,6 @@
 {
     "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -86,7 +87,7 @@
                        "detail":  ""
                    },
                    {
-                       "minute":  10,
+                       "minute":  9,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "N. Petkovic",
@@ -111,7 +112,7 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "L. Santos",
-                       "detail":  "T. Kvaratskhelia"
+                       "detail":  ""
                    },
                    {
                        "minute":  41,
