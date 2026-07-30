@@ -1,0 +1,99 @@
+{
+    "elapsed":  35,
+    "stats":  {
+                  "possessionHome":  52,
+                  "possessionAway":  48,
+                  "shotsHome":  2,
+                  "shotsAway":  4,
+                  "shotsOnTargetHome":  1,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  5,
+                  "foulsAway":  2,
+                  "cornersHome":  0,
+                  "cornersAway":  2,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  1
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "B. Megyeri",
+                                           "B. Bíró",
+                                           "Á. Umathum",
+                                           "M. Krpić",
+                                           "D. Štefulj",
+                                           "C. Bumba",
+                                           "Á. Décsy",
+                                           "M. Vitális",
+                                           "N. Njie",
+                                           "V. Đukanović",
+                                           "S. Schön"
+                                       ],
+                        "substitutes":  [
+                                            "S. Petráš",
+                                            "Ș. Vlădoiu",
+                                            "N. Urblík",
+                                            "B. Selyem",
+                                            "N. Csorba",
+                                            "M. Mass",
+                                            "I. Tollár",
+                                            "K. Bánáti",
+                                            "M. Szép",
+                                            "M. Huszár"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "Y. Tebaa",
+                                           "L. Correia",
+                                           "E. Veiga",
+                                           "Y. Mannone",
+                                           "Z. Louriz",
+                                           "T. Zeghdane",
+                                           "L. Correia",
+                                           "D. Pimentel",
+                                           "R. Eddarraj",
+                                           "K. Abi",
+                                           "R. Ferber"
+                                       ],
+                        "substitutes":  [
+                                            "G. Dupire",
+                                            "H. Lopes",
+                                            "L. Marasi",
+                                            "D. Maneta",
+                                            "B. Silva",
+                                            "K. Cabral",
+                                            "R. Fernandes",
+                                            "J. Cruz",
+                                            "M. Djalo"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  28,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Ferber",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  31,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Zeghdane",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  35,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ]
+}
