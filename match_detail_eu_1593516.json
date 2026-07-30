@@ -1,0 +1,78 @@
+{
+    "elapsed":  3,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "M. Steinarsson",
+                                           "E. Gardarsson",
+                                           "T. Phete",
+                                           "Édson",
+                                           "G. Svavarsson",
+                                           "B. Eydal",
+                                           "G. Hauksson",
+                                           "G. Einarsson",
+                                           "T. Hafthórsson",
+                                           "B. Hermannsson",
+                                           "J. Selven"
+                                       ],
+                        "substitutes":  [
+                                            "B. Snædal",
+                                            "M. Hagbarðsson",
+                                            "S. Fall",
+                                            "F. Gbadamosi",
+                                            "I. Baldé",
+                                            "J. Stensson",
+                                            "A. Jóhannsson",
+                                            "E. Duah",
+                                            "A. Mörfelt"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "J. Ņerugals",
+                                           "A. Filipović",
+                                           "H. Prenga",
+                                           "Ž. Lipušček",
+                                           "D. Zelenkovs",
+                                           "S. Rakić",
+                                           "S. Panić",
+                                           "J. Ikaunieks",
+                                           "M. Ķigurs",
+                                           "M. Sylla",
+                                           "R. Ndjiki"
+                                       ],
+                        "substitutes":  [
+                                            "R. Matrevics",
+                                            "M. Muizzemnieks",
+                                            "R. Veips",
+                                            "N. Sliede",
+                                            "L. Odisharia",
+                                            "N. Dusalijevs",
+                                            "K. Emenike",
+                                            "D. Lemajić"
+                                        ]
+                    },
+    "events":  [
+
+               ]
+}
