@@ -1,5 +1,5 @@
 {
-    "elapsed":  54,
+    "elapsed":  60,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -47,6 +47,13 @@
                    },
                    {
                        "minute":  50,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  58,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  null,
