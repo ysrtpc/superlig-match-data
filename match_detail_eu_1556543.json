@@ -2,47 +2,173 @@
     "elapsed":  90,
     "status":  "PLAYED",
     "stats":  {
+                  "possessionHome":  50,
                   "possessionAway":  50,
-                  "possessionHome":  50
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  1,
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  ""
               },
     "homeLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
-
-                                       ]
+                                           "A. Nubel",
+                                           "M. Murillo",
+                                           "T. Djalo",
+                                           "E. Topcu",
+                                           "R. Yilmaz",
+                                           "S. Ozcan",
+                                           "V. Cerny",
+                                           "J. Olaitan",
+                                           "O. Kokcu",
+                                           "I. Fakili",
+                                           "Oh Hyeon-Gyu"
+                                       ],
+                        "substitutes":  [
+                                            "D. Alemdar",
+                                            "M. Rashica",
+                                            "E. Agbadou",
+                                            "T. Bulut",
+                                            "A. S. Bircan",
+                                            "C. Gursel",
+                                            "A. Hadziahmetovic",
+                                            "K. Kayra Yilmaz",
+                                            "S. Kilicsoy",
+                                            "K. Ouattara",
+                                            "M. Hekimoglu",
+                                            "D. Sahin"
+                                        ]
                     },
     "awayLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
-
-                                       ]
+                                           "E. Olafsson",
+                                           "R. Kristensen",
+                                           "Lee Han-Beom",
+                                           "M. B. Sorensen",
+                                           "V. Bak",
+                                           "P. Billing",
+                                           "P. Bravo",
+                                           "V. Byskov",
+                                           "D. Osorio",
+                                           "F. Etim",
+                                           "Franculino"
+                                       ],
+                        "substitutes":  [
+                                            "N. Bakker",
+                                            "L. Selin",
+                                            "M. Erlic",
+                                            "Cho Gue-Sung",
+                                            "K. Watjen",
+                                            "S. Johannesen",
+                                            "S. Iheanacho",
+                                            "A. Gabriel",
+                                            "D. Castillo",
+                                            "D. Beni",
+                                            "J. Emefile",
+                                            "A. Ndiaye"
+                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  15,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "Friday Etim",
+                       "detail":  "Red Card"
+                   },
+                   {
+                       "minute":  18,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Byskov ⇄ D. Castillo",
+                       "detail":  "Substitution 1"
+                   },
+                   {
+                       "minute":  26,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "O. Kokcu",
+                       "detail":  "Normal Goal"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Franculino ⇄ M. Erlic",
+                       "detail":  "Substitution 2"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Osorio ⇄ Cho Gue-Sung",
+                       "detail":  "Substitution 3"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Fakili ⇄ M. Rashica",
+                       "detail":  "Substitution 1"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Oh Hyeon-Gyu ⇄ S. Kilicsoy",
+                       "detail":  "Substitution 2"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Ozcan ⇄ K. Kayra Yilmaz",
+                       "detail":  "Substitution 3"
+                   },
+                   {
+                       "minute":  73,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Yilmaz ⇄ K. Ouattara",
+                       "detail":  "Substitution 4"
+                   },
+                   {
+                       "minute":  78,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Djalo ⇄ E. Agbadou",
+                       "detail":  "Substitution 5"
+                   },
+                   {
+                       "minute":  83,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  " ⇄ K. Watjen",
+                       "detail":  "Substitution 4"
+                   }
                ],
     "h2h":  [
-                {
-                    "id":  "h2h_1556549",
-                    "homeTeam":  {
-                                     "id":  "fcmidtjylland",
-                                     "name":  "FC Midtjylland",
-                                     "shortName":  "FC Midtjylland"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "beikta",
-                                     "name":  "Beşiktaş",
-                                     "shortName":  "Beşiktaş"
-                                 },
-                    "homeScore":  0,
-                    "awayScore":  2,
-                    "date":  "30 Tem 2026",
-                    "time":  "17:00",
-                    "status":  "PLAYED",
-                    "competition":  "UEFA Europa League"
-                }
+
             ]
 }
