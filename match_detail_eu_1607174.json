@@ -1,0 +1,86 @@
+{
+    "elapsed":  90,
+    "status":  "NOT_PLAYED",
+    "stats":  {
+                  "possessionAway":  50,
+                  "possessionHome":  50
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_349911",
+                    "homeTeam":  {
+                                     "id":  "sturmgraz",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "fenerbahe",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "date":  "27 Tem 2017",
+                    "time":  "17:00",
+                    "status":  "PLAYED",
+                    "competition":  "UEFA Europa League"
+                },
+                {
+                    "id":  "h2h_349912",
+                    "homeTeam":  {
+                                     "id":  "fenerbahe",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "sturmgraz",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "date":  "03 Ağu 2017",
+                    "time":  "17:30",
+                    "status":  "PLAYED",
+                    "competition":  "UEFA Europa League"
+                },
+                {
+                    "id":  "h2h_1607165",
+                    "homeTeam":  {
+                                     "id":  "fenerbahe",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "sturmgraz",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "date":  "05 Ağu 2026",
+                    "time":  "18:00",
+                    "status":  "NOT_PLAYED",
+                    "competition":  "UEFA Champions League"
+                }
+            ]
+}
