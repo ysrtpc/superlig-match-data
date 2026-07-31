@@ -2,47 +2,55 @@
     "elapsed":  90,
     "status":  "NOT_PLAYED",
     "stats":  {
+                  "possessionHome":  50,
                   "possessionAway":  50,
-                  "possessionHome":  50
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0,
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  ""
               },
     "homeLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
 
-                                       ]
+                                       ],
+                        "substitutes":  [
+
+                                        ]
                     },
     "awayLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
 
-                                       ]
+                                       ],
+                        "substitutes":  [
+
+                                        ]
                     },
     "events":  [
 
                ],
     "h2h":  [
-                {
-                    "id":  "h2h_1607567",
-                    "homeTeam":  {
-                                     "id":  "beikta",
-                                     "name":  "Beşiktaş",
-                                     "shortName":  "Beşiktaş"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "hradeckrlov",
-                                     "name":  "Hradec Králové",
-                                     "shortName":  "Hradec Králové"
-                                 },
-                    "homeScore":  null,
-                    "awayScore":  null,
-                    "date":  "13 Ağu 2026",
-                    "time":  "17:00",
-                    "status":  "NOT_PLAYED",
-                    "competition":  "UEFA Europa League"
-                }
+
             ]
 }
