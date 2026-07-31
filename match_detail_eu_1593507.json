@@ -1,6 +1,10 @@
 {
     "elapsed":  90,
     "status":  "PLAYED",
+    "halftimeHomeScore":  1,
+    "halftimeAwayScore":  0,
+    "fulltimeHomeScore":  2,
+    "fulltimeAwayScore":  0,
     "stats":  {
                   "possessionHome":  42,
                   "possessionAway":  58,
