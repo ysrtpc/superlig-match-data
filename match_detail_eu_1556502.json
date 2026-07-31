@@ -2,47 +2,162 @@
     "elapsed":  90,
     "status":  "PLAYED",
     "stats":  {
-                  "possessionAway":  50,
-                  "possessionHome":  50
+                  "possessionHome":  79,
+                  "possessionAway":  21,
+                  "shotsHome":  15,
+                  "shotsAway":  2,
+                  "shotsOnTargetHome":  6,
+                  "shotsOnTargetAway":  1,
+                  "shotsOffTargetHome":  5,
+                  "shotsOffTargetAway":  1,
+                  "shotsInsideBoxHome":  6,
+                  "shotsInsideBoxAway":  1,
+                  "shotsOutsideBoxHome":  9,
+                  "shotsOutsideBoxAway":  1,
+                  "foulsHome":  15,
+                  "foulsAway":  11,
+                  "cornersHome":  9,
+                  "cornersAway":  2,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "yellowCardsHome":  0,
+                  "yellowCardsAway":  0,
+                  "redCardsHome":  0,
+                  "redCardsAway":  0,
+                  "savesHome":  1,
+                  "savesAway":  5,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "92%%",
+                  "passesAway":  "73%%"
               },
     "homeLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
-
-                                       ]
+                                           "M. Gunok",
+                                           "N. Semedo",
+                                           "M. Skriniar",
+                                           "N. Ake",
+                                           "J. Oosterwolde",
+                                           "M. Guendouzi",
+                                           "B. Elmaz",
+                                           "I. Kahveci",
+                                           "Fred",
+                                           "K. Akturkoglu",
+                                           "Talisca"
+                                       ],
+                        "substitutes":  [
+                                            "Ederson",
+                                            "T. Cetin",
+                                            "M. Asensio",
+                                            "M. Muldur",
+                                            "M. Greenwood",
+                                            "I. Yuksek",
+                                            "A. Musaba",
+                                            "A. Brown",
+                                            "S. Cherif",
+                                            "C. Soyuncu",
+                                            "O. Aydin",
+                                            "L. Mercan"
+                                        ]
                     },
     "awayLineups":  {
-                        "substitutes":  [
-
-                                        ],
                         "starting11":  [
-
-                                       ]
+                                           "P. Schulze",
+                                           "M. Sacek",
+                                           "R. Janicki",
+                                           "Josema",
+                                           "E. Janza",
+                                           "L. Sadilek",
+                                           "M. Dietz",
+                                           "K. Urbanski",
+                                           "Y. Ikia Dimi",
+                                           "E. Prekop",
+                                           "M. Khlan"
+                                       ],
+                        "substitutes":  [
+                                            "W. Kania",
+                                            "P. Bochniewicz",
+                                            "S. Liseth",
+                                            "O. Zmrzly",
+                                            "B. Durdov",
+                                            "B. Donio",
+                                            "P. Warczak",
+                                            "Peter Federico"
+                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  37,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "Talisca",
+                       "detail":  "Normal Goal"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Ake ⇄ L. Mercan",
+                       "detail":  "Substitution 1"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Elmaz ⇄ M. Asensio",
+                       "detail":  "Substitution 2"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Akturkoglu ⇄ O. Aydin",
+                       "detail":  "Substitution 3"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Urbanski ⇄ S. Liseth",
+                       "detail":  "Substitution 1"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Y. Ikia Dimi ⇄ O. Zmrzly",
+                       "detail":  "Substitution 2"
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Dietz ⇄ B. Donio",
+                       "detail":  "Substitution 3"
+                   },
+                   {
+                       "minute":  83,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Kahveci ⇄ M. Greenwood",
+                       "detail":  "Substitution 4"
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Talisca ⇄ S. Cherif",
+                       "detail":  "Substitution 5"
+                   },
+                   {
+                       "minute":  90,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Khlan ⇄ P. Warczak",
+                       "detail":  "Substitution 4"
+                   }
                ],
     "h2h":  [
-                {
-                    "id":  "h2h_1556506",
-                    "homeTeam":  {
-                                     "id":  "gornikzabrze",
-                                     "name":  "Gornik Zabrze",
-                                     "shortName":  "Gornik Zabrze"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "fenerbahe",
-                                     "name":  "Fenerbahçe",
-                                     "shortName":  "Fenerbahçe"
-                                 },
-                    "homeScore":  1,
-                    "awayScore":  1,
-                    "date":  "29 Tem 2026",
-                    "time":  "18:00",
-                    "status":  "PLAYED",
-                    "competition":  "UEFA Champions League"
-                }
+
             ]
 }
