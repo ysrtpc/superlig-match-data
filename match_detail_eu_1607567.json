@@ -1,0 +1,48 @@
+{
+    "elapsed":  90,
+    "status":  "NOT_PLAYED",
+    "stats":  {
+                  "possessionAway":  50,
+                  "possessionHome":  50
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1607562",
+                    "homeTeam":  {
+                                     "id":  "hradeckrlov",
+                                     "name":  "Hradec Králové",
+                                     "shortName":  "Hradec Králové"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "beikta",
+                                     "name":  "Beşiktaş",
+                                     "shortName":  "Beşiktaş"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "date":  "06 Ağu 2026",
+                    "time":  "17:00",
+                    "status":  "NOT_PLAYED",
+                    "competition":  "UEFA Europa League"
+                }
+            ]
+}
