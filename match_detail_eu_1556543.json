@@ -1,161 +1,48 @@
 {
-    "stats": {
-        "possessionHome": 0,
-        "possessionAway": 0,
-        "shotsHome": 0,
-        "shotsAway": 0,
-        "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 0,
-        "cornersHome": 0,
-        "cornersAway": 0,
-        "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 0.0,
-        "xgAway": 0.0,
-        "bigChancesHome": 1,
-        "bigChancesAway": 0,
-        "passesHome": "",
-        "passesAway": "",
-        "savesHome": 0,
-        "savesAway": 0
-    },
-    "homeLineups": {
-        "starting11": [
-            "A. Nubel",
-            "M. Murillo",
-            "T. Djalo",
-            "E. Topcu",
-            "R. Yilmaz",
-            "S. Ozcan",
-            "V. Cerny",
-            "J. Olaitan",
-            "O. Kokcu",
-            "I. Fakili",
-            "O. Hyeon-Gyu"
-        ],
-        "substitutes": [
-            "D. Alemdar",
-            "M. Rashica",
-            "E. Agbadou",
-            "T. Bulut",
-            "A. Bircan",
-            "C. Gursel",
-            "A. Hadziahmetovic",
-            "K. Yilmaz",
-            "S. Kilicsoy",
-            "K. Ouattara",
-            "M. Hekimoglu",
-            "D. Sahin"
-        ]
-    },
-    "awayLineups": {
-        "starting11": [
-            "E. Olafsson",
-            "R. Kristensen",
-            "L. Han-Beom",
-            "M. Sorensen",
-            "V. Bak",
-            "P. Billing",
-            "P. Bravo",
-            "V. Byskov",
-            "D. Osorio",
-            "F. Etim",
-            "Franculino"
-        ],
-        "substitutes": [
-            "N. Bakker",
-            "L. Selin",
-            "M. Erlic",
-            "C. Gue-Sung",
-            "K. Watjen",
-            "S. Johannesen",
-            "S. Iheanacho",
-            "A. Gabriel",
-            "D. Castillo",
-            "D. Beni",
-            "J. Emefile",
-            "A. Ndiaye"
-        ]
-    },
-    "events": [
-        {
-            "minute": 15,
-            "type": "RED_CARD",
-            "isHomeTeam": false,
-            "playerName": "F. Etim",
-            "detail": ""
-        },
-        {
-            "minute": 18,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": false,
-            "playerName": "V. Byskov",
-            "detail": "D. Castillo"
-        },
-        {
-            "minute": 26,
-            "type": "GOAL",
-            "isHomeTeam": true,
-            "playerName": "O. Kokcu",
-            "detail": "V. Cerny"
-        },
-        {
-            "minute": 46,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": false,
-            "playerName": "Franculino",
-            "detail": "M. Erlic"
-        },
-        {
-            "minute": 62,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": false,
-            "playerName": "D. Osorio",
-            "detail": "C. Gue-Sung"
-        },
-        {
-            "minute": 63,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "I. Fakili",
-            "detail": "M. Rashica"
-        },
-        {
-            "minute": 63,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "O. Hyeon-Gyu",
-            "detail": "S. Kilicsoy"
-        },
-        {
-            "minute": 73,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "S. Ozcan",
-            "detail": "K. Yilmaz"
-        },
-        {
-            "minute": 73,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "R. Yilmaz",
-            "detail": "K. Ouattara"
-        },
-        {
-            "minute": 78,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "T. Djalo",
-            "detail": "E. Agbadou"
-        },
-        {
-            "minute": 83,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": false,
-            "playerName": "",
-            "detail": "K. Watjen"
-        }
-    ]
+    "elapsed":  90,
+    "status":  "PLAYED",
+    "stats":  {
+                  "possessionAway":  50,
+                  "possessionHome":  50
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1556549",
+                    "homeTeam":  {
+                                     "id":  "fcmidtjylland",
+                                     "name":  "FC Midtjylland",
+                                     "shortName":  "FC Midtjylland"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "beikta",
+                                     "name":  "Beşiktaş",
+                                     "shortName":  "Beşiktaş"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "date":  "30 Tem 2026",
+                    "time":  "17:00",
+                    "status":  "PLAYED",
+                    "competition":  "UEFA Europa League"
+                }
+            ]
 }
