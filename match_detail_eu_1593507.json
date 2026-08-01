@@ -37,59 +37,284 @@
               },
     "homeLineups":  {
                         "starting11":  [
-                                           "E. Huuhtanen",
-                                           "S. Saarinen",
-                                           "L. Kuittinen",
-                                           "I. Kangasniemi",
-                                           "J. Niska",
-                                           "J. Laine",
-                                           "B. Ampofo",
-                                           "L. Essomba",
-                                           "J. Tuominen",
-                                           "C. Jephta",
-                                           "A. Conteh"
+                                           {
+                                               "id":  173908,
+                                               "name":  "E. Huuhtanen",
+                                               "number":  1,
+                                               "photo":  "https://media.api-sports.io/football/players/173908.png"
+                                           },
+                                           {
+                                               "id":  83470,
+                                               "name":  "S. Saarinen",
+                                               "number":  18,
+                                               "photo":  "https://media.api-sports.io/football/players/83470.png"
+                                           },
+                                           {
+                                               "id":  263877,
+                                               "name":  "L. Kuittinen",
+                                               "number":  22,
+                                               "photo":  "https://media.api-sports.io/football/players/263877.png"
+                                           },
+                                           {
+                                               "id":  549439,
+                                               "name":  "I. Kangasniemi",
+                                               "number":  21,
+                                               "photo":  "https://media.api-sports.io/football/players/549439.png"
+                                           },
+                                           {
+                                               "id":  196359,
+                                               "name":  "J. Niska",
+                                               "number":  2,
+                                               "photo":  "https://media.api-sports.io/football/players/196359.png"
+                                           },
+                                           {
+                                               "id":  55315,
+                                               "name":  "J. Laine",
+                                               "number":  14,
+                                               "photo":  "https://media.api-sports.io/football/players/55315.png"
+                                           },
+                                           {
+                                               "id":  417205,
+                                               "name":  "B. Ampofo",
+                                               "number":  17,
+                                               "photo":  "https://media.api-sports.io/football/players/417205.png"
+                                           },
+                                           {
+                                               "id":  558944,
+                                               "name":  "L. Essomba",
+                                               "number":  23,
+                                               "photo":  "https://media.api-sports.io/football/players/558944.png"
+                                           },
+                                           {
+                                               "id":  2318,
+                                               "name":  "J. Tuominen",
+                                               "number":  9,
+                                               "photo":  "https://media.api-sports.io/football/players/2318.png"
+                                           },
+                                           {
+                                               "id":  539690,
+                                               "name":  "C. Jephta",
+                                               "number":  16,
+                                               "photo":  "https://media.api-sports.io/football/players/539690.png"
+                                           },
+                                           {
+                                               "id":  544535,
+                                               "name":  "A. Conteh",
+                                               "number":  10,
+                                               "photo":  "https://media.api-sports.io/football/players/544535.png"
+                                           }
                                        ],
                         "substitutes":  [
-                                            "V. Seppa",
-                                            "E. Vuorjoki",
-                                            "Y. Amankwah",
-                                            "P. Ahiabu",
-                                            "H. Salomaa",
-                                            "J. Botue",
-                                            "V. Huovila",
-                                            "E. Kiiskila",
-                                            "I. Jarvinen",
-                                            "J. Tauriainen",
-                                            "V. Ulundu",
-                                            "A. Sandler"
+                                            {
+                                                "id":  55645,
+                                                "name":  "V. Seppa",
+                                                "number":  36,
+                                                "photo":  "https://media.api-sports.io/football/players/55645.png"
+                                            },
+                                            {
+                                                "id":  401688,
+                                                "name":  "E. Vuorjoki",
+                                                "number":  12,
+                                                "photo":  "https://media.api-sports.io/football/players/401688.png"
+                                            },
+                                            {
+                                                "id":  144728,
+                                                "name":  "Y. Amankwah",
+                                                "number":  30,
+                                                "photo":  "https://media.api-sports.io/football/players/144728.png"
+                                            },
+                                            {
+                                                "id":  214279,
+                                                "name":  "P. Ahiabu",
+                                                "number":  4,
+                                                "photo":  "https://media.api-sports.io/football/players/214279.png"
+                                            },
+                                            {
+                                                "id":  265508,
+                                                "name":  "H. Salomaa",
+                                                "number":  25,
+                                                "photo":  "https://media.api-sports.io/football/players/265508.png"
+                                            },
+                                            {
+                                                "id":  214283,
+                                                "name":  "J. Botue",
+                                                "number":  11,
+                                                "photo":  "https://media.api-sports.io/football/players/214283.png"
+                                            },
+                                            {
+                                                "id":  370734,
+                                                "name":  "V. Huovila",
+                                                "number":  26,
+                                                "photo":  "https://media.api-sports.io/football/players/370734.png"
+                                            },
+                                            {
+                                                "id":  549234,
+                                                "name":  "E. Kiiskila",
+                                                "number":  35,
+                                                "photo":  "https://media.api-sports.io/football/players/549234.png"
+                                            },
+                                            {
+                                                "id":  55314,
+                                                "name":  "I. Jarvinen",
+                                                "number":  19,
+                                                "photo":  "https://media.api-sports.io/football/players/55314.png"
+                                            },
+                                            {
+                                                "id":  64198,
+                                                "name":  "J. Tauriainen",
+                                                "number":  24,
+                                                "photo":  "https://media.api-sports.io/football/players/64198.png"
+                                            },
+                                            {
+                                                "id":  383523,
+                                                "name":  "V. Ulundu",
+                                                "number":  27,
+                                                "photo":  "https://media.api-sports.io/football/players/383523.png"
+                                            },
+                                            {
+                                                "id":  619403,
+                                                "name":  "A. Sandler",
+                                                "number":  20,
+                                                "photo":  "https://media.api-sports.io/football/players/619403.png"
+                                            }
                                         ]
                     },
     "awayLineups":  {
                         "starting11":  [
-                                           "M. Sengezer",
-                                           "O. Bulut",
-                                           "E. Bayram",
-                                           "O. Ba",
-                                           "C. Operi",
-                                           "B. Ozdemir",
-                                           "U. Gunes",
-                                           "Y. Sari",
-                                           "E. Shomurodov",
-                                           "I. Brnic",
-                                           "D. Selke"
+                                           {
+                                               "id":  50218,
+                                               "name":  "M. Sengezer",
+                                               "number":  16,
+                                               "photo":  "https://media.api-sports.io/football/players/50218.png"
+                                           },
+                                           {
+                                               "id":  26275,
+                                               "name":  "O. Bulut",
+                                               "number":  6,
+                                               "photo":  "https://media.api-sports.io/football/players/26275.png"
+                                           },
+                                           {
+                                               "id":  162513,
+                                               "name":  "E. Bayram",
+                                               "number":  23,
+                                               "photo":  "https://media.api-sports.io/football/players/162513.png"
+                                           },
+                                           {
+                                               "id":  20968,
+                                               "name":  "O. Ba",
+                                               "number":  27,
+                                               "photo":  "https://media.api-sports.io/football/players/20968.png"
+                                           },
+                                           {
+                                               "id":  20836,
+                                               "name":  "C. Operi",
+                                               "number":  21,
+                                               "photo":  "https://media.api-sports.io/football/players/20836.png"
+                                           },
+                                           {
+                                               "id":  61820,
+                                               "name":  "B. Ozdemir",
+                                               "number":  5,
+                                               "photo":  "https://media.api-sports.io/football/players/61820.png"
+                                           },
+                                           {
+                                               "id":  128968,
+                                               "name":  "U. Gunes",
+                                               "number":  20,
+                                               "photo":  "https://media.api-sports.io/football/players/128968.png"
+                                           },
+                                           {
+                                               "id":  1921,
+                                               "name":  "Y. Sari",
+                                               "number":  7,
+                                               "photo":  "https://media.api-sports.io/football/players/1921.png"
+                                           },
+                                           {
+                                               "id":  53535,
+                                               "name":  "E. Shomurodov",
+                                               "number":  14,
+                                               "photo":  "https://media.api-sports.io/football/players/53535.png"
+                                           },
+                                           {
+                                               "id":  14602,
+                                               "name":  "I. Brnic",
+                                               "number":  77,
+                                               "photo":  "https://media.api-sports.io/football/players/14602.png"
+                                           },
+                                           {
+                                               "id":  25362,
+                                               "name":  "D. Selke",
+                                               "number":  9,
+                                               "photo":  "https://media.api-sports.io/football/players/25362.png"
+                                           }
                                        ],
                         "substitutes":  [
-                                            "V. Babacan",
-                                            "D. Dilmen",
-                                            "O. Sahiner",
-                                            "B. Ozcan",
-                                            "J. Opoku",
-                                            "M. Karbownik",
-                                            "A. Fayzullaev",
-                                            "H. Gureler",
-                                            "N. Da Costa",
-                                            "O. Ergun",
-                                            "B. Yildirim"
+                                            {
+                                                "id":  49835,
+                                                "name":  "V. Babacan",
+                                                "number":  1,
+                                                "photo":  "https://media.api-sports.io/football/players/49835.png"
+                                            },
+                                            {
+                                                "id":  544891,
+                                                "name":  "D. Dilmen",
+                                                "number":  98,
+                                                "photo":  "https://media.api-sports.io/football/players/544891.png"
+                                            },
+                                            {
+                                                "id":  50018,
+                                                "name":  "O. Sahiner",
+                                                "number":  42,
+                                                "photo":  "https://media.api-sports.io/football/players/50018.png"
+                                            },
+                                            {
+                                                "id":  24885,
+                                                "name":  "B. Ozcan",
+                                                "number":  19,
+                                                "photo":  "https://media.api-sports.io/football/players/24885.png"
+                                            },
+                                            {
+                                                "id":  137223,
+                                                "name":  "J. Opoku",
+                                                "number":  3,
+                                                "photo":  "https://media.api-sports.io/football/players/137223.png"
+                                            },
+                                            {
+                                                "id":  125618,
+                                                "name":  "M. Karbownik",
+                                                "number":  33,
+                                                "photo":  "https://media.api-sports.io/football/players/125618.png"
+                                            },
+                                            {
+                                                "id":  263676,
+                                                "name":  "A. Fayzullaev",
+                                                "number":  11,
+                                                "photo":  "https://media.api-sports.io/football/players/263676.png"
+                                            },
+                                            {
+                                                "id":  443739,
+                                                "name":  "H. Gureler",
+                                                "number":  15,
+                                                "photo":  "https://media.api-sports.io/football/players/443739.png"
+                                            },
+                                            {
+                                                "id":  22265,
+                                                "name":  "N. Da Costa",
+                                                "number":  10,
+                                                "photo":  "https://media.api-sports.io/football/players/22265.png"
+                                            },
+                                            {
+                                                "id":  62114,
+                                                "name":  "O. Ergun",
+                                                "number":  4,
+                                                "photo":  "https://media.api-sports.io/football/players/62114.png"
+                                            },
+                                            {
+                                                "id":  68483,
+                                                "name":  "B. Yildirim",
+                                                "number":  91,
+                                                "photo":  "https://media.api-sports.io/football/players/68483.png"
+                                            }
                                         ]
                     },
     "events":  [
