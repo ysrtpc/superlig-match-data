@@ -37,57 +37,272 @@
               },
     "homeLineups":  {
                         "starting11":  [
-                                           "P. Schulze",
-                                           "M. Sacek",
-                                           "R. Janicki",
-                                           "Josema",
-                                           "E. Janza",
-                                           "M. Dietz",
-                                           "Y. Ikia Dimi",
-                                           "L. Sadilek",
-                                           "K. Urbanski",
-                                           "T. Ismaheel",
-                                           "E. Prekop"
+                                           {
+                                               "id":  261210,
+                                               "name":  "P. Schulze",
+                                               "number":  1,
+                                               "photo":  "https://media.api-sports.io/football/players/261210.png"
+                                           },
+                                           {
+                                               "id":  66023,
+                                               "name":  "M. Sacek",
+                                               "number":  61,
+                                               "photo":  "https://media.api-sports.io/football/players/66023.png"
+                                           },
+                                           {
+                                               "id":  40548,
+                                               "name":  "R. Janicki",
+                                               "number":  26,
+                                               "photo":  "https://media.api-sports.io/football/players/40548.png"
+                                           },
+                                           {
+                                               "id":  47222,
+                                               "name":  "Josema",
+                                               "number":  20,
+                                               "photo":  "https://media.api-sports.io/football/players/47222.png"
+                                           },
+                                           {
+                                               "id":  14299,
+                                               "name":  "E. Janza",
+                                               "number":  64,
+                                               "photo":  "https://media.api-sports.io/football/players/14299.png"
+                                           },
+                                           {
+                                               "id":  202774,
+                                               "name":  "M. Dietz",
+                                               "number":  66,
+                                               "photo":  "https://media.api-sports.io/football/players/202774.png"
+                                           },
+                                           {
+                                               "id":  349167,
+                                               "name":  "Y. Ikia Dimi",
+                                               "number":  7,
+                                               "photo":  "https://media.api-sports.io/football/players/349167.png"
+                                           },
+                                           {
+                                               "id":  66102,
+                                               "name":  "L. Sadilek",
+                                               "number":  18,
+                                               "photo":  "https://media.api-sports.io/football/players/66102.png"
+                                           },
+                                           {
+                                               "id":  182280,
+                                               "name":  "K. Urbanski",
+                                               "number":  82,
+                                               "photo":  "https://media.api-sports.io/football/players/182280.png"
+                                           },
+                                           {
+                                               "id":  57354,
+                                               "name":  "T. Ismaheel",
+                                               "number":  88,
+                                               "photo":  "https://media.api-sports.io/football/players/57354.png"
+                                           },
+                                           {
+                                               "id":  105726,
+                                               "name":  "E. Prekop",
+                                               "number":  11,
+                                               "photo":  "https://media.api-sports.io/football/players/105726.png"
+                                           }
                                        ],
                         "substitutes":  [
-                                            "W. Kania",
-                                            "P. Bochniewicz",
-                                            "S. Liseth",
-                                            "O. Zmrzly",
-                                            "M. Khlan",
-                                            "B. Durdov",
-                                            "B. Donio",
-                                            "M. Rakoczy",
-                                            "P. Warczak",
-                                            "Peter Federico"
+                                            {
+                                                "id":  666873,
+                                                "name":  "W. Kania",
+                                                "number":  29,
+                                                "photo":  "https://media.api-sports.io/football/players/666873.png"
+                                            },
+                                            {
+                                                "id":  40224,
+                                                "name":  "P. Bochniewicz",
+                                                "number":  4,
+                                                "photo":  "https://media.api-sports.io/football/players/40224.png"
+                                            },
+                                            {
+                                                "id":  39199,
+                                                "name":  "S. Liseth",
+                                                "number":  23,
+                                                "photo":  "https://media.api-sports.io/football/players/39199.png"
+                                            },
+                                            {
+                                                "id":  66287,
+                                                "name":  "O. Zmrzly",
+                                                "number":  21,
+                                                "photo":  "https://media.api-sports.io/football/players/66287.png"
+                                            },
+                                            {
+                                                "id":  264699,
+                                                "name":  "M. Khlan",
+                                                "number":  33,
+                                                "photo":  "https://media.api-sports.io/football/players/264699.png"
+                                            },
+                                            {
+                                                "id":  448466,
+                                                "name":  "B. Durdov",
+                                                "number":  34,
+                                                "photo":  "https://media.api-sports.io/football/players/448466.png"
+                                            },
+                                            {
+                                                "id":  482504,
+                                                "name":  "B. Donio",
+                                                "number":  28,
+                                                "photo":  "https://media.api-sports.io/football/players/482504.png"
+                                            },
+                                            {
+                                                "id":  40507,
+                                                "name":  "M. Rakoczy",
+                                                "number":  36,
+                                                "photo":  "https://media.api-sports.io/football/players/40507.png"
+                                            },
+                                            {
+                                                "id":  546594,
+                                                "name":  "P. Warczak",
+                                                "number":  2,
+                                                "photo":  "https://media.api-sports.io/football/players/546594.png"
+                                            },
+                                            {
+                                                "id":  270516,
+                                                "name":  "Peter Federico",
+                                                "number":  19,
+                                                "photo":  "https://media.api-sports.io/football/players/270516.png"
+                                            }
                                         ]
                     },
     "awayLineups":  {
                         "starting11":  [
-                                           "M. Gunok",
-                                           "N. Semedo",
-                                           "M. Skriniar",
-                                           "N. Ake",
-                                           "J. Oosterwolde",
-                                           "M. Guendouzi",
-                                           "Fred",
-                                           "I. Kahveci",
-                                           "M. Asensio",
-                                           "K. Akturkoglu",
-                                           "Talisca"
+                                           {
+                                               "id":  49837,
+                                               "name":  "M. Gunok",
+                                               "number":  34,
+                                               "photo":  "https://media.api-sports.io/football/players/49837.png"
+                                           },
+                                           {
+                                               "id":  130,
+                                               "name":  "N. Semedo",
+                                               "number":  27,
+                                               "photo":  "https://media.api-sports.io/football/players/130.png"
+                                           },
+                                           {
+                                               "id":  198,
+                                               "name":  "M. Skriniar",
+                                               "number":  37,
+                                               "photo":  "https://media.api-sports.io/football/players/198.png"
+                                           },
+                                           {
+                                               "id":  18861,
+                                               "name":  "N. Ake",
+                                               "number":  15,
+                                               "photo":  "https://media.api-sports.io/football/players/18861.png"
+                                           },
+                                           {
+                                               "id":  272721,
+                                               "name":  "J. Oosterwolde",
+                                               "number":  24,
+                                               "photo":  "https://media.api-sports.io/football/players/272721.png"
+                                           },
+                                           {
+                                               "id":  1454,
+                                               "name":  "M. Guendouzi",
+                                               "number":  6,
+                                               "photo":  "https://media.api-sports.io/football/players/1454.png"
+                                           },
+                                           {
+                                               "id":  905,
+                                               "name":  "Fred",
+                                               "number":  7,
+                                               "photo":  "https://media.api-sports.io/football/players/905.png"
+                                           },
+                                           {
+                                               "id":  49857,
+                                               "name":  "I. Kahveci",
+                                               "number":  17,
+                                               "photo":  "https://media.api-sports.io/football/players/49857.png"
+                                           },
+                                           {
+                                               "id":  746,
+                                               "name":  "M. Asensio",
+                                               "number":  10,
+                                               "photo":  "https://media.api-sports.io/football/players/746.png"
+                                           },
+                                           {
+                                               "id":  142959,
+                                               "name":  "K. Akturkoglu",
+                                               "number":  9,
+                                               "photo":  "https://media.api-sports.io/football/players/142959.png"
+                                           },
+                                           {
+                                               "id":  12724,
+                                               "name":  "Talisca",
+                                               "number":  94,
+                                               "photo":  "https://media.api-sports.io/football/players/12724.png"
+                                           }
                                        ],
                         "substitutes":  [
-                                            "Ederson",
-                                            "T. Cetin",
-                                            "M. Muldur",
-                                            "M. Greenwood",
-                                            "I. Yuksek",
-                                            "A. Musaba",
-                                            "A. Brown",
-                                            "C. Soyuncu",
-                                            "O. Aydin",
-                                            "L. Mercan",
-                                            "B. Elmaz"
+                                            {
+                                                "id":  617,
+                                                "name":  "Ederson",
+                                                "number":  31,
+                                                "photo":  "https://media.api-sports.io/football/players/617.png"
+                                            },
+                                            {
+                                                "id":  62401,
+                                                "name":  "T. Cetin",
+                                                "number":  13,
+                                                "photo":  "https://media.api-sports.io/football/players/62401.png"
+                                            },
+                                            {
+                                                "id":  1719,
+                                                "name":  "M. Muldur",
+                                                "number":  18,
+                                                "photo":  "https://media.api-sports.io/football/players/1719.png"
+                                            },
+                                            {
+                                                "id":  897,
+                                                "name":  "M. Greenwood",
+                                                "number":  11,
+                                                "photo":  "https://media.api-sports.io/football/players/897.png"
+                                            },
+                                            {
+                                                "id":  214463,
+                                                "name":  "I. Yuksek",
+                                                "number":  5,
+                                                "photo":  "https://media.api-sports.io/football/players/214463.png"
+                                            },
+                                            {
+                                                "id":  37380,
+                                                "name":  "A. Musaba",
+                                                "number":  20,
+                                                "photo":  "https://media.api-sports.io/football/players/37380.png"
+                                            },
+                                            {
+                                                "id":  161661,
+                                                "name":  "A. Brown",
+                                                "number":  3,
+                                                "photo":  "https://media.api-sports.io/football/players/161661.png"
+                                            },
+                                            {
+                                                "id":  18776,
+                                                "name":  "C. Soyuncu",
+                                                "number":  4,
+                                                "photo":  "https://media.api-sports.io/football/players/18776.png"
+                                            },
+                                            {
+                                                "id":  134590,
+                                                "name":  "O. Aydin",
+                                                "number":  70,
+                                                "photo":  "https://media.api-sports.io/football/players/134590.png"
+                                            },
+                                            {
+                                                "id":  127609,
+                                                "name":  "L. Mercan",
+                                                "number":  22,
+                                                "photo":  "https://media.api-sports.io/football/players/127609.png"
+                                            },
+                                            {
+                                                "id":  162004,
+                                                "name":  "B. Elmaz",
+                                                "number":  28,
+                                                "photo":  "https://media.api-sports.io/football/players/162004.png"
+                                            }
                                         ]
                     },
     "events":  [
