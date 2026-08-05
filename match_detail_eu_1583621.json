@@ -1,5 +1,5 @@
 {
-    "elapsed":  67,
+    "elapsed":  86,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -69,7 +69,7 @@
                        "minute":  65,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
-                       "playerName":  null,
+                       "playerName":  "M. Seyran",
                        "detail":  ""
                    }
                ],
