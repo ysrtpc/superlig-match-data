@@ -1,0 +1,218 @@
+{
+    "elapsed":  59,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  15,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Sivetti",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  34,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Gordillo",
+                       "detail":  "J. Rocca"
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Guanini",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Diaz",
+                       "detail":  "G. Soto"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Fernandes",
+                       "detail":  "M. Laba"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Dornell",
+                       "detail":  "J. Orlando"
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1158414",
+                    "date":  "2024-10-19",
+                    "time":  "18:30",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1331020",
+                    "date":  "2025-02-22",
+                    "time":  "20:00",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1498650",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1158053",
+                    "date":  "2024-06-02",
+                    "time":  "18:30",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1331326",
+                    "date":  "2025-06-29",
+                    "time":  "19:00",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1498334",
+                    "date":  "2026-02-28",
+                    "time":  "01:00",
+                    "competition":  "Primera Nacional",
+                    "homeTeam":  {
+                                     "id":  "1928",
+                                     "name":  "Gimnasia Y Tiro",
+                                     "shortName":  "Gimnasia Y Tiro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1928.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "482",
+                                     "name":  "Almagro",
+                                     "shortName":  "Almagro",
+                                     "logo":  "https://media.api-sports.io/football/teams/482.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                }
+            ]
+}
