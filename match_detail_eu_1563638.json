@@ -1,0 +1,353 @@
+{
+    "elapsed":  71,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "A. Koryakin",
+                                           "I. Vakhaniya",
+                                           "V. Tormena",
+                                           "D. Costa",
+                                           "A. Khmarin",
+                                           "K. Pina",
+                                           "M. Ozdoev",
+                                           "V. Paltsev",
+                                           "D. Utkin",
+                                           "Christian",
+                                           "K. Mukailov"
+                                       ],
+                        "substitutes":  [
+                                            "S. Agkatsev",
+                                            "L. Olaza",
+                                            "Jubal",
+                                            "N. Krivtsov",
+                                            "A. Chernikov",
+                                            "A. Douglas",
+                                            "J. Batxi",
+                                            "D. Vorobyev",
+                                            "A. Koksharov"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "V. Ulyanov",
+                                           "M. Sidorov",
+                                           "K. Cake",
+                                           "T. Ibishev",
+                                           "M. Bogosavac",
+                                           "I. Silva",
+                                           "M. Keliano",
+                                           "G. Kenzhebek",
+                                           "K. Shchetinin",
+                                           "L. Sadulaev",
+                                           "E. Maksuti"
+                                       ],
+                        "substitutes":  [
+                                            "G. Shelia",
+                                            "R. Mitsaev",
+                                            "O. N’Dong",
+                                            "A. Adamov",
+                                            "E. Cacintura",
+                                            "J. Romão",
+                                            "M. Samorodov",
+                                            "A. Gadzhiev",
+                                            "A. Kasadzhikov",
+                                            "G. Melkadze"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  11,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Shchetinin",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Mukailov",
+                       "detail":  "D. Vorobyev"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Vakhania",
+                       "detail":  "N. Krivtsov"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Shchetinin",
+                       "detail":  "E. Cacintura"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Christian",
+                       "detail":  "J. Batxi"
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Keliano",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Kenzhebek",
+                       "detail":  "J. Romao"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Utkin",
+                       "detail":  "D. Vorobyev"
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_39968",
+                    "date":  "2016-12-01",
+                    "time":  "15:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_40294",
+                    "date":  "2017-08-10",
+                    "time":  "17:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_40525",
+                    "date":  "2019-04-24",
+                    "time":  "16:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_147028",
+                    "date":  "2019-07-14",
+                    "time":  "18:30",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_574196",
+                    "date":  "2020-10-31",
+                    "time":  "13:30",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_711354",
+                    "date":  "2021-09-18",
+                    "time":  "16:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_880103",
+                    "date":  "2023-06-03",
+                    "time":  "14:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1011976",
+                    "date":  "2023-03-15",
+                    "time":  "12:00",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1042073",
+                    "date":  "2023-09-16",
+                    "time":  "13:30",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat Grozny",
+                                     "shortName":  "Akhmat Grozny",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "Krasnodar",
+                                     "shortName":  "Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1211550",
+                    "date":  "2024-10-02",
+                    "time":  "18:15",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "1085",
+                                     "name":  "Akhmat",
+                                     "shortName":  "Akhmat",
+                                     "logo":  "https://media.api-sports.io/football/teams/1085.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "621",
+                                     "name":  "FC Krasnodar",
+                                     "shortName":  "FC Krasnodar",
+                                     "logo":  "https://media.api-sports.io/football/teams/621.png"
+                                 },
+                    "homeScore":  3,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                }
+            ]
+}
