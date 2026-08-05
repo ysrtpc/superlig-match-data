@@ -1,30 +1,30 @@
 {
-    "elapsed":  62,
+    "elapsed":  81,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  66,
-                  "possessionAway":  34,
-                  "shotsHome":  9,
-                  "shotsAway":  13,
-                  "shotsOnTargetHome":  4,
+                  "possessionHome":  68,
+                  "possessionAway":  32,
+                  "shotsHome":  12,
+                  "shotsAway":  14,
+                  "shotsOnTargetHome":  5,
                   "shotsOnTargetAway":  2,
-                  "foulsHome":  5,
-                  "foulsAway":  8,
-                  "cornersHome":  5,
+                  "foulsHome":  8,
+                  "foulsAway":  9,
+                  "cornersHome":  7,
                   "cornersAway":  5,
                   "offsidesHome":  2,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "411 (91%)",
-                  "passesAway":  "198 (74%)",
+                  "passesHome":  "539 (89%)",
+                  "passesAway":  "242 (72%)",
                   "savesHome":  1,
-                  "savesAway":  3,
-                  "shotsOffTargetHome":  1,
-                  "shotsOffTargetAway":  6,
-                  "shotsInsideBoxHome":  4,
-                  "shotsInsideBoxAway":  6,
-                  "shotsOutsideBoxHome":  5,
+                  "savesAway":  4,
+                  "shotsOffTargetHome":  2,
+                  "shotsOffTargetAway":  7,
+                  "shotsInsideBoxHome":  6,
+                  "shotsInsideBoxAway":  7,
+                  "shotsOutsideBoxHome":  6,
                   "shotsOutsideBoxAway":  7
               },
     "homeLineups":  {
@@ -98,6 +98,41 @@
                        "isHomeTeam":  true,
                        "playerName":  "F. Pellistri",
                        "detail":  "V. Taborda"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Iliev",
+                       "detail":  "M. Diallo"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Camara",
+                       "detail":  "A. Cerin"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Andino",
+                       "detail":  "A. Zaroury"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Tsapras",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Cuellar",
+                       "detail":  "E. Franco"
                    }
                ],
     "h2h":  [
