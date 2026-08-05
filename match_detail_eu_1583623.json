@@ -1,5 +1,5 @@
 {
-    "elapsed":  21,
+    "elapsed":  31,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -44,7 +44,13 @@
                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  21,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "Z. Luvumbo",
+                       "detail":  "J. Virgili"
+                   }
                ],
     "h2h":  [
                 {
@@ -64,7 +70,7 @@
                                      "shortName":  "Paris Saint Germain",
                                      "logo":  "https://media.api-sports.io/football/teams/85.png"
                                  },
-                    "homeScore":  0,
+                    "homeScore":  1,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 }
