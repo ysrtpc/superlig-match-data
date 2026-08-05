@@ -1,0 +1,148 @@
+{
+    "elapsed":  69,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  51,
+                  "possessionAway":  49,
+                  "shotsHome":  6,
+                  "shotsAway":  7,
+                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  3,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "0",
+                  "passesAway":  "0",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  4,
+                  "shotsOffTargetAway":  4,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  24,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1601492",
+                    "date":  "2026-08-12",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "13115",
+                                     "name":  "Sampaio Corrêa RJ",
+                                     "shortName":  "Sampaio Corrêa RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13115.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13118",
+                                     "name":  "São Gonçalo EC RJ",
+                                     "shortName":  "São Gonçalo EC RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13118.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_489145",
+                    "date":  "2019-06-22",
+                    "time":  "18:00",
+                    "competition":  "Carioca - 2",
+                    "homeTeam":  {
+                                     "id":  "13118",
+                                     "name":  "São Gonçalo EC RJ",
+                                     "shortName":  "São Gonçalo EC RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13118.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13115",
+                                     "name":  "Sampaio Corrêa RJ",
+                                     "shortName":  "Sampaio Corrêa RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13115.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_567462",
+                    "date":  "2020-10-14",
+                    "time":  "18:00",
+                    "competition":  "Carioca - 2",
+                    "homeTeam":  {
+                                     "id":  "13118",
+                                     "name":  "São Gonçalo EC RJ",
+                                     "shortName":  "São Gonçalo EC RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13118.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13115",
+                                     "name":  "Sampaio Corrêa RJ",
+                                     "shortName":  "Sampaio Corrêa RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13115.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1609871",
+                    "date":  "2026-08-05",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "13118",
+                                     "name":  "São Gonçalo EC RJ",
+                                     "shortName":  "São Gonçalo EC RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13118.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13115",
+                                     "name":  "Sampaio Corrêa RJ",
+                                     "shortName":  "Sampaio Corrêa RJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/13115.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
