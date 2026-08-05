@@ -1,6 +1,6 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  66,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -44,7 +44,13 @@
                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  57,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Briede",
+                       "detail":  "R. Kravchuk"
+                   }
                ],
     "h2h":  [
                 {
@@ -64,7 +70,7 @@
                                      "shortName":  "Rangers W",
                                      "logo":  "https://media.api-sports.io/football/teams/20374.png"
                                  },
-                    "homeScore":  0,
+                    "homeScore":  1,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 }
