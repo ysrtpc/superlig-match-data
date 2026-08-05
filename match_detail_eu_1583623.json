@@ -1,6 +1,6 @@
 {
-    "elapsed":  31,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -50,6 +50,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "Z. Luvumbo",
                        "detail":  "J. Virgili"
+                   },
+                   {
+                       "minute":  40,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Virgili",
+                       "detail":  "S. Darder"
                    }
                ],
     "h2h":  [
@@ -70,7 +77,7 @@
                                      "shortName":  "Paris Saint Germain",
                                      "logo":  "https://media.api-sports.io/football/teams/85.png"
                                  },
-                    "homeScore":  1,
+                    "homeScore":  2,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 }
