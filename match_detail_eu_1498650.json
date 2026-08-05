@@ -1,5 +1,5 @@
 {
-    "elapsed":  59,
+    "elapsed":  70,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -85,6 +85,48 @@
                        "isHomeTeam":  true,
                        "playerName":  "T. Dornell",
                        "detail":  "J. Orlando"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Montoya",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Macies",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Rocca",
+                       "detail":  "J. Aguirre"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Tolosa",
+                       "detail":  "E. Silcan"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Macies",
+                       "detail":  "E. Martinez"
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Salto",
+                       "detail":  "J. Bustos"
                    }
                ],
     "h2h":  [
