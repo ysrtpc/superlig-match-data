@@ -1,0 +1,169 @@
+{
+    "elapsed":  88,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  20,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Abelenda",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Escobar",
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1570879",
+                    "date":  "2026-12-20",
+                    "time":  "16:00",
+                    "competition":  "Primera División RFEF - Group 1",
+                    "homeTeam":  {
+                                     "id":  "725",
+                                     "name":  "Cultural Leonesa",
+                                     "shortName":  "Cultural Leonesa",
+                                     "logo":  "https://media.api-sports.io/football/teams/725.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "9632",
+                                     "name":  "Real Avilés",
+                                     "shortName":  "Real Avilés",
+                                     "logo":  "https://media.api-sports.io/football/teams/9632.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1604764",
+                    "date":  "2026-08-05",
+                    "time":  "17:30",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "725",
+                                     "name":  "Cultural Leonesa",
+                                     "shortName":  "Cultural Leonesa",
+                                     "logo":  "https://media.api-sports.io/football/teams/725.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "9632",
+                                     "name":  "Real Avilés",
+                                     "shortName":  "Real Avilés",
+                                     "logo":  "https://media.api-sports.io/football/teams/9632.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_778426",
+                    "date":  "2021-08-20",
+                    "time":  "00:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "9632",
+                                     "name":  "Real Avilés",
+                                     "shortName":  "Real Avilés",
+                                     "logo":  "https://media.api-sports.io/football/teams/9632.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "725",
+                                     "name":  "Cultural Leonesa",
+                                     "shortName":  "Cultural Leonesa",
+                                     "logo":  "https://media.api-sports.io/football/teams/725.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  4,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1280578",
+                    "date":  "2024-08-07",
+                    "time":  "17:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "9632",
+                                     "name":  "Real Avilés",
+                                     "shortName":  "Real Avilés",
+                                     "logo":  "https://media.api-sports.io/football/teams/9632.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "725",
+                                     "name":  "Cultural Leonesa",
+                                     "shortName":  "Cultural Leonesa",
+                                     "logo":  "https://media.api-sports.io/football/teams/725.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1571031",
+                    "date":  "2027-04-11",
+                    "time":  "15:00",
+                    "competition":  "Primera División RFEF - Group 1",
+                    "homeTeam":  {
+                                     "id":  "9632",
+                                     "name":  "Real Avilés",
+                                     "shortName":  "Real Avilés",
+                                     "logo":  "https://media.api-sports.io/football/teams/9632.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "725",
+                                     "name":  "Cultural Leonesa",
+                                     "shortName":  "Cultural Leonesa",
+                                     "logo":  "https://media.api-sports.io/football/teams/725.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
