@@ -1,6 +1,6 @@
 {
-    "elapsed":  28,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -44,7 +44,27 @@
                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  32,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "G. Vaca",
+                       "detail":  "J. Goyeneche"
+                   },
+                   {
+                       "minute":  32,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Tumiri",
+                       "detail":  "S. Villarroel"
+                   },
+                   {
+                       "minute":  32,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Diego",
+                       "detail":  ""
+                   }
                ],
     "h2h":  [
                 {
