@@ -1,5 +1,5 @@
 {
-    "elapsed":  63,
+    "elapsed":  74,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -48,6 +48,13 @@
                        "minute":  38,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
                        "playerName":  null,
                        "detail":  ""
                    }
@@ -154,7 +161,7 @@
                                      "shortName":  "Newell\u0027s Old Boys Res.",
                                      "logo":  "https://media.api-sports.io/football/teams/18691.png"
                                  },
-                    "homeScore":  0,
+                    "homeScore":  1,
                     "awayScore":  1,
                     "status":  "NOT_PLAYED"
                 },
