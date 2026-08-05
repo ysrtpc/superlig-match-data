@@ -2,56 +2,56 @@
     "elapsed":  90,
     "status":  "PLAYED",
     "stats":  {
-                  "possessionHome":  75,
-                  "possessionAway":  25,
-                  "shotsHome":  12,
-                  "shotsAway":  4,
-                  "shotsOnTargetHome":  6,
+                  "possessionHome":  72,
+                  "possessionAway":  28,
+                  "shotsHome":  15,
+                  "shotsAway":  5,
+                  "shotsOnTargetHome":  10,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  8,
-                  "foulsAway":  12,
-                  "cornersHome":  5,
-                  "cornersAway":  1,
-                  "offsidesHome":  2,
+                  "foulsHome":  10,
+                  "foulsAway":  19,
+                  "cornersHome":  4,
+                  "cornersAway":  2,
+                  "offsidesHome":  4,
                   "offsidesAway":  0,
-                  "xgHome":  1.8,
-                  "xgAway":  0.4,
-                  "passesHome":  "520",
-                  "passesAway":  "180",
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
                   "savesHome":  1,
-                  "savesAway":  4,
-                  "shotsOffTargetHome":  6,
-                  "shotsOffTargetAway":  3,
-                  "shotsInsideBoxHome":  8,
-                  "shotsInsideBoxAway":  2,
-                  "shotsOutsideBoxHome":  4,
-                  "shotsOutsideBoxAway":  2
+                  "savesAway":  8,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
               },
     "homeLineups":  {
                         "starting11":  [
-                                           "M. GÃ¼nok",
+                                           "M. Günok",
                                            "N. Semedo",
-                                           "M. Å kriniar",
-                                           "N. AkÃ©",
+                                           "M. Škriniar",
+                                           "N. Aké",
                                            "J. Oosterwolde",
-                                           "M. Asensio",
-                                           "N. KantÃ©",
                                            "M. Guendouzi",
+                                           "N. Kanté",
                                            "M. Greenwood",
-                                           "Talisca",
-                                           "K. AktÃ¼rkoÄŸlu"
+                                           "M. Asensio",
+                                           "K. Aktürkoğlu",
+                                           "Talisca"
                                        ],
                         "substitutes":  [
                                             "A. Brown",
                                             "Ederson",
-                                            "Ã‡. SÃ¶yÃ¼ncÃ¼",
+                                            "Ç. Söyüncü",
                                             "Y. Demir",
-                                            "M. MÃ¼ldÃ¼r",
-                                            "Ä°. YÃ¼ksek",
+                                            "M. Müldür",
+                                            "İ. Yüksek",
                                             "Fred",
-                                            "Ä°. Kahveci",
+                                            "İ. Kahveci",
                                             "A. Musaba",
-                                            "O. AydÄ±n",
+                                            "O. Aydın",
                                             "V. Muriqi",
                                             "S. Cherif"
                                         ]
@@ -63,26 +63,26 @@
                                            "A. Vallci",
                                            "J. Mitchell",
                                            "E. Soglo",
-                                           "J. HÃ¶dl",
+                                           "J. Hödl",
                                            "L. Weinhandl",
-                                           "J. StankoviÄ‡",
+                                           "J. Stanković",
                                            "S. Seidl",
-                                           "S. WÅ‚odarczyk",
+                                           "S. Włodarczyk",
                                            "S. Jatta"
                                        ],
                         "substitutes":  [
+                                            "A. Kayombo",
+                                            "G. Mamageishvili",
+                                            "R. Fosso",
+                                            "N. Weiper",
                                             "C. Wiener-Pucher",
                                             "A. Helac",
-                                            "P. PetroviÄ‡",
-                                            "A. MaliÄ‡",
+                                            "P. Petrović",
+                                            "A. Malić",
                                             "L. Balbo",
                                             "P. Koller",
                                             "J. Halwachs",
-                                            "G. Mamageishvili",
-                                            "R. Fosso",
-                                            "A. Kayombo",
-                                            "B. BeganoviÄ‡",
-                                            "N. Weiper"
+                                            "B. Beganović"
                                         ]
                     },
     "events":  [
@@ -97,8 +97,8 @@
                        "minute":  21,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
-                       "playerName":  "J. Gorenc Stankovic",
-                       "detail":  "Yellow Card"
+                       "playerName":  "J. Stankovic",
+                       "detail":  ""
                    },
                    {
                        "minute":  30,
@@ -126,7 +126,7 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "J. Heil",
-                       "detail":  "Yellow Card"
+                       "detail":  ""
                    },
                    {
                        "minute":  64,
@@ -154,7 +154,7 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "A. Kayombo",
-                       "detail":  "Yellow Card"
+                       "detail":  ""
                    },
                    {
                        "minute":  69,
@@ -183,6 +183,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "N. Semedo",
                        "detail":  "M. Muldur"
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Hodl",
+                       "detail":  "B. Beganovic"
                    }
                ]
 }
