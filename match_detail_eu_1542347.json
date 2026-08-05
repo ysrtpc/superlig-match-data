@@ -1,5 +1,5 @@
 {
-    "elapsed":  45,
+    "elapsed":  48,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -66,11 +66,67 @@
                        "detail":  "C. Tzolis"
                    },
                    {
-                       "minute":  44,
+                       "minute":  43,
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "P. Fornals",
                        "detail":  "N. Deossa"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Mosquera",
+                       "detail":  "M. Salmon"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Gyokeres",
+                       "detail":  "G. Jesus"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Nwaneri",
+                       "detail":  "F. Vieira"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Dowman",
+                       "detail":  "R. Nelson"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Tzolis",
+                       "detail":  "G. Martinelli"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Hincapie",
+                       "detail":  "Gabriel"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Fornals",
+                       "detail":  "Isco"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. White",
+                       "detail":  "L. Copley"
                    }
                ],
     "h2h":  [
