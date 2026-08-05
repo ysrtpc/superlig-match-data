@@ -1,60 +1,211 @@
 {
-    "elapsed":  90,
-    "status":  "NOT_PLAYED",
-    "halftimeHomeScore":  null,
-    "halftimeAwayScore":  null,
-    "fulltimeHomeScore":  null,
-    "fulltimeAwayScore":  null,
+    "elapsed":  55,
+    "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  50,
-                  "possessionAway":  50,
-                  "shotsHome":  0,
-                  "shotsAway":  0,
-                  "shotsOnTargetHome":  0,
-                  "shotsOnTargetAway":  0,
-                  "shotsOffTargetHome":  0,
-                  "shotsOffTargetAway":  0,
-                  "shotsInsideBoxHome":  0,
-                  "shotsInsideBoxAway":  0,
-                  "shotsOutsideBoxHome":  0,
-                  "shotsOutsideBoxAway":  0,
-                  "foulsHome":  0,
-                  "foulsAway":  0,
-                  "cornersHome":  0,
+                  "possessionHome":  79,
+                  "possessionAway":  21,
+                  "shotsHome":  6,
+                  "shotsAway":  3,
+                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  6,
+                  "foulsAway":  9,
+                  "cornersHome":  3,
                   "cornersAway":  0,
-                  "offsidesHome":  0,
+                  "offsidesHome":  2,
                   "offsidesAway":  0,
-                  "yellowCardsHome":  0,
-                  "yellowCardsAway":  0,
-                  "redCardsHome":  0,
-                  "redCardsAway":  0,
-                  "savesHome":  0,
-                  "savesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "",
-                  "passesAway":  ""
+                  "passesHome":  "383 (90%)",
+                  "passesAway":  "95 (73%)",
+                  "savesHome":  1,
+                  "savesAway":  1,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  2,
+                  "shotsInsideBoxAway":  1,
+                  "shotsOutsideBoxHome":  4,
+                  "shotsOutsideBoxAway":  2
               },
     "homeLineups":  {
                         "starting11":  [
-
+                                           "M. Günok",
+                                           "N. Semedo",
+                                           "M. Škriniar",
+                                           "N. Aké",
+                                           "J. Oosterwolde",
+                                           "M. Asensio",
+                                           "N. Kanté",
+                                           "M. Guendouzi",
+                                           "M. Greenwood",
+                                           "Talisca",
+                                           "K. Aktürkoğlu"
                                        ],
                         "substitutes":  [
-
+                                            "A. Brown",
+                                            "Ederson",
+                                            "Ç. Söyüncü",
+                                            "Y. Demir",
+                                            "M. Müldür",
+                                            "İ. Yüksek",
+                                            "Fred",
+                                            "İ. Kahveci",
+                                            "A. Musaba",
+                                            "O. Aydın",
+                                            "V. Muriqi",
+                                            "S. Cherif"
                                         ]
                     },
     "awayLineups":  {
                         "starting11":  [
-
+                                           "D. Khudyakov",
+                                           "J. Heil",
+                                           "A. Vallci",
+                                           "J. Mitchell",
+                                           "E. Soglo",
+                                           "J. Hödl",
+                                           "L. Weinhandl",
+                                           "J. Stanković",
+                                           "S. Seidl",
+                                           "S. Włodarczyk",
+                                           "S. Jatta"
                                        ],
                         "substitutes":  [
-
+                                            "C. Wiener-Pucher",
+                                            "A. Helac",
+                                            "P. Petrović",
+                                            "A. Malić",
+                                            "L. Balbo",
+                                            "P. Koller",
+                                            "J. Halwachs",
+                                            "G. Mamageishvili",
+                                            "R. Fosso",
+                                            "A. Kayombo",
+                                            "B. Beganović",
+                                            "N. Weiper"
                                         ]
                     },
     "events":  [
-
+                   {
+                       "minute":  9,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "Talisca",
+                       "detail":  "K. Akturkoglu"
+                   },
+                   {
+                       "minute":  21,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Stankovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  30,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Oosterwolde",
+                       "detail":  "A. Brown"
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Greenwood",
+                       "detail":  "M. Asensio"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Wlodarczyk",
+                       "detail":  "A. Kayombo"
+                   }
                ],
     "h2h":  [
-
+                {
+                    "id":  "h2h_349911",
+                    "date":  "2017-07-27",
+                    "time":  "17:00",
+                    "competition":  "UEFA Europa League",
+                    "homeTeam":  {
+                                     "id":  "637",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz",
+                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "611",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe",
+                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1607174",
+                    "date":  "2026-08-11",
+                    "time":  "18:30",
+                    "competition":  "UEFA Champions League",
+                    "homeTeam":  {
+                                     "id":  "637",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz",
+                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "611",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe",
+                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_349912",
+                    "date":  "2017-08-03",
+                    "time":  "17:30",
+                    "competition":  "UEFA Europa League",
+                    "homeTeam":  {
+                                     "id":  "611",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe",
+                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "637",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz",
+                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1607165",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "UEFA Champions League",
+                    "homeTeam":  {
+                                     "id":  "611",
+                                     "name":  "Fenerbahçe",
+                                     "shortName":  "Fenerbahçe",
+                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "637",
+                                     "name":  "Sturm Graz",
+                                     "shortName":  "Sturm Graz",
+                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                }
             ]
 }
