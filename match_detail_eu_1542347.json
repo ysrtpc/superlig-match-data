@@ -1,5 +1,5 @@
 {
-    "elapsed":  34,
+    "elapsed":  45,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -64,6 +64,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "P. Hincapie",
                        "detail":  "C. Tzolis"
+                   },
+                   {
+                       "minute":  44,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "P. Fornals",
+                       "detail":  "N. Deossa"
                    }
                ],
     "h2h":  [
@@ -85,7 +92,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/543.png"
                                  },
                     "homeScore":  1,
-                    "awayScore":  2,
+                    "awayScore":  3,
                     "status":  "NOT_PLAYED"
                 }
             ]
