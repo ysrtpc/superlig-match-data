@@ -1,5 +1,5 @@
 {
-    "elapsed":  48,
+    "elapsed":  67,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -118,7 +118,7 @@
                        "minute":  46,
                        "type":  "SUBSTITUTION",
                        "isHomeTeam":  false,
-                       "playerName":  "P. Fornals",
+                       "playerName":  "G. Bouare",
                        "detail":  "Isco"
                    },
                    {
@@ -127,6 +127,41 @@
                        "isHomeTeam":  true,
                        "playerName":  "B. White",
                        "detail":  "L. Copley"
+                   },
+                   {
+                       "minute":  56,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Copley",
+                       "detail":  "T. Julienne"
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Salmon",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Arrizabalaga",
+                       "detail":  "I. Meslier"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Lewis-Skelly",
+                       "detail":  "I. Ibrahim"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Calafiori",
+                       "detail":  "J. Ogunnaike"
                    }
                ],
     "h2h":  [
