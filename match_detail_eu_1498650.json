@@ -1,5 +1,5 @@
 {
-    "elapsed":  70,
+    "elapsed":  90,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -127,6 +127,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "C. Salto",
                        "detail":  "J. Bustos"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Gordillo",
+                       "detail":  "J. Aguirre"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Rojas",
+                       "detail":  "J. Capano"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Galetto",
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -190,7 +211,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/1928.png"
                                  },
                     "homeScore":  0,
-                    "awayScore":  1,
+                    "awayScore":  2,
                     "status":  "NOT_PLAYED"
                 },
                 {
