@@ -1,0 +1,78 @@
+{
+    "elapsed":  56,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  21,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Aspas",
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1585037",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "488",
+                                     "name":  "Sassuolo",
+                                     "shortName":  "Sassuolo",
+                                     "logo":  "https://media.api-sports.io/football/teams/488.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "538",
+                                     "name":  "Celta Vigo",
+                                     "shortName":  "Celta Vigo",
+                                     "logo":  "https://media.api-sports.io/football/teams/538.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
