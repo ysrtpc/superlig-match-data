@@ -1,31 +1,31 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  62,
+    "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  68,
-                  "possessionAway":  32,
-                  "shotsHome":  5,
-                  "shotsAway":  10,
-                  "shotsOnTargetHome":  2,
-                  "shotsOnTargetAway":  1,
-                  "foulsHome":  2,
-                  "foulsAway":  6,
-                  "cornersHome":  4,
-                  "cornersAway":  4,
+                  "possessionHome":  66,
+                  "possessionAway":  34,
+                  "shotsHome":  9,
+                  "shotsAway":  13,
+                  "shotsOnTargetHome":  4,
+                  "shotsOnTargetAway":  2,
+                  "foulsHome":  5,
+                  "foulsAway":  8,
+                  "cornersHome":  5,
+                  "cornersAway":  5,
                   "offsidesHome":  2,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "296 (91%)",
-                  "passesAway":  "134 (74%)",
-                  "savesHome":  0,
-                  "savesAway":  1,
+                  "passesHome":  "411 (91%)",
+                  "passesAway":  "198 (74%)",
+                  "savesHome":  1,
+                  "savesAway":  3,
                   "shotsOffTargetHome":  1,
                   "shotsOffTargetAway":  6,
-                  "shotsInsideBoxHome":  2,
-                  "shotsInsideBoxAway":  5,
-                  "shotsOutsideBoxHome":  3,
-                  "shotsOutsideBoxAway":  5
+                  "shotsInsideBoxHome":  4,
+                  "shotsInsideBoxAway":  6,
+                  "shotsOutsideBoxHome":  5,
+                  "shotsOutsideBoxAway":  7
               },
     "homeLineups":  {
                         "starting11":  [
@@ -84,6 +84,20 @@
                        "isHomeTeam":  false,
                        "playerName":  "G. Rusev",
                        "detail":  "H. Cuellar"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Cuellar",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  60,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "F. Pellistri",
+                       "detail":  "V. Taborda"
                    }
                ],
     "h2h":  [
