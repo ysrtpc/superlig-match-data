@@ -1,0 +1,175 @@
+{
+    "elapsed":  45,
+    "status":  "HALF_TIME",
+    "stats":  {
+                  "possessionHome":  68,
+                  "possessionAway":  32,
+                  "shotsHome":  5,
+                  "shotsAway":  10,
+                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetAway":  1,
+                  "foulsHome":  2,
+                  "foulsAway":  6,
+                  "cornersHome":  4,
+                  "cornersAway":  4,
+                  "offsidesHome":  2,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "296 (91%)",
+                  "passesAway":  "134 (74%)",
+                  "savesHome":  0,
+                  "savesAway":  1,
+                  "shotsOffTargetHome":  1,
+                  "shotsOffTargetAway":  6,
+                  "shotsInsideBoxHome":  2,
+                  "shotsInsideBoxAway":  5,
+                  "shotsOutsideBoxHome":  3,
+                  "shotsOutsideBoxAway":  5
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "I. Peña",
+                                           "T. Tsapras",
+                                           "S. Vrij",
+                                           "R. Drongelen",
+                                           "G. Kyriakopoulos",
+                                           "A. Jagušić",
+                                           "P. Chirivella",
+                                           "E. Camara",
+                                           "F. Pellistri",
+                                           "E. Rastoder",
+                                           "S. Andino"
+                                       ],
+                        "substitutes":  [
+                                            "L. Cháves",
+                                            "K. Kotsaris",
+                                            "G. Katris",
+                                            "A. Touba",
+                                            "A. Zaroury",
+                                            "A. Čerin",
+                                            "S. Kontouris",
+                                            "P. Biniaris",
+                                            "V. Taborda",
+                                            "G. Kyriopoulos"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "P. Marinov",
+                                           "D. Medina",
+                                           "A. Hoffmann",
+                                           "L. Dvali",
+                                           "O. Gašević",
+                                           "F. Maciel",
+                                           "H. Cuellar",
+                                           "M. Zemzemi",
+                                           "G. Rusev",
+                                           "J. Meyer",
+                                           "A. Iliev"
+                                       ],
+                        "substitutes":  null
+                    },
+    "events":  [
+                   {
+                       "minute":  21,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Jagusic",
+                       "detail":  "S. Andino"
+                   },
+                   {
+                       "minute":  31,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Rusev",
+                       "detail":  "H. Cuellar"
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1036730",
+                    "date":  "2023-07-05",
+                    "time":  "16:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "1426",
+                                     "name":  "CSKA 1948",
+                                     "shortName":  "CSKA 1948",
+                                     "logo":  "https://media.api-sports.io/football/teams/1426.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "617",
+                                     "name":  "Panathinaikos",
+                                     "shortName":  "Panathinaikos",
+                                     "logo":  "https://media.api-sports.io/football/teams/617.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1607603",
+                    "date":  "2026-08-11",
+                    "time":  "17:30",
+                    "competition":  "UEFA Europa Conference League",
+                    "homeTeam":  {
+                                     "id":  "1426",
+                                     "name":  "CSKA 1948",
+                                     "shortName":  "CSKA 1948",
+                                     "logo":  "https://media.api-sports.io/football/teams/1426.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "617",
+                                     "name":  "Panathinaikos",
+                                     "shortName":  "Panathinaikos",
+                                     "logo":  "https://media.api-sports.io/football/teams/617.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1045713",
+                    "date":  "2023-07-05",
+                    "time":  "16:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "617",
+                                     "name":  "Panathinaikos",
+                                     "shortName":  "Panathinaikos",
+                                     "logo":  "https://media.api-sports.io/football/teams/617.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1426",
+                                     "name":  "CSKA 1948",
+                                     "shortName":  "CSKA 1948",
+                                     "logo":  "https://media.api-sports.io/football/teams/1426.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1607592",
+                    "date":  "2026-08-05",
+                    "time":  "18:30",
+                    "competition":  "UEFA Europa Conference League",
+                    "homeTeam":  {
+                                     "id":  "617",
+                                     "name":  "Panathinaikos",
+                                     "shortName":  "Panathinaikos",
+                                     "logo":  "https://media.api-sports.io/football/teams/617.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1426",
+                                     "name":  "CSKA 1948",
+                                     "shortName":  "CSKA 1948",
+                                     "logo":  "https://media.api-sports.io/football/teams/1426.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
