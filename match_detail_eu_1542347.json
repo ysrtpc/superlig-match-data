@@ -1,0 +1,92 @@
+{
+    "elapsed":  34,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  9,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "R. Riquelme",
+                       "detail":  "P. Fornals"
+                   },
+                   {
+                       "minute":  26,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "N. Deossa",
+                       "detail":  "P. Fornals"
+                   },
+                   {
+                       "minute":  32,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "P. Hincapie",
+                       "detail":  "C. Tzolis"
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1542347",
+                    "date":  "2026-08-05",
+                    "time":  "18:45",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "42",
+                                     "name":  "Arsenal",
+                                     "shortName":  "Arsenal",
+                                     "logo":  "https://media.api-sports.io/football/teams/42.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "543",
+                                     "name":  "Real Betis",
+                                     "shortName":  "Real Betis",
+                                     "logo":  "https://media.api-sports.io/football/teams/543.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
