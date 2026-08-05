@@ -1,5 +1,5 @@
 {
-    "elapsed":  71,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -136,6 +136,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "D. Utkin",
                        "detail":  "D. Vorobyev"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Lenini",
+                       "detail":  "D. Augusto"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Tormena",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Ozdoev",
+                       "detail":  "A. Chernikov"
                    }
                ],
     "h2h":  [
