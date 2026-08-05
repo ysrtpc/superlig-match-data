@@ -1,0 +1,232 @@
+{
+    "elapsed":  59,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  26,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  51,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_861255",
+                    "date":  "2022-05-05",
+                    "time":  "14:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "homeScore":  4,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1353786",
+                    "date":  "2025-08-07",
+                    "time":  "18:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1512202",
+                    "date":  "2026-02-16",
+                    "time":  "20:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_865576",
+                    "date":  "2022-08-12",
+                    "time":  "14:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_996876",
+                    "date":  "2023-04-10",
+                    "time":  "14:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1347526",
+                    "date":  "2025-03-12",
+                    "time":  "20:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1486332",
+                    "date":  "2025-11-18",
+                    "time":  "23:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1576864",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18701",
+                                     "name":  "Unión Santa Fe Res.",
+                                     "shortName":  "Unión Santa Fe Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18701.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18677",
+                                     "name":  "Argentinos Juniors Res.",
+                                     "shortName":  "Argentinos Juniors Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18677.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
