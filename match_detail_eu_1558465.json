@@ -1,5 +1,5 @@
 {
-    "elapsed":  66,
+    "elapsed":  85,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -50,6 +50,48 @@
                        "isHomeTeam":  true,
                        "playerName":  "I. Briede",
                        "detail":  "R. Kravchuk"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Smith",
+                       "detail":  "B. Collins"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Blake",
+                       "detail":  "E. Hendle"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Dubcova",
+                       "detail":  "K. Svitkova"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Kravchuk",
+                       "detail":  "J. Zufankova"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "T. Krejcirikova",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "N. Docherty",
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -71,7 +113,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/20374.png"
                                  },
                     "homeScore":  1,
-                    "awayScore":  0,
+                    "awayScore":  1,
                     "status":  "NOT_PLAYED"
                 }
             ]
