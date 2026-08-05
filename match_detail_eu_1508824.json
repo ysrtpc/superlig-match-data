@@ -1,0 +1,323 @@
+{
+    "elapsed":  61,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  23,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Ragnarsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  27,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Magnusson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  32,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Valsson",
+                       "detail":  "A. Johannesson"
+                   },
+                   {
+                       "minute":  36,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Ljubicic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  45,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Petursson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Pedersen",
+                       "detail":  "M. Thordarson"
+                   },
+                   {
+                       "minute":  50,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Brigic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  53,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Magnusson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  55,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Romer",
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_25567",
+                    "date":  "2018-05-22",
+                    "time":  "19:15",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_71293",
+                    "date":  "2016-06-04",
+                    "time":  "14:00",
+                    "competition":  "1. Deild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_312818",
+                    "date":  "2020-02-29",
+                    "time":  "15:00",
+                    "competition":  "League Cup",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_676286",
+                    "date":  "2021-08-03",
+                    "time":  "18:00",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_839736",
+                    "date":  "2022-05-02",
+                    "time":  "18:00",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  3,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_981471",
+                    "date":  "2023-04-23",
+                    "time":  "16:00",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1126634",
+                    "date":  "2023-09-20",
+                    "time":  "16:15",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  4,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1508742",
+                    "date":  "2026-04-26",
+                    "time":  "18:00",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_25607",
+                    "date":  "2018-08-12",
+                    "time":  "18:00",
+                    "competition":  "Úrvalsdeild",
+                    "homeTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_71224",
+                    "date":  "2016-08-16",
+                    "time":  "18:30",
+                    "competition":  "1. Deild",
+                    "homeTeam":  {
+                                     "id":  "269",
+                                     "name":  "Keflavik",
+                                     "shortName":  "Keflavik",
+                                     "logo":  "https://media.api-sports.io/football/teams/269.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "272",
+                                     "name":  "KA Akureyri",
+                                     "shortName":  "KA Akureyri",
+                                     "logo":  "https://media.api-sports.io/football/teams/272.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                }
+            ]
+}
