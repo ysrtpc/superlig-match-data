@@ -1,5 +1,5 @@
 {
-    "elapsed":  64,
+    "elapsed":  75,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -99,6 +99,13 @@
                        "isHomeTeam":  true,
                        "playerName":  "I. Dekker",
                        "detail":  "S. Janssen"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Conijnenberg",
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -119,7 +126,7 @@
                                      "shortName":  "TSC W",
                                      "logo":  "https://media.api-sports.io/football/teams/27879.png"
                                  },
-                    "homeScore":  2,
+                    "homeScore":  3,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 }
