@@ -1,28 +1,28 @@
 {
-    "elapsed":  55,
+    "elapsed":  65,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  79,
-                  "possessionAway":  21,
-                  "shotsHome":  6,
+                  "possessionHome":  76,
+                  "possessionAway":  24,
+                  "shotsHome":  8,
                   "shotsAway":  3,
-                  "shotsOnTargetHome":  3,
+                  "shotsOnTargetHome":  5,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  6,
-                  "foulsAway":  9,
+                  "foulsAway":  11,
                   "cornersHome":  3,
-                  "cornersAway":  0,
-                  "offsidesHome":  2,
+                  "cornersAway":  1,
+                  "offsidesHome":  3,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "383 (90%)",
-                  "passesAway":  "95 (73%)",
+                  "passesHome":  "453 (90%)",
+                  "passesAway":  "138 (75%)",
                   "savesHome":  1,
-                  "savesAway":  1,
+                  "savesAway":  4,
                   "shotsOffTargetHome":  0,
                   "shotsOffTargetAway":  0,
-                  "shotsInsideBoxHome":  2,
+                  "shotsInsideBoxHome":  4,
                   "shotsInsideBoxAway":  1,
                   "shotsOutsideBoxHome":  4,
                   "shotsOutsideBoxAway":  2
@@ -120,6 +120,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "S. Wlodarczyk",
                        "detail":  "A. Kayombo"
+                   },
+                   {
+                       "minute":  58,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Heil",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Seidl",
+                       "detail":  "G. Mamageishvili"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "L. Weinhandl",
+                       "detail":  "R. Fosso"
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Jatta",
+                       "detail":  "N. Weiper"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Kayombo",
+                       "detail":  ""
                    }
                ],
     "h2h":  [
