@@ -1,5 +1,5 @@
 {
-    "elapsed":  72,
+    "elapsed":  90,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -141,6 +141,62 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Palsson",
                        "detail":  "S. Kroon"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Baxter",
+                       "detail":  "E. Bjarnason"
+                   },
+                   {
+                       "minute":  77,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Valsson",
+                       "detail":  "M. Mudrazija"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Romer",
+                       "detail":  "S. Kristinsson"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "J. Robertsson",
+                       "detail":  "D. Djuric"
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Conteh",
+                       "detail":  "B. Gudlaugsson"
+                   },
+                   {
+                       "minute":  84,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Thordarson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  89,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Ljubicic",
+                       "detail":  "A. Adalbjorssnos"
+                   },
+                   {
+                       "minute":  89,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "S. Magnusson",
+                       "detail":  "V. Traustason"
                    }
                ],
     "h2h":  [
