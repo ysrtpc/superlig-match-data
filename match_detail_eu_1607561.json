@@ -1,0 +1,138 @@
+{
+    "elapsed":  47,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  0,
+                  "possessionAway":  0,
+                  "shotsHome":  7,
+                  "shotsAway":  4,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  7,
+                  "foulsAway":  5,
+                  "cornersHome":  1,
+                  "cornersAway":  2,
+                  "offsidesHome":  1,
+                  "offsidesAway":  1,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "0",
+                  "passesAway":  "0",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  3,
+                  "shotsOffTargetAway":  2,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "D. Dibusz",
+                                           "Cadu",
+                                           "M. Gómez",
+                                           "T. Raemaekers",
+                                           "A. Osváth",
+                                           "M. Corbu",
+                                           "G. Kanichowsky",
+                                           "J. Levi",
+                                           "K. Zachariassen",
+                                           "L. Joseph",
+                                           "Y. Bamidele"
+                                       ],
+                        "substitutes":  [
+                                            "Á. Varga",
+                                            "N. Zohoré",
+                                            "O. Nagy",
+                                            "Á. Nagy",
+                                            "D. Arzani",
+                                            "Á. Bagi",
+                                            "A. Ćirković",
+                                            "C. O\u0027Dowda",
+                                            "E. Sevikyan",
+                                            "K. Kodro",
+                                            "Z. Gruber",
+                                            "Z. Varga"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "P. Schulze",
+                                           "M. Sáček",
+                                           "R. Janicki",
+                                           "Josema",
+                                           "E. Janža",
+                                           "L. Sadílek",
+                                           "M. Dietz",
+                                           "K. Urbański",
+                                           "Y. Dimi",
+                                           "E. Prekop",
+                                           "T. Ismaheel"
+                                       ],
+                        "substitutes":  [
+                                            "W. Kania",
+                                            "P. Warczak",
+                                            "P. Bochniewicz",
+                                            "O. Zmrzlý",
+                                            "P. González",
+                                            "B. Donio",
+                                            "M. Khlan",
+                                            "M. Rakoczy",
+                                            "S. Liseth"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  10,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "Josema",
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1607569",
+                    "date":  "2026-08-13",
+                    "time":  "17:00",
+                    "competition":  "UEFA Europa League",
+                    "homeTeam":  {
+                                     "id":  "340",
+                                     "name":  "Gornik Zabrze",
+                                     "shortName":  "Gornik Zabrze",
+                                     "logo":  "https://media.api-sports.io/football/teams/340.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "651",
+                                     "name":  "Ferencvarosi TC",
+                                     "shortName":  "Ferencvarosi TC",
+                                     "logo":  "https://media.api-sports.io/football/teams/651.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1607561",
+                    "date":  "2026-08-05",
+                    "time":  "18:15",
+                    "competition":  "UEFA Europa League",
+                    "homeTeam":  {
+                                     "id":  "651",
+                                     "name":  "Ferencvarosi TC",
+                                     "shortName":  "Ferencvarosi TC",
+                                     "logo":  "https://media.api-sports.io/football/teams/651.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "340",
+                                     "name":  "Gornik Zabrze",
+                                     "shortName":  "Gornik Zabrze",
+                                     "logo":  "https://media.api-sports.io/football/teams/340.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
