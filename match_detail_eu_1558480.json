@@ -1,0 +1,127 @@
+{
+    "elapsed":  64,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  33,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Conijnenberg",
+                       "detail":  "S. Gielen"
+                   },
+                   {
+                       "minute":  35,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "T. Popovic",
+                       "detail":  "M. Maljkovic"
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Bosteels",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  49,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Marjanovic",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "S. Becic",
+                       "detail":  "N. Uvalin"
+                   },
+                   {
+                       "minute":  59,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "M. Ninkovic",
+                       "detail":  "T. Kocic"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Kuijpers",
+                       "detail":  "I. Papatheodorou"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Dekker",
+                       "detail":  "S. Janssen"
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1558480",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "UEFA Champions League Women",
+                    "homeTeam":  {
+                                     "id":  "1790",
+                                     "name":  "OH Leuven W",
+                                     "shortName":  "OH Leuven W",
+                                     "logo":  "https://media.api-sports.io/football/teams/1790.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "27879",
+                                     "name":  "TSC W",
+                                     "shortName":  "TSC W",
+                                     "logo":  "https://media.api-sports.io/football/teams/27879.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
