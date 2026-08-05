@@ -1,0 +1,127 @@
+{
+    "elapsed":  63,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  34,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1576861",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "26250",
+                                     "name":  "Ferro 2",
+                                     "shortName":  "Ferro 2",
+                                     "logo":  "https://media.api-sports.io/football/teams/26250.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "22937",
+                                     "name":  "Deportivo Riestra Res.",
+                                     "shortName":  "Deportivo Riestra Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/22937.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1353794",
+                    "date":  "2025-08-07",
+                    "time":  "18:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "22937",
+                                     "name":  "Deportivo Riestra Res.",
+                                     "shortName":  "Deportivo Riestra Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/22937.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "26250",
+                                     "name":  "Ferro 2",
+                                     "shortName":  "Ferro 2",
+                                     "logo":  "https://media.api-sports.io/football/teams/26250.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1512206",
+                    "date":  "2026-02-17",
+                    "time":  "20:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "22937",
+                                     "name":  "Deportivo Riestra Res.",
+                                     "shortName":  "Deportivo Riestra Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/22937.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "26250",
+                                     "name":  "Ferro 2",
+                                     "shortName":  "Ferro 2",
+                                     "logo":  "https://media.api-sports.io/football/teams/26250.png"
+                                 },
+                    "homeScore":  4,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                }
+            ]
+}
