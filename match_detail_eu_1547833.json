@@ -1,5 +1,5 @@
 {
-    "elapsed":  88,
+    "elapsed":  98,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -56,6 +56,13 @@
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  "K. Sabillo",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  93,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Adamski",
                        "detail":  ""
                    }
                ],
@@ -120,7 +127,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/16255.png"
                                  },
                     "homeScore":  1,
-                    "awayScore":  1,
+                    "awayScore":  2,
                     "status":  "NOT_PLAYED"
                 }
             ]
