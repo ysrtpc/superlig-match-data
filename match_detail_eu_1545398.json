@@ -1,0 +1,240 @@
+{
+    "elapsed":  17,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1145587",
+                    "date":  "2023-12-10",
+                    "time":  "19:00",
+                    "competition":  "Nacional B",
+                    "homeTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1199336",
+                    "date":  "2024-05-27",
+                    "time":  "22:00",
+                    "competition":  "Primera División",
+                    "homeTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1369331",
+                    "date":  "2025-04-29",
+                    "time":  "19:00",
+                    "competition":  "Copa de la División Profesional",
+                    "homeTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1482753",
+                    "date":  "2025-12-02",
+                    "time":  "21:30",
+                    "competition":  "Primera División",
+                    "homeTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  5,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1545398",
+                    "date":  "2026-08-05",
+                    "time":  "19:00",
+                    "competition":  "Primera División",
+                    "homeTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1145586",
+                    "date":  "2023-12-06",
+                    "time":  "19:00",
+                    "competition":  "Nacional B",
+                    "homeTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1297930",
+                    "date":  "2024-10-22",
+                    "time":  "19:00",
+                    "competition":  "Primera División",
+                    "homeTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "homeScore":  3,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1378257",
+                    "date":  "2025-06-28",
+                    "time":  "19:00",
+                    "competition":  "Primera División",
+                    "homeTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1405668",
+                    "date":  "2025-07-27",
+                    "time":  "19:00",
+                    "competition":  "Copa de la División Profesional",
+                    "homeTeam":  {
+                                     "id":  "17760",
+                                     "name":  "San Antonio Bulo Bulo",
+                                     "shortName":  "San Antonio Bulo Bulo",
+                                     "logo":  "https://media.api-sports.io/football/teams/17760.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "22266",
+                                     "name":  "Gualberto Villarroel SJ",
+                                     "shortName":  "Gualberto Villarroel SJ",
+                                     "logo":  "https://media.api-sports.io/football/teams/22266.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                }
+            ]
+}
