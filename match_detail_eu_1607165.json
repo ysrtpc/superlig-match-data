@@ -1,98 +1,84 @@
-﻿{
-    "elapsed":  90,
-    "status":  "PLAYED",
-    "stats":  {
-                  "possessionHome":  72,
-                  "possessionAway":  28,
-                  "shotsHome":  15,
-                  "shotsAway":  5,
-                  "shotsOnTargetHome":  10,
-                  "shotsOnTargetAway":  1,
-                  "foulsHome":  10,
-                  "foulsAway":  19,
-                  "cornersHome":  4,
-                  "cornersAway":  2,
-                  "offsidesHome":  4,
-                  "offsidesAway":  0,
-                  "xgHome":  0,
-                  "xgAway":  0,
-                  "passesHome":  "",
-                  "passesAway":  "",
-                  "savesHome":  1,
-                  "savesAway":  8,
-                  "shotsOffTargetHome":  0,
-                  "shotsOffTargetAway":  0,
-                  "shotsInsideBoxHome":  0,
-                  "shotsInsideBoxAway":  0,
-                  "shotsOutsideBoxHome":  0,
-                  "shotsOutsideBoxAway":  0
-              },
+{
+    "fixture":  null,
+    "events":  null,
+    "stats":  null,
     "homeLineups":  {
                         "starting11":  [
                                            {
                                                "id":  49837,
                                                "name":  "M. Günok",
                                                "number":  34,
+                                               "rating":  "6.9",
                                                "photo":  "https://media.api-sports.io/football/players/49837.png"
                                            },
                                            {
                                                "id":  130,
                                                "name":  "N. Semedo",
                                                "number":  27,
+                                               "rating":  "7",
                                                "photo":  "https://media.api-sports.io/football/players/130.png"
                                            },
                                            {
                                                "id":  198,
                                                "name":  "M. Škriniar",
                                                "number":  37,
+                                               "rating":  "9",
                                                "photo":  "https://media.api-sports.io/football/players/198.png"
                                            },
                                            {
                                                "id":  18861,
                                                "name":  "N. Aké",
                                                "number":  15,
+                                               "rating":  "7.2",
                                                "photo":  "https://media.api-sports.io/football/players/18861.png"
                                            },
                                            {
                                                "id":  272721,
                                                "name":  "J. Oosterwolde",
                                                "number":  24,
+                                               "rating":  "6.9",
                                                "photo":  "https://media.api-sports.io/football/players/272721.png"
                                            },
                                            {
                                                "id":  1454,
                                                "name":  "M. Guendouzi",
                                                "number":  6,
+                                               "rating":  "7.9",
                                                "photo":  "https://media.api-sports.io/football/players/1454.png"
                                            },
                                            {
                                                "id":  2290,
                                                "name":  "N. Kanté",
                                                "number":  91,
+                                               "rating":  "7.3",
                                                "photo":  "https://media.api-sports.io/football/players/2290.png"
                                            },
                                            {
                                                "id":  897,
                                                "name":  "M. Greenwood",
                                                "number":  11,
+                                               "rating":  "7.7",
                                                "photo":  "https://media.api-sports.io/football/players/897.png"
                                            },
                                            {
                                                "id":  746,
                                                "name":  "M. Asensio",
                                                "number":  10,
+                                               "rating":  "7.7",
                                                "photo":  "https://media.api-sports.io/football/players/746.png"
                                            },
                                            {
                                                "id":  142959,
                                                "name":  "K. Aktürkoğlu",
                                                "number":  9,
+                                               "rating":  "7.2",
                                                "photo":  "https://media.api-sports.io/football/players/142959.png"
                                            },
                                            {
                                                "id":  12724,
                                                "name":  "Talisca",
                                                "number":  94,
+                                               "rating":  "7",
                                                "photo":  "https://media.api-sports.io/football/players/12724.png"
                                            }
                                        ],
@@ -101,72 +87,84 @@
                                                 "id":  161661,
                                                 "name":  "A. Brown",
                                                 "number":  3,
+                                                "rating":  "7.3",
                                                 "photo":  "https://media.api-sports.io/football/players/161661.png"
                                             },
                                             {
                                                 "id":  617,
                                                 "name":  "Ederson",
                                                 "number":  31,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/617.png"
                                             },
                                             {
                                                 "id":  18776,
                                                 "name":  "Ç. Söyüncü",
                                                 "number":  4,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/18776.png"
                                             },
                                             {
                                                 "id":  364594,
                                                 "name":  "Y. Demir",
                                                 "number":  14,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/364594.png"
                                             },
                                             {
                                                 "id":  1719,
                                                 "name":  "M. Müldür",
                                                 "number":  18,
+                                                "rating":  "6.6",
                                                 "photo":  "https://media.api-sports.io/football/players/1719.png"
                                             },
                                             {
                                                 "id":  214463,
                                                 "name":  "İ. Yüksek",
                                                 "number":  5,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/214463.png"
                                             },
                                             {
                                                 "id":  905,
                                                 "name":  "Fred",
                                                 "number":  7,
+                                                "rating":  "6.9",
                                                 "photo":  "https://media.api-sports.io/football/players/905.png"
                                             },
                                             {
                                                 "id":  49857,
                                                 "name":  "İ. Kahveci",
                                                 "number":  17,
+                                                "rating":  "6.6",
                                                 "photo":  "https://media.api-sports.io/football/players/49857.png"
                                             },
                                             {
                                                 "id":  37380,
                                                 "name":  "A. Musaba",
                                                 "number":  20,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/37380.png"
                                             },
                                             {
                                                 "id":  134590,
                                                 "name":  "O. Aydın",
                                                 "number":  70,
+                                                "rating":  "6.9",
                                                 "photo":  "https://media.api-sports.io/football/players/134590.png"
                                             },
                                             {
                                                 "id":  50048,
                                                 "name":  "V. Muriqi",
                                                 "number":  19,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/50048.png"
                                             },
                                             {
                                                 "id":  421875,
                                                 "name":  "S. Cherif",
                                                 "number":  26,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/421875.png"
                                             }
                                         ]
@@ -177,66 +175,77 @@
                                                "id":  281989,
                                                "name":  "D. Khudyakov",
                                                "number":  53,
+                                               "rating":  "7.9",
                                                "photo":  "https://media.api-sports.io/football/players/281989.png"
                                            },
                                            {
                                                "id":  7757,
                                                "name":  "J. Heil",
                                                "number":  28,
+                                               "rating":  "6.3",
                                                "photo":  "https://media.api-sports.io/football/players/7757.png"
                                            },
                                            {
                                                "id":  1088,
                                                "name":  "A. Vallci",
                                                "number":  5,
+                                               "rating":  "6.2",
                                                "photo":  "https://media.api-sports.io/football/players/1088.png"
                                            },
                                            {
                                                "id":  297583,
                                                "name":  "J. Mitchell",
                                                "number":  2,
+                                               "rating":  "6.9",
                                                "photo":  "https://media.api-sports.io/football/players/297583.png"
                                            },
                                            {
                                                "id":  343211,
                                                "name":  "E. Soglo",
                                                "number":  18,
+                                               "rating":  "6.5",
                                                "photo":  "https://media.api-sports.io/football/players/343211.png"
                                            },
                                            {
                                                "id":  451425,
                                                "name":  "J. Hödl",
                                                "number":  43,
+                                               "rating":  "5.9",
                                                "photo":  "https://media.api-sports.io/football/players/451425.png"
                                            },
                                            {
                                                "id":  461977,
                                                "name":  "L. Weinhandl",
                                                "number":  39,
+                                               "rating":  "6.3",
                                                "photo":  "https://media.api-sports.io/football/players/461977.png"
                                            },
                                            {
                                                "id":  19041,
                                                "name":  "J. Stanković",
                                                "number":  4,
+                                               "rating":  "7.2",
                                                "photo":  "https://media.api-sports.io/football/players/19041.png"
                                            },
                                            {
                                                "id":  176023,
                                                "name":  "S. Seidl",
                                                "number":  19,
+                                               "rating":  "6.2",
                                                "photo":  "https://media.api-sports.io/football/players/176023.png"
                                            },
                                            {
                                                "id":  158614,
                                                "name":  "S. Włodarczyk",
                                                "number":  17,
+                                               "rating":  "6.3",
                                                "photo":  "https://media.api-sports.io/football/players/158614.png"
                                            },
                                            {
                                                "id":  216761,
                                                "name":  "S. Jatta",
                                                "number":  20,
+                                               "rating":  "5.9",
                                                "photo":  "https://media.api-sports.io/football/players/216761.png"
                                            }
                                        ],
@@ -245,181 +254,86 @@
                                                 "id":  427260,
                                                 "name":  "A. Kayombo",
                                                 "number":  11,
+                                                "rating":  "5.6",
                                                 "photo":  "https://media.api-sports.io/football/players/427260.png"
                                             },
                                             {
                                                 "id":  273295,
                                                 "name":  "G. Mamageishvili",
                                                 "number":  15,
+                                                "rating":  "7.3",
                                                 "photo":  "https://media.api-sports.io/football/players/273295.png"
                                             },
                                             {
                                                 "id":  335069,
                                                 "name":  "R. Fosso",
                                                 "number":  80,
+                                                "rating":  "6.7",
                                                 "photo":  "https://media.api-sports.io/football/players/335069.png"
                                             },
                                             {
                                                 "id":  342177,
                                                 "name":  "N. Weiper",
                                                 "number":  44,
+                                                "rating":  "6.7",
                                                 "photo":  "https://media.api-sports.io/football/players/342177.png"
                                             },
                                             {
                                                 "id":  409607,
                                                 "name":  "C. Wiener-Pucher",
                                                 "number":  32,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/409607.png"
                                             },
                                             {
                                                 "id":  7169,
                                                 "name":  "A. Helac",
                                                 "number":  22,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/7169.png"
                                             },
                                             {
                                                 "id":  443800,
                                                 "name":  "P. Petrović",
                                                 "number":  21,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/443800.png"
                                             },
                                             {
                                                 "id":  409670,
                                                 "name":  "A. Malić",
                                                 "number":  23,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/409670.png"
                                             },
                                             {
                                                 "id":  575285,
                                                 "name":  "L. Balbo",
                                                 "number":  27,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/575285.png"
                                             },
                                             {
                                                 "id":  7701,
                                                 "name":  "P. Koller",
                                                 "number":  30,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/7701.png"
                                             },
                                             {
                                                 "id":  322987,
                                                 "name":  "J. Halwachs",
                                                 "number":  40,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/322987.png"
                                             },
                                             {
                                                 "id":  357424,
                                                 "name":  "B. Beganović",
                                                 "number":  26,
+                                                "rating":  "",
                                                 "photo":  "https://media.api-sports.io/football/players/357424.png"
                                             }
                                         ]
-                    },
-    "events":  [
-                   {
-                       "minute":  9,
-                       "type":  "GOAL",
-                       "isHomeTeam":  true,
-                       "playerName":  "Talisca",
-                       "detail":  "K. Akturkoglu"
-                   },
-                   {
-                       "minute":  21,
-                       "type":  "YELLOW_CARD",
-                       "isHomeTeam":  false,
-                       "playerName":  "J. Stankovic",
-                       "detail":  ""
-                   },
-                   {
-                       "minute":  30,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  true,
-                       "playerName":  "J. Oosterwolde",
-                       "detail":  "A. Brown"
-                   },
-                   {
-                       "minute":  45,
-                       "type":  "GOAL",
-                       "isHomeTeam":  true,
-                       "playerName":  "M. Greenwood",
-                       "detail":  "M. Asensio"
-                   },
-                   {
-                       "minute":  46,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  false,
-                       "playerName":  "S. Wlodarczyk",
-                       "detail":  "A. Kayombo"
-                   },
-                   {
-                       "minute":  58,
-                       "type":  "YELLOW_CARD",
-                       "isHomeTeam":  false,
-                       "playerName":  "J. Heil",
-                       "detail":  ""
-                   },
-                   {
-                       "minute":  64,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  false,
-                       "playerName":  "S. Seidl",
-                       "detail":  "G. Mamageishvili"
-                   },
-                   {
-                       "minute":  64,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  false,
-                       "playerName":  "L. Weinhandl",
-                       "detail":  "R. Fosso"
-                   },
-                   {
-                       "minute":  64,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  false,
-                       "playerName":  "S. Jatta",
-                       "detail":  "N. Weiper"
-                   },
-                   {
-                       "minute":  65,
-                       "type":  "YELLOW_CARD",
-                       "isHomeTeam":  false,
-                       "playerName":  "A. Kayombo",
-                       "detail":  ""
-                   },
-                   {
-                       "minute":  69,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  true,
-                       "playerName":  "M. Greenwood",
-                       "detail":  "Fred"
-                   },
-                   {
-                       "minute":  69,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  true,
-                       "playerName":  "M. Asensio",
-                       "detail":  "I. Kahveci"
-                   },
-                   {
-                       "minute":  85,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  true,
-                       "playerName":  "K. Akturkoglu",
-                       "detail":  "O. Aydin"
-                   },
-                   {
-                       "minute":  85,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  true,
-                       "playerName":  "N. Semedo",
-                       "detail":  "M. Muldur"
-                   },
-                   {
-                       "minute":  87,
-                       "type":  "SUBSTITUTION",
-                       "isHomeTeam":  false,
-                       "playerName":  "J. Hodl",
-                       "detail":  "B. Beganovic"
-                   }
-               ]
+                    }
 }
