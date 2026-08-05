@@ -1,6 +1,6 @@
 {
-    "elapsed":  30,
-    "status":  "LIVE",
+    "elapsed":  45,
+    "status":  "HALF_TIME",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -44,7 +44,13 @@
                                        ]
                     },
     "events":  [
-
+                   {
+                       "minute":  41,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "G. Konst",
+                       "detail":  ""
+                   }
                ],
     "h2h":  [
                 {
