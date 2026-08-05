@@ -1,57 +1,57 @@
 {
-    "elapsed":  86,
-    "status":  "LIVE",
+    "elapsed":  90,
+    "status":  "PLAYED",
     "stats":  {
-                  "possessionHome":  73,
-                  "possessionAway":  27,
-                  "shotsHome":  14,
-                  "shotsAway":  5,
-                  "shotsOnTargetHome":  9,
+                  "possessionHome":  75,
+                  "possessionAway":  25,
+                  "shotsHome":  12,
+                  "shotsAway":  4,
+                  "shotsOnTargetHome":  6,
                   "shotsOnTargetAway":  1,
                   "foulsHome":  8,
-                  "foulsAway":  16,
-                  "cornersHome":  4,
-                  "cornersAway":  2,
-                  "offsidesHome":  4,
+                  "foulsAway":  12,
+                  "cornersHome":  5,
+                  "cornersAway":  1,
+                  "offsidesHome":  2,
                   "offsidesAway":  0,
-                  "xgHome":  0,
-                  "xgAway":  0,
-                  "passesHome":  "552 (90%)",
-                  "passesAway":  "195 (73%)",
+                  "xgHome":  1.8,
+                  "xgAway":  0.4,
+                  "passesHome":  "520",
+                  "passesAway":  "180",
                   "savesHome":  1,
-                  "savesAway":  7,
-                  "shotsOffTargetHome":  2,
-                  "shotsOffTargetAway":  1,
-                  "shotsInsideBoxHome":  9,
-                  "shotsInsideBoxAway":  3,
-                  "shotsOutsideBoxHome":  5,
+                  "savesAway":  4,
+                  "shotsOffTargetHome":  6,
+                  "shotsOffTargetAway":  3,
+                  "shotsInsideBoxHome":  8,
+                  "shotsInsideBoxAway":  2,
+                  "shotsOutsideBoxHome":  4,
                   "shotsOutsideBoxAway":  2
               },
     "homeLineups":  {
                         "starting11":  [
-                                           "M. Günok",
+                                           "M. GÃ¼nok",
                                            "N. Semedo",
-                                           "M. Škriniar",
-                                           "N. Aké",
+                                           "M. Å kriniar",
+                                           "N. AkÃ©",
                                            "J. Oosterwolde",
-                                           "M. Guendouzi",
-                                           "N. Kanté",
-                                           "M. Greenwood",
                                            "M. Asensio",
-                                           "K. Aktürkoğlu",
-                                           "Talisca"
+                                           "N. KantÃ©",
+                                           "M. Guendouzi",
+                                           "M. Greenwood",
+                                           "Talisca",
+                                           "K. AktÃ¼rkoÄŸlu"
                                        ],
                         "substitutes":  [
                                             "A. Brown",
                                             "Ederson",
-                                            "Ç. Söyüncü",
+                                            "Ã‡. SÃ¶yÃ¼ncÃ¼",
                                             "Y. Demir",
-                                            "M. Müldür",
-                                            "İ. Yüksek",
+                                            "M. MÃ¼ldÃ¼r",
+                                            "Ä°. YÃ¼ksek",
                                             "Fred",
-                                            "İ. Kahveci",
+                                            "Ä°. Kahveci",
                                             "A. Musaba",
-                                            "O. Aydın",
+                                            "O. AydÄ±n",
                                             "V. Muriqi",
                                             "S. Cherif"
                                         ]
@@ -63,26 +63,26 @@
                                            "A. Vallci",
                                            "J. Mitchell",
                                            "E. Soglo",
-                                           "J. Hödl",
+                                           "J. HÃ¶dl",
                                            "L. Weinhandl",
-                                           "J. Stanković",
+                                           "J. StankoviÄ‡",
                                            "S. Seidl",
-                                           "S. Włodarczyk",
+                                           "S. WÅ‚odarczyk",
                                            "S. Jatta"
                                        ],
                         "substitutes":  [
-                                            "A. Kayombo",
-                                            "G. Mamageishvili",
-                                            "R. Fosso",
-                                            "N. Weiper",
                                             "C. Wiener-Pucher",
                                             "A. Helac",
-                                            "P. Petrović",
-                                            "A. Malić",
+                                            "P. PetroviÄ‡",
+                                            "A. MaliÄ‡",
                                             "L. Balbo",
                                             "P. Koller",
                                             "J. Halwachs",
-                                            "B. Beganović"
+                                            "G. Mamageishvili",
+                                            "R. Fosso",
+                                            "A. Kayombo",
+                                            "B. BeganoviÄ‡",
+                                            "N. Weiper"
                                         ]
                     },
     "events":  [
@@ -97,8 +97,8 @@
                        "minute":  21,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
-                       "playerName":  "J. Stankovic",
-                       "detail":  ""
+                       "playerName":  "J. Gorenc Stankovic",
+                       "detail":  "Yellow Card"
                    },
                    {
                        "minute":  30,
@@ -126,7 +126,7 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "J. Heil",
-                       "detail":  ""
+                       "detail":  "Yellow Card"
                    },
                    {
                        "minute":  64,
@@ -154,7 +154,7 @@
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  false,
                        "playerName":  "A. Kayombo",
-                       "detail":  ""
+                       "detail":  "Yellow Card"
                    },
                    {
                        "minute":  69,
@@ -184,91 +184,5 @@
                        "playerName":  "N. Semedo",
                        "detail":  "M. Muldur"
                    }
-               ],
-    "h2h":  [
-                {
-                    "id":  "h2h_349911",
-                    "date":  "2017-07-27",
-                    "time":  "17:00",
-                    "competition":  "UEFA Europa League",
-                    "homeTeam":  {
-                                     "id":  "637",
-                                     "name":  "Sturm Graz",
-                                     "shortName":  "Sturm Graz",
-                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "611",
-                                     "name":  "Fenerbahçe",
-                                     "shortName":  "Fenerbahçe",
-                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
-                                 },
-                    "homeScore":  1,
-                    "awayScore":  2,
-                    "status":  "PLAYED"
-                },
-                {
-                    "id":  "h2h_1607174",
-                    "date":  "2026-08-11",
-                    "time":  "18:30",
-                    "competition":  "UEFA Champions League",
-                    "homeTeam":  {
-                                     "id":  "637",
-                                     "name":  "Sturm Graz",
-                                     "shortName":  "Sturm Graz",
-                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "611",
-                                     "name":  "Fenerbahçe",
-                                     "shortName":  "Fenerbahçe",
-                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
-                                 },
-                    "homeScore":  null,
-                    "awayScore":  null,
-                    "status":  "NOT_PLAYED"
-                },
-                {
-                    "id":  "h2h_349912",
-                    "date":  "2017-08-03",
-                    "time":  "17:30",
-                    "competition":  "UEFA Europa League",
-                    "homeTeam":  {
-                                     "id":  "611",
-                                     "name":  "Fenerbahçe",
-                                     "shortName":  "Fenerbahçe",
-                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "637",
-                                     "name":  "Sturm Graz",
-                                     "shortName":  "Sturm Graz",
-                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
-                                 },
-                    "homeScore":  1,
-                    "awayScore":  1,
-                    "status":  "PLAYED"
-                },
-                {
-                    "id":  "h2h_1607165",
-                    "date":  "2026-08-05",
-                    "time":  "18:00",
-                    "competition":  "UEFA Champions League",
-                    "homeTeam":  {
-                                     "id":  "611",
-                                     "name":  "Fenerbahçe",
-                                     "shortName":  "Fenerbahçe",
-                                     "logo":  "https://media.api-sports.io/football/teams/611.png"
-                                 },
-                    "awayTeam":  {
-                                     "id":  "637",
-                                     "name":  "Sturm Graz",
-                                     "shortName":  "Sturm Graz",
-                                     "logo":  "https://media.api-sports.io/football/teams/637.png"
-                                 },
-                    "homeScore":  2,
-                    "awayScore":  0,
-                    "status":  "NOT_PLAYED"
-                }
-            ]
+               ]
 }
