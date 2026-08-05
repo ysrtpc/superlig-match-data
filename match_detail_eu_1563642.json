@@ -1,0 +1,372 @@
+{
+    "elapsed":  72,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "starting11":  [
+                                           "B. Moskvichev",
+                                           "V. Drkušić",
+                                           "K. Andrade",
+                                           "N. Alip",
+                                           "V. Karavaev",
+                                           "A. Erokhin",
+                                           "D. Kondakov",
+                                           "R. Vega",
+                                           "L. Henrique",
+                                           "D. Santos",
+                                           "F. Augusto"
+                                       ],
+                        "substitutes":  [
+                                            "D. Adamov",
+                                            "D. Odoevskiy",
+                                            "I. Diveev",
+                                            "S. Volkov",
+                                            "Y. Gorshkov",
+                                            "G. Mantuan",
+                                            "J. Jhon",
+                                            "A. Mostovoy",
+                                            "M. Glushenkov",
+                                            "Pedro",
+                                            "A. Sobolev",
+                                            "V. Shilov"
+                                        ]
+                    },
+    "awayLineups":  {
+                        "starting11":  [
+                                           "E. Lyubakov",
+                                           "F. Moufi",
+                                           "L. Mouyokolo",
+                                           "I. Kirsch",
+                                           "M. Ryadno",
+                                           "I. Belikov",
+                                           "V. Pospelov",
+                                           "I. Petrov",
+                                           "D. Nikitin",
+                                           "K. Shiltsov",
+                                           "E. Ćivić"
+                                       ],
+                        "substitutes":  [
+                                            "E. Latyshonok",
+                                            "I. Kukushkin",
+                                            "S. Varatynov",
+                                            "E. Anderson",
+                                            "N. Bokov",
+                                            "M. Beveev",
+                                            "S. Kovač",
+                                            "A. Mendel",
+                                            "N. Titkov",
+                                            "A. Mourid",
+                                            "M. Petrov",
+                                            "B. Gil"
+                                        ]
+                    },
+    "events":  [
+                   {
+                       "minute":  4,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Andrade",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  42,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Belikov",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "I. Kirsch",
+                       "detail":  "E. Anderson"
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "D. Nikitin",
+                       "detail":  "B. Gil"
+                   },
+                   {
+                       "minute":  54,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "D. Kondakov",
+                       "detail":  "Y. Gorshkov"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Civic",
+                       "detail":  "S. Kovac"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Pospelov",
+                       "detail":  "S. Varatynov"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "L. Henrique",
+                       "detail":  "Pedrinho"
+                   },
+                   {
+                       "minute":  63,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Erokhin",
+                       "detail":  "A. Sobolev"
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1042123",
+                    "date":  "2023-11-04",
+                    "time":  "16:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit Saint Petersburg",
+                                     "shortName":  "Zenit Saint Petersburg",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1060664",
+                    "date":  "2023-08-30",
+                    "time":  "16:30",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit Saint Petersburg",
+                                     "shortName":  "Zenit Saint Petersburg",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1200576",
+                    "date":  "2024-06-02",
+                    "time":  "15:00",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1400088",
+                    "date":  "2025-09-14",
+                    "time":  "14:00",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1488482",
+                    "date":  "2026-03-03",
+                    "time":  "17:00",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1561396",
+                    "date":  "2026-09-16",
+                    "time":  "17:45",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1563667",
+                    "date":  "2026-10-27",
+                    "time":  "16:00",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1042190",
+                    "date":  "2024-04-07",
+                    "time":  "13:30",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit Saint Petersburg",
+                                     "shortName":  "Zenit Saint Petersburg",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1060677",
+                    "date":  "2023-10-03",
+                    "time":  "14:15",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit Saint Petersburg",
+                                     "shortName":  "Zenit Saint Petersburg",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1400182",
+                    "date":  "2026-02-27",
+                    "time":  "16:30",
+                    "competition":  "Premier League",
+                    "homeTeam":  {
+                                     "id":  "596",
+                                     "name":  "Zenit",
+                                     "shortName":  "Zenit",
+                                     "logo":  "https://media.api-sports.io/football/teams/596.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2006",
+                                     "name":  "Baltika",
+                                     "shortName":  "Baltika",
+                                     "logo":  "https://media.api-sports.io/football/teams/2006.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                }
+            ]
+}
