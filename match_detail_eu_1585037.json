@@ -1,5 +1,5 @@
 {
-    "elapsed":  66,
+    "elapsed":  87,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -57,6 +57,34 @@
                        "isHomeTeam":  true,
                        "playerName":  "D. Bakola",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  76,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "A. Lauriente",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  83,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "H. Gonzalez",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  87,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -78,7 +106,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/538.png"
                                  },
                     "homeScore":  1,
-                    "awayScore":  1,
+                    "awayScore":  4,
                     "status":  "NOT_PLAYED"
                 }
             ]
