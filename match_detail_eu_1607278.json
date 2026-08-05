@@ -1,5 +1,5 @@
 {
-    "elapsed":  65,
+    "elapsed":  76,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -46,6 +46,13 @@
     "events":  [
                    {
                        "minute":  15,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  68,
                        "type":  "GOAL",
                        "isHomeTeam":  true,
                        "playerName":  null,
@@ -196,7 +203,7 @@
                                      "shortName":  "Vis Pesaro",
                                      "logo":  "https://media.api-sports.io/football/teams/1708.png"
                                  },
-                    "homeScore":  1,
+                    "homeScore":  2,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 },
