@@ -1,6 +1,6 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  63,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -49,7 +49,14 @@
                        "type":  "GOAL",
                        "isHomeTeam":  false,
                        "playerName":  "A. Bogorova",
-                       "detail":  ""
+                       "detail":  "K. Vredikova"
+                   },
+                   {
+                       "minute":  57,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "I. Aas",
+                       "detail":  "K. Borci"
                    }
                ],
     "h2h":  [
