@@ -1,6 +1,6 @@
 {
-    "elapsed":  45,
-    "status":  "HALF_TIME",
+    "elapsed":  50,
+    "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
                   "possessionAway":  50,
@@ -64,6 +64,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "M. Diego",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  46,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "C. Ribera",
+                       "detail":  "R. Monteiro"
                    }
                ],
     "h2h":  [
