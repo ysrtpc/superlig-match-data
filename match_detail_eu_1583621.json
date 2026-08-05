@@ -1,5 +1,5 @@
 {
-    "elapsed":  46,
+    "elapsed":  67,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -64,6 +64,13 @@
                        "isHomeTeam":  false,
                        "playerName":  "J. Sanchez",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -85,7 +92,7 @@
                                      "logo":  "https://media.api-sports.io/football/teams/5275.png"
                                  },
                     "homeScore":  0,
-                    "awayScore":  3,
+                    "awayScore":  4,
                     "status":  "NOT_PLAYED"
                 }
             ]
