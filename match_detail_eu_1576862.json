@@ -1,5 +1,5 @@
 {
-    "elapsed":  63,
+    "elapsed":  73,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -64,6 +64,27 @@
                        "isHomeTeam":  true,
                        "playerName":  null,
                        "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  67,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  72,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -105,7 +126,7 @@
                                      "shortName":  "San Martín San Juan Res.",
                                      "logo":  "https://media.api-sports.io/football/teams/25592.png"
                                  },
-                    "homeScore":  3,
+                    "homeScore":  5,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 },
