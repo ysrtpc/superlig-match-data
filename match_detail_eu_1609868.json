@@ -1,0 +1,162 @@
+{
+    "elapsed":  70,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  52,
+                  "possessionAway":  48,
+                  "shotsHome":  4,
+                  "shotsAway":  8,
+                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  2,
+                  "cornersAway":  2,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "0",
+                  "passesAway":  "0",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  2,
+                  "shotsOffTargetAway":  5,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  68,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1317985",
+                    "date":  "2025-01-15",
+                    "time":  "18:45",
+                    "competition":  "Carioca - 1",
+                    "homeTeam":  {
+                                     "id":  "14000",
+                                     "name":  "CFRJ / Maricá",
+                                     "shortName":  "CFRJ / Maricá",
+                                     "logo":  "https://media.api-sports.io/football/teams/14000.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2206",
+                                     "name":  "Boavista SC",
+                                     "shortName":  "Boavista SC",
+                                     "logo":  "https://media.api-sports.io/football/teams/2206.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1357465",
+                    "date":  "2025-07-05",
+                    "time":  "19:00",
+                    "competition":  "Serie D",
+                    "homeTeam":  {
+                                     "id":  "14000",
+                                     "name":  "CFRJ / Maricá",
+                                     "shortName":  "CFRJ / Maricá",
+                                     "logo":  "https://media.api-sports.io/football/teams/14000.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2206",
+                                     "name":  "Boavista SC",
+                                     "shortName":  "Boavista SC",
+                                     "logo":  "https://media.api-sports.io/football/teams/2206.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1609868",
+                    "date":  "2026-08-05",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "14000",
+                                     "name":  "CFRJ / Maricá",
+                                     "shortName":  "CFRJ / Maricá",
+                                     "logo":  "https://media.api-sports.io/football/teams/14000.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "2206",
+                                     "name":  "Boavista SC",
+                                     "shortName":  "Boavista SC",
+                                     "logo":  "https://media.api-sports.io/football/teams/2206.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1357241",
+                    "date":  "2025-05-10",
+                    "time":  "19:00",
+                    "competition":  "Serie D",
+                    "homeTeam":  {
+                                     "id":  "2206",
+                                     "name":  "Boavista SC",
+                                     "shortName":  "Boavista SC",
+                                     "logo":  "https://media.api-sports.io/football/teams/2206.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "14000",
+                                     "name":  "CFRJ / Maricá",
+                                     "shortName":  "CFRJ / Maricá",
+                                     "logo":  "https://media.api-sports.io/football/teams/14000.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1601489",
+                    "date":  "2026-08-12",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "2206",
+                                     "name":  "Boavista SC",
+                                     "shortName":  "Boavista SC",
+                                     "logo":  "https://media.api-sports.io/football/teams/2206.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "14000",
+                                     "name":  "CFRJ / Maricá",
+                                     "shortName":  "CFRJ / Maricá",
+                                     "logo":  "https://media.api-sports.io/football/teams/14000.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
