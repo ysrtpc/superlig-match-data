@@ -1,0 +1,204 @@
+{
+    "elapsed":  73,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  56,
+                  "possessionAway":  44,
+                  "shotsHome":  9,
+                  "shotsAway":  5,
+                  "shotsOnTargetHome":  2,
+                  "shotsOnTargetAway":  3,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  5,
+                  "cornersAway":  4,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "0",
+                  "passesAway":  "0",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  7,
+                  "shotsOffTargetAway":  2,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  31,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_574719",
+                    "date":  "2020-11-04",
+                    "time":  "18:00",
+                    "competition":  "Carioca - 2",
+                    "homeTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1130903",
+                    "date":  "2023-09-13",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "homeScore":  6,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1415257",
+                    "date":  "2025-07-30",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1609869",
+                    "date":  "2026-08-05",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_1130904",
+                    "date":  "2023-09-20",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1415266",
+                    "date":  "2025-08-13",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1601491",
+                    "date":  "2026-08-12",
+                    "time":  "17:45",
+                    "competition":  "Copa Rio",
+                    "homeTeam":  {
+                                     "id":  "7782",
+                                     "name":  "Nova Iguaçu",
+                                     "shortName":  "Nova Iguaçu",
+                                     "logo":  "https://media.api-sports.io/football/teams/7782.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "13114",
+                                     "name":  "Olaria",
+                                     "shortName":  "Olaria",
+                                     "logo":  "https://media.api-sports.io/football/teams/13114.png"
+                                 },
+                    "homeScore":  null,
+                    "awayScore":  null,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
