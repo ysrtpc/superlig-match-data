@@ -1,5 +1,5 @@
 {
-    "elapsed":  63,
+    "elapsed":  82,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -57,6 +57,27 @@
                        "isHomeTeam":  true,
                        "playerName":  "I. Aas",
                        "detail":  "K. Borci"
+                   },
+                   {
+                       "minute":  68,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Vargova",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "R. Leba",
+                       "detail":  "R. Vasa"
+                   },
+                   {
+                       "minute":  74,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Doci",
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -98,8 +119,8 @@
                                      "shortName":  "Spartak Myjava W",
                                      "logo":  "https://media.api-sports.io/football/teams/15982.png"
                                  },
-                    "homeScore":  0,
-                    "awayScore":  1,
+                    "homeScore":  1,
+                    "awayScore":  2,
                     "status":  "NOT_PLAYED"
                 }
             ]
