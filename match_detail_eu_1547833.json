@@ -1,0 +1,127 @@
+{
+    "elapsed":  77,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  37,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  "B. Kosiba",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  61,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Sabillo",
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1395913",
+                    "date":  "2025-10-11",
+                    "time":  "13:00",
+                    "competition":  "II Liga - East",
+                    "homeTeam":  {
+                                     "id":  "16255",
+                                     "name":  "Sokół Kleczew",
+                                     "shortName":  "Sokół Kleczew",
+                                     "logo":  "https://media.api-sports.io/football/teams/16255.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "6961",
+                                     "name":  "Unia Skierniewice",
+                                     "shortName":  "Unia Skierniewice",
+                                     "logo":  "https://media.api-sports.io/football/teams/6961.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  3,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1396069",
+                    "date":  "2026-04-26",
+                    "time":  "12:30",
+                    "competition":  "II Liga - East",
+                    "homeTeam":  {
+                                     "id":  "6961",
+                                     "name":  "Unia Skierniewice",
+                                     "shortName":  "Unia Skierniewice",
+                                     "logo":  "https://media.api-sports.io/football/teams/6961.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "16255",
+                                     "name":  "Sokół Kleczew",
+                                     "shortName":  "Sokół Kleczew",
+                                     "logo":  "https://media.api-sports.io/football/teams/16255.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1547833",
+                    "date":  "2026-08-05",
+                    "time":  "17:45",
+                    "competition":  "Cup",
+                    "homeTeam":  {
+                                     "id":  "6961",
+                                     "name":  "Unia Skierniewice",
+                                     "shortName":  "Unia Skierniewice",
+                                     "logo":  "https://media.api-sports.io/football/teams/6961.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "16255",
+                                     "name":  "Sokół Kleczew",
+                                     "shortName":  "Sokół Kleczew",
+                                     "logo":  "https://media.api-sports.io/football/teams/16255.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
