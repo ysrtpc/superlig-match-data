@@ -1,0 +1,99 @@
+{
+    "elapsed":  59,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  15,
+                       "type":  "GOAL",
+                       "isHomeTeam":  false,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_1512205",
+                    "date":  "2026-02-18",
+                    "time":  "20:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "18683",
+                                     "name":  "Colón Res.",
+                                     "shortName":  "Colón Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18683.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "27413",
+                                     "name":  "Quilmes 2",
+                                     "shortName":  "Quilmes 2",
+                                     "logo":  "https://media.api-sports.io/football/teams/27413.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1576863",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Reserve League",
+                    "homeTeam":  {
+                                     "id":  "27413",
+                                     "name":  "Quilmes 2",
+                                     "shortName":  "Quilmes 2",
+                                     "logo":  "https://media.api-sports.io/football/teams/27413.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "18683",
+                                     "name":  "Colón Res.",
+                                     "shortName":  "Colón Res.",
+                                     "logo":  "https://media.api-sports.io/football/teams/18683.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  1,
+                    "status":  "NOT_PLAYED"
+                }
+            ]
+}
