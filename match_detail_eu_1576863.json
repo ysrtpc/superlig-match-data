@@ -1,5 +1,5 @@
 {
-    "elapsed":  70,
+    "elapsed":  90,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -50,6 +50,13 @@
                        "isHomeTeam":  false,
                        "playerName":  null,
                        "detail":  ""
+                   },
+                   {
+                       "minute":  75,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
                    }
                ],
     "h2h":  [
@@ -91,7 +98,7 @@
                                      "shortName":  "Colón Res.",
                                      "logo":  "https://media.api-sports.io/football/teams/18683.png"
                                  },
-                    "homeScore":  0,
+                    "homeScore":  1,
                     "awayScore":  1,
                     "status":  "NOT_PLAYED"
                 }
