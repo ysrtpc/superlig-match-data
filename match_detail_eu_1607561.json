@@ -1,17 +1,17 @@
 {
-    "elapsed":  57,
+    "elapsed":  78,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  0,
                   "possessionAway":  0,
-                  "shotsHome":  10,
-                  "shotsAway":  5,
-                  "shotsOnTargetHome":  1,
+                  "shotsHome":  12,
+                  "shotsAway":  7,
+                  "shotsOnTargetHome":  2,
                   "shotsOnTargetAway":  0,
-                  "foulsHome":  7,
-                  "foulsAway":  7,
+                  "foulsHome":  12,
+                  "foulsAway":  8,
                   "cornersHome":  2,
-                  "cornersAway":  3,
+                  "cornersAway":  4,
                   "offsidesHome":  1,
                   "offsidesAway":  1,
                   "xgHome":  0,
@@ -20,8 +20,8 @@
                   "passesAway":  "0",
                   "savesHome":  0,
                   "savesAway":  0,
-                  "shotsOffTargetHome":  3,
-                  "shotsOffTargetAway":  2,
+                  "shotsOffTargetHome":  4,
+                  "shotsOffTargetAway":  3,
                   "shotsInsideBoxHome":  0,
                   "shotsInsideBoxAway":  0,
                   "shotsOutsideBoxHome":  0,
@@ -89,6 +89,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "Josema",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "E. Prekop",
+                       "detail":  "S. Liseth"
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "Y. Dimi",
+                       "detail":  "M. Khlan"
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Corbu",
+                       "detail":  "Cadu"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "Dele",
+                       "detail":  "C. O\u0027Dowda"
+                   },
+                   {
+                       "minute":  71,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "J. Levi",
+                       "detail":  "D. Arzani"
                    }
                ],
     "h2h":  [
@@ -130,7 +165,7 @@
                                      "shortName":  "Gornik Zabrze",
                                      "logo":  "https://media.api-sports.io/football/teams/340.png"
                                  },
-                    "homeScore":  0,
+                    "homeScore":  1,
                     "awayScore":  0,
                     "status":  "NOT_PLAYED"
                 }
