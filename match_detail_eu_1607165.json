@@ -1,30 +1,30 @@
 {
-    "elapsed":  65,
+    "elapsed":  86,
     "status":  "LIVE",
     "stats":  {
-                  "possessionHome":  76,
-                  "possessionAway":  24,
-                  "shotsHome":  8,
-                  "shotsAway":  3,
-                  "shotsOnTargetHome":  5,
+                  "possessionHome":  73,
+                  "possessionAway":  27,
+                  "shotsHome":  14,
+                  "shotsAway":  5,
+                  "shotsOnTargetHome":  9,
                   "shotsOnTargetAway":  1,
-                  "foulsHome":  6,
-                  "foulsAway":  11,
-                  "cornersHome":  3,
-                  "cornersAway":  1,
-                  "offsidesHome":  3,
+                  "foulsHome":  8,
+                  "foulsAway":  16,
+                  "cornersHome":  4,
+                  "cornersAway":  2,
+                  "offsidesHome":  4,
                   "offsidesAway":  0,
                   "xgHome":  0,
                   "xgAway":  0,
-                  "passesHome":  "453 (90%)",
-                  "passesAway":  "138 (75%)",
+                  "passesHome":  "552 (90%)",
+                  "passesAway":  "195 (73%)",
                   "savesHome":  1,
-                  "savesAway":  4,
-                  "shotsOffTargetHome":  0,
-                  "shotsOffTargetAway":  0,
-                  "shotsInsideBoxHome":  4,
-                  "shotsInsideBoxAway":  1,
-                  "shotsOutsideBoxHome":  4,
+                  "savesAway":  7,
+                  "shotsOffTargetHome":  2,
+                  "shotsOffTargetAway":  1,
+                  "shotsInsideBoxHome":  9,
+                  "shotsInsideBoxAway":  3,
+                  "shotsOutsideBoxHome":  5,
                   "shotsOutsideBoxAway":  2
               },
     "homeLineups":  {
@@ -34,12 +34,12 @@
                                            "M. Škriniar",
                                            "N. Aké",
                                            "J. Oosterwolde",
-                                           "M. Asensio",
-                                           "N. Kanté",
                                            "M. Guendouzi",
+                                           "N. Kanté",
                                            "M. Greenwood",
-                                           "Talisca",
-                                           "K. Aktürkoğlu"
+                                           "M. Asensio",
+                                           "K. Aktürkoğlu",
+                                           "Talisca"
                                        ],
                         "substitutes":  [
                                             "A. Brown",
@@ -71,6 +71,10 @@
                                            "S. Jatta"
                                        ],
                         "substitutes":  [
+                                            "A. Kayombo",
+                                            "G. Mamageishvili",
+                                            "R. Fosso",
+                                            "N. Weiper",
                                             "C. Wiener-Pucher",
                                             "A. Helac",
                                             "P. Petrović",
@@ -78,11 +82,7 @@
                                             "L. Balbo",
                                             "P. Koller",
                                             "J. Halwachs",
-                                            "G. Mamageishvili",
-                                            "R. Fosso",
-                                            "A. Kayombo",
-                                            "B. Beganović",
-                                            "N. Weiper"
+                                            "B. Beganović"
                                         ]
                     },
     "events":  [
@@ -155,6 +155,34 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Kayombo",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Greenwood",
+                       "detail":  "Fred"
+                   },
+                   {
+                       "minute":  69,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "M. Asensio",
+                       "detail":  "I. Kahveci"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "K. Akturkoglu",
+                       "detail":  "O. Aydin"
+                   },
+                   {
+                       "minute":  85,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Semedo",
+                       "detail":  "M. Muldur"
                    }
                ],
     "h2h":  [
