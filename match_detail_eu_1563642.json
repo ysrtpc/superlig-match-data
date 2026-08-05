@@ -1,5 +1,5 @@
 {
-    "elapsed":  72,
+    "elapsed":  83,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -150,10 +150,45 @@
                        "detail":  "A. Sobolev"
                    },
                    {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "K. Shiltsov",
+                       "detail":  "M. Beveev"
+                   },
+                   {
+                       "minute":  70,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "F. Moufi",
+                       "detail":  "M. Petrov"
+                   },
+                   {
                        "minute":  72,
                        "type":  "YELLOW_CARD",
                        "isHomeTeam":  true,
-                       "playerName":  null,
+                       "playerName":  "R. Vega",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Karavaev",
+                       "detail":  "I. Diveev"
+                   },
+                   {
+                       "minute":  79,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  true,
+                       "playerName":  "V. Drkusic",
+                       "detail":  "G. Mantuan"
+                   },
+                   {
+                       "minute":  81,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "N. Alip",
                        "detail":  ""
                    }
                ],
