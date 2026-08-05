@@ -1,5 +1,5 @@
 {
-    "elapsed":  61,
+    "elapsed":  72,
     "status":  "LIVE",
     "stats":  {
                   "possessionHome":  50,
@@ -106,6 +106,41 @@
                        "isHomeTeam":  false,
                        "playerName":  "A. Romer",
                        "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Ragnarsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  62,
+                       "type":  "RED_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "E. Ragnarsson",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  64,
+                       "type":  "YELLOW_CARD",
+                       "isHomeTeam":  true,
+                       "playerName":  "B. Baxter",
+                       "detail":  ""
+                   },
+                   {
+                       "minute":  65,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "V. Saevarsson",
+                       "detail":  "D. Montiel"
+                   },
+                   {
+                       "minute":  66,
+                       "type":  "SUBSTITUTION",
+                       "isHomeTeam":  false,
+                       "playerName":  "A. Palsson",
+                       "detail":  "S. Kroon"
                    }
                ],
     "h2h":  [
