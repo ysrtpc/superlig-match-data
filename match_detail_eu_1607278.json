@@ -1,0 +1,267 @@
+{
+    "elapsed":  65,
+    "status":  "LIVE",
+    "stats":  {
+                  "possessionHome":  50,
+                  "possessionAway":  50,
+                  "shotsHome":  0,
+                  "shotsAway":  0,
+                  "shotsOnTargetHome":  0,
+                  "shotsOnTargetAway":  0,
+                  "foulsHome":  0,
+                  "foulsAway":  0,
+                  "cornersHome":  0,
+                  "cornersAway":  0,
+                  "offsidesHome":  0,
+                  "offsidesAway":  0,
+                  "xgHome":  0,
+                  "xgAway":  0,
+                  "passesHome":  "",
+                  "passesAway":  "",
+                  "savesHome":  0,
+                  "savesAway":  0,
+                  "shotsOffTargetHome":  0,
+                  "shotsOffTargetAway":  0,
+                  "shotsInsideBoxHome":  0,
+                  "shotsInsideBoxAway":  0,
+                  "shotsOutsideBoxHome":  0,
+                  "shotsOutsideBoxAway":  0
+              },
+    "homeLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "awayLineups":  {
+                        "substitutes":  [
+
+                                        ],
+                        "starting11":  [
+
+                                       ]
+                    },
+    "events":  [
+                   {
+                       "minute":  15,
+                       "type":  "GOAL",
+                       "isHomeTeam":  true,
+                       "playerName":  null,
+                       "detail":  ""
+                   }
+               ],
+    "h2h":  [
+                {
+                    "id":  "h2h_238006",
+                    "date":  "2019-09-02",
+                    "time":  "18:45",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_633906",
+                    "date":  "2021-03-07",
+                    "time":  "15:00",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_768111",
+                    "date":  "2022-02-20",
+                    "time":  "16:30",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_952780",
+                    "date":  "2023-04-15",
+                    "time":  "15:30",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  2,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1114661",
+                    "date":  "2023-11-12",
+                    "time":  "19:45",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  4,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1137623",
+                    "date":  "2023-11-08",
+                    "time":  "19:45",
+                    "competition":  "Coppa Italia Serie C",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_1607278",
+                    "date":  "2026-08-05",
+                    "time":  "18:00",
+                    "competition":  "Friendlies Clubs",
+                    "homeTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "NOT_PLAYED"
+                },
+                {
+                    "id":  "h2h_238169",
+                    "date":  "2020-01-12",
+                    "time":  "16:30",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  0,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_633716",
+                    "date":  "2020-11-11",
+                    "time":  "17:30",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "homeScore":  0,
+                    "awayScore":  2,
+                    "status":  "PLAYED"
+                },
+                {
+                    "id":  "h2h_767940",
+                    "date":  "2021-10-16",
+                    "time":  "12:00",
+                    "competition":  "Serie C - Girone B",
+                    "homeTeam":  {
+                                     "id":  "1708",
+                                     "name":  "Vis Pesaro",
+                                     "shortName":  "Vis Pesaro",
+                                     "logo":  "https://media.api-sports.io/football/teams/1708.png"
+                                 },
+                    "awayTeam":  {
+                                     "id":  "509",
+                                     "name":  "Cesena",
+                                     "shortName":  "Cesena",
+                                     "logo":  "https://media.api-sports.io/football/teams/509.png"
+                                 },
+                    "homeScore":  1,
+                    "awayScore":  1,
+                    "status":  "PLAYED"
+                }
+            ]
+}
