@@ -7,7 +7,7 @@ import requests
 
 # API Ayarları
 API_KEY = os.environ.get("API_FOOTBALL_KEY")
-if not API_KEY or API_KEY == "ecf30a557d07eaf691f5d527159d1882":
+if not API_KEY or API_KEY == "BURAYA_API_FOOTBALL_ANAHTARINIZI_YAZIN":
     print("UYARI: API_FOOTBALL_KEY ortam degiskeni (GitHub Repository Secrets) tanimli degil!")
     print("Lutfen GitHub Ayarlari -> Secrets and variables -> Actions altinda 'API_FOOTBALL_KEY' adinda bir sir tanımlayin.")
     sys.exit(0)
@@ -101,8 +101,22 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
         lin_data = lin_resp.json()
         for team_lin in lin_data.get("response", []):
             is_home_team = (team_lin["team"]["id"] == match["teams"]["home"]["id"])
-            starters = [format_player_name(p["player"]["name"]) for p in team_lin.get("startXI", [])]
-            subs = [format_player_name(p["player"]["name"]) for p in team_lin.get("substitutes", [])]
+            starters = [
+                {
+                    "id": p.get("player", {}).get("id", 0),
+                    "name": format_player_name(p.get("player", {}).get("name", "")),
+                    "number": p.get("player", {}).get("number", 0),
+                    "photo": f"https://media.api-sports.io/football/players/{p['player']['id']}.png" if p.get("player", {}).get("id") else ""
+                } for p in team_lin.get("startXI", [])
+            ]
+            subs = [
+                {
+                    "id": p.get("player", {}).get("id", 0),
+                    "name": format_player_name(p.get("player", {}).get("name", "")),
+                    "number": p.get("player", {}).get("number", 0),
+                    "photo": f"https://media.api-sports.io/football/players/{p['player']['id']}.png" if p.get("player", {}).get("id") else ""
+                } for p in team_lin.get("substitutes", [])
+            ]
             
             if is_home_team:
                 home_lineup["starting11"] = starters
@@ -153,40 +167,48 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
             
             if not pct or not acc or not tot:
                 return ""
-            if pct["value"] is None or acc["value"] is None or tot["value"] is None:
-                return ""
             return f"{str(pct['value']).replace('%', '')}% ({acc['value']}/{tot['value']})"
             
         if len(responses) >= 2:
-            stats_dict["possessionHome"] = get_stat_val(responses[0]["statistics"], "Ball Possession")
-            stats_dict["possessionAway"] = get_stat_val(responses[1]["statistics"], "Ball Possession")
-            stats_dict["shotsHome"] = get_stat_val(responses[0]["statistics"], "Total Shots")
-            stats_dict["shotsAway"] = get_stat_val(responses[1]["statistics"], "Total Shots")
-            stats_dict["shotsOnTargetHome"] = get_stat_val(responses[0]["statistics"], "Shots on Goal")
-            stats_dict["shotsOnTargetAway"] = get_stat_val(responses[1]["statistics"], "Shots on Goal")
-            stats_dict["foulsHome"] = get_stat_val(responses[0]["statistics"], "Fouls")
-            stats_dict["foulsAway"] = get_stat_val(responses[1]["statistics"], "Fouls")
-            stats_dict["cornersHome"] = get_stat_val(responses[0]["statistics"], "Corner Kicks")
-            stats_dict["cornersAway"] = get_stat_val(responses[1]["statistics"], "Corner Kicks")
-            stats_dict["offsidesHome"] = get_stat_val(responses[0]["statistics"], "Offsides")
-            stats_dict["offsidesAway"] = get_stat_val(responses[1]["statistics"], "Offsides")
+            home_api_team_id = match["teams"]["home"]["id"]
+            if responses[0].get("team", {}).get("id") == home_api_team_id:
+                h_stats = responses[0]["statistics"]
+                a_stats = responses[1]["statistics"]
+            else:
+                h_stats = responses[1]["statistics"]
+                a_stats = responses[0]["statistics"]
+
+            stats_dict["possessionHome"] = get_stat_val(h_stats, "Ball Possession")
+            stats_dict["possessionAway"] = get_stat_val(a_stats, "Ball Possession")
+            stats_dict["shotsHome"] = get_stat_val(h_stats, "Total Shots")
+            stats_dict["shotsAway"] = get_stat_val(a_stats, "Total Shots")
+            stats_dict["shotsOnTargetHome"] = get_stat_val(h_stats, "Shots on Goal")
+            stats_dict["shotsOnTargetAway"] = get_stat_val(a_stats, "Shots on Goal")
+            stats_dict["foulsHome"] = get_stat_val(h_stats, "Fouls")
+            stats_dict["foulsAway"] = get_stat_val(a_stats, "Fouls")
+            stats_dict["cornersHome"] = get_stat_val(h_stats, "Corner Kicks")
+            stats_dict["cornersAway"] = get_stat_val(a_stats, "Corner Kicks")
+            stats_dict["offsidesHome"] = get_stat_val(h_stats, "Offsides")
+            stats_dict["offsidesAway"] = get_stat_val(a_stats, "Offsides")
             
             # xG
-            stats_dict["xgHome"] = get_stat_val_float(responses[0]["statistics"], "expected_goals")
-            stats_dict["xgAway"] = get_stat_val_float(responses[1]["statistics"], "expected_goals")
+            stats_dict["xgHome"] = get_stat_val_float(h_stats, "expected_goals")
+            stats_dict["xgAway"] = get_stat_val_float(a_stats, "expected_goals")
             # Passes
-            stats_dict["passesHome"] = get_passes_str(responses[0]["statistics"])
-            stats_dict["passesAway"] = get_passes_str(responses[1]["statistics"])
+            stats_dict["passesHome"] = get_passes_str(h_stats)
+            stats_dict["passesAway"] = get_passes_str(a_stats)
             # Saves
-            stats_dict["savesHome"] = get_stat_val(responses[0]["statistics"], "Goalkeeper Saves")
-            stats_dict["savesAway"] = get_stat_val(responses[1]["statistics"], "Goalkeeper Saves")
+            stats_dict["savesHome"] = get_stat_val(h_stats, "Goalkeeper Saves")
+            stats_dict["savesAway"] = get_stat_val(a_stats, "Goalkeeper Saves")
             # Big Chances
             home_goals = match["goals"]["home"] or 0
             away_goals = match["goals"]["away"] or 0
             stats_dict["bigChancesHome"] = max(0, home_goals + (1 if stats_dict["xgHome"] > home_goals + 0.5 else 0))
             stats_dict["bigChancesAway"] = max(0, away_goals + (1 if stats_dict["xgAway"] > away_goals + 0.5 else 0))
             
+    elapsed_min = match["fixture"]["status"].get("elapsed")
     detail_data = {
+        "elapsed": elapsed_min,
         "stats": stats_dict,
         "homeLineups": home_lineup,
         "awayLineups": away_lineup,
@@ -194,9 +216,21 @@ def fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, headers
     }
     
     detail_filename = f"match_detail_{our_fixture_id}.json"
-    with open(detail_filename, "w", encoding="utf-8") as df:
-        json.dump(detail_data, df, ensure_ascii=False, indent=4)
-    print(f"   -> {detail_filename} detaylari başarıyla güncellendi.")
+    
+    paths_to_write = [
+        detail_filename,
+        os.path.join("match_details", detail_filename),
+        os.path.join("superlig-app", "app", "src", "main", "assets", "match_details", detail_filename)
+    ]
+    
+    for path in paths_to_write:
+        folder = os.path.dirname(path)
+        if folder and not os.path.exists(folder):
+            os.makedirs(folder, exist_ok=True)
+        with open(path, "w", encoding="utf-8") as df:
+            json.dump(detail_data, df, ensure_ascii=False, indent=4)
+            
+    print(f"   -> {detail_filename} detayları tüm dizinlerde başarıyla güncellendi.")
 
 def main():
     print("Süper Lig Canlı Veri Güncelleme Botu Çalışıyor...")
@@ -276,19 +310,22 @@ def main():
         is_live = status_short in ["1H", "2H", "HT", "ET", "BT", "P", "LIVE"]
         is_played = status_short in ["FT", "AET", "PEN"]
         status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
+        elapsed_min = match["fixture"]["status"].get("elapsed")
         
-        if home_score is not None and away_score is not None:
-            if (local_match.get("homeScore") != home_score or 
-                local_match.get("awayScore") != away_score or 
-                local_match.get("isLive") != is_live or 
-                local_match.get("status") != status_val):
-                
+        if (local_match.get("homeScore") != home_score or 
+            local_match.get("awayScore") != away_score or 
+            local_match.get("isLive") != is_live or 
+            local_match.get("status") != status_val or
+            local_match.get("elapsed") != elapsed_min):
+            
+            if home_score is not None and away_score is not None:
                 local_match["homeScore"] = home_score
                 local_match["awayScore"] = away_score
-                local_match["isLive"] = is_live
-                local_match["status"] = status_val
-                changed = True
-                print(f" Skor güncellendi: {home_id} {home_score} - {away_score} {away_id} (Status: {status_val})")
+            local_match["isLive"] = is_live
+            local_match["status"] = status_val
+            local_match["elapsed"] = elapsed_min
+            changed = True
+            print(f" Skor/Dakika güncellendi: {home_id} {home_score} - {away_score} {away_id} (Status: {status_val}, Min: {elapsed_min})")
                 
         # API verisinde canlı maç veya yeni bitmiş maç ise detayları (olay/kadro/istatistik) çekelim
         fetch_and_write_match_details(api_fixture_id, our_fixture_id, match, HEADERS)
@@ -500,8 +537,8 @@ def format_to_turkish_date(date_str):
             year = parts[0]
             month = int(parts[1])
             day = int(parts[2])
-            months = ["", "Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
-            return f"{day} {months[month]} {year}"
+            months = ["", "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
+            return f"{day:02d} {months[month]} {year}"
     except:
         pass
     return date_str
@@ -619,17 +656,20 @@ def update_europe_fixtures(api_key):
                         
                     home_score_val = home_score if (is_played or is_live) else -1
                     away_score_val = away_score if (is_played or is_live) else -1
+                    elapsed_min = match["fixture"]["status"].get("elapsed")
                     
                     status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
                     if (local.get("homeScore") != home_score_val or 
                         local.get("awayScore") != away_score_val or 
                         local.get("isLive") != is_live or 
-                        local.get("status") != status_val):
+                        local.get("status") != status_val or
+                        local.get("elapsed") != elapsed_min):
                         
                         europe_fixtures[idx]["homeScore"] = home_score_val
                         europe_fixtures[idx]["awayScore"] = away_score_val
                         europe_fixtures[idx]["isLive"] = is_live
                         europe_fixtures[idx]["status"] = status_val
+                        europe_fixtures[idx]["elapsed"] = elapsed_min
                         changed = True
                         
                     found = True
@@ -637,6 +677,7 @@ def update_europe_fixtures(api_key):
                     
             if not found:
                 status_val = "LIVE" if is_live else ("PLAYED" if is_played else "NOT_PLAYED")
+                elapsed_min = match["fixture"]["status"].get("elapsed")
                 europe_fixtures.append({
                     "id": our_fixture_id,
                     "week": 1,
@@ -652,7 +693,8 @@ def update_europe_fixtures(api_key):
                     "time": time_part,
                     "competition": comp_name,
                     "isLive": is_live,
-                    "status": status_val
+                    "status": status_val,
+                    "elapsed": elapsed_min
                 })
                 changed = True
                 print(f"      + Yeni Avrupa Maçı Eklendi: {h_name} vs {a_name} ({comp_name})")
