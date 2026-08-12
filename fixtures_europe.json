@@ -1,6 +1,7 @@
 [
     {
         "id": "eu_1556502",
+        "apiId": 1556502,
         "week": 1,
         "home": "fb",
         "homeName": "Fenerbahçe",
@@ -19,6 +20,7 @@
     },
     {
         "id": "eu_1556506",
+        "apiId": 1556506,
         "week": 1,
         "home": "gornik",
         "homeName": "Gornik Zabrze",
@@ -37,6 +39,7 @@
     },
     {
         "id": "eu_1593477",
+        "apiId": 1593477,
         "week": 1,
         "home": "bsk",
         "homeName": "Başakşehir",
@@ -55,6 +58,7 @@
     },
     {
         "id": "eu_1593507",
+        "apiId": 1593507,
         "week": 1,
         "home": "interturku",
         "homeName": "Inter Turku",
@@ -73,6 +77,7 @@
     },
     {
         "id": "eu_1556543",
+        "apiId": 1556543,
         "week": 1,
         "home": "bjk",
         "homeName": "Beşiktaş",
@@ -87,10 +92,13 @@
         "competition": "Avrupa Ligi",
         "isLive": false,
         "status": "PLAYED",
-        "elapsed": 90
+        "elapsed": 90,
+        "homeRedCards": 0,
+        "awayRedCards": 1
     },
     {
         "id": "eu_1556549",
+        "apiId": 1556549,
         "week": 1,
         "home": "midtjylland",
         "homeName": "FC Midtjylland",
@@ -105,10 +113,13 @@
         "competition": "Avrupa Ligi",
         "isLive": false,
         "status": "PLAYED",
-        "elapsed": 90
+        "elapsed": 90,
+        "homeRedCards": 1,
+        "awayRedCards": 0
     },
     {
         "id": "eu_1607165",
+        "apiId": 1607165,
         "week": 1,
         "home": "fb",
         "homeName": "Fenerbahçe",
@@ -127,6 +138,7 @@
     },
     {
         "id": "eu_1607174",
+        "apiId": 1607174,
         "week": 1,
         "home": "sturmgraz",
         "homeName": "Sturm Graz",
@@ -134,16 +146,18 @@
         "away": "fb",
         "awayName": "Fenerbahçe",
         "awayColor": "0xFF003DA5",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 1,
         "date": "11 Ağustos 2026",
         "time": "21:30",
         "competition": "Şampiyonlar Ligi",
         "isLive": false,
-        "status": "NOT_PLAYED"
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "eu_1607562",
+        "apiId": 1607562,
         "week": 1,
         "home": "hradeckrlov",
         "homeName": "Hradec Králové",
@@ -158,10 +172,13 @@
         "competition": "Avrupa Ligi",
         "isLive": false,
         "status": "PLAYED",
-        "elapsed": 90
+        "elapsed": 90,
+        "homeRedCards": 0,
+        "awayRedCards": 1
     },
     {
         "id": "eu_1607567",
+        "apiId": 1607567,
         "week": 1,
         "home": "bjk",
         "homeName": "Beşiktaş",
@@ -174,6 +191,42 @@
         "date": "13 Ağustos 2026",
         "time": "20:00",
         "competition": "Avrupa Ligi",
+        "isLive": false,
+        "status": "NOT_PLAYED"
+    },
+    {
+        "id": "eu_1612801",
+        "apiId": 1612801,
+        "week": 2,
+        "home": "fb",
+        "homeName": "Fenerbahçe",
+        "homeColor": "0xFF003DA5",
+        "away": "lyon",
+        "awayName": "Olympique Lyon",
+        "awayColor": "0xFF00205B",
+        "homeScore": -1,
+        "awayScore": -1,
+        "date": "19 Ağustos 2026",
+        "time": "22:00",
+        "competition": "Şampiyonlar Ligi",
+        "isLive": false,
+        "status": "NOT_PLAYED"
+    },
+    {
+        "id": "eu_1612810",
+        "apiId": 1612810,
+        "week": 2,
+        "home": "lyon",
+        "homeName": "Olympique Lyon",
+        "homeColor": "0xFF00205B",
+        "away": "fb",
+        "awayName": "Fenerbahçe",
+        "awayColor": "0xFF003DA5",
+        "homeScore": -1,
+        "awayScore": -1,
+        "date": "26 Ağustos 2026",
+        "time": "22:00",
+        "competition": "Şampiyonlar Ligi",
         "isLive": false,
         "status": "NOT_PLAYED"
     }
