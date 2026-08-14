@@ -68,9 +68,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 63.0,
-            "shotsOnTargetAvg": 8.0,
-            "saves": 0
+            "possessionAvg": 64.0,
+            "shotsOnTargetAvg": 13.0,
+            "saves": 1
         },
         {
             "teamId": "goz",
@@ -236,9 +236,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 37.0,
-            "shotsOnTargetAvg": 2.0,
-            "saves": 7
+            "possessionAvg": 36.0,
+            "shotsOnTargetAvg": 3.0,
+            "saves": 11
         },
         {
             "teamId": "koc",
