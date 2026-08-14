@@ -50,13 +50,13 @@
         "away": "cor",
         "awayName": "Çorum FK",
         "awayColor": "0xFF800000",
-        "homeScore": 0,
-        "awayScore": 0,
+        "homeScore": 1,
+        "awayScore": 2,
         "date": "14 Ağu 2026",
         "time": "21:30",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 46
+        "elapsed": 75
     },
     {
         "id": "26w1m5",

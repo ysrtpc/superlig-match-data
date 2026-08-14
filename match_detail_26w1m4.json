@@ -1,26 +1,26 @@
 {
-    "elapsed": 46,
+    "elapsed": 75,
     "stats": {
         "possessionHome": 63,
         "possessionAway": 37,
-        "shotsHome": 16,
-        "shotsAway": 3,
-        "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 5,
-        "foulsAway": 3,
-        "cornersHome": 4,
-        "cornersAway": 0,
-        "offsidesHome": 2,
-        "offsidesAway": 1,
-        "xgHome": 1.44,
-        "xgAway": 0.23,
-        "bigChancesHome": 1,
-        "bigChancesAway": 0,
-        "passesHome": "89% (230/259)",
-        "passesAway": "69% (109/159)",
+        "shotsHome": 25,
+        "shotsAway": 7,
+        "shotsOnTargetHome": 8,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 8,
+        "foulsAway": 5,
+        "cornersHome": 6,
+        "cornersAway": 1,
+        "offsidesHome": 3,
+        "offsidesAway": 2,
+        "xgHome": 1.97,
+        "xgAway": 0.53,
+        "bigChancesHome": 2,
+        "bigChancesAway": 2,
+        "passesHome": "88% (350/397)",
+        "passesAway": "70% (171/243)",
         "savesHome": 0,
-        "savesAway": 3
+        "savesAway": 7
     },
     "homeLineups": {
         "starting11": [
@@ -293,6 +293,62 @@
             "isHomeTeam": true,
             "playerName": "Y. Akgun",
             "detail": ""
+        },
+        {
+            "minute": 53,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "V. Osimhen",
+            "detail": "L. Torreira"
+        },
+        {
+            "minute": 55,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Karlsbakk",
+            "detail": "M. Diomande"
+        },
+        {
+            "minute": 59,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "A. Kyziridis",
+            "detail": "Fredy"
+        },
+        {
+            "minute": 61,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "J. Ramirez",
+            "detail": ""
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Gurler",
+            "detail": "M. Thiam"
+        },
+        {
+            "minute": 70,
+            "type": "RED_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Kyziridis",
+            "detail": ""
+        },
+        {
+            "minute": 71,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "I. Jakobs",
+            "detail": "E. Elmali"
+        },
+        {
+            "minute": 71,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "D. Sanchez",
+            "detail": "M. Lemina"
         }
     ]
 }

@@ -67,9 +67,9 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 1,
+            "cleanSheets": 0,
             "possessionAvg": 63.0,
-            "shotsOnTargetAvg": 3.0,
+            "shotsOnTargetAvg": 8.0,
             "saves": 0
         },
         {
@@ -235,10 +235,10 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 1,
+            "cleanSheets": 0,
             "possessionAvg": 37.0,
-            "shotsOnTargetAvg": 0.0,
-            "saves": 3
+            "shotsOnTargetAvg": 2.0,
+            "saves": 7
         },
         {
             "teamId": "koc",
