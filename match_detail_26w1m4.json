@@ -1,26 +1,26 @@
 {
-    "elapsed": 14,
+    "elapsed": 46,
     "stats": {
-        "possessionHome": 62,
-        "possessionAway": 38,
-        "shotsHome": 3,
-        "shotsAway": 1,
-        "shotsOnTargetHome": 0,
+        "possessionHome": 63,
+        "possessionAway": 37,
+        "shotsHome": 16,
+        "shotsAway": 3,
+        "shotsOnTargetHome": 3,
         "shotsOnTargetAway": 0,
-        "foulsHome": 1,
-        "foulsAway": 1,
-        "cornersHome": 1,
+        "foulsHome": 5,
+        "foulsAway": 3,
+        "cornersHome": 4,
         "cornersAway": 0,
-        "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 0.34,
-        "xgAway": 0.06,
-        "bigChancesHome": 0,
+        "offsidesHome": 2,
+        "offsidesAway": 1,
+        "xgHome": 1.44,
+        "xgAway": 0.23,
+        "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "81% (51/63)",
-        "passesAway": "51% (20/39)",
+        "passesHome": "89% (230/259)",
+        "passesAway": "69% (109/159)",
         "savesHome": 0,
-        "savesAway": 0
+        "savesAway": 3
     },
     "homeLineups": {
         "starting11": [
@@ -169,16 +169,16 @@
                 "photo": "https://media.api-sports.io/football/players/62158.png"
             },
             {
-                "id": 14276,
-                "name": "H. Smolčić",
-                "number": 6,
-                "photo": "https://media.api-sports.io/football/players/14276.png"
-            },
-            {
                 "id": 162594,
                 "name": "A. Penetra",
                 "number": 5,
                 "photo": "https://media.api-sports.io/football/players/162594.png"
+            },
+            {
+                "id": 14276,
+                "name": "H. Smolčić",
+                "number": 6,
+                "photo": "https://media.api-sports.io/football/players/14276.png"
             },
             {
                 "id": 342283,
@@ -199,16 +199,16 @@
                 "photo": "https://media.api-sports.io/football/players/50180.png"
             },
             {
-                "id": 49986,
-                "name": "Fredy",
-                "number": 16,
-                "photo": "https://media.api-sports.io/football/players/49986.png"
-            },
-            {
                 "id": 57152,
                 "name": "M. Karlsbakk",
                 "number": 8,
                 "photo": "https://media.api-sports.io/football/players/57152.png"
+            },
+            {
+                "id": 49986,
+                "name": "Fredy",
+                "number": 16,
+                "photo": "https://media.api-sports.io/football/players/49986.png"
             },
             {
                 "id": 68213,
@@ -286,5 +286,13 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 32,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "Y. Akgun",
+            "detail": ""
+        }
+    ]
 }
