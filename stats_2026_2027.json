@@ -325,9 +325,9 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 1,
-            "possessionAvg": 70.0,
-            "shotsOnTargetAvg": 3.0,
+            "cleanSheets": 0,
+            "possessionAvg": 68.0,
+            "shotsOnTargetAvg": 4.0,
             "saves": 0
         },
         {
@@ -368,7 +368,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 29.0,
+            "possessionAvg": 34.0,
             "shotsOnTargetAvg": 2.0,
             "saves": 1
         },
@@ -382,9 +382,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 30.0,
-            "shotsOnTargetAvg": 0.0,
-            "saves": 2
+            "possessionAvg": 32.0,
+            "shotsOnTargetAvg": 1.0,
+            "saves": 3
         },
         {
             "teamId": "ts",
@@ -452,7 +452,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 71.0,
+            "possessionAvg": 66.0,
             "shotsOnTargetAvg": 1.0,
             "saves": 1
         },
