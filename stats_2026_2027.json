@@ -327,7 +327,7 @@
             "npxg": 0.0,
             "cleanSheets": 0,
             "possessionAvg": 69.0,
-            "shotsOnTargetAvg": 8.0,
+            "shotsOnTargetAvg": 11.0,
             "saves": 0
         },
         {
@@ -368,9 +368,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 38.0,
+            "possessionAvg": 39.0,
             "shotsOnTargetAvg": 2.0,
-            "saves": 1
+            "saves": 3
         },
         {
             "teamId": "gcl",
@@ -384,7 +384,7 @@
             "cleanSheets": 0,
             "possessionAvg": 31.0,
             "shotsOnTargetAvg": 2.0,
-            "saves": 7
+            "saves": 10
         },
         {
             "teamId": "ts",
@@ -452,8 +452,8 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 62.0,
-            "shotsOnTargetAvg": 2.0,
+            "possessionAvg": 61.0,
+            "shotsOnTargetAvg": 4.0,
             "saves": 1
         },
         {

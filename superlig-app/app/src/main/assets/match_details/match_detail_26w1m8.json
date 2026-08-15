@@ -1,26 +1,26 @@
 {
-    "elapsed": 67,
+    "elapsed": 84,
     "stats": {
-        "possessionHome": 62,
-        "possessionAway": 38,
-        "shotsHome": 7,
+        "possessionHome": 61,
+        "possessionAway": 39,
+        "shotsHome": 11,
         "shotsAway": 10,
-        "shotsOnTargetHome": 2,
+        "shotsOnTargetHome": 4,
         "shotsOnTargetAway": 2,
-        "foulsHome": 10,
-        "foulsAway": 11,
+        "foulsHome": 12,
+        "foulsAway": 16,
         "cornersHome": 0,
         "cornersAway": 3,
         "offsidesHome": 3,
-        "offsidesAway": 2,
-        "xgHome": 0.74,
+        "offsidesAway": 3,
+        "xgHome": 1.12,
         "xgAway": 1.29,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "88% (361/410)",
-        "passesAway": "81% (203/251)",
+        "passesHome": "87% (421/486)",
+        "passesAway": "81% (244/301)",
         "savesHome": 1,
-        "savesAway": 1
+        "savesAway": 3
     },
     "homeLineups": {
         "starting11": [
@@ -314,6 +314,62 @@
             "isHomeTeam": true,
             "playerName": "D. Sorescu",
             "detail": "J. Bacuna"
+        },
+        {
+            "minute": 69,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "G. Makouta",
+            "detail": ""
+        },
+        {
+            "minute": 69,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "H. Ui-Jo",
+            "detail": "E. Keskin"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "J. Bacuna",
+            "detail": "V. Gidado"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "T. Stewart",
+            "detail": "S. Dursun"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "K. Kozlowski",
+            "detail": "H. Dervisoglu"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Usluoglu",
+            "detail": "O. Ali"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "G. Makouta",
+            "detail": "I. Celik"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "U. Meleke",
+            "detail": "A. Kizildag"
         }
     ]
 }

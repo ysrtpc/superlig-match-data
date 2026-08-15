@@ -1,25 +1,25 @@
 {
-    "elapsed": 65,
+    "elapsed": 83,
     "stats": {
         "possessionHome": 31,
         "possessionAway": 69,
-        "shotsHome": 6,
-        "shotsAway": 16,
+        "shotsHome": 7,
+        "shotsAway": 26,
         "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 8,
-        "foulsHome": 5,
-        "foulsAway": 6,
-        "cornersHome": 0,
-        "cornersAway": 7,
+        "shotsOnTargetAway": 11,
+        "foulsHome": 6,
+        "foulsAway": 7,
+        "cornersHome": 1,
+        "cornersAway": 8,
         "offsidesHome": 0,
         "offsidesAway": 1,
-        "xgHome": 1.09,
-        "xgAway": 2.22,
+        "xgHome": 1.11,
+        "xgAway": 3.23,
         "bigChancesHome": 2,
         "bigChancesAway": 2,
-        "passesHome": "79% (162/204)",
-        "passesAway": "90% (409/454)",
-        "savesHome": 7,
+        "passesHome": "78% (202/259)",
+        "passesAway": "90% (519/578)",
+        "savesHome": 10,
         "savesAway": 0
     },
     "homeLineups": {
@@ -342,6 +342,27 @@
             "isHomeTeam": false,
             "playerName": "O. Aydin",
             "detail": "K. Akturkoglu"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Kemaloglu",
+            "detail": "M. Kyabou"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "O. Diabate",
+            "detail": "P. Etebo"
+        },
+        {
+            "minute": 80,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Muldur",
+            "detail": "N. Semedo"
         }
     ]
 }
