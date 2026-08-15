@@ -316,21 +316,21 @@
             "detail": ""
         },
         {
-            "minute": 61,
+            "minute": 59,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
             "playerName": "I. Yuksek",
             "detail": "N. Kante"
         },
         {
-            "minute": 61,
+            "minute": 59,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
             "playerName": "I. Kahveci",
             "detail": "M. Greenwood"
         },
         {
-            "minute": 61,
+            "minute": 60,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
             "playerName": "M. Asensio",
@@ -351,7 +351,7 @@
             "detail": "M. Kyabou"
         },
         {
-            "minute": 76,
+            "minute": 75,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "O. Diabate",
@@ -372,7 +372,7 @@
             "detail": "F. Uzum"
         },
         {
-            "minute": 86,
+            "minute": 85,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "S. Koita",
