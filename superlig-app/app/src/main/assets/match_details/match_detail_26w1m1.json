@@ -1,26 +1,26 @@
 {
-    "elapsed": 83,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 31,
-        "possessionAway": 69,
-        "shotsHome": 7,
-        "shotsAway": 26,
-        "shotsOnTargetHome": 2,
+        "possessionHome": 29,
+        "possessionAway": 71,
+        "shotsHome": 10,
+        "shotsAway": 29,
+        "shotsOnTargetHome": 3,
         "shotsOnTargetAway": 11,
-        "foulsHome": 6,
-        "foulsAway": 7,
+        "foulsHome": 7,
+        "foulsAway": 10,
         "cornersHome": 1,
-        "cornersAway": 8,
+        "cornersAway": 12,
         "offsidesHome": 0,
-        "offsidesAway": 1,
-        "xgHome": 1.11,
-        "xgAway": 3.23,
+        "offsidesAway": 2,
+        "xgHome": 1.18,
+        "xgAway": 3.27,
         "bigChancesHome": 2,
         "bigChancesAway": 2,
-        "passesHome": "78% (202/259)",
-        "passesAway": "90% (519/578)",
+        "passesHome": "77% (215/281)",
+        "passesAway": "90% (614/682)",
         "savesHome": 10,
-        "savesAway": 0
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -363,6 +363,20 @@
             "isHomeTeam": false,
             "playerName": "M. Muldur",
             "detail": "N. Semedo"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Dursun",
+            "detail": "F. Uzum"
+        },
+        {
+            "minute": 86,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "S. Koita",
+            "detail": "P. Martor"
         }
     ]
 }
