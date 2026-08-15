@@ -1,26 +1,26 @@
 {
-    "elapsed": 46,
+    "elapsed": 72,
     "stats": {
-        "possessionHome": 43,
-        "possessionAway": 57,
-        "shotsHome": 3,
-        "shotsAway": 4,
-        "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 10,
-        "foulsAway": 2,
-        "cornersHome": 1,
+        "possessionHome": 44,
+        "possessionAway": 56,
+        "shotsHome": 7,
+        "shotsAway": 8,
+        "shotsOnTargetHome": 4,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 17,
+        "foulsAway": 6,
+        "cornersHome": 2,
         "cornersAway": 6,
         "offsidesHome": 0,
         "offsidesAway": 0,
-        "xgHome": 0.12,
-        "xgAway": 0.21,
-        "bigChancesHome": 0,
+        "xgHome": 1.15,
+        "xgAway": 0.38,
+        "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "81% (146/180)",
-        "passesAway": "86% (205/239)",
-        "savesHome": 2,
-        "savesAway": 2
+        "passesHome": "79% (205/259)",
+        "passesAway": "84% (281/333)",
+        "savesHome": 4,
+        "savesAway": 3
     },
     "homeLineups": {
         "starting11": [
@@ -307,6 +307,41 @@
             "isHomeTeam": true,
             "playerName": "F. Diabate",
             "detail": "H. Hajradinovic"
+        },
+        {
+            "minute": 55,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "A. Benedyczak",
+            "detail": ""
+        },
+        {
+            "minute": 58,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Mimaroglu",
+            "detail": "M. Salah"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "N. Saviolo",
+            "detail": "S. Cabral"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Simsir",
+            "detail": "M. Kabasakal"
+        },
+        {
+            "minute": 68,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "M. Ouanes",
+            "detail": ""
         }
     ]
 }

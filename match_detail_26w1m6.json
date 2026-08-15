@@ -1,25 +1,25 @@
 {
-    "elapsed": 45,
+    "elapsed": 69,
     "stats": {
-        "possessionHome": 56,
-        "possessionAway": 44,
+        "possessionHome": 47,
+        "possessionAway": 53,
         "shotsHome": 6,
-        "shotsAway": 5,
+        "shotsAway": 9,
         "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 2,
-        "foulsHome": 5,
-        "foulsAway": 5,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 7,
+        "foulsAway": 8,
         "cornersHome": 1,
-        "cornersAway": 2,
+        "cornersAway": 3,
         "offsidesHome": 0,
         "offsidesAway": 2,
-        "xgHome": 0.3,
-        "xgAway": 0.42,
+        "xgHome": 0.35,
+        "xgAway": 0.63,
         "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "84% (211/250)",
-        "passesAway": "85% (168/197)",
-        "savesHome": 2,
+        "bigChancesAway": 1,
+        "passesHome": "81% (243/299)",
+        "passesAway": "88% (293/333)",
+        "savesHome": 3,
         "savesAway": 3
     },
     "homeLineups": {
@@ -293,6 +293,34 @@
             "isHomeTeam": false,
             "playerName": "Q. Laci",
             "detail": ""
+        },
+        {
+            "minute": 60,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Colley",
+            "detail": "E. Bars"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "D. Goncalves",
+            "detail": "M. Jevtovic"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "D. Turuc",
+            "detail": "B. Kramer"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "B. Gungordu",
+            "detail": "D. Ertas"
         }
     ]
 }
