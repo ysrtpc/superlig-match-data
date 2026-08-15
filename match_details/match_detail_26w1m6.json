@@ -1,12 +1,12 @@
 {
     "elapsed": 90,
     "stats": {
-        "possessionHome": 42,
-        "possessionAway": 58,
-        "shotsHome": 7,
-        "shotsAway": 12,
+        "possessionHome": 43,
+        "possessionAway": 57,
+        "shotsHome": 8,
+        "shotsAway": 13,
         "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 4,
+        "shotsOnTargetAway": 5,
         "foulsHome": 11,
         "foulsAway": 11,
         "cornersHome": 1,
@@ -14,10 +14,10 @@
         "offsidesHome": 0,
         "offsidesAway": 2,
         "xgHome": 0.49,
-        "xgAway": 0.67,
+        "xgAway": 1.46,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "81% (290/359)",
+        "passesHome": "81% (302/374)",
         "passesAway": "89% (427/480)",
         "savesHome": 4,
         "savesAway": 3
@@ -375,7 +375,7 @@
             "minute": 90,
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
-            "playerName": "",
+            "playerName": "M. Pala",
             "detail": ""
         },
         {

@@ -309,6 +309,13 @@
             "detail": "H. Hajradinovic"
         },
         {
+            "minute": 51,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "E. Belozoglu",
+            "detail": ""
+        },
+        {
             "minute": 55,
             "type": "GOAL",
             "isHomeTeam": true,

@@ -312,7 +312,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 42.0,
+            "possessionAvg": 43.0,
             "shotsOnTargetAvg": 3.0,
             "saves": 4
         },
@@ -325,8 +325,8 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 0,
-            "possessionAvg": 50.0,
+            "cleanSheets": 1,
+            "possessionAvg": 0.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -367,8 +367,8 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 0,
-            "possessionAvg": 50.0,
+            "cleanSheets": 1,
+            "possessionAvg": 31.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -381,8 +381,8 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 0,
-            "possessionAvg": 50.0,
+            "cleanSheets": 1,
+            "possessionAvg": 0.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -424,8 +424,8 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 58.0,
-            "shotsOnTargetAvg": 4.0,
+            "possessionAvg": 57.0,
+            "shotsOnTargetAvg": 5.0,
             "saves": 3
         },
         {
@@ -451,8 +451,8 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 0,
-            "possessionAvg": 50.0,
+            "cleanSheets": 1,
+            "possessionAvg": 69.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },

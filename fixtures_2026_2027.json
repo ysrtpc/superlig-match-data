@@ -8,10 +8,13 @@
         "away": "fb",
         "awayName": "Fenerbahçe",
         "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "15 Ağu 2026",
-        "time": "21:30"
+        "time": "21:30",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 5
     },
     {
         "id": "26w1m2",
@@ -88,8 +91,8 @@
         "awayScore": 1,
         "date": "15 Ağu 2026",
         "time": "19:00",
-        "isLive": true,
-        "status": "LIVE",
+        "isLive": false,
+        "status": "PLAYED",
         "elapsed": 90
     },
     {
@@ -115,10 +118,13 @@
         "away": "ala",
         "awayName": "Corendon Alanyaspor",
         "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "15 Ağu 2026",
-        "time": "21:30"
+        "time": "21:30",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 5
     },
     {
         "id": "26w1m9",
