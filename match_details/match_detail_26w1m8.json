@@ -1,24 +1,24 @@
 {
-    "elapsed": 53,
+    "elapsed": 67,
     "stats": {
-        "possessionHome": 63,
-        "possessionAway": 37,
-        "shotsHome": 6,
-        "shotsAway": 7,
-        "shotsOnTargetHome": 1,
+        "possessionHome": 62,
+        "possessionAway": 38,
+        "shotsHome": 7,
+        "shotsAway": 10,
+        "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 2,
-        "foulsHome": 6,
-        "foulsAway": 8,
+        "foulsHome": 10,
+        "foulsAway": 11,
         "cornersHome": 0,
-        "cornersAway": 2,
+        "cornersAway": 3,
         "offsidesHome": 3,
         "offsidesAway": 2,
-        "xgHome": 0.61,
-        "xgAway": 1.18,
+        "xgHome": 0.74,
+        "xgAway": 1.29,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "89% (311/349)",
-        "passesAway": "81% (161/198)",
+        "passesHome": "88% (361/410)",
+        "passesAway": "81% (203/251)",
         "savesHome": 1,
         "savesAway": 1
     },
@@ -199,10 +199,10 @@
                 "photo": "https://media.api-sports.io/football/players/237120.png"
             },
             {
-                "id": 302392,
-                "name": "I. Kaya",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/302392.png"
+                "id": 384398,
+                "name": "R. Duarte",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/384398.png"
             },
             {
                 "id": 2910,
@@ -217,10 +217,10 @@
                 "photo": "https://media.api-sports.io/football/players/354082.png"
             },
             {
-                "id": 384398,
-                "name": "R. Duarte",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/384398.png"
+                "id": 302392,
+                "name": "I. Kaya",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/302392.png"
             }
         ],
         "substitutes": [
@@ -300,6 +300,20 @@
             "isHomeTeam": true,
             "playerName": "J. Bacuna",
             "detail": ""
+        },
+        {
+            "minute": 58,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "F. Aliti",
+            "detail": ""
+        },
+        {
+            "minute": 61,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "D. Sorescu",
+            "detail": "J. Bacuna"
         }
     ]
 }

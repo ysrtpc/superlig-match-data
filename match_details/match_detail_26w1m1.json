@@ -1,25 +1,25 @@
 {
-    "elapsed": 52,
+    "elapsed": 65,
     "stats": {
-        "possessionHome": 32,
-        "possessionAway": 68,
-        "shotsHome": 3,
-        "shotsAway": 13,
-        "shotsOnTargetHome": 1,
-        "shotsOnTargetAway": 5,
+        "possessionHome": 31,
+        "possessionAway": 69,
+        "shotsHome": 6,
+        "shotsAway": 16,
+        "shotsOnTargetHome": 2,
+        "shotsOnTargetAway": 8,
         "foulsHome": 5,
-        "foulsAway": 5,
+        "foulsAway": 6,
         "cornersHome": 0,
-        "cornersAway": 6,
+        "cornersAway": 7,
         "offsidesHome": 0,
         "offsidesAway": 1,
-        "xgHome": 0.57,
-        "xgAway": 2.12,
-        "bigChancesHome": 1,
+        "xgHome": 1.09,
+        "xgAway": 2.22,
+        "bigChancesHome": 2,
         "bigChancesAway": 2,
-        "passesHome": "79% (137/174)",
-        "passesAway": "89% (324/364)",
-        "savesHome": 4,
+        "passesHome": "79% (162/204)",
+        "passesAway": "90% (409/454)",
+        "savesHome": 7,
         "savesAway": 0
     },
     "homeLineups": {
@@ -300,6 +300,48 @@
             "isHomeTeam": true,
             "playerName": "F. Tongya",
             "detail": "S. Koita"
+        },
+        {
+            "minute": 56,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "O. Ulgun",
+            "detail": "A. Dursun"
+        },
+        {
+            "minute": 58,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "K. Akturkoglu",
+            "detail": ""
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "I. Yuksek",
+            "detail": "N. Kante"
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "I. Kahveci",
+            "detail": "M. Greenwood"
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Asensio",
+            "detail": "V. Muriqi"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "O. Aydin",
+            "detail": "K. Akturkoglu"
         }
     ]
 }
