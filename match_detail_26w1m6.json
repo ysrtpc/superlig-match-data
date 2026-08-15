@@ -7,18 +7,18 @@
         "shotsAway": 13,
         "shotsOnTargetHome": 3,
         "shotsOnTargetAway": 5,
-        "foulsHome": 11,
+        "foulsHome": 12,
         "foulsAway": 11,
         "cornersHome": 1,
         "cornersAway": 7,
         "offsidesHome": 0,
         "offsidesAway": 2,
-        "xgHome": 0.49,
+        "xgHome": 0.53,
         "xgAway": 1.46,
-        "bigChancesHome": 0,
+        "bigChancesHome": 1,
         "bigChancesAway": 1,
         "passesHome": "81% (302/374)",
-        "passesAway": "89% (427/480)",
+        "passesAway": "89% (427/481)",
         "savesHome": 4,
         "savesAway": 3
     },
@@ -117,6 +117,12 @@
                 "photo": "https://media.api-sports.io/football/players/119780.png"
             },
             {
+                "id": 47461,
+                "name": "E. Bardhi",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/47461.png"
+            },
+            {
                 "id": 18816,
                 "name": "A. Masuaku",
                 "number": 26,
@@ -133,12 +139,6 @@
                 "name": "D. Mata",
                 "number": 41,
                 "photo": "https://media.api-sports.io/football/players/583994.png"
-            },
-            {
-                "id": 47461,
-                "name": "E. Bardhi",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/47461.png"
             },
             {
                 "id": 182422,
@@ -231,6 +231,18 @@
                 "photo": "https://media.api-sports.io/football/players/180644.png"
             },
             {
+                "id": 408200,
+                "name": "M. Faye",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/408200.png"
+            },
+            {
+                "id": 383860,
+                "name": "E. Bulut",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/383860.png"
+            },
+            {
                 "id": 50021,
                 "name": "Z. Görgen",
                 "number": 30,
@@ -265,18 +277,6 @@
                 "name": "E. Yilmaz",
                 "number": 47,
                 "photo": "https://media.api-sports.io/football/players/392093.png"
-            },
-            {
-                "id": 408200,
-                "name": "M. Faye",
-                "number": 22,
-                "photo": "https://media.api-sports.io/football/players/408200.png"
-            },
-            {
-                "id": 383860,
-                "name": "E. Bulut",
-                "number": 99,
-                "photo": "https://media.api-sports.io/football/players/383860.png"
             },
             {
                 "id": 671705,

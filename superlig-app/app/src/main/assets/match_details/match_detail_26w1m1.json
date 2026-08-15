@@ -1,25 +1,25 @@
 {
-    "elapsed": 5,
+    "elapsed": 29,
     "stats": {
-        "possessionHome": 0,
-        "possessionAway": 0,
+        "possessionHome": 30,
+        "possessionAway": 70,
         "shotsHome": 0,
-        "shotsAway": 0,
+        "shotsAway": 6,
         "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 2,
         "foulsAway": 0,
         "cornersHome": 0,
-        "cornersAway": 0,
+        "cornersAway": 3,
         "offsidesHome": 0,
         "offsidesAway": 0,
         "xgHome": 0.0,
-        "xgAway": 0.0,
+        "xgAway": 0.78,
         "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "None% (None/None)",
-        "passesAway": "None% (None/None)",
-        "savesHome": 0,
+        "bigChancesAway": 1,
+        "passesHome": "79% (69/87)",
+        "passesAway": "89% (178/199)",
+        "savesHome": 2,
         "savesAway": 0
     },
     "homeLineups": {
@@ -55,16 +55,16 @@
                 "photo": "https://media.api-sports.io/football/players/101413.png"
             },
             {
+                "id": 3347,
+                "name": "A. Traoré",
+                "number": 14,
+                "photo": "https://media.api-sports.io/football/players/3347.png"
+            },
+            {
                 "id": 631912,
                 "name": "O. Diabate",
                 "number": 42,
                 "photo": "https://media.api-sports.io/football/players/631912.png"
-            },
-            {
-                "id": 61939,
-                "name": "O. Ülgün",
-                "number": 35,
-                "photo": "https://media.api-sports.io/football/players/61939.png"
             },
             {
                 "id": 144340,
@@ -73,22 +73,22 @@
                 "photo": "https://media.api-sports.io/football/players/144340.png"
             },
             {
-                "id": 3347,
-                "name": "A. Traoré",
-                "number": 14,
-                "photo": "https://media.api-sports.io/football/players/3347.png"
+                "id": 161972,
+                "name": "F. Tongya",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/161972.png"
+            },
+            {
+                "id": 61939,
+                "name": "O. Ülgün",
+                "number": 35,
+                "photo": "https://media.api-sports.io/football/players/61939.png"
             },
             {
                 "id": 7571,
                 "name": "S. Koita",
                 "number": 20,
                 "photo": "https://media.api-sports.io/football/players/7571.png"
-            },
-            {
-                "id": 161972,
-                "name": "F. Tongya",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/161972.png"
             }
         ],
         "substitutes": [
@@ -286,5 +286,13 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 13,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "Talisca",
+            "detail": "L. Mercan"
+        }
+    ]
 }
