@@ -1,24 +1,24 @@
 {
-    "elapsed": 45,
+    "elapsed": 53,
     "stats": {
-        "possessionHome": 66,
-        "possessionAway": 34,
-        "shotsHome": 5,
-        "shotsAway": 5,
+        "possessionHome": 63,
+        "possessionAway": 37,
+        "shotsHome": 6,
+        "shotsAway": 7,
         "shotsOnTargetHome": 1,
         "shotsOnTargetAway": 2,
-        "foulsHome": 5,
-        "foulsAway": 7,
+        "foulsHome": 6,
+        "foulsAway": 8,
         "cornersHome": 0,
-        "cornersAway": 1,
+        "cornersAway": 2,
         "offsidesHome": 3,
         "offsidesAway": 2,
         "xgHome": 0.61,
-        "xgAway": 1.12,
+        "xgAway": 1.18,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "90% (280/312)",
-        "passesAway": "81% (129/159)",
+        "passesHome": "89% (311/349)",
+        "passesAway": "81% (161/198)",
         "savesHome": 1,
         "savesAway": 1
     },
@@ -292,6 +292,13 @@
             "type": "GOAL",
             "isHomeTeam": false,
             "playerName": "Ruan",
+            "detail": ""
+        },
+        {
+            "minute": 53,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "J. Bacuna",
             "detail": ""
         }
     ]
