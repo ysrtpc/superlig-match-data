@@ -3,22 +3,22 @@
     "stats": {
         "possessionHome": 41,
         "possessionAway": 59,
-        "shotsHome": 7,
-        "shotsAway": 12,
+        "shotsHome": 8,
+        "shotsAway": 13,
         "shotsOnTargetHome": 4,
         "shotsOnTargetAway": 5,
         "foulsHome": 17,
         "foulsAway": 9,
         "cornersHome": 3,
-        "cornersAway": 8,
+        "cornersAway": 9,
         "offsidesHome": 0,
         "offsidesAway": 1,
-        "xgHome": 1.15,
-        "xgAway": 0.73,
-        "bigChancesHome": 1,
+        "xgHome": 1.69,
+        "xgAway": 0.74,
+        "bigChancesHome": 2,
         "bigChancesAway": 1,
-        "passesHome": "78% (245/313)",
-        "passesAway": "86% (379/441)",
+        "passesHome": "78% (259/330)",
+        "passesAway": "86% (396/462)",
         "savesHome": 4,
         "savesAway": 3
     },
@@ -363,6 +363,13 @@
             "isHomeTeam": false,
             "playerName": "R. Malinovskyi",
             "detail": "O. Tufan"
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Benedyczak",
+            "detail": "S. Alkas"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "elapsed": 87,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 44,
-        "possessionAway": 56,
+        "possessionHome": 42,
+        "possessionAway": 58,
         "shotsHome": 7,
         "shotsAway": 12,
         "shotsOnTargetHome": 3,
         "shotsOnTargetAway": 4,
-        "foulsHome": 9,
+        "foulsHome": 11,
         "foulsAway": 11,
         "cornersHome": 1,
-        "cornersAway": 5,
+        "cornersAway": 7,
         "offsidesHome": 0,
         "offsidesAway": 2,
         "xgHome": 0.49,
         "xgAway": 0.67,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "81% (281/345)",
-        "passesAway": "89% (379/428)",
+        "passesHome": "81% (290/359)",
+        "passesAway": "89% (427/480)",
         "savesHome": 4,
         "savesAway": 3
     },
@@ -363,6 +363,27 @@
             "isHomeTeam": false,
             "playerName": "A. Kutucu",
             "detail": "E. Bulut"
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "C. Awaziem",
+            "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "",
+            "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "Q. Laci",
+            "detail": ""
         }
     ]
 }
