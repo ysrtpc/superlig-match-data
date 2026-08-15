@@ -1,5 +1,5 @@
 {
-    "elapsed": 45,
+    "elapsed": 46,
     "stats": {
         "possessionHome": 43,
         "possessionAway": 57,
@@ -18,7 +18,7 @@
         "bigChancesHome": 0,
         "bigChancesAway": 1,
         "passesHome": "81% (146/180)",
-        "passesAway": "86% (204/237)",
+        "passesAway": "86% (205/239)",
         "savesHome": 2,
         "savesAway": 2
     },
@@ -300,6 +300,13 @@
             "isHomeTeam": false,
             "playerName": "N. Saviolo",
             "detail": "M. Mimaroglu"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "F. Diabate",
+            "detail": "H. Hajradinovic"
         }
     ]
 }
