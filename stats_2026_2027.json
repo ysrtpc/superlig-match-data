@@ -1,6 +1,278 @@
 {
-    "topScorers": [],
-    "topAssists": [],
+    "topScorers": [
+        {
+            "id": "26p1",
+            "name": "V. Osimhen",
+            "teamId": "gs",
+            "goals": 2,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p2",
+            "name": "A. Kyziridis",
+            "teamId": "cor",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p3",
+            "name": "C. Ramírez",
+            "teamId": "cor",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p4",
+            "name": "Fredy",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p5",
+            "name": "L. Torreira",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p6",
+            "name": "G. Sara",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p7",
+            "name": "K. Ayhan",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p8",
+            "name": "A. Şengül",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p9",
+            "name": "A. Ildız",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p10",
+            "name": "K. Karataş",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p11",
+            "name": "İ. Gündoğan",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p12",
+            "name": "E. Elmalı",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p13",
+            "name": "M. Lemina",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p14",
+            "name": "M. Thiam",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p15",
+            "name": "M. Diomandé",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        }
+    ],
+    "topAssists": [
+        {
+            "id": "26a1",
+            "name": "Fredy",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a2",
+            "name": "L. Torreira",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a3",
+            "name": "G. Sara",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a4",
+            "name": "V. Osimhen",
+            "teamId": "gs",
+            "goals": 2,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a5",
+            "name": "A. Kyziridis",
+            "teamId": "cor",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a6",
+            "name": "C. Ramírez",
+            "teamId": "cor",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a7",
+            "name": "K. Ayhan",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a8",
+            "name": "A. Şengül",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a9",
+            "name": "A. Ildız",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a10",
+            "name": "K. Karataş",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a11",
+            "name": "İ. Gündoğan",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a12",
+            "name": "E. Elmalı",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a13",
+            "name": "M. Lemina",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a14",
+            "name": "M. Thiam",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a15",
+            "name": "M. Diomandé",
+            "teamId": "cor",
+            "goals": 0,
+            "assists": 0,
+            "matches": 1,
+            "position": "Orta Saha"
+        }
+    ],
     "teamStats": [
         {
             "teamId": "bjk",
@@ -60,13 +332,13 @@
         },
         {
             "teamId": "gs",
-            "yellowCards": 0,
+            "yellowCards": 1,
             "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
-            "goalsConceded": 0,
-            "npxg": 0.0,
+            "goalsScored": 2,
+            "goalsConceded": 2,
+            "npxg": 1.8,
             "cleanSheets": 0,
             "possessionAvg": 64.0,
             "shotsOnTargetAvg": 13.0,
@@ -229,12 +501,12 @@
         {
             "teamId": "cor",
             "yellowCards": 0,
-            "redCards": 0,
+            "redCards": 1,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
-            "goalsConceded": 0,
-            "npxg": 0.0,
+            "goalsScored": 2,
+            "goalsConceded": 2,
+            "npxg": 1.8,
             "cleanSheets": 0,
             "possessionAvg": 36.0,
             "shotsOnTargetAvg": 3.0,
