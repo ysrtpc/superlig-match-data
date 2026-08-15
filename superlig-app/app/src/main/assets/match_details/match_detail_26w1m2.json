@@ -1,26 +1,26 @@
 {
-    "elapsed": 27,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 48,
-        "possessionAway": 52,
-        "shotsHome": 2,
-        "shotsAway": 3,
-        "shotsOnTargetHome": 1,
+        "possessionHome": 43,
+        "possessionAway": 57,
+        "shotsHome": 3,
+        "shotsAway": 4,
+        "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 3,
-        "foulsHome": 5,
-        "foulsAway": 1,
+        "foulsHome": 10,
+        "foulsAway": 2,
         "cornersHome": 1,
-        "cornersAway": 4,
+        "cornersAway": 6,
         "offsidesHome": 0,
         "offsidesAway": 0,
-        "xgHome": 0.06,
-        "xgAway": 0.16,
+        "xgHome": 0.12,
+        "xgAway": 0.21,
         "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "81% (83/103)",
-        "passesAway": "82% (92/112)",
-        "savesHome": 3,
-        "savesAway": 1
+        "bigChancesAway": 1,
+        "passesHome": "81% (146/180)",
+        "passesAway": "86% (204/237)",
+        "savesHome": 2,
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -169,16 +169,16 @@
                 "photo": "https://media.api-sports.io/football/players/332056.png"
             },
             {
-                "id": 39,
-                "name": "S. Savić",
-                "number": 15,
-                "photo": "https://media.api-sports.io/football/players/39.png"
-            },
-            {
                 "id": 371027,
                 "name": "C. Nwaiwu",
                 "number": 27,
                 "photo": "https://media.api-sports.io/football/players/371027.png"
+            },
+            {
+                "id": 39,
+                "name": "S. Savić",
+                "number": 15,
+                "photo": "https://media.api-sports.io/football/players/39.png"
             },
             {
                 "id": 62323,
@@ -293,6 +293,13 @@
             "isHomeTeam": true,
             "playerName": "A. Baldursson",
             "detail": ""
+        },
+        {
+            "minute": 43,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "N. Saviolo",
+            "detail": "M. Mimaroglu"
         }
     ]
 }

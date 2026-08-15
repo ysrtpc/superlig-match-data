@@ -312,9 +312,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 52.0,
-            "shotsOnTargetAvg": 2.0,
-            "saves": 1
+            "possessionAvg": 55.0,
+            "shotsOnTargetAvg": 3.0,
+            "saves": 2
         },
         {
             "teamId": "fb",
@@ -396,9 +396,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 52.0,
+            "possessionAvg": 57.0,
             "shotsOnTargetAvg": 3.0,
-            "saves": 1
+            "saves": 2
         },
         {
             "teamId": "kas",
@@ -409,10 +409,10 @@
             "goalsScored": 0,
             "goalsConceded": 0,
             "npxg": 0.0,
-            "cleanSheets": 1,
-            "possessionAvg": 48.0,
-            "shotsOnTargetAvg": 1.0,
-            "saves": 3
+            "cleanSheets": 0,
+            "possessionAvg": 43.0,
+            "shotsOnTargetAvg": 2.0,
+            "saves": 2
         },
         {
             "teamId": "rize",
@@ -424,9 +424,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 48.0,
-            "shotsOnTargetAvg": 1.0,
-            "saves": 2
+            "possessionAvg": 45.0,
+            "shotsOnTargetAvg": 2.0,
+            "saves": 3
         },
         {
             "teamId": "erz",
