@@ -1,25 +1,25 @@
 {
-    "elapsed": 69,
+    "elapsed": 87,
     "stats": {
-        "possessionHome": 47,
-        "possessionAway": 53,
-        "shotsHome": 6,
-        "shotsAway": 9,
+        "possessionHome": 44,
+        "possessionAway": 56,
+        "shotsHome": 7,
+        "shotsAway": 12,
         "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 7,
-        "foulsAway": 8,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 9,
+        "foulsAway": 11,
         "cornersHome": 1,
-        "cornersAway": 3,
+        "cornersAway": 5,
         "offsidesHome": 0,
         "offsidesAway": 2,
-        "xgHome": 0.35,
-        "xgAway": 0.63,
+        "xgHome": 0.49,
+        "xgAway": 0.67,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "81% (243/299)",
-        "passesAway": "88% (293/333)",
-        "savesHome": 3,
+        "passesHome": "81% (281/345)",
+        "passesAway": "89% (379/428)",
+        "savesHome": 4,
         "savesAway": 3
     },
     "homeLineups": {
@@ -93,10 +93,28 @@
         ],
         "substitutes": [
             {
+                "id": 339888,
+                "name": "E. Bars",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/339888.png"
+            },
+            {
                 "id": 402493,
                 "name": "D. Ertaş",
                 "number": 1,
                 "photo": "https://media.api-sports.io/football/players/402493.png"
+            },
+            {
+                "id": 50008,
+                "name": "M. Jevtović",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/50008.png"
+            },
+            {
+                "id": 119780,
+                "name": "B. Kramer",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/119780.png"
             },
             {
                 "id": 18816,
@@ -121,24 +139,6 @@
                 "name": "E. Bardhi",
                 "number": 10,
                 "photo": "https://media.api-sports.io/football/players/47461.png"
-            },
-            {
-                "id": 50008,
-                "name": "M. Jevtović",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/50008.png"
-            },
-            {
-                "id": 339888,
-                "name": "E. Bars",
-                "number": 45,
-                "photo": "https://media.api-sports.io/football/players/339888.png"
-            },
-            {
-                "id": 119780,
-                "name": "B. Kramer",
-                "number": 99,
-                "photo": "https://media.api-sports.io/football/players/119780.png"
             },
             {
                 "id": 182422,
@@ -225,6 +225,12 @@
         ],
         "substitutes": [
             {
+                "id": 180644,
+                "name": "I. Olawoyin",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/180644.png"
+            },
+            {
                 "id": 50021,
                 "name": "Z. Görgen",
                 "number": 30,
@@ -265,12 +271,6 @@
                 "name": "M. Faye",
                 "number": 22,
                 "photo": "https://media.api-sports.io/football/players/408200.png"
-            },
-            {
-                "id": 180644,
-                "name": "I. Olawoyin",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/180644.png"
             },
             {
                 "id": 383860,
@@ -321,6 +321,48 @@
             "isHomeTeam": true,
             "playerName": "B. Gungordu",
             "detail": "D. Ertas"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "D. Varesanovic",
+            "detail": "I. Olawoyin"
+        },
+        {
+            "minute": 70,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Mebude",
+            "detail": ""
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Mebude",
+            "detail": "M. Faye"
+        },
+        {
+            "minute": 79,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Sowe",
+            "detail": ""
+        },
+        {
+            "minute": 83,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Ibrahimoglu",
+            "detail": "E. Bardhi"
+        },
+        {
+            "minute": 84,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Kutucu",
+            "detail": "E. Bulut"
         }
     ]
 }

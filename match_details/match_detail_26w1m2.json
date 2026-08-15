@@ -1,24 +1,24 @@
 {
-    "elapsed": 72,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 44,
-        "possessionAway": 56,
+        "possessionHome": 41,
+        "possessionAway": 59,
         "shotsHome": 7,
-        "shotsAway": 8,
+        "shotsAway": 12,
         "shotsOnTargetHome": 4,
-        "shotsOnTargetAway": 4,
+        "shotsOnTargetAway": 5,
         "foulsHome": 17,
-        "foulsAway": 6,
-        "cornersHome": 2,
-        "cornersAway": 6,
+        "foulsAway": 9,
+        "cornersHome": 3,
+        "cornersAway": 8,
         "offsidesHome": 0,
-        "offsidesAway": 0,
+        "offsidesAway": 1,
         "xgHome": 1.15,
-        "xgAway": 0.38,
+        "xgAway": 0.73,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "79% (205/259)",
-        "passesAway": "84% (281/333)",
+        "passesHome": "78% (245/313)",
+        "passesAway": "86% (379/441)",
         "savesHome": 4,
         "savesAway": 3
     },
@@ -342,6 +342,27 @@
             "isHomeTeam": true,
             "playerName": "M. Ouanes",
             "detail": ""
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Ouanes",
+            "detail": "M. Rafferty"
+        },
+        {
+            "minute": 82,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "G. Yalcin",
+            "detail": "A. Karapo"
+        },
+        {
+            "minute": 84,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "R. Malinovskyi",
+            "detail": "O. Tufan"
         }
     ]
 }
