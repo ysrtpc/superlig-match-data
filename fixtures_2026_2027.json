@@ -22,10 +22,13 @@
         "away": "ts",
         "awayName": "Trabzonspor",
         "awayColor": "0xFF800020",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "15 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 27
     },
     {
         "id": "26w1m3",
@@ -81,10 +84,13 @@
         "away": "rize",
         "awayName": "Çaykur Rizespor",
         "awayColor": "0xFF0000FF",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "15 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 26
     },
     {
         "id": "26w1m7",
