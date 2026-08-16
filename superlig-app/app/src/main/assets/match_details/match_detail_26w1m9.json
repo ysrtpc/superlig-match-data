@@ -1,26 +1,26 @@
 {
-    "elapsed": 55,
+    "elapsed": 75,
     "stats": {
-        "possessionHome": 49,
-        "possessionAway": 51,
-        "shotsHome": 7,
-        "shotsAway": 4,
-        "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 4,
-        "foulsAway": 5,
-        "cornersHome": 5,
+        "possessionHome": 51,
+        "possessionAway": 49,
+        "shotsHome": 12,
+        "shotsAway": 6,
+        "shotsOnTargetHome": 4,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 11,
+        "foulsAway": 10,
+        "cornersHome": 6,
         "cornersAway": 2,
         "offsidesHome": 0,
         "offsidesAway": 3,
-        "xgHome": 0.84,
-        "xgAway": 0.18,
-        "bigChancesHome": 1,
+        "xgHome": 1.05,
+        "xgAway": 0.38,
+        "bigChancesHome": 2,
         "bigChancesAway": 0,
-        "passesHome": "84% (216/256)",
-        "passesAway": "82% (221/268)",
-        "savesHome": 3,
-        "savesAway": 1
+        "passesHome": "87% (323/373)",
+        "passesAway": "83% (299/361)",
+        "savesHome": 4,
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -307,6 +307,27 @@
             "isHomeTeam": true,
             "playerName": "A. Fayzullaev",
             "detail": ""
+        },
+        {
+            "minute": 63,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Fayzullaev",
+            "detail": "Y. Sari"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "B. Kutlu",
+            "detail": "M. Altunbas"
+        },
+        {
+            "minute": 72,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "E. Shomurodov",
+            "detail": "A. Olsen"
         }
     ]
 }
