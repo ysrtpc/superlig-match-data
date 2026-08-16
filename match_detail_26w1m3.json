@@ -1,0 +1,290 @@
+{
+    "elapsed": 7,
+    "stats": {
+        "possessionHome": 81,
+        "possessionAway": 19,
+        "shotsHome": 0,
+        "shotsAway": 0,
+        "shotsOnTargetHome": 0,
+        "shotsOnTargetAway": 0,
+        "foulsHome": 0,
+        "foulsAway": 2,
+        "cornersHome": 0,
+        "cornersAway": 0,
+        "offsidesHome": 0,
+        "offsidesAway": 0,
+        "xgHome": 0.09,
+        "xgAway": 0.0,
+        "bigChancesHome": 0,
+        "bigChancesAway": 0,
+        "passesHome": "93% (26/28)",
+        "passesAway": "71% (5/7)",
+        "savesHome": 0,
+        "savesAway": 0
+    },
+    "homeLineups": {
+        "starting11": [
+            {
+                "id": 399,
+                "name": "A. Nübel",
+                "number": 1,
+                "photo": "https://media.api-sports.io/football/players/399.png"
+            },
+            {
+                "id": 394663,
+                "name": "T. Bulut",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/394663.png"
+            },
+            {
+                "id": 1479,
+                "name": "T. Djaló",
+                "number": 35,
+                "photo": "https://media.api-sports.io/football/players/1479.png"
+            },
+            {
+                "id": 135068,
+                "name": "E. Agbadou",
+                "number": 12,
+                "photo": "https://media.api-sports.io/football/players/135068.png"
+            },
+            {
+                "id": 1987,
+                "name": "R. Yılmaz",
+                "number": 33,
+                "photo": "https://media.api-sports.io/football/players/1987.png"
+            },
+            {
+                "id": 24807,
+                "name": "S. Özcan",
+                "number": 6,
+                "photo": "https://media.api-sports.io/football/players/24807.png"
+            },
+            {
+                "id": 549,
+                "name": "V. Černý",
+                "number": 18,
+                "photo": "https://media.api-sports.io/football/players/549.png"
+            },
+            {
+                "id": 316904,
+                "name": "J. Olaitan",
+                "number": 15,
+                "photo": "https://media.api-sports.io/football/players/316904.png"
+            },
+            {
+                "id": 37155,
+                "name": "O. Kökçü",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/37155.png"
+            },
+            {
+                "id": 1946,
+                "name": "L. Trossard",
+                "number": 19,
+                "photo": "https://media.api-sports.io/football/players/1946.png"
+            },
+            {
+                "id": 336567,
+                "name": "S. Kılıçsoy",
+                "number": 90,
+                "photo": "https://media.api-sports.io/football/players/336567.png"
+            }
+        ],
+        "substitutes": [
+            {
+                "id": 50104,
+                "name": "D. Alemdar",
+                "number": 80,
+                "photo": "https://media.api-sports.io/football/players/50104.png"
+            },
+            {
+                "id": 2973,
+                "name": "A. Murillo",
+                "number": 62,
+                "photo": "https://media.api-sports.io/football/players/2973.png"
+            },
+            {
+                "id": 50046,
+                "name": "E. Topçu",
+                "number": 53,
+                "photo": "https://media.api-sports.io/football/players/50046.png"
+            },
+            {
+                "id": 333137,
+                "name": "K. Ouattara",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/333137.png"
+            },
+            {
+                "id": 446824,
+                "name": "İ. Fakili",
+                "number": 29,
+                "photo": "https://media.api-sports.io/football/players/446824.png"
+            },
+            {
+                "id": 25324,
+                "name": "M. Rashica",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/25324.png"
+            },
+            {
+                "id": 50006,
+                "name": "A. Hadžiahmetović",
+                "number": 5,
+                "photo": "https://media.api-sports.io/football/players/50006.png"
+            },
+            {
+                "id": 1998,
+                "name": "K. Yılmaz",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/1998.png"
+            },
+            {
+                "id": 18786,
+                "name": "W. Ndidi",
+                "number": 4,
+                "photo": "https://media.api-sports.io/football/players/18786.png"
+            },
+            {
+                "id": 34710,
+                "name": "H. Oh",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/34710.png"
+            }
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            {
+                "id": 42642,
+                "name": "H. Moldovan",
+                "number": 31,
+                "photo": "https://media.api-sports.io/football/players/42642.png"
+            },
+            {
+                "id": 352779,
+                "name": "T. Ülvan",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/352779.png"
+            },
+            {
+                "id": 31386,
+                "name": "J. Yamiq",
+                "number": 5,
+                "photo": "https://media.api-sports.io/football/players/31386.png"
+            },
+            {
+                "id": 17977,
+                "name": "Z. Jules",
+                "number": 33,
+                "photo": "https://media.api-sports.io/football/players/17977.png"
+            },
+            {
+                "id": 133194,
+                "name": "Calegari",
+                "number": 2,
+                "photo": "https://media.api-sports.io/football/players/133194.png"
+            },
+            {
+                "id": 291531,
+                "name": "C. Massanga",
+                "number": 88,
+                "photo": "https://media.api-sports.io/football/players/291531.png"
+            },
+            {
+                "id": 40452,
+                "name": "K. Michalak",
+                "number": 77,
+                "photo": "https://media.api-sports.io/football/players/40452.png"
+            },
+            {
+                "id": 19053,
+                "name": "A. Sabiri",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/19053.png"
+            },
+            {
+                "id": 427076,
+                "name": "D. Costa",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/427076.png"
+            },
+            {
+                "id": 670,
+                "name": "L. Pintor",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/670.png"
+            },
+            {
+                "id": 388461,
+                "name": "A. Abdullahi",
+                "number": 29,
+                "photo": "https://media.api-sports.io/football/players/388461.png"
+            }
+        ],
+        "substitutes": [
+            {
+                "id": null,
+                "name": "E. Bilgin",
+                "number": 1,
+                "photo": ""
+            },
+            {
+                "id": 451845,
+                "name": "A. Yavuz",
+                "number": 3,
+                "photo": "https://media.api-sports.io/football/players/451845.png"
+            },
+            {
+                "id": 630292,
+                "name": "Ö. Ceyhan",
+                "number": 44,
+                "photo": "https://media.api-sports.io/football/players/630292.png"
+            },
+            {
+                "id": 626939,
+                "name": "B. Satli",
+                "number": 42,
+                "photo": "https://media.api-sports.io/football/players/626939.png"
+            },
+            {
+                "id": 137430,
+                "name": "S. Yaşar",
+                "number": 4,
+                "photo": "https://media.api-sports.io/football/players/137430.png"
+            },
+            {
+                "id": 21589,
+                "name": "B. Boutobba",
+                "number": 98,
+                "photo": "https://media.api-sports.io/football/players/21589.png"
+            },
+            {
+                "id": 333168,
+                "name": "C. Yao",
+                "number": 15,
+                "photo": "https://media.api-sports.io/football/players/333168.png"
+            },
+            {
+                "id": 364378,
+                "name": "H. Akman",
+                "number": 18,
+                "photo": "https://media.api-sports.io/football/players/364378.png"
+            },
+            {
+                "id": 62185,
+                "name": "M. Demir",
+                "number": 70,
+                "photo": "https://media.api-sports.io/football/players/62185.png"
+            },
+            {
+                "id": 36906,
+                "name": "Y. Barası",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/36906.png"
+            }
+        ]
+    },
+    "events": []
+}
