@@ -1,24 +1,24 @@
 {
-    "elapsed": 45,
+    "elapsed": 55,
     "stats": {
-        "possessionHome": 51,
-        "possessionAway": 49,
+        "possessionHome": 49,
+        "possessionAway": 51,
         "shotsHome": 7,
         "shotsAway": 4,
         "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 3,
-        "foulsHome": 3,
+        "foulsHome": 4,
         "foulsAway": 5,
         "cornersHome": 5,
         "cornersAway": 2,
         "offsidesHome": 0,
-        "offsidesAway": 2,
-        "xgHome": 0.78,
+        "offsidesAway": 3,
+        "xgHome": 0.84,
         "xgAway": 0.18,
         "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "86% (178/208)",
-        "passesAway": "81% (162/201)",
+        "passesHome": "84% (216/256)",
+        "passesAway": "82% (221/268)",
         "savesHome": 3,
         "savesAway": 1
     },
@@ -299,6 +299,13 @@
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
             "playerName": "T. Bingol",
+            "detail": ""
+        },
+        {
+            "minute": 51,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "A. Fayzullaev",
             "detail": ""
         }
     ]
