@@ -139,8 +139,8 @@
         "awayScore": 0,
         "date": "16 Ağu 2026",
         "time": "19:00",
-        "isLive": true,
-        "status": "LIVE",
+        "isLive": false,
+        "status": "PLAYED",
         "elapsed": 90
     },
     {

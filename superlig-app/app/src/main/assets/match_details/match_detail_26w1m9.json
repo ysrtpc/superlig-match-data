@@ -379,11 +379,18 @@
             "detail": "H. Gureler"
         },
         {
-            "minute": 89,
+            "minute": 90,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "J. Kaluzinski",
             "detail": "O. Ergun"
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "O. Sahiner",
+            "detail": ""
         }
     ]
 }
