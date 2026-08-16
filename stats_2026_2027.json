@@ -298,8 +298,8 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 51.0,
-            "shotsOnTargetAvg": 4.0,
+            "possessionAvg": 52.0,
+            "shotsOnTargetAvg": 5.0,
             "saves": 4
         },
         {
@@ -522,9 +522,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 49.0,
+            "possessionAvg": 48.0,
             "shotsOnTargetAvg": 4.0,
-            "saves": 2
+            "saves": 3
         }
     ]
 }

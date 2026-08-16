@@ -1,26 +1,26 @@
 {
-    "elapsed": 75,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 51,
-        "possessionAway": 49,
-        "shotsHome": 12,
-        "shotsAway": 6,
-        "shotsOnTargetHome": 4,
+        "possessionHome": 52,
+        "possessionAway": 48,
+        "shotsHome": 17,
+        "shotsAway": 8,
+        "shotsOnTargetHome": 5,
         "shotsOnTargetAway": 4,
-        "foulsHome": 11,
-        "foulsAway": 10,
-        "cornersHome": 6,
+        "foulsHome": 13,
+        "foulsAway": 12,
+        "cornersHome": 8,
         "cornersAway": 2,
         "offsidesHome": 0,
         "offsidesAway": 3,
-        "xgHome": 1.05,
-        "xgAway": 0.38,
+        "xgHome": 1.96,
+        "xgAway": 0.42,
         "bigChancesHome": 2,
         "bigChancesAway": 0,
-        "passesHome": "87% (323/373)",
-        "passesAway": "83% (299/361)",
+        "passesHome": "86% (390/452)",
+        "passesAway": "83% (361/434)",
         "savesHome": 4,
-        "savesAway": 2
+        "savesAway": 3
     },
     "homeLineups": {
         "starting11": [
@@ -93,6 +93,12 @@
         ],
         "substitutes": [
             {
+                "id": 1921,
+                "name": "Y. Sarı",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/1921.png"
+            },
+            {
                 "id": 278162,
                 "name": "D. Dilmen",
                 "number": 98,
@@ -109,12 +115,6 @@
                 "name": "M. Karbownik",
                 "number": 33,
                 "photo": "https://media.api-sports.io/football/players/125618.png"
-            },
-            {
-                "id": 1921,
-                "name": "Y. Sarı",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/1921.png"
             },
             {
                 "id": 128968,
@@ -187,6 +187,12 @@
                 "photo": "https://media.api-sports.io/football/players/3333.png"
             },
             {
+                "id": 143827,
+                "name": "U. Yıldız",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/143827.png"
+            },
+            {
                 "id": 3314,
                 "name": "Show",
                 "number": 14,
@@ -205,25 +211,25 @@
                 "photo": "https://media.api-sports.io/football/players/87791.png"
             },
             {
-                "id": 143827,
-                "name": "U. Yıldız",
-                "number": 22,
-                "photo": "https://media.api-sports.io/football/players/143827.png"
+                "id": 26568,
+                "name": "M. Baku",
+                "number": 32,
+                "photo": "https://media.api-sports.io/football/players/26568.png"
             },
             {
                 "id": 50176,
                 "name": "T. Bingöl",
                 "number": 75,
                 "photo": "https://media.api-sports.io/football/players/50176.png"
-            },
-            {
-                "id": 26568,
-                "name": "M. Baku",
-                "number": 32,
-                "photo": "https://media.api-sports.io/football/players/26568.png"
             }
         ],
         "substitutes": [
+            {
+                "id": 62181,
+                "name": "M. Altunbaş",
+                "number": 26,
+                "photo": "https://media.api-sports.io/football/players/62181.png"
+            },
             {
                 "id": 134492,
                 "name": "O. Piri",
@@ -247,12 +253,6 @@
                 "name": "M. Cinan",
                 "number": 3,
                 "photo": "https://media.api-sports.io/football/players/63034.png"
-            },
-            {
-                "id": 62181,
-                "name": "M. Altunbaş",
-                "number": 26,
-                "photo": "https://media.api-sports.io/football/players/62181.png"
             },
             {
                 "id": 328097,
@@ -328,6 +328,62 @@
             "isHomeTeam": true,
             "playerName": "E. Shomurodov",
             "detail": "A. Olsen"
+        },
+        {
+            "minute": 75,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "B. Yildirim",
+            "detail": "U. Bozok"
+        },
+        {
+            "minute": 75,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Shomurodov",
+            "detail": "D. Selke"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "T. Bingol",
+            "detail": "E. Ortakaya"
+        },
+        {
+            "minute": 81,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "T. Zoukrou",
+            "detail": ""
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "D. Agyei",
+            "detail": "E. Bilim"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Baku",
+            "detail": "A. Ozyar"
+        },
+        {
+            "minute": 89,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Olsen",
+            "detail": "H. Gureler"
+        },
+        {
+            "minute": 89,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "J. Kaluzinski",
+            "detail": "O. Ergun"
         }
     ]
 }
