@@ -284,9 +284,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 54.0,
-            "shotsOnTargetAvg": 1.0,
-            "saves": 0
+            "possessionAvg": 65.0,
+            "shotsOnTargetAvg": 3.0,
+            "saves": 1
         },
         {
             "teamId": "bsk",
@@ -438,7 +438,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 44.0,
+            "possessionAvg": 45.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -466,7 +466,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 56.0,
+            "possessionAvg": 55.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -480,9 +480,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 46.0,
-            "shotsOnTargetAvg": 0.0,
-            "saves": 0
+            "possessionAvg": 35.0,
+            "shotsOnTargetAvg": 1.0,
+            "saves": 2
         },
         {
             "teamId": "sam",
