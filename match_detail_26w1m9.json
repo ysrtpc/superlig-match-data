@@ -1,24 +1,24 @@
 {
-    "elapsed": 37,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 50,
-        "possessionAway": 50,
+        "possessionHome": 51,
+        "possessionAway": 49,
         "shotsHome": 7,
         "shotsAway": 4,
         "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 3,
         "foulsHome": 3,
-        "foulsAway": 4,
+        "foulsAway": 5,
         "cornersHome": 5,
         "cornersAway": 2,
         "offsidesHome": 0,
-        "offsidesAway": 1,
-        "xgHome": 0.76,
+        "offsidesAway": 2,
+        "xgHome": 0.78,
         "xgAway": 0.18,
         "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "85% (150/176)",
-        "passesAway": "82% (146/178)",
+        "passesHome": "86% (178/208)",
+        "passesAway": "81% (162/201)",
         "savesHome": 3,
         "savesAway": 1
     },
@@ -205,16 +205,16 @@
                 "photo": "https://media.api-sports.io/football/players/87791.png"
             },
             {
-                "id": 50176,
-                "name": "T. Bingöl",
-                "number": 75,
-                "photo": "https://media.api-sports.io/football/players/50176.png"
-            },
-            {
                 "id": 143827,
                 "name": "U. Yıldız",
                 "number": 22,
                 "photo": "https://media.api-sports.io/football/players/143827.png"
+            },
+            {
+                "id": 50176,
+                "name": "T. Bingöl",
+                "number": 75,
+                "photo": "https://media.api-sports.io/football/players/50176.png"
             },
             {
                 "id": 26568,
