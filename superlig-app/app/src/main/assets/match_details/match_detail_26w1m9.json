@@ -1,26 +1,26 @@
 {
-    "elapsed": 6,
+    "elapsed": 37,
     "stats": {
-        "possessionHome": 0,
-        "possessionAway": 100,
-        "shotsHome": 0,
-        "shotsAway": 0,
-        "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 0,
-        "cornersHome": 0,
-        "cornersAway": 0,
+        "possessionHome": 50,
+        "possessionAway": 50,
+        "shotsHome": 7,
+        "shotsAway": 4,
+        "shotsOnTargetHome": 2,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 3,
+        "foulsAway": 4,
+        "cornersHome": 5,
+        "cornersAway": 2,
         "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 0.0,
-        "xgAway": 0.0,
-        "bigChancesHome": 0,
+        "offsidesAway": 1,
+        "xgHome": 0.76,
+        "xgAway": 0.18,
+        "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "None% (0/0)",
-        "passesAway": "100% (1/1)",
-        "savesHome": 0,
-        "savesAway": 0
+        "passesHome": "85% (150/176)",
+        "passesAway": "82% (146/178)",
+        "savesHome": 3,
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -163,22 +163,22 @@
                 "photo": "https://media.api-sports.io/football/players/302863.png"
             },
             {
-                "id": 143827,
-                "name": "U. Yıldız",
-                "number": 22,
-                "photo": "https://media.api-sports.io/football/players/143827.png"
-            },
-            {
-                "id": 19828,
-                "name": "A. Dijksteel",
-                "number": 2,
-                "photo": "https://media.api-sports.io/football/players/19828.png"
+                "id": 31280,
+                "name": "R. Rivas",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/31280.png"
             },
             {
                 "id": 282546,
                 "name": "T. Zoukrou",
                 "number": 4,
                 "photo": "https://media.api-sports.io/football/players/282546.png"
+            },
+            {
+                "id": 19828,
+                "name": "A. Dijksteel",
+                "number": 2,
+                "photo": "https://media.api-sports.io/football/players/19828.png"
             },
             {
                 "id": 3333,
@@ -199,10 +199,10 @@
                 "photo": "https://media.api-sports.io/football/players/264627.png"
             },
             {
-                "id": 26568,
-                "name": "M. Baku",
-                "number": 32,
-                "photo": "https://media.api-sports.io/football/players/26568.png"
+                "id": 87791,
+                "name": "D. Agyei",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/87791.png"
             },
             {
                 "id": 50176,
@@ -211,16 +211,16 @@
                 "photo": "https://media.api-sports.io/football/players/50176.png"
             },
             {
-                "id": 87791,
-                "name": "D. Agyei",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/87791.png"
+                "id": 143827,
+                "name": "U. Yıldız",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/143827.png"
             },
             {
-                "id": 31280,
-                "name": "R. Rivas",
-                "number": 99,
-                "photo": "https://media.api-sports.io/football/players/31280.png"
+                "id": 26568,
+                "name": "M. Baku",
+                "number": 32,
+                "photo": "https://media.api-sports.io/football/players/26568.png"
             }
         ],
         "substitutes": [
@@ -286,5 +286,20 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 14,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "C. Operi",
+            "detail": "A. Fayzullaev"
+        },
+        {
+            "minute": 31,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "T. Bingol",
+            "detail": ""
+        }
+    ]
 }
