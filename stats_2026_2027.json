@@ -284,7 +284,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 65.0,
+            "possessionAvg": 64.0,
             "shotsOnTargetAvg": 3.0,
             "saves": 1
         },
@@ -438,7 +438,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 45.0,
+            "possessionAvg": 46.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -466,7 +466,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 55.0,
+            "possessionAvg": 54.0,
             "shotsOnTargetAvg": 0.0,
             "saves": 0
         },
@@ -480,7 +480,7 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 35.0,
+            "possessionAvg": 36.0,
             "shotsOnTargetAvg": 1.0,
             "saves": 2
         },
@@ -501,12 +501,12 @@
         {
             "teamId": "cor",
             "yellowCards": 0,
-            "redCards": 1,
+            "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 2,
-            "goalsConceded": 2,
-            "npxg": 1.8,
+            "goalsScored": 0,
+            "goalsConceded": 0,
+            "npxg": 0.0,
             "cleanSheets": 0,
             "possessionAvg": 36.0,
             "shotsOnTargetAvg": 3.0,
