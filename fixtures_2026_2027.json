@@ -135,10 +135,13 @@
         "away": "koc",
         "awayName": "Kocaelispor",
         "awayColor": "0xFF008000",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "16 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 6
     },
     {
         "id": "26w2m10",
