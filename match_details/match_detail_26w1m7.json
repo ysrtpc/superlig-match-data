@@ -1,24 +1,24 @@
 {
-    "elapsed": 45,
+    "elapsed": 62,
     "stats": {
-        "possessionHome": 66,
-        "possessionAway": 34,
-        "shotsHome": 8,
-        "shotsAway": 11,
+        "possessionHome": 69,
+        "possessionAway": 31,
+        "shotsHome": 13,
+        "shotsAway": 14,
         "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 4,
-        "foulsAway": 8,
-        "cornersHome": 1,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 5,
+        "foulsAway": 9,
+        "cornersHome": 2,
         "cornersAway": 7,
         "offsidesHome": 0,
         "offsidesAway": 0,
-        "xgHome": 1.25,
-        "xgAway": 0.39,
+        "xgHome": 2.19,
+        "xgAway": 0.96,
         "bigChancesHome": 2,
-        "bigChancesAway": 1,
-        "passesHome": "73% (160/218)",
-        "passesAway": "55% (61/110)",
+        "bigChancesAway": 2,
+        "passesHome": "75% (212/281)",
+        "passesAway": "57% (73/127)",
         "savesHome": 2,
         "savesAway": 0
     },
@@ -55,22 +55,16 @@
                 "photo": "https://media.api-sports.io/football/players/28806.png"
             },
             {
-                "id": 453,
-                "name": "C. Yüksel",
-                "number": 5,
-                "photo": "https://media.api-sports.io/football/players/453.png"
-            },
-            {
                 "id": 290046,
                 "name": "A. Makoumbou",
                 "number": 29,
                 "photo": "https://media.api-sports.io/football/players/290046.png"
             },
             {
-                "id": 50091,
-                "name": "E. Kılınç",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/50091.png"
+                "id": 453,
+                "name": "C. Yüksel",
+                "number": 5,
+                "photo": "https://media.api-sports.io/football/players/453.png"
             },
             {
                 "id": 50181,
@@ -89,6 +83,12 @@
                 "name": "M. Mouandilmadji",
                 "number": 9,
                 "photo": "https://media.api-sports.io/football/players/531370.png"
+            },
+            {
+                "id": 50091,
+                "name": "E. Kılınç",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/50091.png"
             }
         ],
         "substitutes": [
@@ -309,6 +309,41 @@
             "isHomeTeam": true,
             "playerName": "E. Kilinc",
             "detail": "J. Mendes"
+        },
+        {
+            "minute": 46,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "S. Armstrong",
+            "detail": ""
+        },
+        {
+            "minute": 52,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "S. Armstrong",
+            "detail": ""
+        },
+        {
+            "minute": 52,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "T. Borevkovic",
+            "detail": ""
+        },
+        {
+            "minute": 56,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Godoi",
+            "detail": ""
+        },
+        {
+            "minute": 58,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "Marius",
+            "detail": "Marius"
         }
     ]
 }
