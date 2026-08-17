@@ -111,12 +111,12 @@
         "awayName": "Göztepe",
         "awayColor": "0xFFFFD700",
         "homeScore": 2,
-        "awayScore": 2,
+        "awayScore": 3,
         "date": "17 Ağu 2026",
         "time": "21:30",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 62
+        "elapsed": 84
     },
     {
         "id": "26w1m8",

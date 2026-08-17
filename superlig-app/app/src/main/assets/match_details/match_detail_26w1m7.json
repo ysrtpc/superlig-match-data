@@ -1,25 +1,25 @@
 {
-    "elapsed": 62,
+    "elapsed": 84,
     "stats": {
-        "possessionHome": 69,
-        "possessionAway": 31,
-        "shotsHome": 13,
-        "shotsAway": 14,
+        "possessionHome": 67,
+        "possessionAway": 33,
+        "shotsHome": 16,
+        "shotsAway": 18,
         "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 4,
-        "foulsHome": 5,
-        "foulsAway": 9,
+        "shotsOnTargetAway": 7,
+        "foulsHome": 7,
+        "foulsAway": 10,
         "cornersHome": 2,
-        "cornersAway": 7,
-        "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 2.19,
-        "xgAway": 0.96,
+        "cornersAway": 8,
+        "offsidesHome": 1,
+        "offsidesAway": 1,
+        "xgHome": 2.34,
+        "xgAway": 1.71,
         "bigChancesHome": 2,
-        "bigChancesAway": 2,
-        "passesHome": "75% (212/281)",
-        "passesAway": "57% (73/127)",
-        "savesHome": 2,
+        "bigChancesAway": 3,
+        "passesHome": "78% (311/401)",
+        "passesAway": "60% (120/200)",
+        "savesHome": 4,
         "savesAway": 0
     },
     "homeLineups": {
@@ -344,6 +344,62 @@
             "isHomeTeam": true,
             "playerName": "Marius",
             "detail": "Marius"
+        },
+        {
+            "minute": 60,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Antunes",
+            "detail": "E. Bekiroglu"
+        },
+        {
+            "minute": 60,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Matos",
+            "detail": "Rhaldney"
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Henrique",
+            "detail": "Janderson"
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Armstrong",
+            "detail": "J. Santos"
+        },
+        {
+            "minute": 65,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "E. Bekiroglu",
+            "detail": "Janderson"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Marius",
+            "detail": "F. Kaya"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Y. Kayan",
+            "detail": "S. Onur"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "S. Jarju",
+            "detail": "A. Sekongo"
         }
     ]
 }

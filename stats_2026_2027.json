@@ -354,8 +354,8 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 31.0,
-            "shotsOnTargetAvg": 4.0,
+            "possessionAvg": 33.0,
+            "shotsOnTargetAvg": 7.0,
             "saves": 0
         },
         {
@@ -494,9 +494,9 @@
             "goalsConceded": 0,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 69.0,
+            "possessionAvg": 67.0,
             "shotsOnTargetAvg": 2.0,
-            "saves": 2
+            "saves": 4
         },
         {
             "teamId": "cor",
