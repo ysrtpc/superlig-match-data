@@ -110,13 +110,13 @@
         "away": "goz",
         "awayName": "Göztepe",
         "awayColor": "0xFFFFD700",
-        "homeScore": 2,
+        "homeScore": 3,
         "awayScore": 3,
         "date": "17 Ağu 2026",
         "time": "21:30",
-        "isLive": true,
-        "status": "LIVE",
-        "elapsed": 84
+        "isLive": false,
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "26w1m8",
