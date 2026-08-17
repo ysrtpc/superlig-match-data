@@ -295,17 +295,10 @@
             "detail": "A. Fayzullaev"
         },
         {
-            "minute": 29,
-            "type": "YELLOW_CARD",
-            "isHomeTeam": false,
-            "playerName": "S. Inan",
-            "detail": ""
-        },
-        {
             "minute": 31,
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
-            "playerName": "T. Bingol",
+            "playerName": "T. Bingöl",
             "detail": ""
         },
         {
@@ -320,14 +313,14 @@
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "A. Fayzullaev",
-            "detail": "Y. Sari"
+            "detail": "Y. Sarı"
         },
         {
             "minute": 67,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
             "playerName": "B. Kutlu",
-            "detail": "M. Altunbas"
+            "detail": "M. Altunbaş"
         },
         {
             "minute": 72,
@@ -340,21 +333,21 @@
             "minute": 75,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "B. Yildirim",
-            "detail": "U. Bozok"
+            "playerName": "E. Shomurodov",
+            "detail": "D. Selke"
         },
         {
             "minute": 75,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "E. Shomurodov",
-            "detail": "D. Selke"
+            "playerName": "B. Yıldırım",
+            "detail": "U. Bozok"
         },
         {
             "minute": 76,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
-            "playerName": "T. Bingol",
+            "playerName": "T. Bingöl",
             "detail": "E. Ortakaya"
         },
         {
@@ -368,36 +361,36 @@
             "minute": 85,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
-            "playerName": "D. Agyei",
-            "detail": "E. Bilim"
+            "playerName": "M. Baku",
+            "detail": "A. Ozyar"
         },
         {
             "minute": 85,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
-            "playerName": "M. Baku",
-            "detail": "A. Ozyar"
+            "playerName": "D. Agyei",
+            "detail": "E. Bilim"
         },
         {
             "minute": 89,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
             "playerName": "A. Olsen",
-            "detail": "H. Gureler"
-        },
-        {
-            "minute": 90,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": true,
-            "playerName": "J. Kaluzinski",
-            "detail": "O. Ergun"
+            "detail": "H. Güreler"
         },
         {
             "minute": 90,
             "type": "YELLOW_CARD",
             "isHomeTeam": true,
-            "playerName": "O. Sahiner",
+            "playerName": "Ö. Şahiner",
             "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "J. Kałuziński",
+            "detail": "O. Ergün"
         }
     ]
 }

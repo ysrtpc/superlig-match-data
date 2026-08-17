@@ -1,8 +1,8 @@
 {
     "elapsed": 90,
     "stats": {
-        "possessionHome": 41,
-        "possessionAway": 59,
+        "possessionHome": 40,
+        "possessionAway": 60,
         "shotsHome": 9,
         "shotsAway": 13,
         "shotsOnTargetHome": 4,
@@ -13,12 +13,12 @@
         "cornersAway": 10,
         "offsidesHome": 0,
         "offsidesAway": 2,
-        "xgHome": 1.7,
-        "xgAway": 0.79,
+        "xgHome": 1.86,
+        "xgAway": 0.85,
         "bigChancesHome": 2,
         "bigChancesAway": 1,
-        "passesHome": "78% (261/334)",
-        "passesAway": "86% (408/477)",
+        "passesHome": "78% (260/332)",
+        "passesAway": "86% (420/490)",
         "savesHome": 4,
         "savesAway": 3
     },
@@ -55,16 +55,16 @@
                 "photo": "https://media.api-sports.io/football/players/428299.png"
             },
             {
-                "id": 438682,
-                "name": "E. Mendes",
-                "number": 51,
-                "photo": "https://media.api-sports.io/football/players/438682.png"
-            },
-            {
                 "id": 89723,
                 "name": "A. Baldursson",
                 "number": 16,
                 "photo": "https://media.api-sports.io/football/players/89723.png"
+            },
+            {
+                "id": 438682,
+                "name": "E. Mendes",
+                "number": 51,
+                "photo": "https://media.api-sports.io/football/players/438682.png"
             },
             {
                 "id": 49469,
@@ -74,13 +74,13 @@
             },
             {
                 "id": 50101,
-                "name": "F. Diabate",
+                "name": "F. Diabaté",
                 "number": 34,
                 "photo": "https://media.api-sports.io/football/players/50101.png"
             },
             {
                 "id": 2005,
-                "name": "G. Yalcin",
+                "name": "G. Yalçın",
                 "number": 50,
                 "photo": "https://media.api-sports.io/football/players/2005.png"
             },
@@ -93,34 +93,10 @@
         ],
         "substitutes": [
             {
-                "id": 63222,
-                "name": "A. Yanar",
-                "number": 25,
-                "photo": "https://media.api-sports.io/football/players/63222.png"
-            },
-            {
-                "id": 380253,
-                "name": "A. Karapo",
-                "number": 45,
-                "photo": "https://media.api-sports.io/football/players/380253.png"
-            },
-            {
-                "id": 627786,
-                "name": "A. Dagbasi",
-                "number": 30,
-                "photo": "https://media.api-sports.io/football/players/627786.png"
-            },
-            {
                 "id": 50067,
-                "name": "H. Hajradinovic",
+                "name": "H. Hajradinović",
                 "number": 10,
                 "photo": "https://media.api-sports.io/football/players/50067.png"
-            },
-            {
-                "id": 280495,
-                "name": "A. Mujde",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/280495.png"
             },
             {
                 "id": 338745,
@@ -129,16 +105,34 @@
                 "photo": "https://media.api-sports.io/football/players/338745.png"
             },
             {
+                "id": 380253,
+                "name": "A. Karapo",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/380253.png"
+            },
+            {
+                "id": 441998,
+                "name": "S. Alkas",
+                "number": 23,
+                "photo": "https://media.api-sports.io/football/players/441998.png"
+            },
+            {
+                "id": 63222,
+                "name": "A. Yanar",
+                "number": 25,
+                "photo": "https://media.api-sports.io/football/players/63222.png"
+            },
+            {
+                "id": 627786,
+                "name": "A. Dağbaşı",
+                "number": 30,
+                "photo": "https://media.api-sports.io/football/players/627786.png"
+            },
+            {
                 "id": 651233,
                 "name": "E. Boz",
                 "number": 66,
                 "photo": "https://media.api-sports.io/football/players/651233.png"
-            },
-            {
-                "id": 461,
-                "name": "A. Kol",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/461.png"
             },
             {
                 "id": 329642,
@@ -147,10 +141,16 @@
                 "photo": "https://media.api-sports.io/football/players/329642.png"
             },
             {
-                "id": 639664,
-                "name": "S. Alkas",
-                "number": 23,
-                "photo": "https://media.api-sports.io/football/players/639664.png"
+                "id": 280495,
+                "name": "A. Mujde",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/280495.png"
+            },
+            {
+                "id": 461,
+                "name": "A. Kol",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/461.png"
             }
         ]
     },
@@ -176,13 +176,13 @@
             },
             {
                 "id": 39,
-                "name": "S. Savic",
+                "name": "S. Savić",
                 "number": 15,
                 "photo": "https://media.api-sports.io/football/players/39.png"
             },
             {
                 "id": 62323,
-                "name": "M. Eskihellac",
+                "name": "M. Eskihellaç",
                 "number": 19,
                 "photo": "https://media.api-sports.io/football/players/62323.png"
             },
@@ -206,13 +206,13 @@
             },
             {
                 "id": 161790,
-                "name": "A. Simsir",
+                "name": "A. Şimşir",
                 "number": 58,
                 "photo": "https://media.api-sports.io/football/players/161790.png"
             },
             {
                 "id": 107660,
-                "name": "M. Mimaroglu",
+                "name": "M. Mimaroğlu",
                 "number": 77,
                 "photo": "https://media.api-sports.io/football/players/107660.png"
             },
@@ -225,28 +225,10 @@
         ],
         "substitutes": [
             {
-                "id": 479721,
-                "name": "A. Yildirim",
-                "number": 1,
-                "photo": "https://media.api-sports.io/football/players/479721.png"
-            },
-            {
-                "id": 394215,
-                "name": "O. Cevikkan",
-                "number": 25,
-                "photo": "https://media.api-sports.io/football/players/394215.png"
-            },
-            {
-                "id": 62490,
-                "name": "S. Akaydin",
-                "number": 4,
-                "photo": "https://media.api-sports.io/football/players/62490.png"
-            },
-            {
-                "id": 72048,
-                "name": "C. Ozkacar",
-                "number": 39,
-                "photo": "https://media.api-sports.io/football/players/72048.png"
+                "id": 306,
+                "name": "M. Salah",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/306.png"
             },
             {
                 "id": 308689,
@@ -255,22 +237,40 @@
                 "photo": "https://media.api-sports.io/football/players/308689.png"
             },
             {
-                "id": 49942,
-                "name": "O. Tufan",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/49942.png"
-            },
-            {
                 "id": 158431,
                 "name": "M. Kabasakal",
                 "number": 57,
                 "photo": "https://media.api-sports.io/football/players/158431.png"
             },
             {
-                "id": 306,
-                "name": "M. Salah",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/306.png"
+                "id": 49942,
+                "name": "O. Tufan",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/49942.png"
+            },
+            {
+                "id": 394215,
+                "name": "O. Çevikkan",
+                "number": 25,
+                "photo": "https://media.api-sports.io/football/players/394215.png"
+            },
+            {
+                "id": 479721,
+                "name": "A. Yıldırım",
+                "number": 1,
+                "photo": "https://media.api-sports.io/football/players/479721.png"
+            },
+            {
+                "id": 62490,
+                "name": "S. Akaydın",
+                "number": 4,
+                "photo": "https://media.api-sports.io/football/players/62490.png"
+            },
+            {
+                "id": 72048,
+                "name": "C. Özkaçar",
+                "number": 39,
+                "photo": "https://media.api-sports.io/football/players/72048.png"
             },
             {
                 "id": 50246,
@@ -299,14 +299,14 @@
             "type": "GOAL",
             "isHomeTeam": false,
             "playerName": "N. Saviolo",
-            "detail": "M. Mimaroglu"
+            "detail": "M. Mimaroğlu"
         },
         {
             "minute": 46,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "F. Diabate",
-            "detail": "H. Hajradinovic"
+            "playerName": "F. Diabaté",
+            "detail": "H. Hajradinović"
         },
         {
             "minute": 55,
@@ -319,8 +319,15 @@
             "minute": 58,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
-            "playerName": "M. Mimaroglu",
+            "playerName": "M. Mimaroğlu",
             "detail": "M. Salah"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Şimşir",
+            "detail": "M. Kabasakal"
         },
         {
             "minute": 67,
@@ -328,13 +335,6 @@
             "isHomeTeam": false,
             "playerName": "N. Saviolo",
             "detail": "S. Cabral"
-        },
-        {
-            "minute": 67,
-            "type": "SUBSTITUTION",
-            "isHomeTeam": false,
-            "playerName": "A. Simsir",
-            "detail": "M. Kabasakal"
         },
         {
             "minute": 68,
@@ -354,7 +354,7 @@
             "minute": 82,
             "type": "SUBSTITUTION",
             "isHomeTeam": true,
-            "playerName": "G. Yalcin",
+            "playerName": "G. Yalçın",
             "detail": "A. Karapo"
         },
         {

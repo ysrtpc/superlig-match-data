@@ -2,6 +2,15 @@
     "topScorers": [
         {
             "id": "26p1",
+            "name": "D. Sabia",
+            "teamId": "ame",
+            "goals": 2,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p2",
             "name": "V. Osimhen",
             "teamId": "gs",
             "goals": 2,
@@ -10,7 +19,16 @@
             "position": "Forvet"
         },
         {
-            "id": "26p2",
+            "id": "26p3",
+            "name": "G. Gül",
+            "teamId": "ame",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p4",
             "name": "N. Saviolo",
             "teamId": "ts",
             "goals": 1,
@@ -19,7 +37,7 @@
             "position": "Forvet"
         },
         {
-            "id": "26p3",
+            "id": "26p5",
             "name": "A. Kyziridis",
             "teamId": "cor",
             "goals": 1,
@@ -28,7 +46,16 @@
             "position": "Forvet"
         },
         {
-            "id": "26p4",
+            "id": "26p6",
+            "name": "E. Shomurodov",
+            "teamId": "bsk",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p7",
             "name": "D. Sorescu",
             "teamId": "gfk",
             "goals": 1,
@@ -37,7 +64,7 @@
             "position": "Forvet"
         },
         {
-            "id": "26p5",
+            "id": "26p8",
             "name": "Ruan",
             "teamId": "ala",
             "goals": 1,
@@ -46,34 +73,16 @@
             "position": "Forvet"
         },
         {
-            "id": "26p6",
-            "name": "C. Ramírez",
-            "teamId": "cor",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Forvet"
-        },
-        {
-            "id": "26p7",
-            "name": "F. Tongya",
-            "teamId": "gcl",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Forvet"
-        },
-        {
-            "id": "26p8",
-            "name": "O. Ülgün",
-            "teamId": "gcl",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Forvet"
-        },
-        {
             "id": "26p9",
+            "name": "V. Černý",
+            "teamId": "bjk",
+            "goals": 1,
+            "assists": 0,
+            "matches": 1,
+            "position": "Forvet"
+        },
+        {
+            "id": "26p10",
             "name": "Talisca",
             "teamId": "fb",
             "goals": 1,
@@ -82,18 +91,9 @@
             "position": "Forvet"
         },
         {
-            "id": "26p10",
-            "name": "A. Benedyczak",
-            "teamId": "kas",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Forvet"
-        },
-        {
             "id": "26p11",
-            "name": "Q. Laçi",
-            "teamId": "rize",
+            "name": "C. Ramírez",
+            "teamId": "cor",
             "goals": 1,
             "assists": 0,
             "matches": 1,
@@ -101,37 +101,37 @@
         },
         {
             "id": "26p12",
-            "name": "M. Mimaroğlu",
-            "teamId": "ts",
-            "goals": 0,
-            "assists": 1,
+            "name": "F. Tongya",
+            "teamId": "gcl",
+            "goals": 1,
+            "assists": 0,
             "matches": 1,
             "position": "Forvet"
         },
         {
             "id": "26p13",
-            "name": "J. Bacuna",
-            "teamId": "gfk",
-            "goals": 0,
-            "assists": 1,
+            "name": "O. Ülgün",
+            "teamId": "gcl",
+            "goals": 1,
+            "assists": 0,
             "matches": 1,
             "position": "Forvet"
         },
         {
             "id": "26p14",
-            "name": "Fredy",
-            "teamId": "cor",
-            "goals": 0,
-            "assists": 1,
+            "name": "C. Operi",
+            "teamId": "bsk",
+            "goals": 1,
+            "assists": 0,
             "matches": 1,
             "position": "Forvet"
         },
         {
             "id": "26p15",
-            "name": "L. Torreira",
-            "teamId": "gs",
-            "goals": 0,
-            "assists": 1,
+            "name": "A. Benedyczak",
+            "teamId": "kas",
+            "goals": 1,
+            "assists": 0,
             "matches": 1,
             "position": "Forvet"
         }
@@ -139,6 +139,15 @@
     "topAssists": [
         {
             "id": "26a1",
+            "name": "S. Ballet",
+            "teamId": "ame",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a2",
             "name": "M. Mimaroğlu",
             "teamId": "ts",
             "goals": 0,
@@ -147,7 +156,16 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a2",
+            "id": "26a3",
+            "name": "A. Fayzullaev",
+            "teamId": "bsk",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a4",
             "name": "J. Bacuna",
             "teamId": "gfk",
             "goals": 0,
@@ -156,7 +174,7 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a3",
+            "id": "26a5",
             "name": "Fredy",
             "teamId": "cor",
             "goals": 0,
@@ -165,7 +183,7 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a4",
+            "id": "26a6",
             "name": "L. Torreira",
             "teamId": "gs",
             "goals": 0,
@@ -174,7 +192,7 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a5",
+            "id": "26a7",
             "name": "A. Dursun",
             "teamId": "gcl",
             "goals": 0,
@@ -183,7 +201,7 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a6",
+            "id": "26a8",
             "name": "S. Koïta",
             "teamId": "gcl",
             "goals": 0,
@@ -192,16 +210,34 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a7",
-            "name": "G. Sara",
-            "teamId": "gs",
+            "id": "26a9",
+            "name": "G. Orban",
+            "teamId": "ame",
             "goals": 0,
             "assists": 1,
             "matches": 1,
             "position": "Orta Saha"
         },
         {
-            "id": "26a8",
+            "id": "26a10",
+            "name": "J. Olaitan",
+            "teamId": "bjk",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a11",
+            "name": "A. Olsen",
+            "teamId": "bsk",
+            "goals": 0,
+            "assists": 1,
+            "matches": 1,
+            "position": "Orta Saha"
+        },
+        {
+            "id": "26a12",
             "name": "L. Mercan",
             "teamId": "fb",
             "goals": 0,
@@ -210,64 +246,28 @@
             "position": "Orta Saha"
         },
         {
-            "id": "26a9",
-            "name": "V. Osimhen",
-            "teamId": "gs",
-            "goals": 2,
-            "assists": 0,
-            "matches": 1,
-            "position": "Orta Saha"
-        },
-        {
-            "id": "26a10",
-            "name": "N. Saviolo",
-            "teamId": "ts",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Orta Saha"
-        },
-        {
-            "id": "26a11",
-            "name": "A. Kyziridis",
-            "teamId": "cor",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Orta Saha"
-        },
-        {
-            "id": "26a12",
-            "name": "D. Sorescu",
-            "teamId": "gfk",
-            "goals": 1,
-            "assists": 0,
-            "matches": 1,
-            "position": "Orta Saha"
-        },
-        {
             "id": "26a13",
-            "name": "Ruan",
-            "teamId": "ala",
-            "goals": 1,
-            "assists": 0,
+            "name": "L. Dellova",
+            "teamId": "ame",
+            "goals": 0,
+            "assists": 1,
             "matches": 1,
             "position": "Orta Saha"
         },
         {
             "id": "26a14",
-            "name": "C. Ramírez",
-            "teamId": "cor",
-            "goals": 1,
-            "assists": 0,
+            "name": "G. Sara",
+            "teamId": "gs",
+            "goals": 0,
+            "assists": 1,
             "matches": 1,
             "position": "Orta Saha"
         },
         {
             "id": "26a15",
-            "name": "F. Tongya",
-            "teamId": "gcl",
-            "goals": 1,
+            "name": "D. Sabia",
+            "teamId": "ame",
+            "goals": 2,
             "assists": 0,
             "matches": 1,
             "position": "Orta Saha"
@@ -276,27 +276,27 @@
     "teamStats": [
         {
             "teamId": "bjk",
-            "yellowCards": 0,
+            "yellowCards": 2,
             "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
+            "goalsScored": 1,
             "goalsConceded": 0,
-            "npxg": 0.0,
+            "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 64.0,
-            "shotsOnTargetAvg": 3.0,
+            "possessionAvg": 66.0,
+            "shotsOnTargetAvg": 5.0,
             "saves": 1
         },
         {
             "teamId": "bsk",
-            "yellowCards": 0,
+            "yellowCards": 2,
             "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
+            "goalsScored": 2,
             "goalsConceded": 0,
-            "npxg": 0.0,
+            "npxg": 1.8,
             "cleanSheets": 1,
             "possessionAvg": 51.0,
             "shotsOnTargetAvg": 5.0,
@@ -312,7 +312,7 @@
             "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 43.0,
+            "possessionAvg": 44.0,
             "shotsOnTargetAvg": 3.0,
             "saves": 4
         },
@@ -396,7 +396,7 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 0,
-            "possessionAvg": 59.0,
+            "possessionAvg": 60.0,
             "shotsOnTargetAvg": 5.0,
             "saves": 3
         },
@@ -410,7 +410,7 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 0,
-            "possessionAvg": 41.0,
+            "possessionAvg": 40.0,
             "shotsOnTargetAvg": 4.0,
             "saves": 4
         },
@@ -424,7 +424,7 @@
             "goalsConceded": 0,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 57.0,
+            "possessionAvg": 56.0,
             "shotsOnTargetAvg": 5.0,
             "saves": 3
         },
@@ -435,12 +435,12 @@
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
             "goalsScored": 0,
-            "goalsConceded": 0,
+            "goalsConceded": 3,
             "npxg": 0.0,
-            "cleanSheets": 1,
-            "possessionAvg": 46.0,
-            "shotsOnTargetAvg": 0.0,
-            "saves": 0
+            "cleanSheets": 0,
+            "possessionAvg": 53.0,
+            "shotsOnTargetAvg": 1.0,
+            "saves": 2
         },
         {
             "teamId": "gfk",
@@ -458,31 +458,31 @@
         },
         {
             "teamId": "ame",
-            "yellowCards": 0,
+            "yellowCards": 1,
             "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
+            "goalsScored": 3,
             "goalsConceded": 0,
-            "npxg": 0.0,
+            "npxg": 2.7,
             "cleanSheets": 1,
-            "possessionAvg": 54.0,
-            "shotsOnTargetAvg": 0.0,
-            "saves": 0
+            "possessionAvg": 47.0,
+            "shotsOnTargetAvg": 5.0,
+            "saves": 1
         },
         {
             "teamId": "eyup",
-            "yellowCards": 0,
-            "redCards": 0,
+            "yellowCards": 3,
+            "redCards": 1,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
             "goalsScored": 0,
-            "goalsConceded": 0,
+            "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 36.0,
+            "possessionAvg": 34.0,
             "shotsOnTargetAvg": 1.0,
-            "saves": 2
+            "saves": 4
         },
         {
             "teamId": "sam",
@@ -501,12 +501,12 @@
         {
             "teamId": "cor",
             "yellowCards": 0,
-            "redCards": 0,
+            "redCards": 1,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
-            "goalsScored": 0,
-            "goalsConceded": 0,
-            "npxg": 0.0,
+            "goalsScored": 2,
+            "goalsConceded": 2,
+            "npxg": 1.8,
             "cleanSheets": 0,
             "possessionAvg": 36.0,
             "shotsOnTargetAvg": 3.0,
@@ -514,12 +514,12 @@
         },
         {
             "teamId": "koc",
-            "yellowCards": 0,
+            "yellowCards": 2,
             "redCards": 0,
             "penaltiesWon": 0,
             "penaltiesTotal": 0,
             "goalsScored": 0,
-            "goalsConceded": 0,
+            "goalsConceded": 2,
             "npxg": 0.0,
             "cleanSheets": 0,
             "possessionAvg": 49.0,
