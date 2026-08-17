@@ -1,25 +1,25 @@
 {
-    "elapsed": 36,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 68,
-        "possessionAway": 32,
-        "shotsHome": 5,
-        "shotsAway": 8,
-        "shotsOnTargetHome": 1,
-        "shotsOnTargetAway": 2,
-        "foulsHome": 1,
-        "foulsAway": 7,
-        "cornersHome": 0,
-        "cornersAway": 3,
+        "possessionHome": 66,
+        "possessionAway": 34,
+        "shotsHome": 8,
+        "shotsAway": 11,
+        "shotsOnTargetHome": 2,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 4,
+        "foulsAway": 8,
+        "cornersHome": 1,
+        "cornersAway": 7,
         "offsidesHome": 0,
         "offsidesAway": 0,
-        "xgHome": 0.91,
-        "xgAway": 0.28,
-        "bigChancesHome": 1,
+        "xgHome": 1.25,
+        "xgAway": 0.39,
+        "bigChancesHome": 2,
         "bigChancesAway": 1,
-        "passesHome": "77% (114/148)",
-        "passesAway": "54% (37/68)",
-        "savesHome": 1,
+        "passesHome": "73% (160/218)",
+        "passesAway": "55% (61/110)",
+        "savesHome": 2,
         "savesAway": 0
     },
     "homeLineups": {
@@ -302,6 +302,13 @@
             "isHomeTeam": true,
             "playerName": "Marius",
             "detail": ""
+        },
+        {
+            "minute": 43,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "E. Kilinc",
+            "detail": "J. Mendes"
         }
     ]
 }
