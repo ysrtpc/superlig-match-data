@@ -1,24 +1,24 @@
 {
-    "elapsed": 10,
+    "elapsed": 43,
     "stats": {
-        "possessionHome": 50,
-        "possessionAway": 50,
-        "shotsHome": 0,
-        "shotsAway": 0,
+        "possessionHome": 58,
+        "possessionAway": 42,
+        "shotsHome": 2,
+        "shotsAway": 3,
         "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 0,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 2,
+        "foulsAway": 5,
         "cornersHome": 0,
-        "cornersAway": 0,
-        "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 0.0,
-        "xgAway": 0.0,
+        "cornersAway": 1,
+        "offsidesHome": 2,
+        "offsidesAway": 1,
+        "xgHome": 0.14,
+        "xgAway": 0.62,
         "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "",
-        "passesAway": "",
+        "bigChancesAway": 2,
+        "passesHome": "89% (120/135)",
+        "passesAway": "89% (84/94)",
         "savesHome": 0,
         "savesAway": 0
     },
@@ -286,5 +286,20 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 12,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "R. Sallai",
+            "detail": ""
+        },
+        {
+            "minute": 20,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "Y. Akgun",
+            "detail": "V. Osimhen"
+        }
+    ]
 }
