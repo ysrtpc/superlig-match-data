@@ -205,13 +205,14 @@
         "away": "lyon",
         "awayName": "Olympique Lyon",
         "awayColor": "0xFF00205B",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 1,
+        "awayScore": 1,
         "date": "18 Ağustos 2026",
         "time": "22:00",
         "competition": "Şampiyonlar Ligi",
         "isLive": false,
-        "status": "NOT_PLAYED"
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "eu_1622630",
@@ -240,14 +241,14 @@
         "away": "kaunožal",
         "awayName": "Kauno Žalgiris",
         "awayColor": "0xFFFFFFFF",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 3,
+        "awayScore": 0,
         "date": "20 Ağustos 2026",
         "time": "17:00",
         "competition": "Avrupa Ligi",
         "isLive": false,
-        "status": "NOT_PLAYED",
-        "elapsed": null
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "eu_1623447",

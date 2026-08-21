@@ -1,0 +1,399 @@
+{
+    "elapsed": 90,
+    "stats": {
+        "possessionHome": 52,
+        "possessionAway": 48,
+        "shotsHome": 12,
+        "shotsAway": 12,
+        "shotsOnTargetHome": 5,
+        "shotsOnTargetAway": 5,
+        "foulsHome": 13,
+        "foulsAway": 13,
+        "cornersHome": 3,
+        "cornersAway": 0,
+        "offsidesHome": 3,
+        "offsidesAway": 1,
+        "xgHome": 0.0,
+        "xgAway": 0.0,
+        "bigChancesHome": 1,
+        "bigChancesAway": 1,
+        "passesHome": "86% (389/454)",
+        "passesAway": "86% (373/432)",
+        "savesHome": 4,
+        "savesAway": 4
+    },
+    "homeLineups": {
+        "starting11": [
+            {
+                "id": 617,
+                "name": "Ederson",
+                "number": 31,
+                "photo": "https://media.api-sports.io/football/players/617.png"
+            },
+            {
+                "id": 130,
+                "name": "N. Semedo",
+                "number": 27,
+                "photo": "https://media.api-sports.io/football/players/130.png"
+            },
+            {
+                "id": 198,
+                "name": "M. Skriniar",
+                "number": 37,
+                "photo": "https://media.api-sports.io/football/players/198.png"
+            },
+            {
+                "id": 18861,
+                "name": "N. Ake",
+                "number": 15,
+                "photo": "https://media.api-sports.io/football/players/18861.png"
+            },
+            {
+                "id": 161661,
+                "name": "A. Brown",
+                "number": 3,
+                "photo": "https://media.api-sports.io/football/players/161661.png"
+            },
+            {
+                "id": 2290,
+                "name": "N. Kante",
+                "number": 91,
+                "photo": "https://media.api-sports.io/football/players/2290.png"
+            },
+            {
+                "id": 1454,
+                "name": "M. Guendouzi",
+                "number": 6,
+                "photo": "https://media.api-sports.io/football/players/1454.png"
+            },
+            {
+                "id": 897,
+                "name": "M. Greenwood",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/897.png"
+            },
+            {
+                "id": 12724,
+                "name": "Talisca",
+                "number": 94,
+                "photo": "https://media.api-sports.io/football/players/12724.png"
+            },
+            {
+                "id": 142959,
+                "name": "K. Akturkoglu",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/142959.png"
+            },
+            {
+                "id": 50048,
+                "name": "V. Muriqi",
+                "number": 19,
+                "photo": "https://media.api-sports.io/football/players/50048.png"
+            }
+        ],
+        "substitutes": [
+            {
+                "id": 62401,
+                "name": "T. Cetin",
+                "number": 13,
+                "photo": "https://media.api-sports.io/football/players/62401.png"
+            },
+            {
+                "id": 673366,
+                "name": "K. Sapaz",
+                "number": 75,
+                "photo": "https://media.api-sports.io/football/players/673366.png"
+            },
+            {
+                "id": 1719,
+                "name": "M. Muldur",
+                "number": 18,
+                "photo": "https://media.api-sports.io/football/players/1719.png"
+            },
+            {
+                "id": 364594,
+                "name": "Y. Demir",
+                "number": 14,
+                "photo": "https://media.api-sports.io/football/players/364594.png"
+            },
+            {
+                "id": 127609,
+                "name": "L. Mercan",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/127609.png"
+            },
+            {
+                "id": 214463,
+                "name": "I. Yuksek",
+                "number": 5,
+                "photo": "https://media.api-sports.io/football/players/214463.png"
+            },
+            {
+                "id": 134590,
+                "name": "O. Aydin",
+                "number": 70,
+                "photo": "https://media.api-sports.io/football/players/134590.png"
+            },
+            {
+                "id": 162004,
+                "name": "B. Elmaz",
+                "number": 28,
+                "photo": "https://media.api-sports.io/football/players/162004.png"
+            },
+            {
+                "id": 302869,
+                "name": "D. Nene",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/302869.png"
+            },
+            {
+                "id": 907,
+                "name": "R. Lukaku",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/907.png"
+            },
+            {
+                "id": 746,
+                "name": "M. Asensio",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/746.png"
+            },
+            {
+                "id": 49857,
+                "name": "I. Kahveci",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/49857.png"
+            }
+        ]
+    },
+    "awayLineups": {
+        "starting11": [
+            {
+                "id": 61142,
+                "name": "D. Greif",
+                "number": 1,
+                "photo": "https://media.api-sports.io/football/players/61142.png"
+            },
+            {
+                "id": 1456,
+                "name": "A. Maitland-Niles",
+                "number": 98,
+                "photo": "https://media.api-sports.io/football/players/1456.png"
+            },
+            {
+                "id": 193293,
+                "name": "R. Kluivert",
+                "number": 21,
+                "photo": "https://media.api-sports.io/football/players/193293.png"
+            },
+            {
+                "id": 25916,
+                "name": "M. Niakhate",
+                "number": 19,
+                "photo": "https://media.api-sports.io/football/players/25916.png"
+            },
+            {
+                "id": 9700,
+                "name": "A. Vinicius",
+                "number": 16,
+                "photo": "https://media.api-sports.io/football/players/9700.png"
+            },
+            {
+                "id": 80752,
+                "name": "T. Tessmann",
+                "number": 6,
+                "photo": "https://media.api-sports.io/football/players/80752.png"
+            },
+            {
+                "id": 162590,
+                "name": "T. Morton",
+                "number": 23,
+                "photo": "https://media.api-sports.io/football/players/162590.png"
+            },
+            {
+                "id": 350856,
+                "name": "E. Nuamah",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/350856.png"
+            },
+            {
+                "id": 519,
+                "name": "C. Tolisso",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/519.png"
+            },
+            {
+                "id": 361348,
+                "name": "M. Fofana",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/361348.png"
+            },
+            {
+                "id": 86,
+                "name": "L. Openda",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/86.png"
+            }
+        ],
+        "substitutes": [
+            {
+                "id": 270814,
+                "name": "J. Bengui",
+                "number": 25,
+                "photo": "https://media.api-sports.io/football/players/270814.png"
+            },
+            {
+                "id": 20762,
+                "name": "R. Descamps",
+                "number": 40,
+                "photo": "https://media.api-sports.io/football/players/20762.png"
+            },
+            {
+                "id": 68,
+                "name": "C. Mata",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/68.png"
+            },
+            {
+                "id": 396380,
+                "name": "Z. Athekame",
+                "number": 13,
+                "photo": "https://media.api-sports.io/football/players/396380.png"
+            },
+            {
+                "id": 7147,
+                "name": "F. Bacher",
+                "number": 20,
+                "photo": "https://media.api-sports.io/football/players/7147.png"
+            },
+            {
+                "id": 162189,
+                "name": "M. Bidstrup",
+                "number": 2,
+                "photo": "https://media.api-sports.io/football/players/162189.png"
+            },
+            {
+                "id": 361352,
+                "name": "N. Nartey",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/361352.png"
+            },
+            {
+                "id": 438692,
+                "name": "M. Carvalho",
+                "number": 39,
+                "photo": "https://media.api-sports.io/football/players/438692.png"
+            },
+            {
+                "id": 412049,
+                "name": "M. Ouedraogo",
+                "number": 76,
+                "photo": "https://media.api-sports.io/football/players/412049.png"
+            },
+            {
+                "id": 405237,
+                "name": "K. Boudache",
+                "number": 26,
+                "photo": "https://media.api-sports.io/football/players/405237.png"
+            },
+            {
+                "id": 497617,
+                "name": "R. Himbert",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/497617.png"
+            },
+            {
+                "id": 368230,
+                "name": "J. Duranville",
+                "number": 24,
+                "photo": "https://media.api-sports.io/football/players/368230.png"
+            }
+        ]
+    },
+    "events": [
+        {
+            "minute": 37,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Vinícius",
+            "detail": ""
+        },
+        {
+            "minute": 40,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "L. Openda",
+            "detail": "C. Tolisso"
+        },
+        {
+            "minute": 47,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Greenwood",
+            "detail": "K. Akturkoglu"
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "K. Akturkoglu",
+            "detail": "D. Nene"
+        },
+        {
+            "minute": 73,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Talisca",
+            "detail": "M. Asensio"
+        },
+        {
+            "minute": 75,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "R. Kluivert",
+            "detail": "C. Mata"
+        },
+        {
+            "minute": 75,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "E. Nuamah",
+            "detail": "K. Boudache"
+        },
+        {
+            "minute": 81,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "N. Kanté",
+            "detail": ""
+        },
+        {
+            "minute": 82,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "V. Muriqi",
+            "detail": "R. Lukaku"
+        },
+        {
+            "minute": 84,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "M. Škriniar",
+            "detail": ""
+        },
+        {
+            "minute": 86,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "T. Morton",
+            "detail": "M. Bidstrup"
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Fofana",
+            "detail": "M. Ouedraogo"
+        }
+    ]
+}
