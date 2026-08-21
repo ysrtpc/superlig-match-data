@@ -1,24 +1,24 @@
 {
-    "elapsed": 49,
+    "elapsed": 65,
     "stats": {
-        "possessionHome": 58,
-        "possessionAway": 42,
+        "possessionHome": 53,
+        "possessionAway": 47,
         "shotsHome": 2,
-        "shotsAway": 3,
+        "shotsAway": 5,
         "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 2,
-        "foulsHome": 2,
-        "foulsAway": 5,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 8,
+        "foulsAway": 8,
         "cornersHome": 0,
         "cornersAway": 1,
         "offsidesHome": 2,
-        "offsidesAway": 1,
+        "offsidesAway": 2,
         "xgHome": 0.14,
-        "xgAway": 0.62,
+        "xgAway": 1.33,
         "bigChancesHome": 0,
         "bigChancesAway": 3,
-        "passesHome": "89% (120/135)",
-        "passesAway": "89% (84/94)",
+        "passesHome": "87% (225/260)",
+        "passesAway": "90% (207/229)",
         "savesHome": 0,
         "savesAway": 0
     },
@@ -61,10 +61,10 @@
                 "photo": "https://media.api-sports.io/football/players/75.png"
             },
             {
-                "id": 49925,
-                "name": "E. Tozlu",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/49925.png"
+                "id": 162002,
+                "name": "M. Fettahoglu",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/162002.png"
             },
             {
                 "id": 21010,
@@ -79,16 +79,16 @@
                 "photo": "https://media.api-sports.io/football/players/35925.png"
             },
             {
-                "id": 162002,
-                "name": "M. Fettahoglu",
-                "number": 99,
-                "photo": "https://media.api-sports.io/football/players/162002.png"
-            },
-            {
                 "id": 37188,
                 "name": "G. Kerk",
                 "number": 9,
                 "photo": "https://media.api-sports.io/football/players/37188.png"
+            },
+            {
+                "id": 49925,
+                "name": "E. Tozlu",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/49925.png"
             }
         ],
         "substitutes": [
@@ -169,16 +169,16 @@
                 "photo": "https://media.api-sports.io/football/players/26252.png"
             },
             {
-                "id": 61837,
-                "name": "A. Bardakcı",
-                "number": 42,
-                "photo": "https://media.api-sports.io/football/players/61837.png"
-            },
-            {
                 "id": 168,
                 "name": "D. Sánchez",
                 "number": 6,
                 "photo": "https://media.api-sports.io/football/players/168.png"
+            },
+            {
+                "id": 61837,
+                "name": "A. Bardakcı",
+                "number": 42,
+                "photo": "https://media.api-sports.io/football/players/61837.png"
             },
             {
                 "id": 158121,
@@ -193,12 +193,6 @@
                 "photo": "https://media.api-sports.io/football/players/1462.png"
             },
             {
-                "id": 80552,
-                "name": "G. Sara",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/80552.png"
-            },
-            {
                 "id": 18947,
                 "name": "M. Lemina",
                 "number": 99,
@@ -209,6 +203,12 @@
                 "name": "Y. Akgün",
                 "number": 11,
                 "photo": "https://media.api-sports.io/football/players/454.png"
+            },
+            {
+                "id": 80552,
+                "name": "G. Sara",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/80552.png"
             },
             {
                 "id": 63274,
@@ -307,6 +307,13 @@
             "isHomeTeam": false,
             "playerName": "V. Osimhen",
             "detail": ""
+        },
+        {
+            "minute": 55,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "G. Kerk",
+            "detail": "N. Akhundzade"
         }
     ]
 }
