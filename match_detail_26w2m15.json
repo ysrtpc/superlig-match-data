@@ -1,5 +1,5 @@
 {
-    "elapsed": 43,
+    "elapsed": 49,
     "stats": {
         "possessionHome": 58,
         "possessionAway": 42,
@@ -16,7 +16,7 @@
         "xgHome": 0.14,
         "xgAway": 0.62,
         "bigChancesHome": 0,
-        "bigChancesAway": 2,
+        "bigChancesAway": 3,
         "passesHome": "89% (120/135)",
         "passesAway": "89% (84/94)",
         "savesHome": 0,
@@ -300,6 +300,13 @@
             "isHomeTeam": false,
             "playerName": "Y. Akgun",
             "detail": "V. Osimhen"
+        },
+        {
+            "minute": 45,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "V. Osimhen",
+            "detail": ""
         }
     ]
 }
