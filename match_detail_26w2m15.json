@@ -1,5 +1,5 @@
 {
-    "elapsed": 65,
+    "elapsed": 82,
     "stats": {
         "possessionHome": 53,
         "possessionAway": 47,
@@ -16,7 +16,7 @@
         "xgHome": 0.14,
         "xgAway": 1.33,
         "bigChancesHome": 0,
-        "bigChancesAway": 3,
+        "bigChancesAway": 4,
         "passesHome": "87% (225/260)",
         "passesAway": "90% (207/229)",
         "savesHome": 0,
@@ -314,6 +314,76 @@
             "isHomeTeam": true,
             "playerName": "G. Kerk",
             "detail": "N. Akhundzade"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Lemina",
+            "detail": "L. Ugochukwu"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "Y. Akgun",
+            "detail": "L. Sane"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "I. Jakobs",
+            "detail": "E. Elmali"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "R. Sallai",
+            "detail": "W. Singo"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Tozlu",
+            "detail": "F. Andrade"
+        },
+        {
+            "minute": 71,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "O. Ovacikli",
+            "detail": "F. Ebosele"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Fettahoglu",
+            "detail": "S. Akgun"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Rodriguez",
+            "detail": "M. Cardoso"
+        },
+        {
+            "minute": 80,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "V. Osimhen",
+            "detail": "G. Sara"
+        },
+        {
+            "minute": 81,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "L. Torreira",
+            "detail": "R. Nhaga"
         }
     ]
 }
