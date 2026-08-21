@@ -1,26 +1,26 @@
 {
-    "elapsed": 82,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 53,
-        "possessionAway": 47,
-        "shotsHome": 2,
-        "shotsAway": 5,
-        "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 8,
-        "foulsAway": 8,
-        "cornersHome": 0,
-        "cornersAway": 1,
+        "possessionHome": 50,
+        "possessionAway": 50,
+        "shotsHome": 10,
+        "shotsAway": 9,
+        "shotsOnTargetHome": 2,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 11,
+        "foulsAway": 12,
+        "cornersHome": 2,
+        "cornersAway": 2,
         "offsidesHome": 2,
         "offsidesAway": 2,
-        "xgHome": 0.14,
-        "xgAway": 1.33,
+        "xgHome": 0.36,
+        "xgAway": 2.47,
         "bigChancesHome": 0,
         "bigChancesAway": 4,
-        "passesHome": "87% (225/260)",
-        "passesAway": "90% (207/229)",
+        "passesHome": "88% (419/478)",
+        "passesAway": "90% (419/468)",
         "savesHome": 0,
-        "savesAway": 0
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -372,7 +372,7 @@
             "detail": "M. Cardoso"
         },
         {
-            "minute": 80,
+            "minute": 79,
             "type": "GOAL",
             "isHomeTeam": false,
             "playerName": "V. Osimhen",
@@ -384,6 +384,13 @@
             "isHomeTeam": false,
             "playerName": "L. Torreira",
             "detail": "R. Nhaga"
+        },
+        {
+            "minute": 84,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "N. Akhundzade",
+            "detail": ""
         }
     ]
 }
