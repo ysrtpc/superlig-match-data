@@ -231,10 +231,13 @@
         "away": "gs",
         "awayName": "Galatasaray",
         "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "21 Ağu 2026",
-        "time": "21:30"
+        "time": "21:30",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 10
     },
     {
         "id": "26w2m16",
