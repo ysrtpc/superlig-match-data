@@ -1,5 +1,5 @@
 {
-    "elapsed": 88,
+    "elapsed": 90,
     "stats": {
         "possessionHome": 73,
         "possessionAway": 27,
@@ -365,6 +365,13 @@
             "detail": "K. Fakili"
         },
         {
+            "minute": 84,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "A. Ildiz",
+            "detail": ""
+        },
+        {
             "minute": 85,
             "type": "SUBSTITUTION",
             "isHomeTeam": false,
@@ -379,10 +386,10 @@
             "detail": "A. Dagbasi"
         },
         {
-            "minute": 87,
+            "minute": 89,
             "type": "YELLOW_CARD",
-            "isHomeTeam": true,
-            "playerName": "",
+            "isHomeTeam": false,
+            "playerName": "A. Karapo",
             "detail": ""
         }
     ]

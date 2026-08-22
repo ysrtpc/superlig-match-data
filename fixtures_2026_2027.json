@@ -165,9 +165,9 @@
         "awayScore": 1,
         "date": "22 Ağu 2026",
         "time": "19:00",
-        "isLive": true,
-        "status": "LIVE",
-        "elapsed": 88
+        "isLive": false,
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "26w2m11",
