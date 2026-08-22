@@ -410,8 +410,8 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 45.0,
-            "shotsOnTargetAvg": 2.0,
+            "possessionAvg": 35.0,
+            "shotsOnTargetAvg": 2.5,
             "saves": 4
         },
         {
@@ -423,9 +423,9 @@
             "goalsScored": 1,
             "goalsConceded": 0,
             "npxg": 0.9,
-            "cleanSheets": 2,
+            "cleanSheets": 1,
             "possessionAvg": 53.0,
-            "shotsOnTargetAvg": 2.5,
+            "shotsOnTargetAvg": 4.0,
             "saves": 3
         },
         {
@@ -496,7 +496,7 @@
             "cleanSheets": 1,
             "possessionAvg": 59.5,
             "shotsOnTargetAvg": 1.5,
-            "saves": 4
+            "saves": 7
         },
         {
             "teamId": "cor",
@@ -508,7 +508,7 @@
             "goalsConceded": 2,
             "npxg": 1.8,
             "cleanSheets": 0,
-            "possessionAvg": 43.0,
+            "possessionAvg": 53.0,
             "shotsOnTargetAvg": 1.5,
             "saves": 11
         },
