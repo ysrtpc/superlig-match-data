@@ -161,10 +161,13 @@
         "away": "kas",
         "awayName": "Kasımpaşa",
         "awayColor": "0xFF0000FF",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 1,
         "date": "22 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 27
     },
     {
         "id": "26w2m11",
@@ -248,10 +251,13 @@
         "away": "sam",
         "awayName": "Samsunspor",
         "awayColor": "0xFFFF0000",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "22 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 27
     },
     {
         "id": "26w2m17",
