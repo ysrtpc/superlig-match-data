@@ -286,5 +286,111 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 32,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "Y. Akgün",
+            "detail": ""
+        },
+        {
+            "minute": 53,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "V. Osimhen",
+            "detail": "L. Torreira"
+        },
+        {
+            "minute": 54,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Karlsbakk",
+            "detail": "M. Diomande"
+        },
+        {
+            "minute": 59,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "A. Kyziridis",
+            "detail": "Fredy"
+        },
+        {
+            "minute": 61,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "J. Ramirez",
+            "detail": ""
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Gurler",
+            "detail": "M. Thiam"
+        },
+        {
+            "minute": 70,
+            "type": "RED_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Kyziridis",
+            "detail": ""
+        },
+        {
+            "minute": 71,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "I. Jakobs",
+            "detail": "E. Elmali"
+        },
+        {
+            "minute": 71,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "D. Sanchez",
+            "detail": "M. Lemina"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "H. Smolcic",
+            "detail": "A. Sengul"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "Fredy",
+            "detail": "A. Ildiz"
+        },
+        {
+            "minute": 84,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Bardakci",
+            "detail": "K. Karatas"
+        },
+        {
+            "minute": 84,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "L. Torreira",
+            "detail": "I. Gundogan"
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "L. Sane",
+            "detail": "K. Ayhan"
+        },
+        {
+            "minute": 90,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "V. Osimhen",
+            "detail": "G. Sara"
+        }
+    ]
 }
