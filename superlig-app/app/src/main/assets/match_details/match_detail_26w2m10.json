@@ -1,26 +1,26 @@
 {
-    "elapsed": 45,
+    "elapsed": 70,
     "stats": {
-        "possessionHome": 70,
-        "possessionAway": 30,
-        "shotsHome": 5,
-        "shotsAway": 1,
-        "shotsOnTargetHome": 0,
+        "possessionHome": 73,
+        "possessionAway": 27,
+        "shotsHome": 9,
+        "shotsAway": 2,
+        "shotsOnTargetHome": 1,
         "shotsOnTargetAway": 1,
-        "foulsHome": 5,
-        "foulsAway": 4,
-        "cornersHome": 1,
+        "foulsHome": 7,
+        "foulsAway": 9,
+        "cornersHome": 3,
         "cornersAway": 0,
         "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.18,
-        "xgAway": 0.04,
+        "xgHome": 0.34,
+        "xgAway": 0.09,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "92% (222/242)",
-        "passesAway": "75% (76/102)",
+        "passesHome": "91% (465/509)",
+        "passesAway": "71% (131/185)",
         "savesHome": 0,
-        "savesAway": 0
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -300,6 +300,48 @@
             "isHomeTeam": false,
             "playerName": "J. Jessen",
             "detail": ""
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Rafferty",
+            "detail": "A. Kol"
+        },
+        {
+            "minute": 59,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Karlsbakk",
+            "detail": "E. Gurluk"
+        },
+        {
+            "minute": 59,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "S. Gurler",
+            "detail": "M. Thiam"
+        },
+        {
+            "minute": 59,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "G. Yalcin",
+            "detail": "A. Karapo"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Baldursson",
+            "detail": "E. Mendes"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Fredy",
+            "detail": "A. Ildiz"
         }
     ]
 }

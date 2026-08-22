@@ -410,9 +410,9 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 35.0,
+            "possessionAvg": 33.5,
             "shotsOnTargetAvg": 2.5,
-            "saves": 4
+            "saves": 5
         },
         {
             "teamId": "rize",
@@ -424,8 +424,8 @@
             "goalsConceded": 0,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 53.0,
-            "shotsOnTargetAvg": 4.0,
+            "possessionAvg": 58.0,
+            "shotsOnTargetAvg": 5.0,
             "saves": 3
         },
         {
@@ -494,9 +494,9 @@
             "goalsConceded": 3,
             "npxg": 2.7,
             "cleanSheets": 1,
-            "possessionAvg": 59.5,
-            "shotsOnTargetAvg": 1.5,
-            "saves": 7
+            "possessionAvg": 54.5,
+            "shotsOnTargetAvg": 2.5,
+            "saves": 9
         },
         {
             "teamId": "cor",
@@ -508,8 +508,8 @@
             "goalsConceded": 2,
             "npxg": 1.8,
             "cleanSheets": 0,
-            "possessionAvg": 53.0,
-            "shotsOnTargetAvg": 1.5,
+            "possessionAvg": 54.5,
+            "shotsOnTargetAvg": 2.0,
             "saves": 11
         },
         {

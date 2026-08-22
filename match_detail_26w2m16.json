@@ -1,26 +1,26 @@
 {
-    "elapsed": 50,
+    "elapsed": 75,
     "stats": {
-        "possessionHome": 50,
-        "possessionAway": 50,
-        "shotsHome": 7,
-        "shotsAway": 1,
-        "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 2,
-        "foulsAway": 5,
-        "cornersHome": 4,
+        "possessionHome": 60,
+        "possessionAway": 40,
+        "shotsHome": 15,
+        "shotsAway": 4,
+        "shotsOnTargetHome": 5,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 5,
+        "foulsAway": 8,
+        "cornersHome": 7,
         "cornersAway": 1,
         "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.43,
-        "xgAway": 0.03,
-        "bigChancesHome": 0,
-        "bigChancesAway": 1,
-        "passesHome": "83% (128/155)",
-        "passesAway": "78% (126/161)",
+        "xgHome": 0.83,
+        "xgAway": 0.23,
+        "bigChancesHome": 1,
+        "bigChancesAway": 2,
+        "passesHome": "87% (336/387)",
+        "passesAway": "78% (209/269)",
         "savesHome": 0,
-        "savesAway": 3
+        "savesAway": 5
     },
     "homeLineups": {
         "starting11": [
@@ -294,6 +294,34 @@
             "isHomeTeam": false,
             "playerName": "J. Mendes",
             "detail": "S. Jarju"
+        },
+        {
+            "minute": 63,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "F. Kaya",
+            "detail": "S. Jarju"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "Y. Kayan",
+            "detail": "S. Onur"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "I. Olawoyin",
+            "detail": "D. Varesanovic"
+        },
+        {
+            "minute": 67,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Mebude",
+            "detail": "E. Bulut"
         }
     ]
 }
