@@ -1,26 +1,26 @@
 {
     "elapsed": 90,
     "stats": {
-        "possessionHome": 73,
-        "possessionAway": 27,
-        "shotsHome": 9,
-        "shotsAway": 2,
-        "shotsOnTargetHome": 1,
+        "possessionHome": 75,
+        "possessionAway": 25,
+        "shotsHome": 16,
+        "shotsAway": 6,
+        "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 1,
-        "foulsHome": 7,
-        "foulsAway": 9,
-        "cornersHome": 3,
+        "foulsHome": 12,
+        "foulsAway": 13,
+        "cornersHome": 7,
         "cornersAway": 0,
         "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.34,
-        "xgAway": 0.09,
-        "bigChancesHome": 0,
+        "xgHome": 0.92,
+        "xgAway": 0.31,
+        "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "91% (465/509)",
-        "passesAway": "71% (131/185)",
+        "passesHome": "91% (656/720)",
+        "passesAway": "72% (176/246)",
         "savesHome": 0,
-        "savesAway": 1
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -105,6 +105,24 @@
                 "photo": "https://media.api-sports.io/football/players/50464.png"
             },
             {
+                "id": 49913,
+                "name": "A. Ildız",
+                "number": 30,
+                "photo": "https://media.api-sports.io/football/players/49913.png"
+            },
+            {
+                "id": 61820,
+                "name": "B. Özdemir",
+                "number": 3,
+                "photo": "https://media.api-sports.io/football/players/61820.png"
+            },
+            {
+                "id": 327381,
+                "name": "K. Fakili",
+                "number": 42,
+                "photo": "https://media.api-sports.io/football/players/327381.png"
+            },
+            {
                 "id": 61924,
                 "name": "E. Erentürk",
                 "number": 18,
@@ -129,28 +147,10 @@
                 "photo": "https://media.api-sports.io/football/players/63231.png"
             },
             {
-                "id": 49913,
-                "name": "A. Ildız",
-                "number": 30,
-                "photo": "https://media.api-sports.io/football/players/49913.png"
-            },
-            {
                 "id": 348089,
                 "name": "H. Abdulkareem",
                 "number": 99,
                 "photo": "https://media.api-sports.io/football/players/348089.png"
-            },
-            {
-                "id": 61820,
-                "name": "B. Özdemir",
-                "number": 3,
-                "photo": "https://media.api-sports.io/football/players/61820.png"
-            },
-            {
-                "id": 327381,
-                "name": "K. Fakili",
-                "number": 42,
-                "photo": "https://media.api-sports.io/football/players/327381.png"
             }
         ]
     },
@@ -237,10 +237,10 @@
                 "photo": "https://media.api-sports.io/football/players/380253.png"
             },
             {
-                "id": 63222,
-                "name": "A. Yanar",
-                "number": 25,
-                "photo": "https://media.api-sports.io/football/players/63222.png"
+                "id": 438682,
+                "name": "E. Mendes",
+                "number": 51,
+                "photo": "https://media.api-sports.io/football/players/438682.png"
             },
             {
                 "id": 627786,
@@ -249,22 +249,22 @@
                 "photo": "https://media.api-sports.io/football/players/627786.png"
             },
             {
-                "id": 416100,
-                "name": "T. Aydın",
-                "number": 29,
-                "photo": "https://media.api-sports.io/football/players/416100.png"
-            },
-            {
-                "id": 438682,
-                "name": "E. Mendes",
-                "number": 51,
-                "photo": "https://media.api-sports.io/football/players/438682.png"
-            },
-            {
                 "id": 651233,
                 "name": "E. Boz",
                 "number": 66,
                 "photo": "https://media.api-sports.io/football/players/651233.png"
+            },
+            {
+                "id": 63222,
+                "name": "A. Yanar",
+                "number": 25,
+                "photo": "https://media.api-sports.io/football/players/63222.png"
+            },
+            {
+                "id": 416100,
+                "name": "T. Aydın",
+                "number": 29,
+                "photo": "https://media.api-sports.io/football/players/416100.png"
             },
             {
                 "id": 625224,
