@@ -1,26 +1,26 @@
 {
-    "elapsed": 45,
+    "elapsed": 53,
     "stats": {
-        "possessionHome": 60,
-        "possessionAway": 40,
-        "shotsHome": 10,
-        "shotsAway": 3,
-        "shotsOnTargetHome": 5,
+        "possessionHome": 56,
+        "possessionAway": 44,
+        "shotsHome": 13,
+        "shotsAway": 6,
+        "shotsOnTargetHome": 7,
         "shotsOnTargetAway": 2,
-        "foulsHome": 3,
-        "foulsAway": 5,
-        "cornersHome": 2,
-        "cornersAway": 0,
+        "foulsHome": 4,
+        "foulsAway": 6,
+        "cornersHome": 3,
+        "cornersAway": 1,
         "offsidesHome": 1,
         "offsidesAway": 1,
-        "xgHome": 1.8,
-        "xgAway": 0.68,
-        "bigChancesHome": 3,
+        "xgHome": 2.07,
+        "xgAway": 0.79,
+        "bigChancesHome": 4,
         "bigChancesAway": 1,
-        "passesHome": "94% (146/156)",
-        "passesAway": "85% (93/110)",
+        "passesHome": "92% (206/223)",
+        "passesAway": "86% (160/185)",
         "savesHome": 1,
-        "savesAway": 2
+        "savesAway": 4
     },
     "homeLineups": {
         "starting11": [
@@ -55,16 +55,16 @@
                 "photo": "https://media.api-sports.io/football/players/161661.png"
             },
             {
-                "id": 1454,
-                "name": "M. Guendouzi",
-                "number": 6,
-                "photo": "https://media.api-sports.io/football/players/1454.png"
-            },
-            {
                 "id": 2290,
                 "name": "N. Kanté",
                 "number": 91,
                 "photo": "https://media.api-sports.io/football/players/2290.png"
+            },
+            {
+                "id": 1454,
+                "name": "M. Guendouzi",
+                "number": 6,
+                "photo": "https://media.api-sports.io/football/players/1454.png"
             },
             {
                 "id": 897,
@@ -187,16 +187,16 @@
                 "photo": "https://media.api-sports.io/football/players/47512.png"
             },
             {
-                "id": 152845,
-                "name": "M. İbrahimoğlu",
-                "number": 77,
-                "photo": "https://media.api-sports.io/football/players/152845.png"
-            },
-            {
                 "id": 419517,
                 "name": "R. Tóth",
                 "number": 66,
                 "photo": "https://media.api-sports.io/football/players/419517.png"
+            },
+            {
+                "id": 152845,
+                "name": "M. İbrahimoğlu",
+                "number": 77,
+                "photo": "https://media.api-sports.io/football/players/152845.png"
             },
             {
                 "id": 50126,
@@ -335,6 +335,13 @@
             "isHomeTeam": false,
             "playerName": "D. Turuc",
             "detail": ""
+        },
+        {
+            "minute": 49,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Greenwood",
+            "detail": "V. Muriqi"
         }
     ]
 }
