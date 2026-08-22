@@ -312,9 +312,9 @@
             "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 47.0,
+            "possessionAvg": 38.0,
             "shotsOnTargetAvg": 1.5,
-            "saves": 4
+            "saves": 5
         },
         {
             "teamId": "fb",
@@ -325,9 +325,9 @@
             "goalsScored": 1,
             "goalsConceded": 2,
             "npxg": 0.9,
-            "cleanSheets": 1,
-            "possessionAvg": 60.5,
-            "shotsOnTargetAvg": 5.5,
+            "cleanSheets": 0,
+            "possessionAvg": 69.5,
+            "shotsOnTargetAvg": 6.5,
             "saves": 1
         },
         {

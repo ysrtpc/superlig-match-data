@@ -1,26 +1,26 @@
 {
-    "elapsed": 9,
+    "elapsed": 31,
     "stats": {
-        "possessionHome": 50,
-        "possessionAway": 50,
-        "shotsHome": 0,
+        "possessionHome": 68,
+        "possessionAway": 32,
+        "shotsHome": 4,
         "shotsAway": 0,
-        "shotsOnTargetHome": 0,
+        "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 0,
         "foulsHome": 0,
-        "foulsAway": 0,
-        "cornersHome": 0,
+        "foulsAway": 2,
+        "cornersHome": 1,
         "cornersAway": 0,
-        "offsidesHome": 0,
+        "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.0,
+        "xgHome": 0.51,
         "xgAway": 0.0,
-        "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "",
-        "passesAway": "",
+        "bigChancesHome": 2,
+        "bigChancesAway": 1,
+        "passesHome": "95% (36/38)",
+        "passesAway": "72% (13/18)",
         "savesHome": 0,
-        "savesAway": 0
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -292,6 +292,27 @@
             "type": "GOAL",
             "isHomeTeam": true,
             "playerName": "V. Muriqi",
+            "detail": ""
+        },
+        {
+            "minute": 10,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "E. Colley",
+            "detail": "Y. Andzouana"
+        },
+        {
+            "minute": 20,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Greenwood",
+            "detail": "M. Greenwood"
+        },
+        {
+            "minute": 20,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Greenwood",
             "detail": ""
         }
     ]
