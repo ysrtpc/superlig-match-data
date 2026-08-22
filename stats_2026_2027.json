@@ -312,9 +312,9 @@
             "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 38.0,
-            "shotsOnTargetAvg": 1.5,
-            "saves": 5
+            "possessionAvg": 42.0,
+            "shotsOnTargetAvg": 2.5,
+            "saves": 6
         },
         {
             "teamId": "fb",
@@ -326,9 +326,9 @@
             "goalsConceded": 2,
             "npxg": 0.9,
             "cleanSheets": 0,
-            "possessionAvg": 69.5,
-            "shotsOnTargetAvg": 6.5,
-            "saves": 1
+            "possessionAvg": 65.5,
+            "shotsOnTargetAvg": 8.0,
+            "saves": 2
         },
         {
             "teamId": "gs",
@@ -402,13 +402,13 @@
         },
         {
             "teamId": "kas",
-            "yellowCards": 2,
+            "yellowCards": 5,
             "redCards": 0,
             "penaltiesWon": 1,
             "penaltiesTotal": 1,
-            "goalsScored": 1,
+            "goalsScored": 2,
             "goalsConceded": 1,
-            "npxg": 0.9,
+            "npxg": 1.8,
             "cleanSheets": 1,
             "possessionAvg": 32.5,
             "shotsOnTargetAvg": 2.5,
@@ -486,13 +486,13 @@
         },
         {
             "teamId": "sam",
-            "yellowCards": 1,
+            "yellowCards": 2,
             "redCards": 0,
             "penaltiesWon": 1,
             "penaltiesTotal": 2,
-            "goalsScored": 3,
+            "goalsScored": 5,
             "goalsConceded": 3,
-            "npxg": 2.7,
+            "npxg": 4.5,
             "cleanSheets": 1,
             "possessionAvg": 54.5,
             "shotsOnTargetAvg": 3.0,

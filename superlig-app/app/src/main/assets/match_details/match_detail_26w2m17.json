@@ -1,26 +1,26 @@
 {
-    "elapsed": 31,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 68,
-        "possessionAway": 32,
-        "shotsHome": 4,
-        "shotsAway": 0,
-        "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 2,
-        "cornersHome": 1,
+        "possessionHome": 60,
+        "possessionAway": 40,
+        "shotsHome": 10,
+        "shotsAway": 3,
+        "shotsOnTargetHome": 5,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 3,
+        "foulsAway": 5,
+        "cornersHome": 2,
         "cornersAway": 0,
         "offsidesHome": 1,
-        "offsidesAway": 0,
-        "xgHome": 0.51,
-        "xgAway": 0.0,
-        "bigChancesHome": 2,
+        "offsidesAway": 1,
+        "xgHome": 1.8,
+        "xgAway": 0.68,
+        "bigChancesHome": 3,
         "bigChancesAway": 1,
-        "passesHome": "95% (36/38)",
-        "passesAway": "72% (13/18)",
-        "savesHome": 0,
-        "savesAway": 1
+        "passesHome": "94% (146/156)",
+        "passesAway": "85% (93/110)",
+        "savesHome": 1,
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -313,6 +313,27 @@
             "type": "GOAL",
             "isHomeTeam": true,
             "playerName": "M. Greenwood",
+            "detail": ""
+        },
+        {
+            "minute": 33,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Asensio",
+            "detail": "M. Greenwood"
+        },
+        {
+            "minute": 45,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Demirbag",
+            "detail": ""
+        },
+        {
+            "minute": 45,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "D. Turuc",
             "detail": ""
         }
     ]
