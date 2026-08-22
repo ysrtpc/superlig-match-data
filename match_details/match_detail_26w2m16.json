@@ -1,5 +1,5 @@
 {
-    "elapsed": 75,
+    "elapsed": 90,
     "stats": {
         "possessionHome": 60,
         "possessionAway": 40,
@@ -93,6 +93,18 @@
         ],
         "substitutes": [
             {
+                "id": 138833,
+                "name": "D. Varešanović",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/138833.png"
+            },
+            {
+                "id": 383860,
+                "name": "E. Bulut",
+                "number": 99,
+                "photo": "https://media.api-sports.io/football/players/383860.png"
+            },
+            {
                 "id": 50021,
                 "name": "Z. Görgen",
                 "number": 30,
@@ -123,12 +135,6 @@
                 "photo": "https://media.api-sports.io/football/players/385601.png"
             },
             {
-                "id": 138833,
-                "name": "D. Varešanović",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/138833.png"
-            },
-            {
                 "id": 392093,
                 "name": "E. Yilmaz",
                 "number": 47,
@@ -139,12 +145,6 @@
                 "name": "M. Faye",
                 "number": 22,
                 "photo": "https://media.api-sports.io/football/players/408200.png"
-            },
-            {
-                "id": 383860,
-                "name": "E. Bulut",
-                "number": 99,
-                "photo": "https://media.api-sports.io/football/players/383860.png"
             },
             {
                 "id": 671705,
@@ -225,6 +225,12 @@
         ],
         "substitutes": [
             {
+                "id": 202992,
+                "name": "S. Onur",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/202992.png"
+            },
+            {
                 "id": 37111,
                 "name": "B. Bayazit",
                 "number": 25,
@@ -253,12 +259,6 @@
                 "name": "H. Tan",
                 "number": 72,
                 "photo": "https://media.api-sports.io/football/players/451828.png"
-            },
-            {
-                "id": 202992,
-                "name": "S. Onur",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/202992.png"
             },
             {
                 "id": 437484,
@@ -322,6 +322,48 @@
             "isHomeTeam": true,
             "playerName": "A. Mebude",
             "detail": "E. Bulut"
+        },
+        {
+            "minute": 80,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "T. Antalyali",
+            "detail": "M. Tosun"
+        },
+        {
+            "minute": 81,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Z. Ariss",
+            "detail": "T. Sanuc"
+        },
+        {
+            "minute": 83,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "M. Sagnan",
+            "detail": ""
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Jarju",
+            "detail": "T. Bulbul"
+        },
+        {
+            "minute": 88,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Sagnan",
+            "detail": "M. Faye"
+        },
+        {
+            "minute": 90,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "F. Kaya",
+            "detail": "A. Sekongo"
         }
     ]
 }

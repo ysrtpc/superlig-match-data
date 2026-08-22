@@ -1,5 +1,5 @@
 {
-    "elapsed": 70,
+    "elapsed": 88,
     "stats": {
         "possessionHome": 73,
         "possessionAway": 27,
@@ -93,6 +93,18 @@
         ],
         "substitutes": [
             {
+                "id": 298872,
+                "name": "E. Gürlük",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/298872.png"
+            },
+            {
+                "id": 50464,
+                "name": "M. Thiam",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/50464.png"
+            },
+            {
                 "id": 61924,
                 "name": "E. Erentürk",
                 "number": 18,
@@ -135,22 +147,10 @@
                 "photo": "https://media.api-sports.io/football/players/61820.png"
             },
             {
-                "id": 298872,
-                "name": "E. Gürlük",
-                "number": 17,
-                "photo": "https://media.api-sports.io/football/players/298872.png"
-            },
-            {
                 "id": 327381,
                 "name": "K. Fakili",
                 "number": 42,
                 "photo": "https://media.api-sports.io/football/players/327381.png"
-            },
-            {
-                "id": 50464,
-                "name": "M. Thiam",
-                "number": 9,
-                "photo": "https://media.api-sports.io/football/players/50464.png"
             }
         ]
     },
@@ -225,6 +225,18 @@
         ],
         "substitutes": [
             {
+                "id": 461,
+                "name": "A. Kol",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/461.png"
+            },
+            {
+                "id": 380253,
+                "name": "A. Karapo",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/380253.png"
+            },
+            {
                 "id": 63222,
                 "name": "A. Yanar",
                 "number": 25,
@@ -243,12 +255,6 @@
                 "photo": "https://media.api-sports.io/football/players/416100.png"
             },
             {
-                "id": 380253,
-                "name": "A. Karapo",
-                "number": 45,
-                "photo": "https://media.api-sports.io/football/players/380253.png"
-            },
-            {
                 "id": 438682,
                 "name": "E. Mendes",
                 "number": 51,
@@ -261,10 +267,10 @@
                 "photo": "https://media.api-sports.io/football/players/651233.png"
             },
             {
-                "id": null,
+                "id": 625224,
                 "name": "S. Deniz",
                 "number": 35,
-                "photo": ""
+                "photo": "https://media.api-sports.io/football/players/625224.png"
             },
             {
                 "id": 280495,
@@ -277,12 +283,6 @@
                 "name": "S. Alkas",
                 "number": 23,
                 "photo": "https://media.api-sports.io/football/players/441998.png"
-            },
-            {
-                "id": 461,
-                "name": "A. Kol",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/461.png"
             }
         ]
     },
@@ -342,6 +342,48 @@
             "isHomeTeam": true,
             "playerName": "Fredy",
             "detail": "A. Ildiz"
+        },
+        {
+            "minute": 77,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "M. Ilie",
+            "detail": ""
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "Y. Ramadani",
+            "detail": "B. Ozdemir"
+        },
+        {
+            "minute": 78,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Diomande",
+            "detail": "K. Fakili"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "C. Winck",
+            "detail": "E. Boz"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Benedyczak",
+            "detail": "A. Dagbasi"
+        },
+        {
+            "minute": 87,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "",
+            "detail": ""
         }
     ]
 }
