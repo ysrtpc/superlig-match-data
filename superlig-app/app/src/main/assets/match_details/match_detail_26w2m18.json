@@ -1,26 +1,26 @@
 {
-    "elapsed": 63,
+    "elapsed": 81,
     "stats": {
         "possessionHome": 34,
         "possessionAway": 66,
-        "shotsHome": 3,
-        "shotsAway": 8,
-        "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 10,
-        "foulsAway": 7,
-        "cornersHome": 3,
+        "shotsHome": 5,
+        "shotsAway": 10,
+        "shotsOnTargetHome": 1,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 12,
+        "foulsAway": 11,
+        "cornersHome": 5,
         "cornersAway": 2,
         "offsidesHome": 1,
         "offsidesAway": 3,
-        "xgHome": 0.06,
-        "xgAway": 0.39,
-        "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "75% (132/177)",
-        "passesAway": "87% (304/349)",
-        "savesHome": 3,
-        "savesAway": 0
+        "xgHome": 0.29,
+        "xgAway": 0.54,
+        "bigChancesHome": 1,
+        "bigChancesAway": 1,
+        "passesHome": "74% (170/230)",
+        "passesAway": "88% (400/457)",
+        "savesHome": 4,
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -307,6 +307,41 @@
             "isHomeTeam": false,
             "playerName": "R. Yilmaz",
             "detail": "K. Ouattara"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "I. Kaya",
+            "detail": "E. Keskin"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Usluoglu",
+            "detail": "O. Ali"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "H. Ui-Jo",
+            "detail": "M. Elia"
+        },
+        {
+            "minute": 66,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "L. Trossard",
+            "detail": "I. Fakili"
+        },
+        {
+            "minute": 73,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "N. Lima",
+            "detail": "F. Hadergjonaj"
         }
     ]
 }

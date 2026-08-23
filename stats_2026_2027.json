@@ -283,10 +283,10 @@
             "goalsScored": 1,
             "goalsConceded": 0,
             "npxg": 0.9,
-            "cleanSheets": 2,
+            "cleanSheets": 1,
             "possessionAvg": 66.0,
-            "shotsOnTargetAvg": 4.0,
-            "saves": 1
+            "shotsOnTargetAvg": 4.5,
+            "saves": 2
         },
         {
             "teamId": "bsk",
@@ -354,8 +354,8 @@
             "goalsConceded": 3,
             "npxg": 2.7,
             "cleanSheets": 0,
-            "possessionAvg": 35.5,
-            "shotsOnTargetAvg": 4.5,
+            "possessionAvg": 38.0,
+            "shotsOnTargetAvg": 6.0,
             "saves": 1
         },
         {
@@ -369,8 +369,8 @@
             "npxg": 0.9,
             "cleanSheets": 1,
             "possessionAvg": 36.5,
-            "shotsOnTargetAvg": 1.0,
-            "saves": 7
+            "shotsOnTargetAvg": 1.5,
+            "saves": 8
         },
         {
             "teamId": "gcl",
@@ -382,9 +382,9 @@
             "goalsConceded": 1,
             "npxg": 1.8,
             "cleanSheets": 1,
-            "possessionAvg": 44.5,
-            "shotsOnTargetAvg": 2.0,
-            "saves": 12
+            "possessionAvg": 42.0,
+            "shotsOnTargetAvg": 2.5,
+            "saves": 15
         },
         {
             "teamId": "ts",

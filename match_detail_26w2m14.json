@@ -1,26 +1,26 @@
 {
-    "elapsed": 59,
+    "elapsed": 77,
     "stats": {
-        "possessionHome": 40,
-        "possessionAway": 60,
-        "shotsHome": 5,
-        "shotsAway": 7,
-        "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 1,
-        "foulsHome": 10,
-        "foulsAway": 9,
-        "cornersHome": 2,
+        "possessionHome": 45,
+        "possessionAway": 55,
+        "shotsHome": 9,
+        "shotsAway": 9,
+        "shotsOnTargetHome": 5,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 12,
+        "foulsAway": 11,
+        "cornersHome": 4,
         "cornersAway": 5,
         "offsidesHome": 0,
         "offsidesAway": 1,
-        "xgHome": 0.69,
-        "xgAway": 0.33,
+        "xgHome": 1.51,
+        "xgAway": 1.02,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "64% (105/165)",
-        "passesAway": "77% (191/249)",
+        "passesHome": "67% (168/251)",
+        "passesAway": "77% (240/312)",
         "savesHome": 1,
-        "savesAway": 2
+        "savesAway": 5
     },
     "homeLineups": {
         "starting11": [
@@ -336,6 +336,34 @@
             "isHomeTeam": false,
             "playerName": "S. Koita",
             "detail": "O. Ulgun"
+        },
+        {
+            "minute": 61,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "T. Gouveia",
+            "detail": "C. Niasse"
+        },
+        {
+            "minute": 64,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "O. Bayrak",
+            "detail": "R. Akonnor"
+        },
+        {
+            "minute": 72,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "O. Ulgun",
+            "detail": "S. Ucan"
+        },
+        {
+            "minute": 72,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Dursun",
+            "detail": "F. Uzum"
         }
     ]
 }
