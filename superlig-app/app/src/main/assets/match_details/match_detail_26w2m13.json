@@ -1,26 +1,26 @@
 {
-    "elapsed": 45,
+    "elapsed": 66,
     "stats": {
-        "possessionHome": 64,
-        "possessionAway": 36,
-        "shotsHome": 8,
-        "shotsAway": 4,
-        "shotsOnTargetHome": 3,
-        "shotsOnTargetAway": 1,
-        "foulsHome": 2,
-        "foulsAway": 6,
-        "cornersHome": 1,
-        "cornersAway": 0,
-        "offsidesHome": 1,
+        "possessionHome": 59,
+        "possessionAway": 41,
+        "shotsHome": 14,
+        "shotsAway": 7,
+        "shotsOnTargetHome": 7,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 5,
+        "foulsAway": 13,
+        "cornersHome": 5,
+        "cornersAway": 1,
+        "offsidesHome": 3,
         "offsidesAway": 0,
-        "xgHome": 0.75,
-        "xgAway": 1.05,
-        "bigChancesHome": 1,
+        "xgHome": 1.45,
+        "xgAway": 1.31,
+        "bigChancesHome": 2,
         "bigChancesAway": 1,
-        "passesHome": "93% (143/154)",
-        "passesAway": "77% (68/88)",
-        "savesHome": 0,
-        "savesAway": 2
+        "passesHome": "89% (314/352)",
+        "passesAway": "83% (208/250)",
+        "savesHome": 1,
+        "savesAway": 5
     },
     "homeLineups": {
         "starting11": [
@@ -313,6 +313,41 @@
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
             "playerName": "B. Yildirim",
+            "detail": ""
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "B. Yildirim",
+            "detail": "O. Ergun"
+        },
+        {
+            "minute": 48,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Salah",
+            "detail": "E. Muci"
+        },
+        {
+            "minute": 58,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "J. Kaluzinski",
+            "detail": "I. Brnic"
+        },
+        {
+            "minute": 58,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Fayzullaev",
+            "detail": "D. Selke"
+        },
+        {
+            "minute": 61,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "D. Selke",
             "detail": ""
         }
     ]

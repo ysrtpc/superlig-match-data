@@ -1,24 +1,24 @@
 {
-    "elapsed": 45,
+    "elapsed": 70,
     "stats": {
-        "possessionHome": 43,
-        "possessionAway": 57,
-        "shotsHome": 1,
-        "shotsAway": 5,
+        "possessionHome": 48,
+        "possessionAway": 52,
+        "shotsHome": 3,
+        "shotsAway": 8,
         "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 6,
-        "foulsAway": 7,
-        "cornersHome": 0,
-        "cornersAway": 1,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 11,
+        "foulsAway": 13,
+        "cornersHome": 1,
+        "cornersAway": 2,
         "offsidesHome": 0,
-        "offsidesAway": 3,
-        "xgHome": 0.03,
-        "xgAway": 0.44,
+        "offsidesAway": 4,
+        "xgHome": 0.07,
+        "xgAway": 0.93,
         "bigChancesHome": 0,
-        "bigChancesAway": 0,
-        "passesHome": "79% (98/124)",
-        "passesAway": "88% (138/157)",
+        "bigChancesAway": 1,
+        "passesHome": "83% (219/263)",
+        "passesAway": "85% (241/284)",
         "savesHome": 0,
         "savesAway": 0
     },
@@ -293,6 +293,48 @@
             "isHomeTeam": false,
             "playerName": "M. Abena",
             "detail": ""
+        },
+        {
+            "minute": 60,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "D. Sorescu",
+            "detail": ""
+        },
+        {
+            "minute": 64,
+            "type": "RED_CARD",
+            "isHomeTeam": false,
+            "playerName": "J. Bacuna",
+            "detail": ""
+        },
+        {
+            "minute": 64,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "B. Boutobba",
+            "detail": "K. Michalak"
+        },
+        {
+            "minute": 64,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Sabiri",
+            "detail": "Y. Barasi"
+        },
+        {
+            "minute": 65,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Abdullahi",
+            "detail": "H. Akman"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "D. Camara",
+            "detail": "V. Gidado"
         }
     ]
 }
