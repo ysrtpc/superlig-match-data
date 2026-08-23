@@ -1,24 +1,24 @@
 {
-    "elapsed": 77,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 45,
-        "possessionAway": 55,
-        "shotsHome": 9,
-        "shotsAway": 9,
+        "possessionHome": 49,
+        "possessionAway": 51,
+        "shotsHome": 12,
+        "shotsAway": 10,
         "shotsOnTargetHome": 5,
         "shotsOnTargetAway": 2,
-        "foulsHome": 12,
-        "foulsAway": 11,
-        "cornersHome": 4,
+        "foulsHome": 14,
+        "foulsAway": 12,
+        "cornersHome": 6,
         "cornersAway": 5,
-        "offsidesHome": 0,
+        "offsidesHome": 1,
         "offsidesAway": 1,
-        "xgHome": 1.51,
-        "xgAway": 1.02,
+        "xgHome": 1.71,
+        "xgAway": 1.52,
         "bigChancesHome": 1,
-        "bigChancesAway": 1,
-        "passesHome": "67% (168/251)",
-        "passesAway": "77% (240/312)",
+        "bigChancesAway": 2,
+        "passesHome": "71% (225/318)",
+        "passesAway": "75% (259/347)",
         "savesHome": 1,
         "savesAway": 5
     },
@@ -364,6 +364,20 @@
             "isHomeTeam": false,
             "playerName": "A. Dursun",
             "detail": "F. Uzum"
+        },
+        {
+            "minute": 79,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "C. Niasse",
+            "detail": ""
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Koita",
+            "detail": "M. Baltaci"
         }
     ]
 }
