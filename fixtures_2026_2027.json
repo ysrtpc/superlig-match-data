@@ -269,12 +269,12 @@
         "awayName": "Tümosan Konyaspor",
         "awayColor": "0xFF008000",
         "homeScore": 4,
-        "awayScore": 1,
+        "awayScore": 2,
         "date": "22 Ağu 2026",
         "time": "21:30",
-        "isLive": true,
-        "status": "LIVE",
-        "elapsed": 53
+        "isLive": false,
+        "status": "PLAYED",
+        "elapsed": 90
     },
     {
         "id": "26w2m18",

@@ -13,12 +13,12 @@
         "cornersAway": 2,
         "offsidesHome": 2,
         "offsidesAway": 3,
-        "xgHome": 0.49,
-        "xgAway": 2.56,
+        "xgHome": 0.48,
+        "xgAway": 3.08,
         "bigChancesHome": 0,
         "bigChancesAway": 4,
-        "passesHome": "88% (442/505)",
-        "passesAway": "90% (483/537)",
+        "passesHome": "88% (444/505)",
+        "passesAway": "90% (483/536)",
         "savesHome": 0,
         "savesAway": 4
     },
@@ -372,7 +372,7 @@
             "detail": "M. Cardoso"
         },
         {
-            "minute": 79,
+            "minute": 80,
             "type": "GOAL",
             "isHomeTeam": false,
             "playerName": "V. Osimhen",
