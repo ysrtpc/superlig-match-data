@@ -198,7 +198,7 @@
         "time": "19:00",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 17
+        "elapsed": 44
     },
     {
         "id": "26w2m13",
@@ -210,12 +210,12 @@
         "awayName": "Rams Başaksehir",
         "awayColor": "0xFFFFA500",
         "homeScore": 1,
-        "awayScore": 0,
+        "awayScore": 1,
         "date": "23 Ağu 2026",
         "time": "19:00",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 17
+        "elapsed": 45
     },
     {
         "id": "26w2m14",

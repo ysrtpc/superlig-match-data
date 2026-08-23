@@ -1,26 +1,26 @@
 {
-    "elapsed": 17,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 66,
-        "possessionAway": 34,
-        "shotsHome": 4,
-        "shotsAway": 1,
-        "shotsOnTargetHome": 1,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 2,
-        "cornersHome": 0,
+        "possessionHome": 64,
+        "possessionAway": 36,
+        "shotsHome": 8,
+        "shotsAway": 4,
+        "shotsOnTargetHome": 3,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 2,
+        "foulsAway": 6,
+        "cornersHome": 1,
         "cornersAway": 0,
-        "offsidesHome": 0,
+        "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.22,
-        "xgAway": 0.09,
+        "xgHome": 0.75,
+        "xgAway": 1.05,
         "bigChancesHome": 1,
-        "bigChancesAway": 0,
-        "passesHome": "93% (38/41)",
-        "passesAway": "61% (14/23)",
+        "bigChancesAway": 1,
+        "passesHome": "93% (143/154)",
+        "passesAway": "77% (68/88)",
         "savesHome": 0,
-        "savesAway": 1
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -292,6 +292,27 @@
             "type": "GOAL",
             "isHomeTeam": true,
             "playerName": "M. Salah",
+            "detail": ""
+        },
+        {
+            "minute": 19,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "E. Shomurodov",
+            "detail": ""
+        },
+        {
+            "minute": 22,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "O. Kemen",
+            "detail": ""
+        },
+        {
+            "minute": 39,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "B. Yildirim",
             "detail": ""
         }
     ]

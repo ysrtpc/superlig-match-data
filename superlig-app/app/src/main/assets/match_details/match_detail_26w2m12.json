@@ -1,24 +1,24 @@
 {
-    "elapsed": 17,
+    "elapsed": 44,
     "stats": {
-        "possessionHome": 57,
-        "possessionAway": 43,
-        "shotsHome": 0,
-        "shotsAway": 0,
+        "possessionHome": 43,
+        "possessionAway": 57,
+        "shotsHome": 1,
+        "shotsAway": 5,
         "shotsOnTargetHome": 0,
         "shotsOnTargetAway": 0,
-        "foulsHome": 0,
-        "foulsAway": 1,
+        "foulsHome": 6,
+        "foulsAway": 7,
         "cornersHome": 0,
-        "cornersAway": 0,
+        "cornersAway": 1,
         "offsidesHome": 0,
-        "offsidesAway": 1,
-        "xgHome": 0.0,
-        "xgAway": 0.0,
+        "offsidesAway": 3,
+        "xgHome": 0.03,
+        "xgAway": 0.44,
         "bigChancesHome": 0,
         "bigChancesAway": 0,
-        "passesHome": "79% (26/33)",
-        "passesAway": "85% (22/26)",
+        "passesHome": "79% (98/124)",
+        "passesAway": "88% (138/157)",
         "savesHome": 0,
         "savesAway": 0
     },
@@ -43,16 +43,16 @@
                 "photo": "https://media.api-sports.io/football/players/31386.png"
             },
             {
-                "id": 137430,
-                "name": "S. Yaşar",
-                "number": 4,
-                "photo": "https://media.api-sports.io/football/players/137430.png"
-            },
-            {
                 "id": 17977,
                 "name": "Z. Jules",
                 "number": 33,
                 "photo": "https://media.api-sports.io/football/players/17977.png"
+            },
+            {
+                "id": 137430,
+                "name": "S. Yaşar",
+                "number": 4,
+                "photo": "https://media.api-sports.io/football/players/137430.png"
             },
             {
                 "id": 291531,
@@ -286,5 +286,13 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 28,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "M. Abena",
+            "detail": ""
+        }
+    ]
 }
