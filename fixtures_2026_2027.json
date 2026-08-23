@@ -209,12 +209,12 @@
         "away": "bsk",
         "awayName": "Rams Başaksehir",
         "awayColor": "0xFFFFA500",
-        "homeScore": 3,
+        "homeScore": 2,
         "awayScore": 1,
         "date": "23 Ağu 2026",
         "time": "19:00",
-        "isLive": true,
-        "status": "LIVE",
+        "isLive": false,
+        "status": "PLAYED",
         "elapsed": 90
     },
     {

@@ -15,7 +15,7 @@
         "offsidesAway": 0,
         "xgHome": 2.04,
         "xgAway": 1.41,
-        "bigChancesHome": 3,
+        "bigChancesHome": 2,
         "bigChancesAway": 1,
         "passesHome": "89% (400/451)",
         "passesAway": "85% (328/384)",
@@ -407,7 +407,7 @@
             "detail": "O. Tufan"
         },
         {
-            "minute": 88,
+            "minute": 89,
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
             "playerName": "O. Ergun",
@@ -418,6 +418,13 @@
             "type": "YELLOW_CARD",
             "isHomeTeam": true,
             "playerName": "S. Savic",
+            "detail": ""
+        },
+        {
+            "minute": 90,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "F. Tekke",
             "detail": ""
         }
     ]
