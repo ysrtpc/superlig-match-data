@@ -1,24 +1,24 @@
 {
-    "elapsed": 45,
+    "elapsed": 46,
     "stats": {
-        "possessionHome": 37,
-        "possessionAway": 63,
+        "possessionHome": 38,
+        "possessionAway": 62,
         "shotsHome": 5,
-        "shotsAway": 3,
+        "shotsAway": 7,
         "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 1,
-        "foulsHome": 7,
-        "foulsAway": 4,
+        "foulsHome": 10,
+        "foulsAway": 8,
         "cornersHome": 2,
-        "cornersAway": 3,
+        "cornersAway": 5,
         "offsidesHome": 0,
         "offsidesAway": 1,
         "xgHome": 0.69,
-        "xgAway": 0.2,
+        "xgAway": 0.28,
         "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "69% (60/87)",
-        "passesAway": "77% (119/154)",
+        "passesHome": "62% (85/138)",
+        "passesAway": "77% (177/230)",
         "savesHome": 1,
         "savesAway": 2
     },
@@ -93,6 +93,12 @@
         ],
         "substitutes": [
             {
+                "id": 437786,
+                "name": "E. Yildirim",
+                "number": 13,
+                "photo": "https://media.api-sports.io/football/players/437786.png"
+            },
+            {
                 "id": 50165,
                 "name": "A. Özçimen",
                 "number": 1,
@@ -103,12 +109,6 @@
                 "name": "M. Öztürk",
                 "number": 33,
                 "photo": "https://media.api-sports.io/football/players/368122.png"
-            },
-            {
-                "id": 437786,
-                "name": "E. Yildirim",
-                "number": 13,
-                "photo": "https://media.api-sports.io/football/players/437786.png"
             },
             {
                 "id": 401646,
