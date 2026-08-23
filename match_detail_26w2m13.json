@@ -1,26 +1,26 @@
 {
-    "elapsed": 84,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 59,
-        "possessionAway": 41,
-        "shotsHome": 14,
-        "shotsAway": 7,
-        "shotsOnTargetHome": 7,
-        "shotsOnTargetAway": 2,
-        "foulsHome": 5,
-        "foulsAway": 13,
+        "possessionHome": 54,
+        "possessionAway": 46,
+        "shotsHome": 19,
+        "shotsAway": 9,
+        "shotsOnTargetHome": 8,
+        "shotsOnTargetAway": 3,
+        "foulsHome": 10,
+        "foulsAway": 17,
         "cornersHome": 5,
         "cornersAway": 1,
         "offsidesHome": 3,
         "offsidesAway": 0,
-        "xgHome": 1.45,
-        "xgAway": 1.31,
-        "bigChancesHome": 2,
+        "xgHome": 2.04,
+        "xgAway": 1.41,
+        "bigChancesHome": 3,
         "bigChancesAway": 1,
-        "passesHome": "89% (314/352)",
-        "passesAway": "83% (208/250)",
-        "savesHome": 1,
-        "savesAway": 5
+        "passesHome": "89% (400/451)",
+        "passesAway": "85% (328/384)",
+        "savesHome": 2,
+        "savesAway": 7
     },
     "homeLineups": {
         "starting11": [
@@ -397,6 +397,27 @@
             "type": "YELLOW_CARD",
             "isHomeTeam": true,
             "playerName": "C. Nwaiwu",
+            "detail": ""
+        },
+        {
+            "minute": 87,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "P. Onuachu",
+            "detail": "O. Tufan"
+        },
+        {
+            "minute": 88,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "O. Ergun",
+            "detail": ""
+        },
+        {
+            "minute": 89,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "S. Savic",
             "detail": ""
         }
     ]

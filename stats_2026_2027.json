@@ -298,9 +298,9 @@
             "goalsConceded": 0,
             "npxg": 1.8,
             "cleanSheets": 1,
-            "possessionAvg": 46.0,
-            "shotsOnTargetAvg": 3.5,
-            "saves": 9
+            "possessionAvg": 48.5,
+            "shotsOnTargetAvg": 4.0,
+            "saves": 11
         },
         {
             "teamId": "kon",
@@ -396,9 +396,9 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 0,
-            "possessionAvg": 59.5,
-            "shotsOnTargetAvg": 6.0,
-            "saves": 4
+            "possessionAvg": 57.0,
+            "shotsOnTargetAvg": 6.5,
+            "saves": 5
         },
         {
             "teamId": "kas",
@@ -452,9 +452,9 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 56.5,
-            "shotsOnTargetAvg": 3.0,
-            "saves": 1
+            "possessionAvg": 53.0,
+            "shotsOnTargetAvg": 3.5,
+            "saves": 2
         },
         {
             "teamId": "ame",
@@ -480,9 +480,9 @@
             "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 41.0,
-            "shotsOnTargetAvg": 0.5,
-            "saves": 4
+            "possessionAvg": 44.5,
+            "shotsOnTargetAvg": 1.0,
+            "saves": 5
         },
         {
             "teamId": "sam",

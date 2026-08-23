@@ -1,26 +1,26 @@
 {
-    "elapsed": 87,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 48,
-        "possessionAway": 52,
-        "shotsHome": 3,
-        "shotsAway": 8,
-        "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 1,
-        "foulsHome": 11,
-        "foulsAway": 13,
-        "cornersHome": 1,
+        "possessionHome": 55,
+        "possessionAway": 45,
+        "shotsHome": 8,
+        "shotsAway": 9,
+        "shotsOnTargetHome": 1,
+        "shotsOnTargetAway": 2,
+        "foulsHome": 15,
+        "foulsAway": 17,
+        "cornersHome": 3,
         "cornersAway": 2,
         "offsidesHome": 0,
-        "offsidesAway": 4,
-        "xgHome": 0.07,
-        "xgAway": 0.93,
+        "offsidesAway": 5,
+        "xgHome": 0.19,
+        "xgAway": 0.95,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "83% (219/263)",
-        "passesAway": "85% (241/284)",
-        "savesHome": 0,
-        "savesAway": 0
+        "passesHome": "86% (356/416)",
+        "passesAway": "82% (286/347)",
+        "savesHome": 1,
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -356,6 +356,13 @@
             "isHomeTeam": false,
             "playerName": "T. Stewart",
             "detail": "F. Bavuk"
+        },
+        {
+            "minute": 88,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "K. Kozlowski",
+            "detail": "S. Hansen"
         }
     ]
 }
