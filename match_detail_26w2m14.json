@@ -1,24 +1,24 @@
 {
-    "elapsed": 46,
+    "elapsed": 59,
     "stats": {
-        "possessionHome": 38,
-        "possessionAway": 62,
+        "possessionHome": 40,
+        "possessionAway": 60,
         "shotsHome": 5,
         "shotsAway": 7,
         "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 1,
         "foulsHome": 10,
-        "foulsAway": 8,
+        "foulsAway": 9,
         "cornersHome": 2,
         "cornersAway": 5,
         "offsidesHome": 0,
         "offsidesAway": 1,
         "xgHome": 0.69,
-        "xgAway": 0.28,
+        "xgAway": 0.33,
         "bigChancesHome": 1,
-        "bigChancesAway": 0,
-        "passesHome": "62% (85/138)",
-        "passesAway": "77% (177/230)",
+        "bigChancesAway": 1,
+        "passesHome": "64% (105/165)",
+        "passesAway": "77% (191/249)",
         "savesHome": 1,
         "savesAway": 2
     },
@@ -294,6 +294,48 @@
             "isHomeTeam": true,
             "playerName": "A. Godoi",
             "detail": "E. Yildirim"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Matos",
+            "detail": "Rhaldney"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Bekiroglu",
+            "detail": "Janderson"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "S. Armstrong",
+            "detail": "Juan"
+        },
+        {
+            "minute": 48,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "D. Goutas",
+            "detail": ""
+        },
+        {
+            "minute": 50,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Bokele",
+            "detail": "M. Bokele"
+        },
+        {
+            "minute": 51,
+            "type": "GOAL",
+            "isHomeTeam": false,
+            "playerName": "S. Koita",
+            "detail": "O. Ulgun"
         }
     ]
 }

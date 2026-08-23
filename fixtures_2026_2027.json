@@ -227,12 +227,12 @@
         "awayName": "Gençlerbirliği",
         "awayColor": "0xFFFF0000",
         "homeScore": 0,
-        "awayScore": 0,
+        "awayScore": 1,
         "date": "23 Ağu 2026",
         "time": "21:30",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 46
+        "elapsed": 59
     },
     {
         "id": "26w2m15",
@@ -300,7 +300,7 @@
         "time": "21:30",
         "isLive": true,
         "status": "LIVE",
-        "elapsed": 50
+        "elapsed": 63
     },
     {
         "id": "26w3m19",

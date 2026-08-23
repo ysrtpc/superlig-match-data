@@ -1,25 +1,25 @@
 {
-    "elapsed": 50,
+    "elapsed": 63,
     "stats": {
-        "possessionHome": 33,
-        "possessionAway": 67,
-        "shotsHome": 0,
-        "shotsAway": 7,
+        "possessionHome": 34,
+        "possessionAway": 66,
+        "shotsHome": 3,
+        "shotsAway": 8,
         "shotsOnTargetHome": 0,
-        "shotsOnTargetAway": 2,
+        "shotsOnTargetAway": 3,
         "foulsHome": 10,
         "foulsAway": 7,
         "cornersHome": 3,
         "cornersAway": 2,
         "offsidesHome": 1,
-        "offsidesAway": 1,
-        "xgHome": 0.0,
-        "xgAway": 0.32,
+        "offsidesAway": 3,
+        "xgHome": 0.06,
+        "xgAway": 0.39,
         "bigChancesHome": 0,
         "bigChancesAway": 0,
-        "passesHome": "73% (109/149)",
-        "passesAway": "88% (272/310)",
-        "savesHome": 2,
+        "passesHome": "75% (132/177)",
+        "passesAway": "87% (304/349)",
+        "savesHome": 3,
         "savesAway": 0
     },
     "homeLineups": {
@@ -293,6 +293,20 @@
             "isHomeTeam": false,
             "playerName": "S. Ozcan",
             "detail": "J. Olaitan"
+        },
+        {
+            "minute": 57,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "O. Hyeon-Gyu",
+            "detail": "D. Vlahovic"
+        },
+        {
+            "minute": 57,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "R. Yilmaz",
+            "detail": "K. Ouattara"
         }
     ]
 }
