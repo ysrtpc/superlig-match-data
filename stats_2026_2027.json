@@ -283,9 +283,9 @@
             "goalsScored": 1,
             "goalsConceded": 0,
             "npxg": 0.9,
-            "cleanSheets": 1,
-            "possessionAvg": 66.0,
-            "shotsOnTargetAvg": 5.0,
+            "cleanSheets": 2,
+            "possessionAvg": 71.0,
+            "shotsOnTargetAvg": 2.5,
             "saves": 1
         },
         {
@@ -298,8 +298,8 @@
             "goalsConceded": 0,
             "npxg": 1.8,
             "cleanSheets": 1,
-            "possessionAvg": 48.5,
-            "shotsOnTargetAvg": 4.0,
+            "possessionAvg": 49.5,
+            "shotsOnTargetAvg": 4.5,
             "saves": 11
         },
         {
@@ -353,9 +353,9 @@
             "goalsScored": 3,
             "goalsConceded": 3,
             "npxg": 2.7,
-            "cleanSheets": 0,
-            "possessionAvg": 31.0,
-            "shotsOnTargetAvg": 7.0,
+            "cleanSheets": 1,
+            "possessionAvg": 39.5,
+            "shotsOnTargetAvg": 4.5,
             "saves": 0
         },
         {
@@ -367,9 +367,9 @@
             "goalsScored": 1,
             "goalsConceded": 1,
             "npxg": 0.9,
-            "cleanSheets": 0,
-            "possessionAvg": 39.0,
-            "shotsOnTargetAvg": 2.0,
+            "cleanSheets": 1,
+            "possessionAvg": 31.5,
+            "shotsOnTargetAvg": 1.0,
             "saves": 4
         },
         {
@@ -381,10 +381,10 @@
             "goalsScored": 2,
             "goalsConceded": 1,
             "npxg": 1.8,
-            "cleanSheets": 0,
-            "possessionAvg": 29.0,
-            "shotsOnTargetAvg": 3.0,
-            "saves": 10
+            "cleanSheets": 1,
+            "possessionAvg": 40.5,
+            "shotsOnTargetAvg": 1.5,
+            "saves": 11
         },
         {
             "teamId": "ts",
@@ -396,9 +396,9 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 0,
-            "possessionAvg": 57.0,
+            "possessionAvg": 56.0,
             "shotsOnTargetAvg": 6.5,
-            "saves": 5
+            "saves": 6
         },
         {
             "teamId": "kas",
@@ -452,7 +452,7 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 53.0,
+            "possessionAvg": 52.5,
             "shotsOnTargetAvg": 3.5,
             "saves": 2
         },
@@ -480,7 +480,7 @@
             "goalsConceded": 1,
             "npxg": 0.0,
             "cleanSheets": 0,
-            "possessionAvg": 44.5,
+            "possessionAvg": 45.0,
             "shotsOnTargetAvg": 1.0,
             "saves": 5
         },

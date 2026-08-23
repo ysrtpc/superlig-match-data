@@ -1,25 +1,25 @@
 {
     "elapsed": 90,
     "stats": {
-        "possessionHome": 54,
-        "possessionAway": 46,
+        "possessionHome": 52,
+        "possessionAway": 48,
         "shotsHome": 19,
-        "shotsAway": 9,
+        "shotsAway": 12,
         "shotsOnTargetHome": 8,
-        "shotsOnTargetAway": 3,
-        "foulsHome": 10,
-        "foulsAway": 17,
+        "shotsOnTargetAway": 4,
+        "foulsHome": 13,
+        "foulsAway": 18,
         "cornersHome": 5,
         "cornersAway": 1,
-        "offsidesHome": 3,
+        "offsidesHome": 4,
         "offsidesAway": 0,
         "xgHome": 2.04,
-        "xgAway": 1.41,
+        "xgAway": 1.81,
         "bigChancesHome": 2,
-        "bigChancesAway": 1,
-        "passesHome": "89% (400/451)",
-        "passesAway": "85% (328/384)",
-        "savesHome": 2,
+        "bigChancesAway": 2,
+        "passesHome": "88% (419/476)",
+        "passesAway": "85% (360/422)",
+        "savesHome": 3,
         "savesAway": 7
     },
     "homeLineups": {
@@ -61,16 +61,16 @@
                 "photo": "https://media.api-sports.io/football/players/3638.png"
             },
             {
-                "id": 1938,
-                "name": "R. Malinovskyi",
-                "number": 17,
-                "photo": "https://media.api-sports.io/football/players/1938.png"
-            },
-            {
                 "id": 158431,
                 "name": "M. Kabasakal",
                 "number": 57,
                 "photo": "https://media.api-sports.io/football/players/158431.png"
+            },
+            {
+                "id": 1938,
+                "name": "R. Malinovskyi",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/1938.png"
             },
             {
                 "id": 161790,
@@ -93,6 +93,30 @@
         ],
         "substitutes": [
             {
+                "id": 72048,
+                "name": "C. Özkaçar",
+                "number": 39,
+                "photo": "https://media.api-sports.io/football/players/72048.png"
+            },
+            {
+                "id": 454973,
+                "name": "N. Saviolo",
+                "number": 70,
+                "photo": "https://media.api-sports.io/football/players/454973.png"
+            },
+            {
+                "id": 274355,
+                "name": "B. Bouchouari",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/274355.png"
+            },
+            {
+                "id": 49942,
+                "name": "O. Tufan",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/49942.png"
+            },
+            {
                 "id": 479721,
                 "name": "A. Yıldırım",
                 "number": 1,
@@ -111,34 +135,10 @@
                 "photo": "https://media.api-sports.io/football/players/62490.png"
             },
             {
-                "id": 72048,
-                "name": "C. Özkaçar",
-                "number": 39,
-                "photo": "https://media.api-sports.io/football/players/72048.png"
-            },
-            {
-                "id": 274355,
-                "name": "B. Bouchouari",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/274355.png"
-            },
-            {
                 "id": 107660,
                 "name": "M. Mimaroğlu",
                 "number": 77,
                 "photo": "https://media.api-sports.io/football/players/107660.png"
-            },
-            {
-                "id": 49942,
-                "name": "O. Tufan",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/49942.png"
-            },
-            {
-                "id": 454973,
-                "name": "N. Saviolo",
-                "number": 70,
-                "photo": "https://media.api-sports.io/football/players/454973.png"
             },
             {
                 "id": 50246,
@@ -243,6 +243,18 @@
                 "photo": "https://media.api-sports.io/football/players/25362.png"
             },
             {
+                "id": 125618,
+                "name": "M. Karbownik",
+                "number": 33,
+                "photo": "https://media.api-sports.io/football/players/125618.png"
+            },
+            {
+                "id": 21447,
+                "name": "U. Bozok",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/21447.png"
+            },
+            {
                 "id": 278162,
                 "name": "D. Dilmen",
                 "number": 98,
@@ -253,12 +265,6 @@
                 "name": "O. Ba",
                 "number": 27,
                 "photo": "https://media.api-sports.io/football/players/20968.png"
-            },
-            {
-                "id": 125618,
-                "name": "M. Karbownik",
-                "number": 33,
-                "photo": "https://media.api-sports.io/football/players/125618.png"
             },
             {
                 "id": 443739,
@@ -277,12 +283,6 @@
                 "name": "U. Güneş",
                 "number": 20,
                 "photo": "https://media.api-sports.io/football/players/128968.png"
-            },
-            {
-                "id": 21447,
-                "name": "U. Bozok",
-                "number": 17,
-                "photo": "https://media.api-sports.io/football/players/21447.png"
             }
         ]
     },

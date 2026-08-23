@@ -1,24 +1,24 @@
 {
     "elapsed": 90,
     "stats": {
-        "possessionHome": 55,
-        "possessionAway": 45,
-        "shotsHome": 8,
+        "possessionHome": 56,
+        "possessionAway": 44,
+        "shotsHome": 12,
         "shotsAway": 9,
         "shotsOnTargetHome": 1,
         "shotsOnTargetAway": 2,
-        "foulsHome": 15,
+        "foulsHome": 16,
         "foulsAway": 17,
-        "cornersHome": 3,
+        "cornersHome": 4,
         "cornersAway": 2,
         "offsidesHome": 0,
         "offsidesAway": 5,
-        "xgHome": 0.19,
+        "xgHome": 0.4,
         "xgAway": 0.95,
         "bigChancesHome": 0,
         "bigChancesAway": 1,
-        "passesHome": "86% (356/416)",
-        "passesAway": "82% (286/347)",
+        "passesHome": "85% (372/437)",
+        "passesAway": "82% (292/357)",
         "savesHome": 1,
         "savesAway": 1
     },
@@ -105,6 +105,24 @@
                 "photo": "https://media.api-sports.io/football/players/36906.png"
             },
             {
+                "id": 364378,
+                "name": "H. Akman",
+                "number": 18,
+                "photo": "https://media.api-sports.io/football/players/364378.png"
+            },
+            {
+                "id": 322954,
+                "name": "S. Giordano",
+                "number": 21,
+                "photo": "https://media.api-sports.io/football/players/322954.png"
+            },
+            {
+                "id": 62185,
+                "name": "M. Demir",
+                "number": 70,
+                "photo": "https://media.api-sports.io/football/players/62185.png"
+            },
+            {
                 "id": 275090,
                 "name": "E. Bilgin",
                 "number": 1,
@@ -127,24 +145,6 @@
                 "name": "A. Yavuz",
                 "number": 3,
                 "photo": "https://media.api-sports.io/football/players/451845.png"
-            },
-            {
-                "id": 322954,
-                "name": "S. Giordano",
-                "number": 21,
-                "photo": "https://media.api-sports.io/football/players/322954.png"
-            },
-            {
-                "id": 364378,
-                "name": "H. Akman",
-                "number": 18,
-                "photo": "https://media.api-sports.io/football/players/364378.png"
-            },
-            {
-                "id": 62185,
-                "name": "M. Demir",
-                "number": 70,
-                "photo": "https://media.api-sports.io/football/players/62185.png"
             },
             {
                 "id": 614411,
@@ -225,6 +225,24 @@
         ],
         "substitutes": [
             {
+                "id": 451178,
+                "name": "G. Ntino-Emo",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/451178.png"
+            },
+            {
+                "id": 62038,
+                "name": "F. Bavuk",
+                "number": 97,
+                "photo": "https://media.api-sports.io/football/players/62038.png"
+            },
+            {
+                "id": 161884,
+                "name": "S. Hansen",
+                "number": 22,
+                "photo": "https://media.api-sports.io/football/players/161884.png"
+            },
+            {
                 "id": 627119,
                 "name": "C. Aslan",
                 "number": 81,
@@ -249,12 +267,6 @@
                 "photo": "https://media.api-sports.io/football/players/202909.png"
             },
             {
-                "id": 451178,
-                "name": "G. Ntino-Emo",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/451178.png"
-            },
-            {
                 "id": 143295,
                 "name": "O. Özçiçek",
                 "number": 61,
@@ -265,18 +277,6 @@
                 "name": "S. Dursun",
                 "number": 19,
                 "photo": "https://media.api-sports.io/football/players/25053.png"
-            },
-            {
-                "id": 62038,
-                "name": "F. Bavuk",
-                "number": 97,
-                "photo": "https://media.api-sports.io/football/players/62038.png"
-            },
-            {
-                "id": 161884,
-                "name": "S. Hansen",
-                "number": 22,
-                "photo": "https://media.api-sports.io/football/players/161884.png"
             },
             {
                 "id": 37440,

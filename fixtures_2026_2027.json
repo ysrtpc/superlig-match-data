@@ -226,10 +226,13 @@
         "away": "gcl",
         "awayName": "Gençlerbirliği",
         "awayColor": "0xFFFF0000",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "23 Ağu 2026",
-        "time": "21:30"
+        "time": "21:30",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 27
     },
     {
         "id": "26w2m15",
@@ -291,10 +294,13 @@
         "away": "bjk",
         "awayName": "Beşiktaş",
         "awayColor": "0xFFFFFFFF",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "23 Ağu 2026",
-        "time": "21:30"
+        "time": "21:30",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 27
     },
     {
         "id": "26w3m19",
