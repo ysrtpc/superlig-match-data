@@ -1,26 +1,26 @@
 {
-    "elapsed": 27,
+    "elapsed": 45,
     "stats": {
-        "possessionHome": 48,
-        "possessionAway": 52,
-        "shotsHome": 4,
-        "shotsAway": 0,
+        "possessionHome": 37,
+        "possessionAway": 63,
+        "shotsHome": 5,
+        "shotsAway": 3,
         "shotsOnTargetHome": 2,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 1,
-        "foulsAway": 0,
-        "cornersHome": 1,
-        "cornersAway": 0,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 7,
+        "foulsAway": 4,
+        "cornersHome": 2,
+        "cornersAway": 3,
         "offsidesHome": 0,
-        "offsidesAway": 0,
-        "xgHome": 0.46,
-        "xgAway": 0.0,
-        "bigChancesHome": 0,
+        "offsidesAway": 1,
+        "xgHome": 0.69,
+        "xgAway": 0.2,
+        "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "68% (17/25)",
-        "passesAway": "57% (17/30)",
-        "savesHome": 0,
-        "savesAway": 1
+        "passesHome": "69% (60/87)",
+        "passesAway": "77% (119/154)",
+        "savesHome": 1,
+        "savesAway": 2
     },
     "homeLineups": {
         "starting11": [
@@ -280,5 +280,20 @@
             }
         ]
     },
-    "events": []
+    "events": [
+        {
+            "minute": 43,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "A. Matos",
+            "detail": ""
+        },
+        {
+            "minute": 45,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Godoi",
+            "detail": "E. Yildirim"
+        }
+    ]
 }

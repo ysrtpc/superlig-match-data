@@ -284,8 +284,8 @@
             "goalsConceded": 0,
             "npxg": 0.9,
             "cleanSheets": 2,
-            "possessionAvg": 71.0,
-            "shotsOnTargetAvg": 2.5,
+            "possessionAvg": 66.5,
+            "shotsOnTargetAvg": 3.5,
             "saves": 1
         },
         {
@@ -354,9 +354,9 @@
             "goalsConceded": 3,
             "npxg": 2.7,
             "cleanSheets": 1,
-            "possessionAvg": 39.5,
+            "possessionAvg": 34.0,
             "shotsOnTargetAvg": 4.5,
-            "saves": 0
+            "saves": 1
         },
         {
             "teamId": "ala",
@@ -368,9 +368,9 @@
             "goalsConceded": 1,
             "npxg": 0.9,
             "cleanSheets": 1,
-            "possessionAvg": 31.5,
+            "possessionAvg": 36.0,
             "shotsOnTargetAvg": 1.0,
-            "saves": 4
+            "saves": 6
         },
         {
             "teamId": "gcl",
@@ -382,9 +382,9 @@
             "goalsConceded": 1,
             "npxg": 1.8,
             "cleanSheets": 1,
-            "possessionAvg": 40.5,
-            "shotsOnTargetAvg": 1.5,
-            "saves": 11
+            "possessionAvg": 46.0,
+            "shotsOnTargetAvg": 2.0,
+            "saves": 12
         },
         {
             "teamId": "ts",
