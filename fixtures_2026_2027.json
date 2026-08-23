@@ -192,10 +192,13 @@
         "away": "gfk",
         "awayName": "Gaziantep FK",
         "awayColor": "0xFFFF0000",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 0,
+        "awayScore": 0,
         "date": "23 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 17
     },
     {
         "id": "26w2m13",
@@ -206,10 +209,13 @@
         "away": "bsk",
         "awayName": "Rams Başaksehir",
         "awayColor": "0xFFFFA500",
-        "homeScore": -1,
-        "awayScore": -1,
+        "homeScore": 1,
+        "awayScore": 0,
         "date": "23 Ağu 2026",
-        "time": "19:00"
+        "time": "19:00",
+        "isLive": true,
+        "status": "LIVE",
+        "elapsed": 17
     },
     {
         "id": "26w2m14",

@@ -298,9 +298,9 @@
             "goalsConceded": 0,
             "npxg": 1.8,
             "cleanSheets": 1,
-            "possessionAvg": 51.0,
-            "shotsOnTargetAvg": 5.0,
-            "saves": 4
+            "possessionAvg": 42.5,
+            "shotsOnTargetAvg": 2.5,
+            "saves": 5
         },
         {
             "teamId": "kon",
@@ -395,9 +395,9 @@
             "goalsScored": 1,
             "goalsConceded": 1,
             "npxg": 0.9,
-            "cleanSheets": 0,
-            "possessionAvg": 60.0,
-            "shotsOnTargetAvg": 5.0,
+            "cleanSheets": 1,
+            "possessionAvg": 63.0,
+            "shotsOnTargetAvg": 3.0,
             "saves": 3
         },
         {
@@ -451,9 +451,9 @@
             "goalsScored": 1,
             "goalsConceded": 1,
             "npxg": 0.9,
-            "cleanSheets": 0,
-            "possessionAvg": 61.0,
-            "shotsOnTargetAvg": 5.0,
+            "cleanSheets": 1,
+            "possessionAvg": 52.0,
+            "shotsOnTargetAvg": 2.5,
             "saves": 1
         },
         {
@@ -479,9 +479,9 @@
             "goalsScored": 0,
             "goalsConceded": 1,
             "npxg": 0.0,
-            "cleanSheets": 0,
-            "possessionAvg": 34.0,
-            "shotsOnTargetAvg": 1.0,
+            "cleanSheets": 1,
+            "possessionAvg": 45.5,
+            "shotsOnTargetAvg": 0.5,
             "saves": 4
         },
         {
