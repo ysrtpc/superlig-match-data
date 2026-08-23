@@ -1,5 +1,5 @@
 {
-    "elapsed": 66,
+    "elapsed": 84,
     "stats": {
         "possessionHome": 59,
         "possessionAway": 41,
@@ -55,10 +55,10 @@
                 "photo": "https://media.api-sports.io/football/players/62323.png"
             },
             {
-                "id": 158431,
-                "name": "M. Kabasakal",
-                "number": 57,
-                "photo": "https://media.api-sports.io/football/players/158431.png"
+                "id": 3638,
+                "name": "E. Muçi",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/3638.png"
             },
             {
                 "id": 1938,
@@ -67,22 +67,22 @@
                 "photo": "https://media.api-sports.io/football/players/1938.png"
             },
             {
-                "id": 306,
-                "name": "M. Salah",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/306.png"
-            },
-            {
-                "id": 3638,
-                "name": "E. Muçi",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/3638.png"
+                "id": 158431,
+                "name": "M. Kabasakal",
+                "number": 57,
+                "photo": "https://media.api-sports.io/football/players/158431.png"
             },
             {
                 "id": 161790,
                 "name": "A. Şimşir",
                 "number": 58,
                 "photo": "https://media.api-sports.io/football/players/161790.png"
+            },
+            {
+                "id": 306,
+                "name": "M. Salah",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/306.png"
             },
             {
                 "id": 15812,
@@ -225,6 +225,24 @@
         ],
         "substitutes": [
             {
+                "id": 62114,
+                "name": "O. Ergün",
+                "number": 4,
+                "photo": "https://media.api-sports.io/football/players/62114.png"
+            },
+            {
+                "id": 14602,
+                "name": "I. Brnić",
+                "number": 77,
+                "photo": "https://media.api-sports.io/football/players/14602.png"
+            },
+            {
+                "id": 25362,
+                "name": "D. Selke",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/25362.png"
+            },
+            {
                 "id": 278162,
                 "name": "D. Dilmen",
                 "number": 98,
@@ -261,28 +279,10 @@
                 "photo": "https://media.api-sports.io/football/players/128968.png"
             },
             {
-                "id": 62114,
-                "name": "O. Ergün",
-                "number": 4,
-                "photo": "https://media.api-sports.io/football/players/62114.png"
-            },
-            {
                 "id": 21447,
                 "name": "U. Bozok",
                 "number": 17,
                 "photo": "https://media.api-sports.io/football/players/21447.png"
-            },
-            {
-                "id": 14602,
-                "name": "I. Brnić",
-                "number": 77,
-                "photo": "https://media.api-sports.io/football/players/14602.png"
-            },
-            {
-                "id": 25362,
-                "name": "D. Selke",
-                "number": 9,
-                "photo": "https://media.api-sports.io/football/players/25362.png"
             }
         ]
     },
@@ -348,6 +348,55 @@
             "type": "YELLOW_CARD",
             "isHomeTeam": false,
             "playerName": "D. Selke",
+            "detail": ""
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Simsir",
+            "detail": "N. Saviolo"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "E. Muci",
+            "detail": "C. Ozkacar"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "O. Sahiner",
+            "detail": "M. Karbownik"
+        },
+        {
+            "minute": 79,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "M. Salah",
+            "detail": ""
+        },
+        {
+            "minute": 79,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "A. Olsen",
+            "detail": "U. Bozok"
+        },
+        {
+            "minute": 81,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "R. Malinovskyi",
+            "detail": "B. Bouchouari"
+        },
+        {
+            "minute": 83,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": true,
+            "playerName": "C. Nwaiwu",
             "detail": ""
         }
     ]

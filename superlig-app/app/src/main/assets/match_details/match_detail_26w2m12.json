@@ -1,5 +1,5 @@
 {
-    "elapsed": 70,
+    "elapsed": 87,
     "stats": {
         "possessionHome": 48,
         "possessionAway": 52,
@@ -55,16 +55,16 @@
                 "photo": "https://media.api-sports.io/football/players/137430.png"
             },
             {
-                "id": 291531,
-                "name": "C. Massanga",
-                "number": 88,
-                "photo": "https://media.api-sports.io/football/players/291531.png"
-            },
-            {
                 "id": 21589,
                 "name": "B. Boutobba",
                 "number": 98,
                 "photo": "https://media.api-sports.io/football/players/21589.png"
+            },
+            {
+                "id": 291531,
+                "name": "C. Massanga",
+                "number": 88,
+                "photo": "https://media.api-sports.io/football/players/291531.png"
             },
             {
                 "id": 333168,
@@ -73,16 +73,16 @@
                 "photo": "https://media.api-sports.io/football/players/333168.png"
             },
             {
-                "id": 19053,
-                "name": "A. Sabiri",
-                "number": 10,
-                "photo": "https://media.api-sports.io/football/players/19053.png"
-            },
-            {
                 "id": 670,
                 "name": "L. Pintor",
                 "number": 11,
                 "photo": "https://media.api-sports.io/football/players/670.png"
+            },
+            {
+                "id": 19053,
+                "name": "A. Sabiri",
+                "number": 10,
+                "photo": "https://media.api-sports.io/football/players/19053.png"
             },
             {
                 "id": 388461,
@@ -92,6 +92,18 @@
             }
         ],
         "substitutes": [
+            {
+                "id": 40452,
+                "name": "K. Michalak",
+                "number": 77,
+                "photo": "https://media.api-sports.io/football/players/40452.png"
+            },
+            {
+                "id": 36906,
+                "name": "Y. Barası",
+                "number": 9,
+                "photo": "https://media.api-sports.io/football/players/36906.png"
+            },
             {
                 "id": 275090,
                 "name": "E. Bilgin",
@@ -123,12 +135,6 @@
                 "photo": "https://media.api-sports.io/football/players/322954.png"
             },
             {
-                "id": 40452,
-                "name": "K. Michalak",
-                "number": 77,
-                "photo": "https://media.api-sports.io/football/players/40452.png"
-            },
-            {
                 "id": 364378,
                 "name": "H. Akman",
                 "number": 18,
@@ -145,12 +151,6 @@
                 "name": "C. Sadia",
                 "number": 84,
                 "photo": "https://media.api-sports.io/football/players/614411.png"
-            },
-            {
-                "id": 36906,
-                "name": "Y. Barası",
-                "number": 9,
-                "photo": "https://media.api-sports.io/football/players/36906.png"
             }
         ]
     },
@@ -335,6 +335,27 @@
             "isHomeTeam": false,
             "playerName": "D. Camara",
             "detail": "V. Gidado"
+        },
+        {
+            "minute": 74,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "A. Yasar",
+            "detail": "S. Giordano"
+        },
+        {
+            "minute": 74,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "L. Pintor",
+            "detail": "M. Demir"
+        },
+        {
+            "minute": 76,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "T. Stewart",
+            "detail": "F. Bavuk"
         }
     ]
 }
