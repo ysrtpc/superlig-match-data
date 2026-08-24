@@ -466,7 +466,7 @@
             "goalsConceded": 0,
             "npxg": 2.7,
             "cleanSheets": 1,
-            "possessionAvg": 49.5,
+            "possessionAvg": 51.0,
             "shotsOnTargetAvg": 3.0,
             "saves": 2
         },
@@ -522,8 +522,8 @@
             "goalsConceded": 2,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 48.0,
-            "shotsOnTargetAvg": 3.0,
+            "possessionAvg": 46.5,
+            "shotsOnTargetAvg": 3.5,
             "saves": 4
         }
     ]

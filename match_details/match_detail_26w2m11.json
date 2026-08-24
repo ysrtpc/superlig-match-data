@@ -1,24 +1,24 @@
 {
-    "elapsed": 79,
+    "elapsed": 90,
     "stats": {
-        "possessionHome": 47,
-        "possessionAway": 53,
-        "shotsHome": 10,
-        "shotsAway": 8,
-        "shotsOnTargetHome": 2,
+        "possessionHome": 44,
+        "possessionAway": 56,
+        "shotsHome": 11,
+        "shotsAway": 12,
+        "shotsOnTargetHome": 3,
         "shotsOnTargetAway": 1,
-        "foulsHome": 6,
-        "foulsAway": 13,
+        "foulsHome": 9,
+        "foulsAway": 16,
         "cornersHome": 3,
-        "cornersAway": 5,
+        "cornersAway": 7,
         "offsidesHome": 1,
         "offsidesAway": 1,
-        "xgHome": 1.13,
-        "xgAway": 0.33,
-        "bigChancesHome": 1,
-        "bigChancesAway": 0,
-        "passesHome": "79% (261/331)",
-        "passesAway": "82% (305/372)",
+        "xgHome": 1.31,
+        "xgAway": 0.64,
+        "bigChancesHome": 2,
+        "bigChancesAway": 1,
+        "passesHome": "77% (289/373)",
+        "passesAway": "83% (389/467)",
         "savesHome": 1,
         "savesAway": 1
     },
@@ -93,12 +93,6 @@
         ],
         "substitutes": [
             {
-                "id": 134492,
-                "name": "O. Piri",
-                "number": 23,
-                "photo": "https://media.api-sports.io/football/players/134492.png"
-            },
-            {
                 "id": 143827,
                 "name": "U. Yıldız",
                 "number": 22,
@@ -111,18 +105,6 @@
                 "photo": "https://media.api-sports.io/football/players/272242.png"
             },
             {
-                "id": 63034,
-                "name": "M. Cinan",
-                "number": 3,
-                "photo": "https://media.api-sports.io/football/players/63034.png"
-            },
-            {
-                "id": 144413,
-                "name": "O. Öztonga",
-                "number": 41,
-                "photo": "https://media.api-sports.io/football/players/144413.png"
-            },
-            {
                 "id": 550879,
                 "name": "E. Bilim",
                 "number": 27,
@@ -133,6 +115,24 @@
                 "name": "M. Altunbaş",
                 "number": 26,
                 "photo": "https://media.api-sports.io/football/players/62181.png"
+            },
+            {
+                "id": 134492,
+                "name": "O. Piri",
+                "number": 23,
+                "photo": "https://media.api-sports.io/football/players/134492.png"
+            },
+            {
+                "id": 63034,
+                "name": "M. Cinan",
+                "number": 3,
+                "photo": "https://media.api-sports.io/football/players/63034.png"
+            },
+            {
+                "id": 144413,
+                "name": "O. Öztonga",
+                "number": 41,
+                "photo": "https://media.api-sports.io/football/players/144413.png"
             },
             {
                 "id": 645447,
@@ -187,12 +187,6 @@
                 "photo": "https://media.api-sports.io/football/players/14590.png"
             },
             {
-                "id": 203458,
-                "name": "Y. Sor",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/203458.png"
-            },
-            {
                 "id": 12939,
                 "name": "D. Saba",
                 "number": 91,
@@ -211,6 +205,12 @@
                 "photo": "https://media.api-sports.io/football/players/271460.png"
             },
             {
+                "id": 203458,
+                "name": "Y. Sor",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/203458.png"
+            },
+            {
                 "id": 152609,
                 "name": "S. Ballet",
                 "number": 10,
@@ -224,6 +224,36 @@
             }
         ],
         "substitutes": [
+            {
+                "id": 50223,
+                "name": "U. Meraş",
+                "number": 17,
+                "photo": "https://media.api-sports.io/football/players/50223.png"
+            },
+            {
+                "id": 25522,
+                "name": "G. Gül",
+                "number": 18,
+                "photo": "https://media.api-sports.io/football/players/25522.png"
+            },
+            {
+                "id": 458,
+                "name": "M. Diagne",
+                "number": 45,
+                "photo": "https://media.api-sports.io/football/players/458.png"
+            },
+            {
+                "id": 359335,
+                "name": "R. Lutin",
+                "number": 93,
+                "photo": "https://media.api-sports.io/football/players/359335.png"
+            },
+            {
+                "id": 50239,
+                "name": "F. Soyalp",
+                "number": 8,
+                "photo": "https://media.api-sports.io/football/players/50239.png"
+            },
             {
                 "id": 61949,
                 "name": "B. Bozan",
@@ -243,46 +273,16 @@
                 "photo": "https://media.api-sports.io/football/players/134470.png"
             },
             {
-                "id": 50223,
-                "name": "U. Meraş",
-                "number": 17,
-                "photo": "https://media.api-sports.io/football/players/50223.png"
-            },
-            {
                 "id": 63225,
                 "name": "K. Demirtaş",
                 "number": 47,
                 "photo": "https://media.api-sports.io/football/players/63225.png"
             },
             {
-                "id": 359335,
-                "name": "R. Lutin",
-                "number": 93,
-                "photo": "https://media.api-sports.io/football/players/359335.png"
-            },
-            {
-                "id": 50239,
-                "name": "F. Soyalp",
-                "number": 8,
-                "photo": "https://media.api-sports.io/football/players/50239.png"
-            },
-            {
-                "id": 25522,
-                "name": "G. Gül",
-                "number": 18,
-                "photo": "https://media.api-sports.io/football/players/25522.png"
-            },
-            {
                 "id": 169735,
                 "name": "M. Khalil",
                 "number": 74,
                 "photo": "https://media.api-sports.io/football/players/169735.png"
-            },
-            {
-                "id": 458,
-                "name": "M. Diagne",
-                "number": 45,
-                "photo": "https://media.api-sports.io/football/players/458.png"
             }
         ]
     },
@@ -328,6 +328,55 @@
             "isHomeTeam": true,
             "playerName": "G. Sousa",
             "detail": "M. Maglica"
+        },
+        {
+            "minute": 80,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "R. Raveloson",
+            "detail": "R. Lutin"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "D. Agyei",
+            "detail": "M. Altunbas"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "B. Kutlu",
+            "detail": "E. Bilim"
+        },
+        {
+            "minute": 85,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "D. Saba",
+            "detail": "F. Soyalp"
+        },
+        {
+            "minute": 86,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "L. Dellova",
+            "detail": ""
+        },
+        {
+            "minute": 86,
+            "type": "YELLOW_CARD",
+            "isHomeTeam": false,
+            "playerName": "A. Lafont",
+            "detail": ""
+        },
+        {
+            "minute": 87,
+            "type": "GOAL",
+            "isHomeTeam": true,
+            "playerName": "M. Maglica",
+            "detail": "U. Yildiz"
         }
     ]
 }
