@@ -1,24 +1,24 @@
 {
-    "elapsed": 56,
+    "elapsed": 79,
     "stats": {
-        "possessionHome": 49,
-        "possessionAway": 51,
-        "shotsHome": 9,
-        "shotsAway": 4,
+        "possessionHome": 47,
+        "possessionAway": 53,
+        "shotsHome": 10,
+        "shotsAway": 8,
         "shotsOnTargetHome": 2,
         "shotsOnTargetAway": 1,
-        "foulsHome": 5,
-        "foulsAway": 10,
+        "foulsHome": 6,
+        "foulsAway": 13,
         "cornersHome": 3,
-        "cornersAway": 1,
+        "cornersAway": 5,
         "offsidesHome": 1,
-        "offsidesAway": 0,
-        "xgHome": 1.1,
-        "xgAway": 0.27,
+        "offsidesAway": 1,
+        "xgHome": 1.13,
+        "xgAway": 0.33,
         "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "80% (202/252)",
-        "passesAway": "80% (209/261)",
+        "passesHome": "79% (261/331)",
+        "passesAway": "82% (305/372)",
         "savesHome": 1,
         "savesAway": 1
     },
@@ -300,6 +300,34 @@
             "isHomeTeam": false,
             "playerName": "M. Yesil",
             "detail": "U. Meras"
+        },
+        {
+            "minute": 60,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "M. Susoho",
+            "detail": "U. Yildiz"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "C. Ustundag",
+            "detail": "G. Gul"
+        },
+        {
+            "minute": 68,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "S. Ballet",
+            "detail": "M. Diagne"
+        },
+        {
+            "minute": 70,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": true,
+            "playerName": "G. Sousa",
+            "detail": "M. Maglica"
         }
     ]
 }
