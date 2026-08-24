@@ -1,26 +1,26 @@
 {
-    "elapsed": 45,
+    "elapsed": 56,
     "stats": {
-        "possessionHome": 51,
-        "possessionAway": 49,
-        "shotsHome": 7,
-        "shotsAway": 3,
-        "shotsOnTargetHome": 1,
-        "shotsOnTargetAway": 0,
-        "foulsHome": 4,
-        "foulsAway": 7,
+        "possessionHome": 49,
+        "possessionAway": 51,
+        "shotsHome": 9,
+        "shotsAway": 4,
+        "shotsOnTargetHome": 2,
+        "shotsOnTargetAway": 1,
+        "foulsHome": 5,
+        "foulsAway": 10,
         "cornersHome": 3,
-        "cornersAway": 0,
+        "cornersAway": 1,
         "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 1.02,
-        "xgAway": 0.25,
+        "xgHome": 1.1,
+        "xgAway": 0.27,
         "bigChancesHome": 1,
         "bigChancesAway": 0,
-        "passesHome": "83% (168/202)",
-        "passesAway": "81% (160/197)",
-        "savesHome": 0,
-        "savesAway": 0
+        "passesHome": "80% (202/252)",
+        "passesAway": "80% (209/261)",
+        "savesHome": 1,
+        "savesAway": 1
     },
     "homeLineups": {
         "starting11": [
@@ -79,16 +79,16 @@
                 "photo": "https://media.api-sports.io/football/players/328097.png"
             },
             {
-                "id": 87791,
-                "name": "D. Agyei",
-                "number": 7,
-                "photo": "https://media.api-sports.io/football/players/87791.png"
-            },
-            {
                 "id": 26568,
                 "name": "M. Baku",
                 "number": 32,
                 "photo": "https://media.api-sports.io/football/players/26568.png"
+            },
+            {
+                "id": 87791,
+                "name": "D. Agyei",
+                "number": 7,
+                "photo": "https://media.api-sports.io/football/players/87791.png"
             }
         ],
         "substitutes": [
@@ -187,6 +187,18 @@
                 "photo": "https://media.api-sports.io/football/players/14590.png"
             },
             {
+                "id": 203458,
+                "name": "Y. Sor",
+                "number": 11,
+                "photo": "https://media.api-sports.io/football/players/203458.png"
+            },
+            {
+                "id": 12939,
+                "name": "D. Saba",
+                "number": 91,
+                "photo": "https://media.api-sports.io/football/players/12939.png"
+            },
+            {
                 "id": 20586,
                 "name": "R. Raveloson",
                 "number": 22,
@@ -197,18 +209,6 @@
                 "name": "C. Üstündag",
                 "number": 6,
                 "photo": "https://media.api-sports.io/football/players/271460.png"
-            },
-            {
-                "id": 12939,
-                "name": "D. Saba",
-                "number": 91,
-                "photo": "https://media.api-sports.io/football/players/12939.png"
-            },
-            {
-                "id": 203458,
-                "name": "Y. Sor",
-                "number": 11,
-                "photo": "https://media.api-sports.io/football/players/203458.png"
             },
             {
                 "id": 152609,
@@ -288,11 +288,18 @@
     },
     "events": [
         {
-            "minute": 17,
+            "minute": 16,
             "type": "GOAL",
             "isHomeTeam": true,
             "playerName": "B. Kutlu",
             "detail": "A. Dijksteel"
+        },
+        {
+            "minute": 46,
+            "type": "SUBSTITUTION",
+            "isHomeTeam": false,
+            "playerName": "M. Yesil",
+            "detail": "U. Meras"
         }
     ]
 }

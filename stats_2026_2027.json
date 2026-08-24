@@ -466,9 +466,9 @@
             "goalsConceded": 0,
             "npxg": 2.7,
             "cleanSheets": 1,
-            "possessionAvg": 47.5,
-            "shotsOnTargetAvg": 2.5,
-            "saves": 1
+            "possessionAvg": 48.5,
+            "shotsOnTargetAvg": 3.0,
+            "saves": 2
         },
         {
             "teamId": "eyup",
@@ -522,9 +522,9 @@
             "goalsConceded": 2,
             "npxg": 0.0,
             "cleanSheets": 1,
-            "possessionAvg": 50.0,
-            "shotsOnTargetAvg": 2.5,
-            "saves": 3
+            "possessionAvg": 49.0,
+            "shotsOnTargetAvg": 3.0,
+            "saves": 4
         }
     ]
 }
