@@ -13,12 +13,12 @@
         "cornersAway": 0,
         "offsidesHome": 1,
         "offsidesAway": 0,
-        "xgHome": 0.92,
-        "xgAway": 0.31,
+        "xgHome": 1.11,
+        "xgAway": 0.32,
         "bigChancesHome": 1,
         "bigChancesAway": 1,
-        "passesHome": "91% (656/720)",
-        "passesAway": "72% (176/246)",
+        "passesHome": "92% (657/716)",
+        "passesAway": "71% (176/247)",
         "savesHome": 0,
         "savesAway": 2
     },
@@ -363,13 +363,6 @@
             "isHomeTeam": true,
             "playerName": "M. Diomande",
             "detail": "K. Fakili"
-        },
-        {
-            "minute": 84,
-            "type": "YELLOW_CARD",
-            "isHomeTeam": true,
-            "playerName": "A. Ildız",
-            "detail": ""
         },
         {
             "minute": 85,
