@@ -193,10 +193,12 @@
         "competition": "Avrupa Ligi",
         "isLive": false,
         "status": "PLAYED",
-        "elapsed": 90
+        "elapsed": 90,
+        "homeRedCards": 0,
+        "awayRedCards": 0
     },
     {
-        "id": "eu_1622621",
+        "id": "eu_1612801",
         "apiId": 1612801,
         "week": 2,
         "home": "fb",
@@ -205,17 +207,16 @@
         "away": "lyon",
         "awayName": "Olympique Lyon",
         "awayColor": "0xFF00205B",
-        "homeScore": 1,
-        "awayScore": 1,
-        "date": "18 Ağustos 2026",
+        "homeScore": -1,
+        "awayScore": -1,
+        "date": "19 Ağustos 2026",
         "time": "22:00",
         "competition": "Şampiyonlar Ligi",
         "isLive": false,
-        "status": "PLAYED",
-        "elapsed": 90
+        "status": "NOT_PLAYED"
     },
     {
-        "id": "eu_1622630",
+        "id": "eu_1612810",
         "apiId": 1612810,
         "week": 2,
         "home": "lyon",
@@ -231,41 +232,5 @@
         "competition": "Şampiyonlar Ligi",
         "isLive": false,
         "status": "NOT_PLAYED"
-    },
-    {
-        "id": "eu_1623432",
-        "week": 1,
-        "home": "bjk",
-        "homeName": "Beşiktaş",
-        "homeColor": "0xFFFFD700",
-        "away": "kaunožal",
-        "awayName": "Kauno Žalgiris",
-        "awayColor": "0xFFFFFFFF",
-        "homeScore": 3,
-        "awayScore": 0,
-        "date": "20 Ağustos 2026",
-        "time": "17:00",
-        "competition": "Avrupa Ligi",
-        "isLive": false,
-        "status": "PLAYED",
-        "elapsed": 90
-    },
-    {
-        "id": "eu_1623447",
-        "week": 1,
-        "home": "kaunožal",
-        "homeName": "Kauno Žalgiris",
-        "homeColor": "0xFFFFFFFF",
-        "away": "bjk",
-        "awayName": "Beşiktaş",
-        "awayColor": "0xFFFFD700",
-        "homeScore": -1,
-        "awayScore": -1,
-        "date": "27 Ağustos 2026",
-        "time": "17:00",
-        "competition": "Avrupa Ligi",
-        "isLive": false,
-        "status": "NOT_PLAYED",
-        "elapsed": null
     }
 ]
