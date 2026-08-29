@@ -394,7 +394,7 @@
         "date":  "29 Ağu 2026",
         "time":  "21:30",
         "status":  "LIVE",
-        "elapsed":  37,
+        "elapsed":  38,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -408,12 +408,12 @@
         "away":  "goz",
         "awayName":  "Göztepe",
         "awayColor":  "0xFFD4AC0D",
-        "homeScore":  0,
+        "homeScore":  1,
         "awayScore":  1,
         "date":  "29 Ağu 2026",
         "time":  "21:30",
         "status":  "LIVE",
-        "elapsed":  33,
+        "elapsed":  34,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
