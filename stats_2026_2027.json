@@ -101,7 +101,7 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/35617.png",
+                           "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
                            "id":  "346045",
                            "teamId":  "gcl",
                            "matches":  2,
