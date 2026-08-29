@@ -1,284 +1,164 @@
 ﻿{
     "topScorers":  [
                        {
+                           "photoUrl":  "https://media.api-sports.io/football/players/2780.png",
                            "id":  "2780",
-                           "name":  "V. Osimhen",
                            "teamId":  "gs",
+                           "matches":  2,
+                           "name":  "V. Osimhen",
                            "goals":  4,
                            "assists":  1,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/2780.png"
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "897",
-                           "name":  "M. Greenwood",
-                           "teamId":  "fb",
-                           "goals":  2,
-                           "assists":  1,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/897.png"
-                       },
-                       {
-                           "id":  "12939",
-                           "name":  "D. Sabia",
-                           "teamId":  "ame",
-                           "goals":  2,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/12939.png"
-                       },
-                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/40592.png",
                            "id":  "40592",
-                           "name":  "A. Benedyczak",
                            "teamId":  "kas",
+                           "matches":  2,
+                           "name":  "A. Benedyczak",
                            "goals":  2,
                            "assists":  0,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/40592.png"
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "50048",
-                           "name":  "V. Muriqi",
-                           "teamId":  "fb",
-                           "goals":  1,
-                           "assists":  1,
+                           "photoUrl":  "https://media.api-sports.io/football/players/43194.png",
+                           "id":  "43194",
+                           "teamId":  "gfk",
                            "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/50048.png"
-                       },
-                       {
-                           "id":  "25223",
-                           "name":  "F. Kaya",
-                           "teamId":  "sam",
-                           "goals":  1,
-                           "assists":  1,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/25223.png"
-                       },
-                       {
-                           "id":  "310029",
-                           "name":  "J. Mendes",
-                           "teamId":  "sam",
-                           "goals":  1,
-                           "assists":  1,
-                           "matches":  2,
-                           "position":  "Defender",
-                           "photoUrl":  "https://media.api-sports.io/football/players/310029.png"
-                       },
-                       {
-                           "id":  "140847",
-                           "name":  "E. Colley",
-                           "teamId":  "kon",
-                           "goals":  1,
+                           "name":  "D. Sorescu",
+                           "goals":  2,
                            "assists":  0,
-                           "matches":  2,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/140847.png"
+                           "position":  "Midfielder"
                        },
                        {
-                           "id":  "746",
-                           "name":  "Marco Asensio",
-                           "teamId":  "fb",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/746.png"
-                       },
-                       {
-                           "id":  "26252",
-                           "name":  "R. Sallai",
-                           "teamId":  "gs",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Defender",
-                           "photoUrl":  "https://media.api-sports.io/football/players/26252.png"
-                       },
-                       {
-                           "id":  "454",
-                           "name":  "Y. Akgün",
-                           "teamId":  "gs",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/454.png"
-                       },
-                       {
-                           "id":  "103958",
-                           "name":  "C. Ramírez",
-                           "teamId":  "cor",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/103958.png"
-                       },
-                       {
-                           "id":  "453",
-                           "name":  "C. Yüksel",
-                           "teamId":  "sam",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/453.png"
-                       },
-                       {
-                           "id":  "50091",
-                           "name":  "E. Kılınç",
-                           "teamId":  "sam",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  2,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/50091.png"
-                       },
-                       {
-                           "id":  "25522",
-                           "name":  "G. Gül",
+                           "photoUrl":  "https://media.api-sports.io/football/players/12939.png",
+                           "id":  "12939",
                            "teamId":  "ame",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/25522.png"
-                       },
-                       {
-                           "id":  "26128",
-                           "name":  "E. Bekiroğlu",
-                           "teamId":  "goz",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/26128.png"
-                       },
-                       {
-                           "id":  "289618",
-                           "name":  "Alex Matos",
-                           "teamId":  "goz",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/289618.png"
-                       },
-                       {
-                           "id":  "199863",
-                           "name":  "S. Armstrong",
-                           "teamId":  "goz",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Attacker",
-                           "photoUrl":  "https://media.api-sports.io/football/players/199863.png"
-                       },
-                       {
-                           "id":  "454973",
-                           "name":  "N. Saviolo",
-                           "teamId":  "ts",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/454973.png"
-                       },
-                       {
-                           "id":  "68213",
-                           "name":  "A. Kyziridis",
-                           "teamId":  "cor",
-                           "goals":  1,
-                           "assists":  0,
-                           "matches":  1,
-                           "position":  "Midfielder",
-                           "photoUrl":  "https://media.api-sports.io/football/players/68213.png"
-                       },
-                       {
-                           "id":  "ala_lima",
-                           "name":  "N. Lima",
-                           "teamId":  "ala",
-                           "goals":  1,
-                           "assists":  0,
                            "matches":  2,
-                           "position":  "FW",
-                           "photoUrl":  null
-                       },
-                       {
-                           "id":  "gcl_koita",
-                           "name":  "S. Koita",
-                           "teamId":  "gcl",
-                           "goals":  1,
+                           "name":  "Dia Saba",
+                           "goals":  2,
                            "assists":  0,
-                           "matches":  2,
-                           "position":  "FW",
-                           "photoUrl":  null
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "bsk_shomurodov",
-                           "name":  "E. Shomurodov",
+                           "photoUrl":  "https://media.api-sports.io/football/players/18805.png",
+                           "id":  "18805",
                            "teamId":  "bsk",
-                           "goals":  1,
-                           "assists":  0,
                            "matches":  2,
-                           "position":  "FW",
-                           "photoUrl":  null
+                           "name":  "E. Shomurodov",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "rize_laci",
-                           "name":  "Q. Laci",
-                           "teamId":  "rize",
-                           "goals":  1,
-                           "assists":  0,
+                           "photoUrl":  "https://media.api-sports.io/football/players/897.png",
+                           "id":  "897",
+                           "teamId":  "fb",
                            "matches":  2,
-                           "position":  "FW",
-                           "photoUrl":  null
+                           "name":  "M. Greenwood",
+                           "goals":  2,
+                           "assists":  1,
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "koc_berkan",
-                           "name":  "Berkan Kutlu",
-                           "teamId":  "koc",
-                           "goals":  1,
-                           "assists":  0,
+                           "photoUrl":  "https://media.api-sports.io/football/players/306.png",
+                           "id":  "306",
+                           "teamId":  "ts",
                            "matches":  2,
-                           "position":  "MF",
-                           "photoUrl":  null
+                           "name":  "M. Salah",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
                        },
                        {
-                           "id":  "koc_maglica",
-                           "name":  "Matej Maglica",
-                           "teamId":  "koc",
-                           "goals":  1,
-                           "assists":  0,
+                           "photoUrl":  "https://media.api-sports.io/football/players/68213.png",
+                           "id":  "68213",
+                           "teamId":  "cor",
                            "matches":  2,
-                           "position":  "MF",
-                           "photoUrl":  null
-                       },
-                       {
-                           "id":  "erz_tozlu",
-                           "name":  "Eren Tozlu",
-                           "teamId":  "erz",
+                           "name":  "A. Kyziridis",
                            "goals":  1,
                            "assists":  0,
-                           "matches":  3,
-                           "position":  "FW",
-                           "photoUrl":  null
+                           "position":  "Midfielder"
                        },
                        {
-                           "id":  "gcl_traore",
-                           "name":  "Adama Traore",
+                           "photoUrl":  "https://media.api-sports.io/football/players/289618.png",
+                           "id":  "289618",
+                           "teamId":  "goz",
+                           "matches":  2,
+                           "name":  "A. Matos",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/12724.png",
+                           "id":  "12724",
+                           "teamId":  "fb",
+                           "matches":  2,
+                           "name":  "A. Talisca",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/35617.png",
+                           "id":  "35617",
                            "teamId":  "gcl",
+                           "matches":  3,
+                           "name":  "A. Traore",
                            "goals":  1,
                            "assists":  0,
-                           "matches":  3,
-                           "position":  "FW",
-                           "photoUrl":  null
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/122045.png",
+                           "id":  "122045",
+                           "teamId":  "rize",
+                           "matches":  2,
+                           "name":  "Berkan Kutlu",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/21798.png",
+                           "id":  "21798",
+                           "teamId":  "bsk",
+                           "matches":  2,
+                           "name":  "C. Operi",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Defender"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/453.png",
+                           "id":  "453",
+                           "teamId":  "sam",
+                           "matches":  2,
+                           "name":  "Celil Yüksel",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/1085.png",
+                           "id":  "1085",
+                           "teamId":  "kon",
+                           "matches":  2,
+                           "name":  "Deniz Türüç",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/140847.png",
+                           "id":  "140847",
+                           "teamId":  "kon",
+                           "matches":  2,
+                           "name":  "E. Colley",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Midfielder"
                        }
                    ],
     "topAssists":  [
