@@ -323,6 +323,16 @@
                            "position":  "Midfielder"
                        },
                        {
+                           "photoUrl":  "https://media.api-sports.io/football/players/883125.png",
+                           "id":  "883125",
+                           "teamId":  "rize",
+                           "matches":  2,
+                           "name":  "G. Sousa",
+                           "goals":  0,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
                            "photoUrl":  "https://media.api-sports.io/football/players/395770.png",
                            "id":  "395770",
                            "teamId":  "gfk",
@@ -388,16 +398,6 @@
                            "teamId":  "fb",
                            "matches":  2,
                            "name":  "Levent Mercan",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://media.api-sports.io/football/players/897.png",
-                           "id":  "501819",
-                           "teamId":  "fb",
-                           "matches":  2,
-                           "name":  "M. Greenwood",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -504,17 +504,17 @@
                       },
                       {
                           "teamId":  "kon",
-                          "yellowCards":  4,
-                          "redCards":  0,
+                          "yellowCards":  5,
+                          "redCards":  1,
                           "penaltiesWon":  0,
                           "penaltiesTotal":  0,
-                          "goalsScored":  2,
-                          "goalsConceded":  5,
+                          "goalsScored":  3,
+                          "goalsConceded":  7,
                           "cleanSheets":  0,
-                          "possessionAvg":  47.5,
-                          "shotsOnTargetAvg":  5.5,
-                          "saves":  20,
-                          "npxg":  2.8
+                          "possessionAvg":  46.3,
+                          "shotsOnTargetAvg":  3.7,
+                          "saves":  21,
+                          "npxg":  3.5
                       },
                       {
                           "teamId":  "ts",
@@ -630,17 +630,17 @@
                       },
                       {
                           "teamId":  "koc",
-                          "yellowCards":  2,
+                          "yellowCards":  5,
                           "redCards":  0,
                           "penaltiesWon":  0,
                           "penaltiesTotal":  0,
-                          "goalsScored":  2,
-                          "goalsConceded":  2,
+                          "goalsScored":  4,
+                          "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  46.5,
-                          "shotsOnTargetAvg":  3.5,
-                          "saves":  30,
-                          "npxg":  1.7
+                          "possessionAvg":  49.7,
+                          "shotsOnTargetAvg":  4.7,
+                          "saves":  26,
+                          "npxg":  2.4
                       },
                       {
                           "teamId":  "erz",
