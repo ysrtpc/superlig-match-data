@@ -41,7 +41,7 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/18805.png",
+                           "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/shomurodov.png",
                            "id":  "334731",
                            "teamId":  "bsk",
                            "matches":  2,
