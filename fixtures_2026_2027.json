@@ -393,7 +393,7 @@
         "awayScore":  2,
         "date":  "29 Ağu 2026",
         "time":  "21:30",
-        "status":  "LIVE",
+        "status":  "HALF_TIME",
         "elapsed":  45,
         "homeRedCards":  0,
         "awayRedCards":  0
@@ -412,7 +412,7 @@
         "awayScore":  1,
         "date":  "29 Ağu 2026",
         "time":  "21:30",
-        "status":  "LIVE",
+        "status":  "HALF_TIME",
         "elapsed":  45,
         "homeRedCards":  0,
         "awayRedCards":  0
