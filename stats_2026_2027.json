@@ -1,4 +1,4 @@
-{
+﻿{
     "topScorers":  [
                        {
                            "photoUrl":  "https://media.api-sports.io/football/players/2780.png",
@@ -135,7 +135,7 @@
                            "id":  "453",
                            "teamId":  "sam",
                            "matches":  2,
-                           "name":  "Celil Yüksel",
+                           "name":  "Celil Y\u00fcksel",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Midfielder"
@@ -145,7 +145,7 @@
                            "id":  "1085",
                            "teamId":  "kon",
                            "matches":  2,
-                           "name":  "Deniz Türüç",
+                           "name":  "Deniz T\u00fcr\u00fc\u00e7",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Midfielder"
