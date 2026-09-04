@@ -56,23 +56,23 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ahrnav5hhvd8fy2h0h9h77ug9.png",
-                           "id":  "406269",
-                           "uuid":  "ahrnav5hhvd8fy2h0h9h77ug9",
-                           "teamId":  "gfk",
-                           "matches":  3,
-                           "name":  "D. Sorescu",
-                           "goals":  2,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
                            "id":  "195821",
                            "uuid":  "2aryulqex3ercfr5naj04x9zp",
                            "teamId":  "ame",
                            "matches":  3,
                            "name":  "Dia Saba",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ahrnav5hhvd8fy2h0h9h77ug9.png",
+                           "id":  "406269",
+                           "uuid":  "ahrnav5hhvd8fy2h0h9h77ug9",
+                           "teamId":  "gfk",
+                           "matches":  3,
+                           "name":  "D. Sorescu",
                            "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
@@ -188,23 +188,23 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
-                           "id":  "346045",
-                           "uuid":  "c6gok3k7so5az0671dse0te51",
-                           "teamId":  "gcl",
-                           "matches":  3,
-                           "name":  "A. Traore",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ray2bklw80bcyydzk7wmgutw.png",
                            "id":  "815244",
                            "uuid":  "ray2bklw80bcyydzk7wmgutw",
                            "teamId":  "ala",
                            "matches":  3,
                            "name":  "Arda Usluoğlu",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
+                           "id":  "346045",
+                           "uuid":  "c6gok3k7so5az0671dse0te51",
+                           "teamId":  "gcl",
+                           "matches":  3,
+                           "name":  "A. Traore",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
@@ -322,23 +322,23 @@
                            "position":  "Midfielder"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_btjk8ghcrtzzc0q5iqf301vc9.png",
+                           "id":  "485906",
+                           "uuid":  "btjk8ghcrtzzc0q5iqf301vc9",
+                           "teamId":  "gcl",
+                           "matches":  3,
+                           "name":  "Abdurrahim Dursun",
+                           "goals":  0,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2clpbungt3x2z4wwr5ecc4iga.png",
                            "id":  "659147",
                            "uuid":  "2clpbungt3x2z4wwr5ecc4iga",
                            "teamId":  "bsk",
                            "matches":  4,
                            "name":  "A. Fayzullayev",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ec3wpvlzavcxng4gllnyb33e.png",
-                           "id":  "652529",
-                           "uuid":  "ec3wpvlzavcxng4gllnyb33e",
-                           "teamId":  "goz",
-                           "matches":  3,
-                           "name":  "A. Henrique",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -355,23 +355,12 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_btjk8ghcrtzzc0q5iqf301vc9.png",
-                           "id":  "485906",
-                           "uuid":  "btjk8ghcrtzzc0q5iqf301vc9",
-                           "teamId":  "gcl",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ec3wpvlzavcxng4gllnyb33e.png",
+                           "id":  "652529",
+                           "uuid":  "ec3wpvlzavcxng4gllnyb33e",
+                           "teamId":  "goz",
                            "matches":  3,
-                           "name":  "Abdurrahim Dursun",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8q4m06v3yfsq2iza942ezaxud.png",
-                           "id":  "180820",
-                           "uuid":  "8q4m06v3yfsq2iza942ezaxud",
-                           "teamId":  "kas",
-                           "matches":  3,
-                           "name":  "C. Winck",
+                           "name":  "A. Henrique",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -383,6 +372,17 @@
                            "teamId":  "cor",
                            "matches":  3,
                            "name":  "Cengiz Ünder",
+                           "goals":  0,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8q4m06v3yfsq2iza942ezaxud.png",
+                           "id":  "180820",
+                           "uuid":  "8q4m06v3yfsq2iza942ezaxud",
+                           "teamId":  "kas",
+                           "matches":  3,
+                           "name":  "C. Winck",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -451,12 +451,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  12,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  10.2
+                          "goalsConceded":  6,
+                          "cleanSheets":  null,
+                          "possessionAvg":  63.8,
+                          "shotsOnTargetAvg":  8.5,
+                          "saves":  30,
+                          "npxg":  10.1
                       },
                       {
                           "teamId":  "fb",
@@ -465,11 +465,11 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  7,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
+                          "goalsConceded":  4,
+                          "cleanSheets":  null,
+                          "possessionAvg":  64.5,
+                          "shotsOnTargetAvg":  7.5,
+                          "saves":  26,
                           "npxg":  6
                       },
                       {
@@ -479,12 +479,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  7,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  6
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  62,
+                          "shotsOnTargetAvg":  6,
+                          "saves":  24,
+                          "npxg":  4.2
                       },
                       {
                           "teamId":  "ts",
@@ -493,12 +493,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  4,
-                          "goalsConceded":  0,
+                          "goalsConceded":  4,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  3.4
+                          "possessionAvg":  58.5,
+                          "shotsOnTargetAvg":  5.5,
+                          "saves":  26,
+                          "npxg":  4
                       },
                       {
                           "teamId":  "bsk",
@@ -507,12 +507,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  6,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  5.1
+                          "goalsConceded":  6,
+                          "cleanSheets":  null,
+                          "possessionAvg":  52.5,
+                          "shotsOnTargetAvg":  4.5,
+                          "saves":  30,
+                          "npxg":  4.8
                       },
                       {
                           "teamId":  "kas",
@@ -521,12 +521,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  2.6
+                          "goalsConceded":  2,
+                          "cleanSheets":  null,
+                          "possessionAvg":  38.5,
+                          "shotsOnTargetAvg":  3,
+                          "saves":  22,
+                          "npxg":  3.1
                       },
                       {
                           "teamId":  "goz",
@@ -535,12 +535,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  5,
-                          "goalsConceded":  0,
+                          "goalsConceded":  7,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  4.2
+                          "possessionAvg":  45,
+                          "shotsOnTargetAvg":  4.5,
+                          "saves":  32,
+                          "npxg":  3.5
                       },
                       {
                           "teamId":  "gfk",
@@ -549,12 +549,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  55,
                           "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  2.6
+                          "saves":  24,
+                          "npxg":  3.2
                       },
                       {
                           "teamId":  "rize",
@@ -563,12 +563,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  53.5,
                           "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  2.6
+                          "saves":  24,
+                          "npxg":  3.8
                       },
                       {
                           "teamId":  "ame",
@@ -577,12 +577,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  5,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  4.2
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  47,
+                          "shotsOnTargetAvg":  3.8,
+                          "saves":  24,
+                          "npxg":  4
                       },
                       {
                           "teamId":  "kon",
@@ -591,12 +591,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  0,
+                          "goalsConceded":  7,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  2.6
+                          "possessionAvg":  46.5,
+                          "shotsOnTargetAvg":  3.5,
+                          "saves":  32,
+                          "npxg":  3.6
                       },
                       {
                           "teamId":  "sam",
@@ -605,12 +605,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  5,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  4.2
+                          "goalsConceded":  5,
+                          "cleanSheets":  null,
+                          "possessionAvg":  51.5,
+                          "shotsOnTargetAvg":  4.5,
+                          "saves":  28,
+                          "npxg":  2
                       },
                       {
                           "teamId":  "gcl",
@@ -619,12 +619,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  4,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  3.4
+                          "goalsConceded":  2,
+                          "cleanSheets":  null,
+                          "possessionAvg":  32,
+                          "shotsOnTargetAvg":  3.2,
+                          "saves":  22,
+                          "npxg":  3.5
                       },
                       {
                           "teamId":  "cor",
@@ -633,12 +633,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  4,
-                          "goalsConceded":  0,
+                          "goalsConceded":  9,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  3.4
+                          "possessionAvg":  36.5,
+                          "shotsOnTargetAvg":  2.8,
+                          "saves":  36,
+                          "npxg":  2.4
                       },
                       {
                           "teamId":  "erz",
@@ -647,12 +647,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  1,
-                          "goalsConceded":  0,
+                          "goalsConceded":  8,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  0.8
+                          "possessionAvg":  48,
+                          "shotsOnTargetAvg":  2,
+                          "saves":  34,
+                          "npxg":  1.6
                       },
                       {
                           "teamId":  "ala",
@@ -661,12 +661,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  2.6
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  42,
+                          "shotsOnTargetAvg":  2.5,
+                          "saves":  24,
+                          "npxg":  2.5
                       },
                       {
                           "teamId":  "eyup",
@@ -675,12 +675,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  2,
-                          "goalsConceded":  0,
+                          "goalsConceded":  3,
                           "cleanSheets":  0,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  1.7
+                          "possessionAvg":  35,
+                          "shotsOnTargetAvg":  2.2,
+                          "saves":  24,
+                          "npxg":  2.1
                       },
                       {
                           "teamId":  "koc",
@@ -689,12 +689,12 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  4,
-                          "goalsConceded":  0,
-                          "cleanSheets":  1,
-                          "possessionAvg":  50,
-                          "shotsOnTargetAvg":  4,
-                          "saves":  20,
-                          "npxg":  3.4
+                          "goalsConceded":  3,
+                          "cleanSheets":  null,
+                          "possessionAvg":  49.5,
+                          "shotsOnTargetAvg":  2.8,
+                          "saves":  24,
+                          "npxg":  2.5
                       }
                   ]
 }
