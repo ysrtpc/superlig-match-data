@@ -1,8 +1,9 @@
 {
     "topScorers":  [
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/425645.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1wynwp4x95o9w5tt4cdog6i1.png",
                            "id":  "425645",
+                           "uuid":  "1wynwp4x95o9w5tt4cdog6i1",
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "V. Osimhen",
@@ -13,6 +14,7 @@
                        {
                            "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/shomurodov.png",
                            "id":  "334731",
+                           "uuid":  "a21winmltx1h9oiwqtfditkut",
                            "teamId":  "bsk",
                            "matches":  2,
                            "name":  "E. Shomurodov",
@@ -21,8 +23,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/436316.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3ua8gs8tzx1dkdi9z88kjk9nt.png",
                            "id":  "436316",
+                           "uuid":  "3ua8gs8tzx1dkdi9z88kjk9nt",
                            "teamId":  "bjk",
                            "matches":  2,
                            "name":  "D. Vlahovic",
@@ -31,8 +34,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/138653.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5ilkkfbsss0bxd6ttdlqg0uz9.png",
                            "id":  "138653",
+                           "uuid":  "5ilkkfbsss0bxd6ttdlqg0uz9",
                            "teamId":  "ts",
                            "matches":  2,
                            "name":  "M. Salah",
@@ -41,8 +45,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/468254.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_25wawsdczm69ctbpw5nn51kvd.png",
                            "id":  "468254",
+                           "uuid":  "25wawsdczm69ctbpw5nn51kvd",
                            "teamId":  "kas",
                            "matches":  2,
                            "name":  "A. Benedyczak",
@@ -51,8 +56,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/406269.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ahrnav5hhvd8fy2h0h9h77ug9.png",
                            "id":  "406269",
+                           "uuid":  "ahrnav5hhvd8fy2h0h9h77ug9",
                            "teamId":  "gfk",
                            "matches":  2,
                            "name":  "D. Sorescu",
@@ -61,8 +67,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/195821.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
                            "id":  "195821",
+                           "uuid":  "2aryulqex3ercfr5naj04x9zp",
                            "teamId":  "ame",
                            "matches":  2,
                            "name":  "Dia Saba",
@@ -71,8 +78,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/490701.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_a86j56bn5wd6k9ut7ltf6whgq.png",
                            "id":  "490701",
+                           "uuid":  "a86j56bn5wd6k9ut7ltf6whgq",
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "G. Sara",
@@ -81,8 +89,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/501819.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6kicom9a3lzp49urle78bevl6.png",
                            "id":  "501819",
+                           "uuid":  "6kicom9a3lzp49urle78bevl6",
                            "teamId":  "fb",
                            "matches":  2,
                            "name":  "M. Greenwood",
@@ -91,8 +100,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/268815.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_c1yctqdku2vzho2azsgcy5dcl.png",
                            "id":  "268815",
+                           "uuid":  "c1yctqdku2vzho2azsgcy5dcl",
                            "teamId":  "bjk",
                            "matches":  2,
                            "name":  "V. Cerny",
@@ -101,8 +111,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/282185.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3pwr7lqvo4o08c4nvzqpuue39.png",
                            "id":  "282185",
+                           "uuid":  "3pwr7lqvo4o08c4nvzqpuue39",
                            "teamId":  "fb",
                            "matches":  2,
                            "name":  "V. Muriqi",
@@ -111,8 +122,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/869068.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_bdslzeqnm2a3o9yr1tsxuoydw.png",
                            "id":  "869068",
+                           "uuid":  "bdslzeqnm2a3o9yr1tsxuoydw",
                            "teamId":  "eyup",
                            "matches":  2,
                            "name":  "A. Abdullahi",
@@ -121,8 +133,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/609824.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_d8nu4aiee6vg52by1k1snl7xm.png",
                            "id":  "609824",
+                           "uuid":  "d8nu4aiee6vg52by1k1snl7xm",
                            "teamId":  "cor",
                            "matches":  2,
                            "name":  "A. Kyziridis",
@@ -131,8 +144,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/679633.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_f140wr36j39j2my0w226j0hzo.png",
                            "id":  "679633",
+                           "uuid":  "f140wr36j39j2my0w226j0hzo",
                            "teamId":  "goz",
                            "matches":  2,
                            "name":  "A. Matos",
@@ -141,8 +155,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/368993.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_b3vvxolwxcukqk76hb4scvh79.png",
                            "id":  "368993",
+                           "uuid":  "b3vvxolwxcukqk76hb4scvh79",
                            "teamId":  "bjk",
                            "matches":  2,
                            "name":  "A. Murillo",
@@ -151,8 +166,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/246638.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_29vvxzsd3221w7a5upiznkjx1.png",
                            "id":  "246638",
+                           "uuid":  "29vvxzsd3221w7a5upiznkjx1",
                            "teamId":  "rize",
                            "matches":  2,
                            "name":  "A. Sowe",
@@ -161,8 +177,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/282310.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_4lhyi7xvorswax9xwmz4v5tqt.png",
                            "id":  "282310",
+                           "uuid":  "4lhyi7xvorswax9xwmz4v5tqt",
                            "teamId":  "fb",
                            "matches":  2,
                            "name":  "A. Talisca",
@@ -173,6 +190,7 @@
                        {
                            "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
                            "id":  "346045",
+                           "uuid":  "c6gok3k7so5az0671dse0te51",
                            "teamId":  "gcl",
                            "matches":  2,
                            "name":  "A. Traore",
@@ -181,8 +199,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/815244.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ray2bklw80bcyydzk7wmgutw.png",
                            "id":  "815244",
+                           "uuid":  "ray2bklw80bcyydzk7wmgutw",
                            "teamId":  "ala",
                            "matches":  2,
                            "name":  "Arda Usluoğlu",
@@ -191,8 +210,9 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/659956.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_av18ek8zmx40sazfwerdp8wa2.png",
                            "id":  "659956",
+                           "uuid":  "av18ek8zmx40sazfwerdp8wa2",
                            "teamId":  "koc",
                            "matches":  2,
                            "name":  "Berkan Kutlu",
@@ -203,8 +223,9 @@
                    ],
     "topAssists":  [
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/533365.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3nywtsbzd3od93xzrvh8zsyui.png",
                            "id":  "533365",
+                           "uuid":  "3nywtsbzd3od93xzrvh8zsyui",
                            "teamId":  "ts",
                            "matches":  2,
                            "name":  "E. Muçi",
@@ -213,8 +234,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/490701.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_a86j56bn5wd6k9ut7ltf6whgq.png",
                            "id":  "490701",
+                           "uuid":  "a86j56bn5wd6k9ut7ltf6whgq",
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "G. Sara",
@@ -223,8 +245,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/716624.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_49a9iffawhh36qev0fguqu4us.png",
                            "id":  "716624",
+                           "uuid":  "49a9iffawhh36qev0fguqu4us",
                            "teamId":  "bjk",
                            "matches":  2,
                            "name":  "J. Olaitan",
@@ -233,8 +256,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/348191.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_cp5hkhz2p2twjtiw8vphfv9hx.png",
                            "id":  "348191",
+                           "uuid":  "cp5hkhz2p2twjtiw8vphfv9hx",
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "L. Torreira",
@@ -243,8 +267,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/1095358.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_hfsas6p5zlu8qtjlu1kd5xjo.png",
                            "id":  "1095358",
+                           "uuid":  "hfsas6p5zlu8qtjlu1kd5xjo",
                            "teamId":  "sam",
                            "matches":  2,
                            "name":  "S. Jarju",
@@ -253,8 +278,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/425645.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1wynwp4x95o9w5tt4cdog6i1.png",
                            "id":  "425645",
+                           "uuid":  "1wynwp4x95o9w5tt4cdog6i1",
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "V. Osimhen",
@@ -263,8 +289,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/468254.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_25wawsdczm69ctbpw5nn51kvd.png",
                            "id":  "468254",
+                           "uuid":  "25wawsdczm69ctbpw5nn51kvd",
                            "teamId":  "kas",
                            "matches":  2,
                            "name":  "A. Benedyczak",
@@ -273,8 +300,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/777082.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_bl6uq3fvylco5rnk4g6510sno.png",
                            "id":  "777082",
+                           "uuid":  "bl6uq3fvylco5rnk4g6510sno",
                            "teamId":  "cor",
                            "matches":  2,
                            "name":  "A. Borza",
@@ -283,8 +311,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/464745.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ajzkerdcpeug1dxnr1dko9fxl.png",
                            "id":  "464745",
+                           "uuid":  "ajzkerdcpeug1dxnr1dko9fxl",
                            "teamId":  "koc",
                            "matches":  2,
                            "name":  "A. Dijksteel",
@@ -293,8 +322,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/659147.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2clpbungt3x2z4wwr5ecc4iga.png",
                            "id":  "659147",
+                           "uuid":  "2clpbungt3x2z4wwr5ecc4iga",
                            "teamId":  "bsk",
                            "matches":  2,
                            "name":  "A. Fayzullayev",
@@ -303,8 +333,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/652529.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ec3wpvlzavcxng4gllnyb33e.png",
                            "id":  "652529",
+                           "uuid":  "ec3wpvlzavcxng4gllnyb33e",
                            "teamId":  "goz",
                            "matches":  2,
                            "name":  "A. Henrique",
@@ -313,8 +344,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/490969.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5asv6uc3a4xxsr9u30kdfc0ve.png",
                            "id":  "490969",
+                           "uuid":  "5asv6uc3a4xxsr9u30kdfc0ve",
                            "teamId":  "bsk",
                            "matches":  2,
                            "name":  "A. Skov Olsen",
@@ -323,8 +355,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/485906.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_btjk8ghcrtzzc0q5iqf301vc9.png",
                            "id":  "485906",
+                           "uuid":  "btjk8ghcrtzzc0q5iqf301vc9",
                            "teamId":  "gcl",
                            "matches":  2,
                            "name":  "Abdurrahim Dursun",
@@ -333,8 +366,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/180820.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8q4m06v3yfsq2iza942ezaxud.png",
                            "id":  "180820",
+                           "uuid":  "8q4m06v3yfsq2iza942ezaxud",
                            "teamId":  "kas",
                            "matches":  2,
                            "name":  "C. Winck",
@@ -343,8 +377,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/379015.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_cip5lla8zu8gru2m4popsstlh.png",
                            "id":  "379015",
+                           "uuid":  "cip5lla8zu8gru2m4popsstlh",
                            "teamId":  "cor",
                            "matches":  2,
                            "name":  "Cengiz Ünder",
@@ -353,8 +388,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/622534.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_36h87ecgmpjdltk1epsbvmiju.png",
                            "id":  "622534",
+                           "uuid":  "36h87ecgmpjdltk1epsbvmiju",
                            "teamId":  "bjk",
                            "matches":  2,
                            "name":  "E. Agbadou",
@@ -363,8 +399,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/862281.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8fctg80d8jbnij34636np1o9g.png",
                            "id":  "862281",
+                           "uuid":  "8fctg80d8jbnij34636np1o9g",
                            "teamId":  "rize",
                            "matches":  2,
                            "name":  "Emrecan Bulut",
@@ -373,8 +410,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/314267.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_bv9ejevyrwdqc1j5rw4tkiy1h.png",
                            "id":  "314267",
+                           "uuid":  "bv9ejevyrwdqc1j5rw4tkiy1h",
                            "teamId":  "ala",
                            "matches":  2,
                            "name":  "F. Hadergjonaj",
@@ -383,8 +421,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/453823.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3i85rbmn6qd5x4y29hk78rmy1.png",
                            "id":  "453823",
+                           "uuid":  "3i85rbmn6qd5x4y29hk78rmy1",
                            "teamId":  "sam",
                            "matches":  2,
                            "name":  "Fatih Kaya",
@@ -393,8 +432,9 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://media.api-sports.io/football/players/76588.png",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2h55ly0oov4e8qycacahxapjp.png",
                            "id":  "76588",
+                           "uuid":  "2h55ly0oov4e8qycacahxapjp",
                            "teamId":  "cor",
                            "matches":  2,
                            "name":  "Fredy",
