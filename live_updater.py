@@ -5,6 +5,7 @@ import re
 import json
 import time
 import html
+import datetime
 import urllib.request
 import urllib.error
 
@@ -37,6 +38,11 @@ TEAM_MAPPING = [
     (r"adana", "ads"),
     (r"kayseri", "kay"),
 ]
+
+MONTHS_TR = {
+    1: "Oca", 2: "Şub", 3: "Mar", 4: "Nis", 5: "May", 6: "Haz",
+    7: "Tem", 8: "Ağu", 9: "Eyl", 10: "Eki", 11: "Kas", 12: "Ara"
+}
 
 def get_team_id(name: str) -> str:
     if not name:
@@ -102,14 +108,22 @@ def run_sync_cycle(clock_state: dict) -> tuple:
     now_epoch = int(time.time())
     has_changes = False
     live_matches_summary = []
+    schedule_changes = []
 
     for chunk in splits[1:]:
         m_name = re.search(r'"name":"(?P<home>[^"]+?)\s+vs\s+(?P<away>[^"]+?)"', chunk)
         if not m_name:
-            continue
+            m_team_a = re.search(r'"team_A":\{[^}]*?"name":"(?P<home>[^"]+?)"', chunk)
+            m_team_b = re.search(r'"team_B":\{[^}]*?"name":"(?P<away>[^"]+?)"', chunk)
+            if m_team_a and m_team_b:
+                hname = m_team_a.group("home")
+                aname = m_team_b.group("away")
+            else:
+                continue
+        else:
+            hname = m_name.group("home")
+            aname = m_name.group("away")
 
-        hname = m_name.group("home")
-        aname = m_name.group("away")
         h_id = get_team_id(hname)
         a_id = get_team_id(aname)
         if not h_id or not a_id:
@@ -119,6 +133,30 @@ def run_sync_cycle(clock_state: dict) -> tuple:
         if not our_match:
             continue
 
+        # 1. Update TFF Match Schedule (Date & Time)
+        m_utc = re.search(r'"date_time_utc":"(?P<utc>[^"]+?)"', chunk)
+        if m_utc:
+            utc_str = m_utc.group("utc")
+            try:
+                dt_utc = datetime.datetime.strptime(utc_str, "%Y-%m-%d %H:%M:%S")
+                # Turkey is UTC+3
+                dt_tr = dt_utc + datetime.timedelta(hours=3)
+                new_date = f"{dt_tr.day} {MONTHS_TR[dt_tr.month]} {dt_tr.year}"
+                new_time = dt_tr.strftime("%H:%M")
+
+                date_diff = (our_match.get("date") != new_date)
+                time_diff = (our_match.get("time") != new_time)
+
+                if date_diff or time_diff:
+                    # Update date & time
+                    schedule_changes.append(f"{our_match.get('homeName')} vs {our_match.get('awayName')} -> {new_date} {new_time}")
+                    our_match["date"] = new_date
+                    our_match["time"] = new_time
+                    has_changes = True
+            except Exception:
+                pass
+
+        # 2. Update Live / Match Status & Scores
         m_status = re.search(r'"status":"(?P<status>[^"]+?)"', chunk)
         st = m_status.group("status") if m_status else "Unknown"
 
@@ -194,14 +232,17 @@ def run_sync_cycle(clock_state: dict) -> tuple:
 
     if has_changes:
         save_fixtures(fixtures)
-        commit_msg = "Live match update: " + " | ".join(live_matches_summary if live_matches_summary else ["Scores updated"])
+        parts = []
+        if live_matches_summary:
+            parts.append(" | ".join(live_matches_summary))
+        if schedule_changes:
+            parts.append(f"{len(schedule_changes)} maçın saati güncellendi")
+        commit_msg = "Live match & schedule update: " + " - ".join(parts if parts else ["Data updated"])
         print(f"[KAYDEDILDI] {commit_msg}")
 
     return has_changes, live_matches_summary
 
 def main():
-    # In GitHub Actions, loop for 10 minutes per workflow trigger (running every 20 seconds)
-    # or loop until duration ends
     is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
     duration_min = 15 if is_ci else 180
     if len(sys.argv) > 1:
@@ -211,7 +252,7 @@ def main():
             pass
 
     print(f"==================================================")
-    print(f" SÜPER LİG CANLI MAÇ BULUT SENKRONİZASYONU")
+    print(f" SÜPER LİG CANLI MAÇ & FİKSTÜR SAATLERİ BOTU")
     print(f" Calisma Suresi: {duration_min} dakika")
     print(f" Baslangic Saati: {time.strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"==================================================")
@@ -231,7 +272,6 @@ def main():
         except Exception as e:
             print(f"[HATA] Dongu hatasi: {e}")
 
-        # Sleep 20s
         time.sleep(20)
 
     print("Senkronizasyon turu tamamlandi.")
