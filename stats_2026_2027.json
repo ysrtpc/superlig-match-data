@@ -56,23 +56,23 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
-                           "id":  "195821",
-                           "uuid":  "2aryulqex3ercfr5naj04x9zp",
-                           "teamId":  "ame",
-                           "matches":  3,
-                           "name":  "Dia Saba",
-                           "goals":  2,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ahrnav5hhvd8fy2h0h9h77ug9.png",
                            "id":  "406269",
                            "uuid":  "ahrnav5hhvd8fy2h0h9h77ug9",
                            "teamId":  "gfk",
                            "matches":  3,
                            "name":  "D. Sorescu",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
+                           "id":  "195821",
+                           "uuid":  "2aryulqex3ercfr5naj04x9zp",
+                           "teamId":  "ame",
+                           "matches":  3,
+                           "name":  "Dia Saba",
                            "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
@@ -188,23 +188,23 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ray2bklw80bcyydzk7wmgutw.png",
-                           "id":  "815244",
-                           "uuid":  "ray2bklw80bcyydzk7wmgutw",
-                           "teamId":  "ala",
-                           "matches":  3,
-                           "name":  "Arda Usluoğlu",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
                            "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
                            "id":  "346045",
                            "uuid":  "c6gok3k7so5az0671dse0te51",
                            "teamId":  "gcl",
                            "matches":  3,
                            "name":  "A. Traore",
+                           "goals":  1,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ray2bklw80bcyydzk7wmgutw.png",
+                           "id":  "815244",
+                           "uuid":  "ray2bklw80bcyydzk7wmgutw",
+                           "teamId":  "ala",
+                           "matches":  3,
+                           "name":  "Arda Usluoğlu",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
@@ -322,34 +322,12 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_btjk8ghcrtzzc0q5iqf301vc9.png",
-                           "id":  "485906",
-                           "uuid":  "btjk8ghcrtzzc0q5iqf301vc9",
-                           "teamId":  "gcl",
-                           "matches":  3,
-                           "name":  "Abdurrahim Dursun",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2clpbungt3x2z4wwr5ecc4iga.png",
                            "id":  "659147",
                            "uuid":  "2clpbungt3x2z4wwr5ecc4iga",
                            "teamId":  "bsk",
                            "matches":  4,
                            "name":  "A. Fayzullayev",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5asv6uc3a4xxsr9u30kdfc0ve.png",
-                           "id":  "490969",
-                           "uuid":  "5asv6uc3a4xxsr9u30kdfc0ve",
-                           "teamId":  "bsk",
-                           "matches":  4,
-                           "name":  "A. Skov Olsen",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -366,12 +344,23 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_cip5lla8zu8gru2m4popsstlh.png",
-                           "id":  "379015",
-                           "uuid":  "cip5lla8zu8gru2m4popsstlh",
-                           "teamId":  "cor",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5asv6uc3a4xxsr9u30kdfc0ve.png",
+                           "id":  "490969",
+                           "uuid":  "5asv6uc3a4xxsr9u30kdfc0ve",
+                           "teamId":  "bsk",
+                           "matches":  4,
+                           "name":  "A. Skov Olsen",
+                           "goals":  0,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_btjk8ghcrtzzc0q5iqf301vc9.png",
+                           "id":  "485906",
+                           "uuid":  "btjk8ghcrtzzc0q5iqf301vc9",
+                           "teamId":  "gcl",
                            "matches":  3,
-                           "name":  "Cengiz Ünder",
+                           "name":  "Abdurrahim Dursun",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -383,6 +372,17 @@
                            "teamId":  "kas",
                            "matches":  3,
                            "name":  "C. Winck",
+                           "goals":  0,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_cip5lla8zu8gru2m4popsstlh.png",
+                           "id":  "379015",
+                           "uuid":  "cip5lla8zu8gru2m4popsstlh",
+                           "teamId":  "cor",
+                           "matches":  3,
+                           "name":  "Cengiz Ünder",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -453,7 +453,7 @@
                           "goalsScored":  12,
                           "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  63.8,
+                          "possessionAvg":  50,
                           "shotsOnTargetAvg":  8.5,
                           "saves":  30,
                           "npxg":  10.1
@@ -467,8 +467,8 @@
                           "goalsScored":  7,
                           "goalsConceded":  4,
                           "cleanSheets":  1,
-                          "possessionAvg":  64.5,
-                          "shotsOnTargetAvg":  7.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  9,
                           "saves":  26,
                           "npxg":  6
                       },
@@ -481,7 +481,7 @@
                           "goalsScored":  7,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  62,
+                          "possessionAvg":  50,
                           "shotsOnTargetAvg":  6,
                           "saves":  24,
                           "npxg":  4.2
@@ -495,8 +495,8 @@
                           "goalsScored":  4,
                           "goalsConceded":  4,
                           "cleanSheets":  0,
-                          "possessionAvg":  58.5,
-                          "shotsOnTargetAvg":  5.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  6,
                           "saves":  26,
                           "npxg":  4
                       },
@@ -509,8 +509,8 @@
                           "goalsScored":  6,
                           "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  52.5,
-                          "shotsOnTargetAvg":  4.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  3.5,
                           "saves":  30,
                           "npxg":  4.8
                       },
@@ -523,8 +523,8 @@
                           "goalsScored":  3,
                           "goalsConceded":  2,
                           "cleanSheets":  1,
-                          "possessionAvg":  38.5,
-                          "shotsOnTargetAvg":  3,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  2.7,
                           "saves":  22,
                           "npxg":  3.1
                       },
@@ -537,8 +537,8 @@
                           "goalsScored":  5,
                           "goalsConceded":  7,
                           "cleanSheets":  0,
-                          "possessionAvg":  45,
-                          "shotsOnTargetAvg":  4.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  5.7,
                           "saves":  32,
                           "npxg":  3.5
                       },
@@ -551,8 +551,8 @@
                           "goalsScored":  3,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  55,
-                          "shotsOnTargetAvg":  4,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  3.7,
                           "saves":  24,
                           "npxg":  3.2
                       },
@@ -565,8 +565,8 @@
                           "goalsScored":  3,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  53.5,
-                          "shotsOnTargetAvg":  4,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  5.7,
                           "saves":  24,
                           "npxg":  3.8
                       },
@@ -579,8 +579,8 @@
                           "goalsScored":  5,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  47,
-                          "shotsOnTargetAvg":  3.8,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  4.3,
                           "saves":  24,
                           "npxg":  4
                       },
@@ -593,8 +593,8 @@
                           "goalsScored":  3,
                           "goalsConceded":  7,
                           "cleanSheets":  0,
-                          "possessionAvg":  46.5,
-                          "shotsOnTargetAvg":  3.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  3.7,
                           "saves":  32,
                           "npxg":  3.6
                       },
@@ -607,8 +607,8 @@
                           "goalsScored":  5,
                           "goalsConceded":  5,
                           "cleanSheets":  1,
-                          "possessionAvg":  51.5,
-                          "shotsOnTargetAvg":  4.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  2,
                           "saves":  28,
                           "npxg":  2
                       },
@@ -621,8 +621,8 @@
                           "goalsScored":  4,
                           "goalsConceded":  2,
                           "cleanSheets":  1,
-                          "possessionAvg":  32,
-                          "shotsOnTargetAvg":  3.2,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  3.3,
                           "saves":  22,
                           "npxg":  3.5
                       },
@@ -635,8 +635,8 @@
                           "goalsScored":  4,
                           "goalsConceded":  9,
                           "cleanSheets":  0,
-                          "possessionAvg":  36.5,
-                          "shotsOnTargetAvg":  2.8,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  2.7,
                           "saves":  36,
                           "npxg":  2.4
                       },
@@ -649,8 +649,8 @@
                           "goalsScored":  1,
                           "goalsConceded":  8,
                           "cleanSheets":  0,
-                          "possessionAvg":  48,
-                          "shotsOnTargetAvg":  2,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  3,
                           "saves":  34,
                           "npxg":  1.6
                       },
@@ -663,8 +663,8 @@
                           "goalsScored":  3,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  42,
-                          "shotsOnTargetAvg":  2.5,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  2.3,
                           "saves":  24,
                           "npxg":  2.5
                       },
@@ -677,8 +677,8 @@
                           "goalsScored":  2,
                           "goalsConceded":  3,
                           "cleanSheets":  0,
-                          "possessionAvg":  35,
-                          "shotsOnTargetAvg":  2.2,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  2,
                           "saves":  24,
                           "npxg":  2.1
                       },
@@ -691,8 +691,8 @@
                           "goalsScored":  4,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  49.5,
-                          "shotsOnTargetAvg":  2.8,
+                          "possessionAvg":  50,
+                          "shotsOnTargetAvg":  4.7,
                           "saves":  24,
                           "npxg":  2.5
                       }
