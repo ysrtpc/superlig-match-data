@@ -23,7 +23,7 @@
                        {
                            "photoUrl":  "https://media.api-sports.io/football/players/436316.png",
                            "id":  "436316",
-                           "teamId":  "eyup",
+                           "teamId":  "bjk",
                            "matches":  2,
                            "name":  "D. Vlahovic",
                            "goals":  3,
@@ -107,16 +107,6 @@
                            "matches":  2,
                            "name":  "V. Muriqi",
                            "goals":  2,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://media.api-sports.io/football/players/869068.png",
-                           "id":  "869068",
-                           "teamId":  "gs",
-                           "matches":  2,
-                           "name":  "A. Abdullahi",
-                           "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
                        },
