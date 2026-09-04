@@ -6,17 +6,7 @@
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "V. Osimhen",
-                           "goals":  5,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://media.api-sports.io/football/players/436316.png",
-                           "id":  "436316",
-                           "teamId":  "eyup",
-                           "matches":  2,
-                           "name":  "D. Vlahovic",
-                           "goals":  3,
+                           "goals":  6,
                            "assists":  0,
                            "position":  "Attacker"
                        },
@@ -26,6 +16,16 @@
                            "teamId":  "bsk",
                            "matches":  2,
                            "name":  "E. Shomurodov",
+                           "goals":  4,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/436316.png",
+                           "id":  "436316",
+                           "teamId":  "eyup",
+                           "matches":  2,
+                           "name":  "D. Vlahovic",
                            "goals":  3,
                            "assists":  0,
                            "position":  "Attacker"
@@ -66,6 +66,16 @@
                            "teamId":  "ame",
                            "matches":  2,
                            "name":  "Dia Saba",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/80552.png",
+                           "id":  "490701",
+                           "teamId":  "gs",
+                           "matches":  2,
+                           "name":  "G. Sara",
                            "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
@@ -189,16 +199,6 @@
                            "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://media.api-sports.io/football/players/21798.png",
-                           "id":  "368863",
-                           "teamId":  "bsk",
-                           "matches":  2,
-                           "name":  "C. Operi",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
                        }
                    ],
     "topAssists":  [
@@ -228,6 +228,16 @@
                            "teamId":  "eyup",
                            "matches":  2,
                            "name":  "J. Olaitan",
+                           "goals":  0,
+                           "assists":  2,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://media.api-sports.io/football/players/2281.png",
+                           "id":  "348191",
+                           "teamId":  "gs",
+                           "matches":  2,
+                           "name":  "L. Torreira",
                            "goals":  0,
                            "assists":  2,
                            "position":  "Midfielder"
@@ -391,32 +401,22 @@
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://media.api-sports.io/football/players/839958.png",
-                           "id":  "839958",
-                           "teamId":  "ame",
-                           "matches":  2,
-                           "name":  "G. Orban",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
                        }
                    ],
     "teamStats":  [
                       {
                           "teamId":  "gs",
-                          "yellowCards":  3,
+                          "yellowCards":  6,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  9,
-                          "goalsConceded":  4,
+                          "goalsScored":  12,
+                          "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  61.3,
-                          "shotsOnTargetAvg":  9.3,
-                          "saves":  23,
-                          "npxg":  8.1
+                          "possessionAvg":  59,
+                          "shotsOnTargetAvg":  8.5,
+                          "saves":  21,
+                          "npxg":  10.1
                       },
                       {
                           "teamId":  "fb",
@@ -462,17 +462,17 @@
                       },
                       {
                           "teamId":  "bsk",
-                          "yellowCards":  9,
-                          "redCards":  0,
-                          "penaltiesWon":  1,
-                          "penaltiesTotal":  1,
-                          "goalsScored":  4,
-                          "goalsConceded":  3,
+                          "yellowCards":  10,
+                          "redCards":  1,
+                          "penaltiesWon":  2,
+                          "penaltiesTotal":  2,
+                          "goalsScored":  6,
+                          "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  54,
-                          "shotsOnTargetAvg":  3.7,
+                          "possessionAvg":  52.5,
+                          "shotsOnTargetAvg":  3.5,
                           "saves":  16,
-                          "npxg":  3.9
+                          "npxg":  4.8
                       },
                       {
                           "teamId":  "ame",
