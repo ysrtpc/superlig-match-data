@@ -8,7 +8,7 @@
                            "matches":  2,
                            "name":  "V. Osimhen",
                            "goals":  6,
-                           "assists":  0,
+                           "assists":  2,
                            "position":  "Attacker"
                        },
                        {
@@ -52,7 +52,7 @@
                            "matches":  2,
                            "name":  "A. Benedyczak",
                            "goals":  2,
-                           "assists":  0,
+                           "assists":  1,
                            "position":  "Attacker"
                        },
                        {
@@ -85,7 +85,7 @@
                            "matches":  2,
                            "name":  "G. Sara",
                            "goals":  2,
-                           "assists":  0,
+                           "assists":  2,
                            "position":  "Attacker"
                        },
                        {
@@ -240,7 +240,7 @@
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "G. Sara",
-                           "goals":  0,
+                           "goals":  2,
                            "assists":  2,
                            "position":  "Midfielder"
                        },
@@ -284,7 +284,7 @@
                            "teamId":  "gs",
                            "matches":  2,
                            "name":  "V. Osimhen",
-                           "goals":  0,
+                           "goals":  6,
                            "assists":  2,
                            "position":  "Midfielder"
                        },
@@ -295,7 +295,7 @@
                            "teamId":  "kas",
                            "matches":  2,
                            "name":  "A. Benedyczak",
-                           "goals":  0,
+                           "goals":  2,
                            "assists":  1,
                            "position":  "Midfielder"
                        },
