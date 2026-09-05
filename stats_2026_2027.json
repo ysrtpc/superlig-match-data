@@ -12,6 +12,17 @@
                            "position":  "Attacker"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3ua8gs8tzx1dkdi9z88kjk9nt.png",
+                           "id":  "436316",
+                           "uuid":  "3ua8gs8tzx1dkdi9z88kjk9nt",
+                           "teamId":  "bjk",
+                           "matches":  3,
+                           "name":  "D. Vlahovic",
+                           "goals":  4,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/shomurodov.png",
                            "id":  "334731",
                            "uuid":  "a21winmltx1h9oiwqtfditkut",
@@ -19,17 +30,6 @@
                            "matches":  4,
                            "name":  "E. Shomurodov",
                            "goals":  4,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3ua8gs8tzx1dkdi9z88kjk9nt.png",
-                           "id":  "436316",
-                           "uuid":  "3ua8gs8tzx1dkdi9z88kjk9nt",
-                           "teamId":  "bjk",
-                           "matches":  3,
-                           "name":  "D. Vlahovic",
-                           "goals":  3,
                            "assists":  0,
                            "position":  "Attacker"
                        },
@@ -73,6 +73,17 @@
                            "teamId":  "ame",
                            "matches":  3,
                            "name":  "Dia Saba",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_69o8ksfkkoi93cqbg063i374l.png",
+                           "id":  "94464",
+                           "uuid":  "69o8ksfkkoi93cqbg063i374l",
+                           "teamId":  "erz",
+                           "matches":  3,
+                           "name":  "Eren Tozlu",
                            "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
@@ -205,17 +216,6 @@
                            "teamId":  "ala",
                            "matches":  3,
                            "name":  "Arda Usluoğlu",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_av18ek8zmx40sazfwerdp8wa2.png",
-                           "id":  "659956",
-                           "uuid":  "av18ek8zmx40sazfwerdp8wa2",
-                           "teamId":  "koc",
-                           "matches":  3,
-                           "name":  "Berkan Kutlu",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
@@ -456,35 +456,35 @@
                           "possessionAvg":  59,
                           "shotsOnTargetAvg":  8.5,
                           "saves":  30,
-                          "npxg":  10.1
+                          "npxg":  10.2
                       },
                       {
                           "teamId":  "fb",
-                          "yellowCards":  2,
+                          "yellowCards":  6,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  7,
-                          "goalsConceded":  4,
+                          "goalsScored":  8,
+                          "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  54,
-                          "shotsOnTargetAvg":  9,
-                          "saves":  26,
-                          "npxg":  6
+                          "possessionAvg":  53,
+                          "shotsOnTargetAvg":  7.2,
+                          "saves":  30,
+                          "npxg":  6.5
                       },
                       {
                           "teamId":  "bjk",
-                          "yellowCards":  4,
+                          "yellowCards":  7,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  7,
-                          "goalsConceded":  3,
+                          "goalsScored":  9,
+                          "goalsConceded":  4,
                           "cleanSheets":  1,
-                          "possessionAvg":  61,
+                          "possessionAvg":  58.2,
                           "shotsOnTargetAvg":  6,
-                          "saves":  24,
-                          "npxg":  4.2
+                          "saves":  26,
+                          "npxg":  5.9
                       },
                       {
                           "teamId":  "ts",
@@ -502,7 +502,7 @@
                       },
                       {
                           "teamId":  "bsk",
-                          "yellowCards":  10,
+                          "yellowCards":  11,
                           "redCards":  1,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
@@ -512,7 +512,7 @@
                           "possessionAvg":  52.5,
                           "shotsOnTargetAvg":  3.5,
                           "saves":  30,
-                          "npxg":  4.8
+                          "npxg":  5.1
                       },
                       {
                           "teamId":  "kas",
@@ -586,17 +586,17 @@
                       },
                       {
                           "teamId":  "kon",
-                          "yellowCards":  5,
+                          "yellowCards":  9,
                           "redCards":  1,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  3,
-                          "goalsConceded":  7,
+                          "goalsConceded":  8,
                           "cleanSheets":  0,
-                          "possessionAvg":  46.3,
-                          "shotsOnTargetAvg":  3.7,
-                          "saves":  32,
-                          "npxg":  3.6
+                          "possessionAvg":  51,
+                          "shotsOnTargetAvg":  3,
+                          "saves":  34,
+                          "npxg":  5.2
                       },
                       {
                           "teamId":  "sam",
@@ -642,17 +642,17 @@
                       },
                       {
                           "teamId":  "erz",
-                          "yellowCards":  3,
+                          "yellowCards":  4,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  1,
+                          "goalsScored":  2,
                           "goalsConceded":  8,
                           "cleanSheets":  0,
-                          "possessionAvg":  51.7,
-                          "shotsOnTargetAvg":  3,
+                          "possessionAvg":  47.5,
+                          "shotsOnTargetAvg":  3.2,
                           "saves":  34,
-                          "npxg":  1.6
+                          "npxg":  2.8
                       },
                       {
                           "teamId":  "ala",
