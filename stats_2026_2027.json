@@ -16,7 +16,7 @@
                            "id":  "436316",
                            "uuid":  "3ua8gs8tzx1dkdi9z88kjk9nt",
                            "teamId":  "bjk",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "D. Vlahovic",
                            "goals":  4,
                            "assists":  0,
@@ -40,7 +40,7 @@
                            "teamId":  "ts",
                            "matches":  3,
                            "name":  "M. Salah",
-                           "goals":  3,
+                           "goals":  4,
                            "assists":  0,
                            "position":  "Attacker"
                        },
@@ -51,6 +51,28 @@
                            "teamId":  "kas",
                            "matches":  3,
                            "name":  "A. Benedyczak",
+                           "goals":  3,
+                           "assists":  1,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
+                           "id":  "839958",
+                           "uuid":  "adrn1x15rsehvnava8q9ofuvo",
+                           "teamId":  "ame",
+                           "matches":  3,
+                           "name":  "G. Orban",
+                           "goals":  3,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_d8nu4aiee6vg52by1k1snl7xm.png",
+                           "id":  "609824",
+                           "uuid":  "d8nu4aiee6vg52by1k1snl7xm",
+                           "teamId":  "cor",
+                           "matches":  3,
+                           "name":  "A. Kyziridis",
                            "goals":  2,
                            "assists":  1,
                            "position":  "Attacker"
@@ -78,11 +100,22 @@
                            "position":  "Attacker"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_bn9h81ux7xhbwh56xjmbllmhg.png",
+                           "id":  "667251",
+                           "uuid":  "bn9h81ux7xhbwh56xjmbllmhg",
+                           "teamId":  "cor",
+                           "matches":  3,
+                           "name":  "E. Mahmic",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_69o8ksfkkoi93cqbg063i374l.png",
                            "id":  "94464",
                            "uuid":  "69o8ksfkkoi93cqbg063i374l",
                            "teamId":  "erz",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "Eren Tozlu",
                            "goals":  2,
                            "assists":  0,
@@ -104,8 +137,19 @@
                            "id":  "501819",
                            "uuid":  "6kicom9a3lzp49urle78bevl6",
                            "teamId":  "fb",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "M. Greenwood",
+                           "goals":  2,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_7wh91ajt4v3w9kfdpp5hf5mmt.png",
+                           "id":  "279065",
+                           "uuid":  "7wh91ajt4v3w9kfdpp5hf5mmt",
+                           "teamId":  "ts",
+                           "matches":  3,
+                           "name":  "P. Onuachu",
                            "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
@@ -115,7 +159,7 @@
                            "id":  "268815",
                            "uuid":  "c1yctqdku2vzho2azsgcy5dcl",
                            "teamId":  "bjk",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "V. Cerny",
                            "goals":  2,
                            "assists":  0,
@@ -126,7 +170,7 @@
                            "id":  "282185",
                            "uuid":  "3pwr7lqvo4o08c4nvzqpuue39",
                            "teamId":  "fb",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "V. Muriqi",
                            "goals":  2,
                            "assists":  0,
@@ -144,14 +188,14 @@
                            "position":  "Attacker"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_d8nu4aiee6vg52by1k1snl7xm.png",
-                           "id":  "609824",
-                           "uuid":  "d8nu4aiee6vg52by1k1snl7xm",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_bl6uq3fvylco5rnk4g6510sno.png",
+                           "id":  "777082",
+                           "uuid":  "bl6uq3fvylco5rnk4g6510sno",
                            "teamId":  "cor",
                            "matches":  3,
-                           "name":  "A. Kyziridis",
+                           "name":  "A. Borza",
                            "goals":  1,
-                           "assists":  0,
+                           "assists":  1,
                            "position":  "Attacker"
                        },
                        {
@@ -170,58 +214,25 @@
                            "id":  "368993",
                            "uuid":  "b3vvxolwxcukqk76hb4scvh79",
                            "teamId":  "bjk",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "A. Murillo",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_29vvxzsd3221w7a5upiznkjx1.png",
-                           "id":  "246638",
-                           "uuid":  "29vvxzsd3221w7a5upiznkjx1",
-                           "teamId":  "rize",
-                           "matches":  3,
-                           "name":  "A. Sowe",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_4lhyi7xvorswax9xwmz4v5tqt.png",
-                           "id":  "282310",
-                           "uuid":  "4lhyi7xvorswax9xwmz4v5tqt",
-                           "teamId":  "fb",
-                           "matches":  3,
-                           "name":  "A. Talisca",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/traore.png",
-                           "id":  "346045",
-                           "uuid":  "c6gok3k7so5az0671dse0te51",
-                           "teamId":  "gcl",
-                           "matches":  3,
-                           "name":  "A. Traore",
-                           "goals":  1,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_ray2bklw80bcyydzk7wmgutw.png",
-                           "id":  "815244",
-                           "uuid":  "ray2bklw80bcyydzk7wmgutw",
-                           "teamId":  "ala",
-                           "matches":  3,
-                           "name":  "Arda Usluoğlu",
                            "goals":  1,
                            "assists":  0,
                            "position":  "Attacker"
                        }
                    ],
     "topAssists":  [
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8q4m06v3yfsq2iza942ezaxud.png",
+                           "id":  "180820",
+                           "uuid":  "8q4m06v3yfsq2iza942ezaxud",
+                           "teamId":  "kas",
+                           "matches":  3,
+                           "name":  "C. Winck",
+                           "goals":  0,
+                           "assists":  2,
+                           "position":  "Midfielder"
+                       },
                        {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3nywtsbzd3od93xzrvh8zsyui.png",
                            "id":  "533365",
@@ -249,7 +260,7 @@
                            "id":  "716624",
                            "uuid":  "49a9iffawhh36qev0fguqu4us",
                            "teamId":  "bjk",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "J. Olaitan",
                            "goals":  0,
                            "assists":  2,
@@ -295,7 +306,7 @@
                            "teamId":  "kas",
                            "matches":  3,
                            "name":  "A. Benedyczak",
-                           "goals":  2,
+                           "goals":  3,
                            "assists":  1,
                            "position":  "Midfielder"
                        },
@@ -306,7 +317,7 @@
                            "teamId":  "cor",
                            "matches":  3,
                            "name":  "A. Borza",
-                           "goals":  0,
+                           "goals":  1,
                            "assists":  1,
                            "position":  "Midfielder"
                        },
@@ -344,6 +355,17 @@
                            "position":  "Midfielder"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_d8nu4aiee6vg52by1k1snl7xm.png",
+                           "id":  "609824",
+                           "uuid":  "d8nu4aiee6vg52by1k1snl7xm",
+                           "teamId":  "cor",
+                           "matches":  3,
+                           "name":  "A. Kyziridis",
+                           "goals":  2,
+                           "assists":  1,
+                           "position":  "Midfielder"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5asv6uc3a4xxsr9u30kdfc0ve.png",
                            "id":  "490969",
                            "uuid":  "5asv6uc3a4xxsr9u30kdfc0ve",
@@ -366,12 +388,12 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_8q4m06v3yfsq2iza942ezaxud.png",
-                           "id":  "180820",
-                           "uuid":  "8q4m06v3yfsq2iza942ezaxud",
-                           "teamId":  "kas",
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_4zrsiizdbzwwkmit3ta0f0dbe.png",
+                           "id":  "574888",
+                           "uuid":  "4zrsiizdbzwwkmit3ta0f0dbe",
+                           "teamId":  "ts",
                            "matches":  3,
-                           "name":  "C. Winck",
+                           "name":  "Aral Şimşir",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -392,7 +414,7 @@
                            "id":  "622534",
                            "uuid":  "36h87ecgmpjdltk1epsbvmiju",
                            "teamId":  "bjk",
-                           "matches":  3,
+                           "matches":  4,
                            "name":  "E. Agbadou",
                            "goals":  0,
                            "assists":  1,
@@ -416,28 +438,6 @@
                            "teamId":  "ala",
                            "matches":  3,
                            "name":  "F. Hadergjonaj",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_3i85rbmn6qd5x4y29hk78rmy1.png",
-                           "id":  "453823",
-                           "uuid":  "3i85rbmn6qd5x4y29hk78rmy1",
-                           "teamId":  "sam",
-                           "matches":  3,
-                           "name":  "Fatih Kaya",
-                           "goals":  0,
-                           "assists":  1,
-                           "position":  "Midfielder"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2h55ly0oov4e8qycacahxapjp.png",
-                           "id":  "76588",
-                           "uuid":  "2h55ly0oov4e8qycacahxapjp",
-                           "teamId":  "cor",
-                           "matches":  3,
-                           "name":  "Fredy",
                            "goals":  0,
                            "assists":  1,
                            "position":  "Midfielder"
@@ -470,7 +470,7 @@
                           "possessionAvg":  53,
                           "shotsOnTargetAvg":  7.2,
                           "saves":  30,
-                          "npxg":  6.5
+                          "npxg":  6.6
                       },
                       {
                           "teamId":  "bjk",
@@ -484,21 +484,21 @@
                           "possessionAvg":  58.2,
                           "shotsOnTargetAvg":  6,
                           "saves":  26,
-                          "npxg":  5.9
+                          "npxg":  6
                       },
                       {
                           "teamId":  "ts",
-                          "yellowCards":  6,
+                          "yellowCards":  9,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  4,
+                          "goalsScored":  9,
                           "goalsConceded":  4,
                           "cleanSheets":  0,
-                          "possessionAvg":  57.7,
-                          "shotsOnTargetAvg":  6,
+                          "possessionAvg":  55.5,
+                          "shotsOnTargetAvg":  7.8,
                           "saves":  26,
-                          "npxg":  4
+                          "npxg":  6.5
                       },
                       {
                           "teamId":  "bsk",
@@ -516,17 +516,17 @@
                       },
                       {
                           "teamId":  "kas",
-                          "yellowCards":  6,
+                          "yellowCards":  11,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  3,
-                          "goalsConceded":  2,
+                          "goalsScored":  5,
+                          "goalsConceded":  4,
                           "cleanSheets":  1,
-                          "possessionAvg":  33.7,
-                          "shotsOnTargetAvg":  2.7,
-                          "saves":  22,
-                          "npxg":  3.1
+                          "possessionAvg":  36.2,
+                          "shotsOnTargetAvg":  3.8,
+                          "saves":  26,
+                          "npxg":  4.1
                       },
                       {
                           "teamId":  "goz",
@@ -572,17 +572,17 @@
                       },
                       {
                           "teamId":  "ame",
-                          "yellowCards":  8,
+                          "yellowCards":  10,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  5,
-                          "goalsConceded":  3,
+                          "goalsScored":  7,
+                          "goalsConceded":  5,
                           "cleanSheets":  1,
-                          "possessionAvg":  47.3,
-                          "shotsOnTargetAvg":  4.3,
-                          "saves":  24,
-                          "npxg":  4
+                          "possessionAvg":  49.5,
+                          "shotsOnTargetAvg":  4.2,
+                          "saves":  28,
+                          "npxg":  5.1
                       },
                       {
                           "teamId":  "kon",
@@ -593,10 +593,10 @@
                           "goalsScored":  3,
                           "goalsConceded":  8,
                           "cleanSheets":  0,
-                          "possessionAvg":  51,
+                          "possessionAvg":  51.2,
                           "shotsOnTargetAvg":  3,
                           "saves":  34,
-                          "npxg":  5.2
+                          "npxg":  5.1
                       },
                       {
                           "teamId":  "sam",
@@ -605,40 +605,40 @@
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  5,
-                          "goalsConceded":  5,
+                          "goalsConceded":  6,
                           "cleanSheets":  1,
-                          "possessionAvg":  55.7,
-                          "shotsOnTargetAvg":  2,
-                          "saves":  28,
-                          "npxg":  2
+                          "possessionAvg":  55.8,
+                          "shotsOnTargetAvg":  2.5,
+                          "saves":  30,
+                          "npxg":  3.8
                       },
                       {
                           "teamId":  "gcl",
-                          "yellowCards":  4,
+                          "yellowCards":  5,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  4,
-                          "goalsConceded":  2,
+                          "goalsConceded":  7,
                           "cleanSheets":  1,
-                          "possessionAvg":  41.7,
-                          "shotsOnTargetAvg":  3.3,
-                          "saves":  22,
-                          "npxg":  3.5
+                          "possessionAvg":  44,
+                          "shotsOnTargetAvg":  4,
+                          "saves":  32,
+                          "npxg":  4.4
                       },
                       {
                           "teamId":  "cor",
-                          "yellowCards":  3,
+                          "yellowCards":  4,
                           "redCards":  1,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  4,
+                          "goalsScored":  7,
                           "goalsConceded":  9,
                           "cleanSheets":  0,
-                          "possessionAvg":  52.7,
-                          "shotsOnTargetAvg":  2.7,
+                          "possessionAvg":  54.5,
+                          "shotsOnTargetAvg":  4.2,
                           "saves":  36,
-                          "npxg":  2.4
+                          "npxg":  5
                       },
                       {
                           "teamId":  "erz",
@@ -648,11 +648,11 @@
                           "penaltiesTotal":  1,
                           "goalsScored":  2,
                           "goalsConceded":  8,
-                          "cleanSheets":  0,
-                          "possessionAvg":  47.5,
+                          "cleanSheets":  1,
+                          "possessionAvg":  47.2,
                           "shotsOnTargetAvg":  3.2,
                           "saves":  34,
-                          "npxg":  2.8
+                          "npxg":  2.5
                       },
                       {
                           "teamId":  "ala",
@@ -670,31 +670,31 @@
                       },
                       {
                           "teamId":  "eyup",
-                          "yellowCards":  4,
+                          "yellowCards":  6,
                           "redCards":  1,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
                           "goalsScored":  2,
-                          "goalsConceded":  3,
+                          "goalsConceded":  6,
                           "cleanSheets":  0,
-                          "possessionAvg":  50.7,
-                          "shotsOnTargetAvg":  2,
-                          "saves":  24,
-                          "npxg":  2.1
+                          "possessionAvg":  48,
+                          "shotsOnTargetAvg":  2.5,
+                          "saves":  30,
+                          "npxg":  2.8
                       },
                       {
                           "teamId":  "koc",
-                          "yellowCards":  5,
+                          "yellowCards":  6,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  4,
+                          "goalsScored":  5,
                           "goalsConceded":  3,
                           "cleanSheets":  1,
-                          "possessionAvg":  49.7,
-                          "shotsOnTargetAvg":  4.7,
+                          "possessionAvg":  48.2,
+                          "shotsOnTargetAvg":  4.5,
                           "saves":  24,
-                          "npxg":  2.5
+                          "npxg":  4.1
                       }
                   ]
 }
