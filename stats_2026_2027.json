@@ -458,6 +458,7 @@
                           "hitWoodwork":  3,
                           "saves":  3,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  6.6
                       },
                       {
@@ -474,6 +475,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  5.1
                       },
                       {
@@ -490,6 +492,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  2,
                           "npxg":  4.1
                       },
                       {
@@ -506,6 +509,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  2.8
                       },
                       {
@@ -522,6 +526,7 @@
                           "hitWoodwork":  1,
                           "saves":  1,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  2.5
                       },
                       {
@@ -538,6 +543,7 @@
                           "hitWoodwork":  1,
                           "saves":  1,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  6.5
                       },
                       {
@@ -554,6 +560,7 @@
                           "hitWoodwork":  1,
                           "saves":  1,
                           "freeKickGoals":  1,
+                          "headerGoals":  1,
                           "npxg":  10.2
                       },
                       {
@@ -570,6 +577,7 @@
                           "hitWoodwork":  3,
                           "saves":  3,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  3.8
                       },
                       {
@@ -586,6 +594,7 @@
                           "hitWoodwork":  3,
                           "saves":  3,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  5.1
                       },
                       {
@@ -602,6 +611,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  2.5
                       },
                       {
@@ -618,6 +628,7 @@
                           "hitWoodwork":  2,
                           "saves":  2,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  3.8
                       },
                       {
@@ -634,6 +645,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  4.1
                       },
                       {
@@ -650,6 +662,7 @@
                           "hitWoodwork":  1,
                           "saves":  1,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  4.4
                       },
                       {
@@ -666,6 +679,7 @@
                           "hitWoodwork":  1,
                           "saves":  1,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  5
                       },
                       {
@@ -682,6 +696,7 @@
                           "hitWoodwork":  2,
                           "saves":  2,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  3.5
                       },
                       {
@@ -698,6 +713,7 @@
                           "hitWoodwork":  0,
                           "saves":  0,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  3.2
                       },
                       {
@@ -714,6 +730,7 @@
                           "hitWoodwork":  4,
                           "saves":  4,
                           "freeKickGoals":  0,
+                          "headerGoals":  1,
                           "npxg":  6
                       },
                       {
@@ -730,6 +747,7 @@
                           "hitWoodwork":  4,
                           "saves":  4,
                           "freeKickGoals":  0,
+                          "headerGoals":  0,
                           "npxg":  5.1
                       }
                   ]
