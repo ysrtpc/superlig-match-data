@@ -459,6 +459,7 @@
                           "saves":  8,
                           "freeKickGoals":  0,
                           "headerGoals":  5,
+                          "cornersAvg":  3.6,
                           "npxg":  32.6
                       },
                       {
@@ -476,6 +477,7 @@
                           "saves":  20,
                           "freeKickGoals":  1,
                           "headerGoals":  10,
+                          "cornersAvg":  6.9,
                           "npxg":  59.5
                       },
                       {
@@ -493,6 +495,7 @@
                           "saves":  17,
                           "freeKickGoals":  1,
                           "headerGoals":  2,
+                          "cornersAvg":  4.2,
                           "npxg":  28.8
                       },
                       {
@@ -510,6 +513,7 @@
                           "saves":  11,
                           "freeKickGoals":  1,
                           "headerGoals":  8,
+                          "cornersAvg":  4.1,
                           "npxg":  27.6
                       },
                       {
@@ -527,6 +531,7 @@
                           "saves":  8,
                           "freeKickGoals":  0,
                           "headerGoals":  7,
+                          "cornersAvg":  5.2,
                           "npxg":  37.1
                       },
                       {
@@ -544,6 +549,7 @@
                           "saves":  15,
                           "freeKickGoals":  1,
                           "headerGoals":  20,
+                          "cornersAvg":  4.6,
                           "npxg":  44.2
                       },
                       {
@@ -561,6 +567,7 @@
                           "saves":  22,
                           "freeKickGoals":  0,
                           "headerGoals":  12,
+                          "cornersAvg":  5.5,
                           "npxg":  66.1
                       },
                       {
@@ -578,6 +585,7 @@
                           "saves":  8,
                           "freeKickGoals":  0,
                           "headerGoals":  4,
+                          "cornersAvg":  5.7,
                           "npxg":  42.5
                       },
                       {
@@ -595,6 +603,7 @@
                           "saves":  10,
                           "freeKickGoals":  1,
                           "headerGoals":  8,
+                          "cornersAvg":  4.9,
                           "npxg":  41.3
                       },
                       {
@@ -612,6 +621,7 @@
                           "saves":  10,
                           "freeKickGoals":  2,
                           "headerGoals":  6,
+                          "cornersAvg":  4.7,
                           "npxg":  31.9
                       },
                       {
@@ -629,6 +639,7 @@
                           "saves":  9,
                           "freeKickGoals":  1,
                           "headerGoals":  5,
+                          "cornersAvg":  4.2,
                           "npxg":  45.6
                       },
                       {
@@ -646,6 +657,7 @@
                           "saves":  9,
                           "freeKickGoals":  0,
                           "headerGoals":  7,
+                          "cornersAvg":  4.2,
                           "npxg":  27.4
                       },
                       {
@@ -663,6 +675,7 @@
                           "saves":  6,
                           "freeKickGoals":  0,
                           "headerGoals":  8,
+                          "cornersAvg":  3.9,
                           "npxg":  31.7
                       },
                       {
@@ -680,6 +693,7 @@
                           "saves":  10,
                           "freeKickGoals":  0,
                           "headerGoals":  4,
+                          "cornersAvg":  3.4,
                           "npxg":  33
                       },
                       {
@@ -697,6 +711,7 @@
                           "saves":  9,
                           "freeKickGoals":  1,
                           "headerGoals":  8,
+                          "cornersAvg":  4.5,
                           "npxg":  44.4
                       },
                       {
@@ -714,6 +729,7 @@
                           "saves":  9,
                           "freeKickGoals":  0,
                           "headerGoals":  2,
+                          "cornersAvg":  5,
                           "npxg":  39.5
                       },
                       {
@@ -731,6 +747,7 @@
                           "saves":  16,
                           "freeKickGoals":  1,
                           "headerGoals":  9,
+                          "cornersAvg":  5.5,
                           "npxg":  58.4
                       },
                       {
@@ -748,6 +765,7 @@
                           "saves":  9,
                           "freeKickGoals":  1,
                           "headerGoals":  13,
+                          "cornersAvg":  4.8,
                           "npxg":  50.8
                       }
                   ]
