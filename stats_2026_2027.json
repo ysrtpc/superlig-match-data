@@ -457,6 +457,7 @@
                           "shotsOnTargetAvg":  7.2,
                           "hitWoodwork":  3,
                           "saves":  3,
+                          "freeKickGoals":  0,
                           "npxg":  6.6
                       },
                       {
@@ -472,6 +473,7 @@
                           "shotsOnTargetAvg":  4.2,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  5.1
                       },
                       {
@@ -487,6 +489,7 @@
                           "shotsOnTargetAvg":  4.5,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  4.1
                       },
                       {
@@ -502,6 +505,7 @@
                           "shotsOnTargetAvg":  2.5,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  2.8
                       },
                       {
@@ -517,6 +521,7 @@
                           "shotsOnTargetAvg":  3.2,
                           "hitWoodwork":  1,
                           "saves":  1,
+                          "freeKickGoals":  0,
                           "npxg":  2.5
                       },
                       {
@@ -532,6 +537,7 @@
                           "shotsOnTargetAvg":  7.8,
                           "hitWoodwork":  1,
                           "saves":  1,
+                          "freeKickGoals":  0,
                           "npxg":  6.5
                       },
                       {
@@ -547,6 +553,7 @@
                           "shotsOnTargetAvg":  8.5,
                           "hitWoodwork":  1,
                           "saves":  1,
+                          "freeKickGoals":  1,
                           "npxg":  10.2
                       },
                       {
@@ -562,6 +569,7 @@
                           "shotsOnTargetAvg":  2.5,
                           "hitWoodwork":  3,
                           "saves":  3,
+                          "freeKickGoals":  0,
                           "npxg":  3.8
                       },
                       {
@@ -577,6 +585,7 @@
                           "shotsOnTargetAvg":  3,
                           "hitWoodwork":  3,
                           "saves":  3,
+                          "freeKickGoals":  0,
                           "npxg":  5.1
                       },
                       {
@@ -592,6 +601,7 @@
                           "shotsOnTargetAvg":  2.3,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  2.5
                       },
                       {
@@ -607,6 +617,7 @@
                           "shotsOnTargetAvg":  5.7,
                           "hitWoodwork":  2,
                           "saves":  2,
+                          "freeKickGoals":  0,
                           "npxg":  3.8
                       },
                       {
@@ -622,6 +633,7 @@
                           "shotsOnTargetAvg":  3.8,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  4.1
                       },
                       {
@@ -637,6 +649,7 @@
                           "shotsOnTargetAvg":  4,
                           "hitWoodwork":  1,
                           "saves":  1,
+                          "freeKickGoals":  0,
                           "npxg":  4.4
                       },
                       {
@@ -652,6 +665,7 @@
                           "shotsOnTargetAvg":  4.2,
                           "hitWoodwork":  1,
                           "saves":  1,
+                          "freeKickGoals":  0,
                           "npxg":  5
                       },
                       {
@@ -667,6 +681,7 @@
                           "shotsOnTargetAvg":  5.7,
                           "hitWoodwork":  2,
                           "saves":  2,
+                          "freeKickGoals":  0,
                           "npxg":  3.5
                       },
                       {
@@ -682,6 +697,7 @@
                           "shotsOnTargetAvg":  3.7,
                           "hitWoodwork":  0,
                           "saves":  0,
+                          "freeKickGoals":  0,
                           "npxg":  3.2
                       },
                       {
@@ -697,6 +713,7 @@
                           "shotsOnTargetAvg":  6,
                           "hitWoodwork":  4,
                           "saves":  4,
+                          "freeKickGoals":  0,
                           "npxg":  6
                       },
                       {
@@ -712,6 +729,7 @@
                           "shotsOnTargetAvg":  3.5,
                           "hitWoodwork":  4,
                           "saves":  4,
+                          "freeKickGoals":  0,
                           "npxg":  5.1
                       }
                   ]
