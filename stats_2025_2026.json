@@ -461,6 +461,7 @@
                           "headerGoals":  5,
                           "cornersAvg":  3.6,
                           "successfulCrossesAvg":  2.2,
+                          "successfulPassesAvg":  291.6,
                           "npxg":  32.6
                       },
                       {
@@ -480,6 +481,7 @@
                           "headerGoals":  10,
                           "cornersAvg":  6.9,
                           "successfulCrossesAvg":  4.4,
+                          "successfulPassesAvg":  416.4,
                           "npxg":  59.5
                       },
                       {
@@ -499,6 +501,7 @@
                           "headerGoals":  2,
                           "cornersAvg":  4.2,
                           "successfulCrossesAvg":  3.4,
+                          "successfulPassesAvg":  298.5,
                           "npxg":  28.8
                       },
                       {
@@ -518,6 +521,7 @@
                           "headerGoals":  8,
                           "cornersAvg":  4.1,
                           "successfulCrossesAvg":  3.8,
+                          "successfulPassesAvg":  263,
                           "npxg":  27.6
                       },
                       {
@@ -537,6 +541,7 @@
                           "headerGoals":  7,
                           "cornersAvg":  5.2,
                           "successfulCrossesAvg":  4.7,
+                          "successfulPassesAvg":  289.9,
                           "npxg":  37.1
                       },
                       {
@@ -556,6 +561,7 @@
                           "headerGoals":  20,
                           "cornersAvg":  4.6,
                           "successfulCrossesAvg":  5.3,
+                          "successfulPassesAvg":  382.8,
                           "npxg":  44.2
                       },
                       {
@@ -575,6 +581,7 @@
                           "headerGoals":  12,
                           "cornersAvg":  5.5,
                           "successfulCrossesAvg":  6.5,
+                          "successfulPassesAvg":  443.8,
                           "npxg":  66.1
                       },
                       {
@@ -594,6 +601,7 @@
                           "headerGoals":  4,
                           "cornersAvg":  5.7,
                           "successfulCrossesAvg":  4,
+                          "successfulPassesAvg":  363.7,
                           "npxg":  42.5
                       },
                       {
@@ -613,6 +621,7 @@
                           "headerGoals":  8,
                           "cornersAvg":  4.9,
                           "successfulCrossesAvg":  4.6,
+                          "successfulPassesAvg":  328.9,
                           "npxg":  41.3
                       },
                       {
@@ -632,6 +641,7 @@
                           "headerGoals":  6,
                           "cornersAvg":  4.7,
                           "successfulCrossesAvg":  4.8,
+                          "successfulPassesAvg":  340.7,
                           "npxg":  31.9
                       },
                       {
@@ -651,6 +661,7 @@
                           "headerGoals":  5,
                           "cornersAvg":  4.2,
                           "successfulCrossesAvg":  4,
+                          "successfulPassesAvg":  320.4,
                           "npxg":  45.6
                       },
                       {
@@ -670,6 +681,7 @@
                           "headerGoals":  7,
                           "cornersAvg":  4.2,
                           "successfulCrossesAvg":  4.1,
+                          "successfulPassesAvg":  261.4,
                           "npxg":  27.4
                       },
                       {
@@ -689,6 +701,7 @@
                           "headerGoals":  8,
                           "cornersAvg":  3.9,
                           "successfulCrossesAvg":  3.6,
+                          "successfulPassesAvg":  254.1,
                           "npxg":  31.7
                       },
                       {
@@ -708,6 +721,7 @@
                           "headerGoals":  4,
                           "cornersAvg":  3.4,
                           "successfulCrossesAvg":  3.5,
+                          "successfulPassesAvg":  303.8,
                           "npxg":  33
                       },
                       {
@@ -727,6 +741,7 @@
                           "headerGoals":  8,
                           "cornersAvg":  4.5,
                           "successfulCrossesAvg":  5.6,
+                          "successfulPassesAvg":  173,
                           "npxg":  44.4
                       },
                       {
@@ -746,6 +761,7 @@
                           "headerGoals":  2,
                           "cornersAvg":  5,
                           "successfulCrossesAvg":  3.2,
+                          "successfulPassesAvg":  318.1,
                           "npxg":  39.5
                       },
                       {
@@ -765,6 +781,7 @@
                           "headerGoals":  9,
                           "cornersAvg":  5.5,
                           "successfulCrossesAvg":  5,
+                          "successfulPassesAvg":  373.2,
                           "npxg":  58.4
                       },
                       {
@@ -784,6 +801,7 @@
                           "headerGoals":  13,
                           "cornersAvg":  4.8,
                           "successfulCrossesAvg":  5,
+                          "successfulPassesAvg":  367.3,
                           "npxg":  50.8
                       }
                   ]
