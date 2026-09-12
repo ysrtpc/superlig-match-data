@@ -735,7 +735,7 @@
         "awayScore":  5,
         "date":  "12 Eyl 2026",
         "time":  "17:00",
-        "status":  "PLAYED",
+        "status":  "LIVE",
         "elapsed":  90,
         "homeRedCards":  0,
         "awayRedCards":  0
@@ -751,7 +751,7 @@
         "awayName":  "Çaykur Rizespor",
         "awayColor":  "0xFF27AE60",
         "homeScore":  0,
-        "awayScore":  2,
+        "awayScore":  1,
         "date":  "12 Eyl 2026",
         "time":  "17:00",
         "status":  "LIVE",
