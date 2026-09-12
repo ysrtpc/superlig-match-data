@@ -732,11 +732,11 @@
         "awayName":  "Çorum FK",
         "awayColor":  "0xFF78281F",
         "homeScore":  1,
-        "awayScore":  3,
+        "awayScore":  4,
         "date":  "12 Eyl 2026",
         "time":  "17:00",
         "status":  "LIVE",
-        "elapsed":  67,
+        "elapsed":  70,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -755,7 +755,7 @@
         "date":  "12 Eyl 2026",
         "time":  "17:00",
         "status":  "LIVE",
-        "elapsed":  66,
+        "elapsed":  69,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
