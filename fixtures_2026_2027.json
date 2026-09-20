@@ -887,8 +887,8 @@
         "awayScore":  0,
         "date":  "20 Eyl 2026",
         "time":  "17:00",
-        "status":  "HALF_TIME",
-        "elapsed":  45,
+        "status":  "LIVE",
+        "elapsed":  47,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -963,8 +963,8 @@
         "awayScore":  0,
         "date":  "20 Eyl 2026",
         "time":  "17:00",
-        "status":  "HALF_TIME",
-        "elapsed":  45,
+        "status":  "LIVE",
+        "elapsed":  46,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
