@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 import os
 import sys
 import re
@@ -217,7 +217,7 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
         print(f"   {p['name']} [{p['teamId']}] - {p['goals']} Gol, {p['assists']} Asist")
 
     # 4. Extract Team Stats
-    def parse_team_stats_cat(key):
+        def parse_team_stats_cat(key):
         d = {}
         m = re.search(r'\{"key":"' + key + r'","teams":\[(.*?)\]\}', clean_html)
         if m:
@@ -226,12 +226,13 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
                 tid = guid_to_team_id.get(guid, "")
                 if tid:
                     try:
-                        d[tid] = float(val.replace(',', '.'))
+                        clean_v = val.replace('%', '').replace(',', '.').strip()
+                        d[tid] = float(clean_v)
                     except ValueError:
                         d[tid] = 0.0
         return d
 
-    def parse_team_penalties():
+        def parse_team_penalties():
         d = {}
         m = re.search(r'\{"key":"ts_pgp","teams":\[(.*?)\]\}', clean_html)
         if m:
@@ -239,10 +240,16 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
             for guid, val in t_matches:
                 tid = guid_to_team_id.get(guid, "")
                 if tid:
-                    parts = val.split('/')
-                    scored = int(parts[0]) if len(parts) > 0 and parts[0].isdigit() else 0
-                    total = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else scored
-                    d[tid] = {"scored": scored, "total": total}
+                    clean_v = val.replace('\\', '').strip()
+                    pen_match = re.search(r'(\d+)\s*/\s*(\d+)', clean_v)
+                    if pen_match:
+                        scored = int(pen_match.group(1))
+                        total = int(pen_match.group(2))
+                        d[tid] = {"scored": scored, "total": total}
+                    else:
+                        digits = re.sub(r'[^\d]', '', clean_v)
+                        num = int(digits) if digits else 0
+                        d[tid] = {"scored": num, "total": num}
 
         m_pw = re.search(r'\{"key":"ts_pw","teams":\[(.*?)\]\}', clean_html)
         if m_pw:
@@ -252,7 +259,7 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
                 if tid:
                     pw_val = int(re.sub(r'[^\d]', '', val) or 0)
                     if tid not in d:
-                        d[tid] = {"scored": pw_val, "total": pw_val}
+                        d[tid] = {"scored": 0, "total": pw_val}
                     elif d[tid]["total"] < pw_val:
                         d[tid]["total"] = pw_val
         return d
