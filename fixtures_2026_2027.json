@@ -1188,11 +1188,11 @@
         "awayName":  "Kasımpaşa",
         "awayColor":  "0xFF1A5276",
         "homeScore":  1,
-        "awayScore":  0,
+        "awayScore":  1,
         "date":  "9 Eki 2026",
         "time":  "20:00",
         "status":  "LIVE",
-        "elapsed":  68,
+        "elapsed":  69,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
