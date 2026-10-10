@@ -217,7 +217,7 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
         print(f"   {p['name']} [{p['teamId']}] - {p['goals']} Gol, {p['assists']} Asist")
 
     # 4. Extract Team Stats
-        def parse_team_stats_cat(key):
+    def parse_team_stats_cat(key):
         d = {}
         m = re.search(r'\{"key":"' + key + r'","teams":\[(.*?)\]\}', clean_html)
         if m:
@@ -232,7 +232,7 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
                         d[tid] = 0.0
         return d
 
-        def parse_team_penalties():
+    def parse_team_penalties():
         d = {}
         m = re.search(r'\{"key":"ts_pgp","teams":\[(.*?)\]\}', clean_html)
         if m:
