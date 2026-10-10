@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import os
 import sys
 import re
@@ -178,6 +178,38 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
     all_goals_dict = get_player_values_dict("ps_g")
     all_assists_dict = get_player_values_dict("ps_a")
 
+    season_year = "2025/2026" if "2025" in target_filename else "2026/2027"
+    player_matches_cache = {}
+
+    def get_player_matches_count(uuid, s_year, fallback_matches):
+        if not uuid:
+            return fallback_matches
+        if uuid in player_matches_cache:
+            return player_matches_cache[uuid]
+        try:
+            url = f"https://www.mackolik.com/futbolcu/-/{uuid}"
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+            with urllib.request.urlopen(req, timeout=5) as response:
+                html = response.read().decode('utf-8', errors='ignore')
+                rows = re.findall(r'<tr[^>]*>([\s\S]*?)</tr>', html)
+                cur_season = ""
+                for r in rows:
+                    text = re.sub(r'<[^>]+>', ' ', r)
+                    text = re.sub(r'\s+', ' ', text).strip()
+                    s_match = re.search(r'(\d{4}/\d{4})', text)
+                    if s_match:
+                        cur_season = s_match.group(1)
+                    if cur_season == s_year and ("Trendyol" in text or "SÃ¼per Lig" in text or "Super Lig" in text):
+                        num_match = re.search(r'(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)$', text)
+                        if num_match:
+                            found_val = int(num_match.group(1))
+                            player_matches_cache[uuid] = found_val
+                            return found_val
+        except Exception:
+            pass
+        player_matches_cache[uuid] = fallback_matches
+        return fallback_matches
+
     def parse_player_stats(key, pos_default):
         results = []
         m = re.search(r'\{"key":"' + key + r'","players":\[(.*?)\]\}', clean_html)
@@ -194,7 +226,8 @@ def sync_stats_for_season(season_name: str, target_url: str, target_filename: st
                 g = all_goals_dict.get(name, 0)
                 a = all_assists_dict.get(name, 0)
                 default_matches = 34 if "2025" in target_filename else 4
-                matches = team_played_counts.get(tid, default_matches)
+                fallback_matches = team_played_counts.get(tid, default_matches)
+                matches = get_player_matches_count(uuid, season_year, fallback_matches)
 
                 results.append({
                     "photoUrl": photo,
