@@ -82,7 +82,7 @@
       "id": "195821",
       "uuid": "2aryulqex3ercfr5naj04x9zp",
       "teamId": "ame",
-      "matches": 7,
+      "matches": 6,
       "name": "D. Saba",
       "goals": 4,
       "assists": 0,
@@ -118,7 +118,7 @@
       "matches": 6,
       "name": "M. Greenwood",
       "goals": 4,
-      "assists": 2,
+      "assists": 0,
       "position": "Attacker"
     },
     {
@@ -241,6 +241,17 @@
       "matches": 6,
       "name": "M. Salah",
       "goals": 7,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6za0ff4heyibetetkgor24xuy.png",
+      "id": "533686",
+      "uuid": "6za0ff4heyibetetkgor24xuy",
+      "teamId": "fb",
+      "matches": 7,
+      "name": "Oğuz Aydın",
+      "goals": 0,
       "assists": 3,
       "position": "Midfielder"
     },
@@ -421,24 +432,13 @@
       "position": "Midfielder"
     },
     {
-      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_cp5hkhz2p2twjtiw8vphfv9hx.png",
-      "id": "348191",
-      "uuid": "cp5hkhz2p2twjtiw8vphfv9hx",
-      "teamId": "gs",
-      "matches": 7,
-      "name": "L. Torreira",
-      "goals": 0,
-      "assists": 2,
-      "position": "Midfielder"
-    },
-    {
-      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6kicom9a3lzp49urle78bevl6.png",
-      "id": "501819",
-      "uuid": "6kicom9a3lzp49urle78bevl6",
+      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2z9h8lozjzxk4ah6ysho9hotl.png",
+      "id": "462387",
+      "uuid": "2z9h8lozjzxk4ah6ysho9hotl",
       "teamId": "fb",
-      "matches": 6,
-      "name": "M. Greenwood",
-      "goals": 4,
+      "matches": 5,
+      "name": "Kerem Aktürkoğlu",
+      "goals": 0,
       "assists": 2,
       "position": "Midfielder"
     }
@@ -670,21 +670,21 @@
       "redCards": 0,
       "penaltiesWon": 1,
       "penaltiesTotal": 2,
-      "goalsScored": 16,
+      "goalsScored": 19,
       "goalsConceded": 6,
-      "cleanSheets": 3,
-      "possessionAvg": 55.8,
-      "shotsOnTargetAvg": 7.7,
-      "totalShotsAvg": 18.3,
+      "cleanSheets": 4,
+      "possessionAvg": 55.0,
+      "shotsOnTargetAvg": 7.3,
+      "totalShotsAvg": 17.6,
       "hitWoodwork": 5,
       "saves": 5,
       "freeKickGoals": 0,
       "headerGoals": 1,
-      "outsideBoxGoals": 2,
-      "cornersAvg": 6.8,
-      "successfulCrossesAvg": 5.5,
-      "successfulPassesAvg": 432.3,
-      "npxg": 12.3
+      "outsideBoxGoals": 3,
+      "cornersAvg": 6.6,
+      "successfulCrossesAvg": 5.1,
+      "successfulPassesAvg": 423.9,
+      "npxg": 13.3
     },
     {
       "teamId": "erz",
@@ -749,8 +749,8 @@
       "outsideBoxGoals": 6,
       "cornersAvg": 4.1,
       "successfulCrossesAvg": 2.3,
-      "successfulPassesAvg": 322.1,
-      "npxg": 12.2
+      "successfulPassesAvg": 321.9,
+      "npxg": 12.3
     },
     {
       "teamId": "gcl",
@@ -771,7 +771,7 @@
       "outsideBoxGoals": 2,
       "cornersAvg": 4.7,
       "successfulCrossesAvg": 2.9,
-      "successfulPassesAvg": 287.1,
+      "successfulPassesAvg": 286.6,
       "npxg": 6.4
     },
     {
@@ -803,20 +803,20 @@
       "penaltiesWon": 1,
       "penaltiesTotal": 1,
       "goalsScored": 7,
-      "goalsConceded": 6,
+      "goalsConceded": 9,
       "cleanSheets": 2,
-      "possessionAvg": 55.8,
+      "possessionAvg": 55.0,
       "shotsOnTargetAvg": 5.0,
-      "totalShotsAvg": 15.5,
+      "totalShotsAvg": 16.0,
       "hitWoodwork": 2,
       "saves": 2,
       "freeKickGoals": 0,
       "headerGoals": 1,
       "outsideBoxGoals": 0,
-      "cornersAvg": 5.0,
-      "successfulCrossesAvg": 6.3,
-      "successfulPassesAvg": 380.3,
-      "npxg": 7.9
+      "cornersAvg": 4.6,
+      "successfulCrossesAvg": 6.1,
+      "successfulPassesAvg": 380.7,
+      "npxg": 9.4
     },
     {
       "teamId": "cor",
