@@ -1210,7 +1210,7 @@
         "awayScore":  0,
         "date":  "17 Eki 2026",
         "time":  "16:00",
-        "status":  "LIVE",
+        "status":  "PLAYED",
         "elapsed":  90,
         "homeRedCards":  0,
         "awayRedCards":  0
@@ -1362,7 +1362,7 @@
         "awayScore":  1,
         "date":  "17 Eki 2026",
         "time":  "16:00",
-        "status":  "LIVE",
+        "status":  "PLAYED",
         "elapsed":  90,
         "homeRedCards":  0,
         "awayRedCards":  0
