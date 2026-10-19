@@ -1,6 +1,17 @@
 {
   "topScorers": [
     {
+      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5ilkkfbsss0bxd6ttdlqg0uz9.png",
+      "id": "138653",
+      "uuid": "5ilkkfbsss0bxd6ttdlqg0uz9",
+      "teamId": "ts",
+      "matches": 8,
+      "name": "M. Salah",
+      "goals": 8,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
       "photoUrl": "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/shomurodov.png",
       "id": "334731",
       "uuid": "a21winmltx1h9oiwqtfditkut",
@@ -20,17 +31,6 @@
       "name": "G. Orban",
       "goals": 7,
       "assists": 2,
-      "position": "Attacker"
-    },
-    {
-      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5ilkkfbsss0bxd6ttdlqg0uz9.png",
-      "id": "138653",
-      "uuid": "5ilkkfbsss0bxd6ttdlqg0uz9",
-      "teamId": "ts",
-      "matches": 8,
-      "name": "M. Salah",
-      "goals": 7,
-      "assists": 3,
       "position": "Attacker"
     },
     {
@@ -262,7 +262,7 @@
       "teamId": "ts",
       "matches": 8,
       "name": "M. Salah",
-      "goals": 7,
+      "goals": 8,
       "assists": 3,
       "position": "Midfielder"
     },
@@ -377,6 +377,17 @@
       "position": "Midfielder"
     },
     {
+      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1sdsqfn743j5tqem8ra7sppn8.png",
+      "id": "783015",
+      "uuid": "1sdsqfn743j5tqem8ra7sppn8",
+      "teamId": "ts",
+      "matches": 8,
+      "name": "Franculino",
+      "goals": 0,
+      "assists": 2,
+      "position": "Midfielder"
+    },
+    {
       "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2h55ly0oov4e8qycacahxapjp.png",
       "id": "76588",
       "uuid": "2h55ly0oov4e8qycacahxapjp",
@@ -430,17 +441,6 @@
       "goals": 0,
       "assists": 2,
       "position": "Midfielder"
-    },
-    {
-      "photoUrl": "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6dr0l2wrc75ez1zzaa3ccnu8l.png",
-      "id": "218056",
-      "uuid": "6dr0l2wrc75ez1zzaa3ccnu8l",
-      "teamId": "cor",
-      "matches": 8,
-      "name": "Gökhan Sazdağı",
-      "goals": 0,
-      "assists": 2,
-      "position": "Midfielder"
     }
   ],
   "teamStats": [
@@ -468,25 +468,25 @@
     },
     {
       "teamId": "ts",
-      "yellowCards": 16,
+      "yellowCards": 17,
       "redCards": 1,
       "penaltiesWon": 1,
       "penaltiesTotal": 1,
-      "goalsScored": 16,
+      "goalsScored": 18,
       "goalsConceded": 5,
-      "cleanSheets": 3,
-      "possessionAvg": 54.7,
-      "shotsOnTargetAvg": 6.7,
-      "totalShotsAvg": 14.0,
+      "cleanSheets": 4,
+      "possessionAvg": 52.6,
+      "shotsOnTargetAvg": 6.9,
+      "totalShotsAvg": 13.9,
       "hitWoodwork": 2,
       "saves": 2,
       "freeKickGoals": 0,
       "headerGoals": 1,
       "outsideBoxGoals": 0,
-      "cornersAvg": 5.6,
-      "successfulCrossesAvg": 4.4,
-      "successfulPassesAvg": 399.7,
-      "npxg": 11.9
+      "cornersAvg": 5.4,
+      "successfulCrossesAvg": 4.1,
+      "successfulPassesAvg": 377.4,
+      "npxg": 14.2
     },
     {
       "teamId": "kas",
@@ -666,25 +666,25 @@
     },
     {
       "teamId": "bjk",
-      "yellowCards": 16,
+      "yellowCards": 20,
       "redCards": 0,
       "penaltiesWon": 3,
       "penaltiesTotal": 3,
       "goalsScored": 16,
-      "goalsConceded": 8,
+      "goalsConceded": 10,
       "cleanSheets": 2,
       "possessionAvg": 61.9,
-      "shotsOnTargetAvg": 6.3,
-      "totalShotsAvg": 17.6,
-      "hitWoodwork": 6,
-      "saves": 6,
+      "shotsOnTargetAvg": 6.4,
+      "totalShotsAvg": 17.8,
+      "hitWoodwork": 7,
+      "saves": 7,
       "freeKickGoals": 0,
       "headerGoals": 2,
       "outsideBoxGoals": 1,
-      "cornersAvg": 7.7,
-      "successfulCrossesAvg": 3.7,
-      "successfulPassesAvg": 459.4,
-      "npxg": 10.9
+      "cornersAvg": 7.5,
+      "successfulCrossesAvg": 4.0,
+      "successfulPassesAvg": 452.8,
+      "npxg": 12.1
     },
     {
       "teamId": "rize",
