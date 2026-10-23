@@ -1454,11 +1454,11 @@
     "awayName": "Kocaelispor",
     "awayColor": "0xFF008000",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "date": "23 Eki 2026",
     "time": "20:00",
     "status": "LIVE",
-    "elapsed": 43,
+    "elapsed": 45,
     "homeRedCards": 0,
     "awayRedCards": 0
   },
