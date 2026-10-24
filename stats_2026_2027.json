@@ -1,6 +1,17 @@
 {
     "topScorers":  [
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
+                           "id":  "839958",
+                           "uuid":  "adrn1x15rsehvnava8q9ofuvo",
+                           "teamId":  "ame",
+                           "matches":  8,
+                           "name":  "G. Orban",
+                           "goals":  8,
+                           "assists":  3,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5ilkkfbsss0bxd6ttdlqg0uz9.png",
                            "id":  "138653",
                            "uuid":  "5ilkkfbsss0bxd6ttdlqg0uz9",
@@ -20,17 +31,6 @@
                            "name":  "E. Shomurodov",
                            "goals":  7,
                            "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
-                           "id":  "839958",
-                           "uuid":  "adrn1x15rsehvnava8q9ofuvo",
-                           "teamId":  "ame",
-                           "matches":  8,
-                           "name":  "G. Orban",
-                           "goals":  7,
-                           "assists":  2,
                            "position":  "Attacker"
                        },
                        {
@@ -78,6 +78,17 @@
                            "position":  "Attacker"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
+                           "id":  "195821",
+                           "uuid":  "2aryulqex3ercfr5naj04x9zp",
+                           "teamId":  "ame",
+                           "matches":  8,
+                           "name":  "D. Saba",
+                           "goals":  5,
+                           "assists":  0,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_4zag4cvksx3e6lwea6pj51obu.png",
                            "id":  "599153",
                            "uuid":  "4zag4cvksx3e6lwea6pj51obu",
@@ -104,7 +115,7 @@
                            "id":  "659956",
                            "uuid":  "av18ek8zmx40sazfwerdp8wa2",
                            "teamId":  "koc",
-                           "matches":  8,
+                           "matches":  9,
                            "name":  "Berkan Kutlu",
                            "goals":  4,
                            "assists":  0,
@@ -117,17 +128,6 @@
                            "teamId":  "cor",
                            "matches":  6,
                            "name":  "Cengiz Ünder",
-                           "goals":  4,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_2aryulqex3ercfr5naj04x9zp.png",
-                           "id":  "195821",
-                           "uuid":  "2aryulqex3ercfr5naj04x9zp",
-                           "teamId":  "ame",
-                           "matches":  8,
-                           "name":  "D. Saba",
                            "goals":  4,
                            "assists":  0,
                            "position":  "Attacker"
@@ -231,6 +231,17 @@
                            "name":  "A. Kyziridis",
                            "goals":  4,
                            "assists":  4,
+                           "position":  "Midfielder"
+                       },
+                       {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
+                           "id":  "839958",
+                           "uuid":  "adrn1x15rsehvnava8q9ofuvo",
+                           "teamId":  "ame",
+                           "matches":  8,
+                           "name":  "G. Orban",
+                           "goals":  8,
+                           "assists":  3,
                            "position":  "Midfielder"
                        },
                        {
@@ -410,17 +421,6 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
-                           "id":  "839958",
-                           "uuid":  "adrn1x15rsehvnava8q9ofuvo",
-                           "teamId":  "ame",
-                           "matches":  8,
-                           "name":  "G. Orban",
-                           "goals":  7,
-                           "assists":  2,
-                           "position":  "Midfielder"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_a86j56bn5wd6k9ut7ltf6whgq.png",
                            "id":  "490701",
                            "uuid":  "a86j56bn5wd6k9ut7ltf6whgq",
@@ -468,25 +468,25 @@
                       },
                       {
                           "teamId":  "ame",
-                          "yellowCards":  23,
-                          "redCards":  1,
-                          "penaltiesWon":  1,
-                          "penaltiesTotal":  2,
-                          "goalsScored":  18,
-                          "goalsConceded":  9,
+                          "yellowCards":  26,
+                          "redCards":  2,
+                          "penaltiesWon":  2,
+                          "penaltiesTotal":  3,
+                          "goalsScored":  20,
+                          "goalsConceded":  10,
                           "cleanSheets":  3,
-                          "possessionAvg":  47.1,
+                          "possessionAvg":  47.7,
                           "shotsOnTargetAvg":  5,
-                          "totalShotsAvg":  15,
-                          "hitWoodwork":  1,
-                          "saves":  1,
+                          "totalShotsAvg":  15.8,
+                          "hitWoodwork":  2,
+                          "saves":  2,
                           "freeKickGoals":  0,
                           "headerGoals":  1,
-                          "outsideBoxGoals":  6,
-                          "cornersAvg":  4.5,
-                          "successfulCrossesAvg":  2.4,
-                          "successfulPassesAvg":  327.9,
-                          "npxg":  13.9
+                          "outsideBoxGoals":  7,
+                          "cornersAvg":  4.9,
+                          "successfulCrossesAvg":  2.7,
+                          "successfulPassesAvg":  332.1,
+                          "npxg":  14.7
                       },
                       {
                           "teamId":  "gcl",
@@ -600,25 +600,25 @@
                       },
                       {
                           "teamId":  "sam",
-                          "yellowCards":  8,
-                          "redCards":  0,
+                          "yellowCards":  11,
+                          "redCards":  1,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  2,
-                          "goalsScored":  7,
-                          "goalsConceded":  19,
+                          "goalsScored":  8,
+                          "goalsConceded":  21,
                           "cleanSheets":  1,
-                          "possessionAvg":  56,
+                          "possessionAvg":  55.1,
                           "shotsOnTargetAvg":  3.2,
-                          "totalShotsAvg":  14.2,
-                          "hitWoodwork":  7,
-                          "saves":  7,
+                          "totalShotsAvg":  13.8,
+                          "hitWoodwork":  8,
+                          "saves":  8,
                           "freeKickGoals":  0,
                           "headerGoals":  0,
                           "outsideBoxGoals":  3,
-                          "cornersAvg":  4.8,
-                          "successfulCrossesAvg":  5.8,
-                          "successfulPassesAvg":  427,
-                          "npxg":  8.1
+                          "cornersAvg":  4.4,
+                          "successfulCrossesAvg":  5.4,
+                          "successfulPassesAvg":  417.6,
+                          "npxg":  9
                       },
                       {
                           "teamId":  "kon",
