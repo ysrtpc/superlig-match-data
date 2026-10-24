@@ -1416,11 +1416,11 @@
         "awayName":  "Amed Sportif Faaliyetler",
         "awayColor":  "0xFF008000",
         "homeScore":  1,
-        "awayScore":  1,
+        "awayScore":  2,
         "date":  "24 Eki 2026",
         "time":  "19:00",
         "status":  "LIVE",
-        "elapsed":  81,
+        "elapsed":  84,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
