@@ -1400,8 +1400,8 @@
         "awayScore":  0,
         "date":  "26 Eki 2026",
         "time":  "19:00",
-        "status":  "HALF_TIME",
-        "elapsed":  45,
+        "status":  "LIVE",
+        "elapsed":  47,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -1495,8 +1495,8 @@
         "awayScore":  0,
         "date":  "26 Eki 2026",
         "time":  "19:00",
-        "status":  "HALF_TIME",
-        "elapsed":  45,
+        "status":  "LIVE",
+        "elapsed":  47,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
