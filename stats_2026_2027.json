@@ -23,6 +23,17 @@
                            "position":  "Attacker"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1wynwp4x95o9w5tt4cdog6i1.png",
+                           "id":  "425645",
+                           "uuid":  "1wynwp4x95o9w5tt4cdog6i1",
+                           "teamId":  "gs",
+                           "matches":  6,
+                           "name":  "V. Osimhen",
+                           "goals":  8,
+                           "assists":  3,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://raw.githubusercontent.com/ysrtpc/superlig-match-data/main/players/shomurodov.png",
                            "id":  "334731",
                            "uuid":  "a21winmltx1h9oiwqtfditkut",
@@ -75,17 +86,6 @@
                            "name":  "Juan",
                            "goals":  6,
                            "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1wynwp4x95o9w5tt4cdog6i1.png",
-                           "id":  "425645",
-                           "uuid":  "1wynwp4x95o9w5tt4cdog6i1",
-                           "teamId":  "gs",
-                           "matches":  6,
-                           "name":  "V. Osimhen",
-                           "goals":  6,
-                           "assists":  3,
                            "position":  "Attacker"
                        },
                        {
@@ -188,6 +188,17 @@
                            "position":  "Attacker"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_e0tqievwgo1fq8xlnqrxs6ymt.png",
+                           "id":  "235287",
+                           "uuid":  "e0tqievwgo1fq8xlnqrxs6ymt",
+                           "teamId":  "fb",
+                           "matches":  7,
+                           "name":  "İrfan Can Kahveci",
+                           "goals":  3,
+                           "assists":  3,
+                           "position":  "Attacker"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_a2en61rsgtvj6n60rp9durxlh.png",
                            "id":  "306728",
                            "uuid":  "a2en61rsgtvj6n60rp9durxlh",
@@ -206,17 +217,6 @@
                            "matches":  8,
                            "name":  "Q. Laçi",
                            "goals":  3,
-                           "assists":  0,
-                           "position":  "Attacker"
-                       },
-                       {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_5gc13odno30w98ib9ioqd1bmc.png",
-                           "id":  "876463",
-                           "uuid":  "5gc13odno30w98ib9ioqd1bmc",
-                           "teamId":  "kas",
-                           "matches":  8,
-                           "name":  "A. Arous",
-                           "goals":  2,
                            "assists":  0,
                            "position":  "Attacker"
                        }
@@ -245,6 +245,17 @@
                            "position":  "Midfielder"
                        },
                        {
+                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6za0ff4heyibetetkgor24xuy.png",
+                           "id":  "533686",
+                           "uuid":  "6za0ff4heyibetetkgor24xuy",
+                           "teamId":  "fb",
+                           "matches":  9,
+                           "name":  "Oğuz Aydın",
+                           "goals":  0,
+                           "assists":  4,
+                           "position":  "Midfielder"
+                       },
+                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_adrn1x15rsehvnava8q9ofuvo.png",
                            "id":  "839958",
                            "uuid":  "adrn1x15rsehvnava8q9ofuvo",
@@ -262,7 +273,7 @@
                            "teamId":  "fb",
                            "matches":  7,
                            "name":  "İrfan Can Kahveci",
-                           "goals":  0,
+                           "goals":  3,
                            "assists":  3,
                            "position":  "Midfielder"
                        },
@@ -289,24 +300,13 @@
                            "position":  "Midfielder"
                        },
                        {
-                           "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_6za0ff4heyibetetkgor24xuy.png",
-                           "id":  "533686",
-                           "uuid":  "6za0ff4heyibetetkgor24xuy",
-                           "teamId":  "fb",
-                           "matches":  8,
-                           "name":  "Oğuz Aydın",
-                           "goals":  0,
-                           "assists":  3,
-                           "position":  "Midfielder"
-                       },
-                       {
                            "photoUrl":  "https://secure.cache.images.core.optasports.com/soccer/players/150x150/uuid_1wynwp4x95o9w5tt4cdog6i1.png",
                            "id":  "425645",
                            "uuid":  "1wynwp4x95o9w5tt4cdog6i1",
                            "teamId":  "gs",
                            "matches":  6,
                            "name":  "V. Osimhen",
-                           "goals":  6,
+                           "goals":  8,
                            "assists":  3,
                            "position":  "Midfielder"
                        },
@@ -446,25 +446,25 @@
     "teamStats":  [
                       {
                           "teamId":  "fb",
-                          "yellowCards":  11,
+                          "yellowCards":  16,
                           "redCards":  0,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  3,
-                          "goalsScored":  22,
-                          "goalsConceded":  6,
+                          "goalsScored":  23,
+                          "goalsConceded":  8,
                           "cleanSheets":  5,
-                          "possessionAvg":  55.5,
-                          "shotsOnTargetAvg":  7.2,
-                          "totalShotsAvg":  18.4,
-                          "hitWoodwork":  5,
-                          "saves":  5,
+                          "possessionAvg":  53.6,
+                          "shotsOnTargetAvg":  6.8,
+                          "totalShotsAvg":  16.8,
+                          "hitWoodwork":  6,
+                          "saves":  6,
                           "freeKickGoals":  0,
                           "headerGoals":  1,
                           "outsideBoxGoals":  4,
-                          "cornersAvg":  6.2,
-                          "successfulCrossesAvg":  5.5,
-                          "successfulPassesAvg":  430.2,
-                          "npxg":  16.3
+                          "cornersAvg":  6,
+                          "successfulCrossesAvg":  5.1,
+                          "successfulPassesAvg":  402.6,
+                          "npxg":  16.6
                       },
                       {
                           "teamId":  "ame",
@@ -556,25 +556,25 @@
                       },
                       {
                           "teamId":  "gs",
-                          "yellowCards":  13,
+                          "yellowCards":  15,
                           "redCards":  2,
                           "penaltiesWon":  1,
                           "penaltiesTotal":  1,
-                          "goalsScored":  17,
-                          "goalsConceded":  11,
+                          "goalsScored":  19,
+                          "goalsConceded":  12,
                           "cleanSheets":  3,
-                          "possessionAvg":  60.2,
-                          "shotsOnTargetAvg":  7.6,
+                          "possessionAvg":  60.4,
+                          "shotsOnTargetAvg":  7.7,
                           "totalShotsAvg":  22.4,
-                          "hitWoodwork":  5,
-                          "saves":  5,
+                          "hitWoodwork":  6,
+                          "saves":  6,
                           "freeKickGoals":  1,
-                          "headerGoals":  2,
+                          "headerGoals":  3,
                           "outsideBoxGoals":  4,
-                          "cornersAvg":  7.5,
-                          "successfulCrossesAvg":  6.9,
-                          "successfulPassesAvg":  415.1,
-                          "npxg":  17.9
+                          "cornersAvg":  7.8,
+                          "successfulCrossesAvg":  6.7,
+                          "successfulPassesAvg":  409.8,
+                          "npxg":  20.2
                       },
                       {
                           "teamId":  "sam",
