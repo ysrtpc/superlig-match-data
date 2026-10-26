@@ -1397,11 +1397,11 @@
         "awayName":  "Trabzonspor",
         "awayColor":  "0xFF800020",
         "homeScore":  2,
-        "awayScore":  2,
+        "awayScore":  3,
         "date":  "26 Eki 2026",
         "time":  "19:00",
         "status":  "LIVE",
-        "elapsed":  58,
+        "elapsed":  59,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -1496,7 +1496,7 @@
         "date":  "26 Eki 2026",
         "time":  "19:00",
         "status":  "LIVE",
-        "elapsed":  58,
+        "elapsed":  59,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
