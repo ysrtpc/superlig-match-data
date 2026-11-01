@@ -1609,8 +1609,8 @@
         "awayScore":  0,
         "date":  "1 Kas 2026",
         "time":  "13:30",
-        "status":  "HALF_TIME",
-        "elapsed":  45,
+        "status":  "LIVE",
+        "elapsed":  48,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
