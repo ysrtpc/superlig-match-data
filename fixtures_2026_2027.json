@@ -1663,11 +1663,11 @@
         "awayName":  "Samsunspor",
         "awayColor":  "0xFFD71920",
         "homeScore":  1,
-        "awayScore":  0,
+        "awayScore":  1,
         "date":  "1 Kas 2026",
         "time":  "16:00",
         "status":  "LIVE",
-        "elapsed":  24,
+        "elapsed":  23,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
