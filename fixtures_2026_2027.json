@@ -1624,12 +1624,12 @@
         "away":  "gfk",
         "awayName":  "Gaziantep FK",
         "awayColor":  "0xFF922B21",
-        "homeScore":  1,
+        "homeScore":  2,
         "awayScore":  0,
         "date":  "1 Kas 2026",
         "time":  "16:00",
         "status":  "LIVE",
-        "elapsed":  61,
+        "elapsed":  63,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -1667,7 +1667,7 @@
         "date":  "1 Kas 2026",
         "time":  "16:00",
         "status":  "LIVE",
-        "elapsed":  61,
+        "elapsed":  63,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
