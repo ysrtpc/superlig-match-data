@@ -1815,11 +1815,11 @@
         "awayName":  "Amed Sportif Faaliyetler",
         "awayColor":  "0xFF008000",
         "homeScore":  3,
-        "awayScore":  0,
+        "awayScore":  1,
         "date":  "7 Kas 2026",
         "time":  "19:00",
         "status":  "LIVE",
-        "elapsed":  62,
+        "elapsed":  64,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -1876,7 +1876,7 @@
         "date":  "7 Kas 2026",
         "time":  "19:00",
         "status":  "LIVE",
-        "elapsed":  58,
+        "elapsed":  60,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
