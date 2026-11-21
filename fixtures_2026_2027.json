@@ -1948,11 +1948,11 @@
         "awayName":  "Çaykur Rizespor",
         "awayColor":  "0xFF27AE60",
         "homeScore":  0,
-        "awayScore":  0,
+        "awayScore":  1,
         "date":  "21 Kas 2026",
         "time":  "16:00",
         "status":  "LIVE",
-        "elapsed":  19,
+        "elapsed":  20,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
@@ -2047,7 +2047,7 @@
         "date":  "21 Kas 2026",
         "time":  "16:00",
         "status":  "LIVE",
-        "elapsed":  18,
+        "elapsed":  19,
         "homeRedCards":  0,
         "awayRedCards":  0
     },
