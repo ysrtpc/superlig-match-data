@@ -1951,7 +1951,7 @@
         "awayScore":  1,
         "date":  "21 Kas 2026",
         "time":  "16:00",
-        "status":  "LIVE",
+        "status":  "HALF_TIME",
         "elapsed":  45,
         "homeRedCards":  0,
         "awayRedCards":  0
@@ -2046,7 +2046,7 @@
         "awayScore":  0,
         "date":  "21 Kas 2026",
         "time":  "16:00",
-        "status":  "LIVE",
+        "status":  "HALF_TIME",
         "elapsed":  45,
         "homeRedCards":  0,
         "awayRedCards":  0
