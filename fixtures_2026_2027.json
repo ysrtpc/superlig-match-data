@@ -2141,7 +2141,7 @@
         "awayScore":  2,
         "date":  "27 Kas 2026",
         "time":  "20:00",
-        "status":  "LIVE",
+        "status":  "PLAYED",
         "elapsed":  90,
         "homeRedCards":  0,
         "awayRedCards":  0
@@ -2195,10 +2195,10 @@
         "awayName":  "Tümosan Konyaspor",
         "awayColor":  "0xFF1E8449",
         "homeScore":  1,
-        "awayScore":  1,
+        "awayScore":  2,
         "date":  "27 Kas 2026",
         "time":  "20:00",
-        "status":  "LIVE",
+        "status":  "PLAYED",
         "elapsed":  90,
         "homeRedCards":  0,
         "awayRedCards":  0
